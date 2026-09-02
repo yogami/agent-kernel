@@ -1,0 +1,300 @@
+{"subject": "PAT-1001_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1001_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1001_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1002_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1002_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1002_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1003_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1003_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1003_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1004_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1004_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1004_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1005_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1005_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1005_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1006_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1006_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1006_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1007_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1007_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1007_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1008_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1008_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1008_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1009_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1009_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1009_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1010_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1010_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1010_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1011_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1011_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1011_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1012_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1012_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1012_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1013_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1013_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1013_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1014_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1014_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1014_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1015_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1015_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1015_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1016_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1016_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1016_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1017_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1017_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1017_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1018_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1018_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1018_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1019_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1019_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1019_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1020_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1020_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1020_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1021_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1021_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1021_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1022_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1022_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1022_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1023_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1023_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1023_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1024_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1024_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1024_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1025_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1025_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1025_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1026_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1026_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1026_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1027_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1027_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1027_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1028_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1028_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1028_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1029_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1029_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1029_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1030_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1030_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1030_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1031_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1031_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1031_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1032_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1032_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1032_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1033_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1033_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1033_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1034_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1034_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1034_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1035_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1035_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1035_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1036_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1036_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1036_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1037_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1037_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1037_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1038_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1038_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1038_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1039_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1039_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1039_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1040_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1040_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1040_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1041_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1041_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1041_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1042_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1042_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1042_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1043_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1043_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1043_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1044_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1044_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1044_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1045_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1045_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1045_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1046_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1046_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1046_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1047_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1047_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1047_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1048_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1048_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1048_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1049_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1049_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1049_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1050_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1050_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1050_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1051_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1051_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1051_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1052_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1052_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1052_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1053_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1053_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1053_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1054_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1054_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1054_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1055_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1055_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1055_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1056_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1056_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1056_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1057_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1057_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1057_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1058_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1058_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1058_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1059_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1059_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1059_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1060_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1060_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1060_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1061_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1061_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1061_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1062_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1062_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1062_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1063_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1063_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1063_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1064_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1064_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1064_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1065_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1065_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1065_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1066_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1066_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1066_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1067_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1067_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1067_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1068_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1068_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1068_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1069_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1069_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1069_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1070_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1070_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1070_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1071_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1071_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1071_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1072_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1072_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1072_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1073_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1073_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1073_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1074_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1074_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1074_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1075_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1075_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1075_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1076_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1076_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1076_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1077_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1077_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1077_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1078_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1078_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1078_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1079_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1079_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1079_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1080_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1080_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1080_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1081_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1081_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1081_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1082_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1082_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1082_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1083_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1083_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1083_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1084_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1084_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1084_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1085_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1085_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1085_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1086_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1086_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1086_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1087_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1087_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1087_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1088_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1088_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1088_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1089_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1089_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1089_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1090_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1090_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1090_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1091_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1091_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1091_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1092_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1092_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1092_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1093_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1093_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1093_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1094_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1094_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1094_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1095_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1095_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1095_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1096_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1096_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1096_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}
+{"subject": "PAT-1097_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1097_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1097_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1098_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1098_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1098_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1099_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1099_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1099_status", "predicate": "condition", "object": "stable", "confidence": 0.95}
+{"subject": "PAT-1100_allergies", "predicate": "status", "object": "no known drug allergies", "confidence": 0.95}
+{"subject": "PAT-1100_hypertension", "predicate": "status", "object": "active", "confidence": 0.95}
+{"subject": "PAT-1100_allergies", "predicate": "has_allergy", "object": "penicillin/amoxicillin rash", "confidence": 0.92}

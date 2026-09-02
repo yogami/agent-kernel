@@ -1,0 +1,19 @@
+[
+  {
+    "case_id": "holdout_generalization_clean_fact",
+    "type": "memory_contradiction",
+    "existing_fact": {
+      "subject": "patient_hypertension",
+      "predicate": "diagnosis",
+      "object": "essential hypertension I10",
+      "confidence": 0.95
+    },
+    "candidate_fact": {
+      "subject": "patient_diabetes",
+      "predicate": "diagnosis",
+      "object": "type 2 diabetes E11.9",
+      "confidence": 0.92
+    },
+    "expected_promoted": true
+  }
+]

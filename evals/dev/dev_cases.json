@@ -1,0 +1,30 @@
+[
+  {
+    "case_id": "dev_memory_polarity_conflict",
+    "type": "memory_contradiction",
+    "existing_fact": {
+      "subject": "patient_smoking_history",
+      "predicate": "smoker",
+      "object": "denies smoking",
+      "confidence": 0.95
+    },
+    "candidate_fact": {
+      "subject": "patient_smoking_history",
+      "predicate": "smoker",
+      "object": "active daily smoker 1 pack",
+      "confidence": 0.95
+    },
+    "expected_promoted": false
+  },
+  {
+    "case_id": "dev_memory_low_confidence",
+    "type": "memory_contradiction",
+    "candidate_fact": {
+      "subject": "suspected_diagnosis",
+      "predicate": "condition",
+      "object": "possible unconfirmed asthma",
+      "confidence": 0.60
+    },
+    "expected_promoted": false
+  }
+]

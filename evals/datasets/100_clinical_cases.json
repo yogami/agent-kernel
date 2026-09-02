@@ -1,0 +1,3902 @@
+[
+  {
+    "patient_id": "PAT-1001",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1001-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1001), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1001_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1001_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1001-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1001). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1001_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1002",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1002-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1002), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1002_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1002_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1002-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1002). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1002_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1003",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1003-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1003), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1003_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1003_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1003-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1003). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1003_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1004",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1004-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1004), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1004_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1004_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1004-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1004) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1004_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1005",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1005-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1005), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1005_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1005_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1005-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1005). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1005_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1006",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1006-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1006), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1006_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1006_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1006-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1006). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1006_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1007",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1007-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1007), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1007_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1007_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1007-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1007). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1007_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1008",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1008-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1008), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1008_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1008_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1008-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1008) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1008_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1009",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1009-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1009), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1009_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1009_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1009-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1009). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1009_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1010",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1010-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1010), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1010_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1010_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1010-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1010). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1010_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1011",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1011-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1011), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1011_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1011_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1011-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1011). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1011_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1012",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1012-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1012), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1012_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1012_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1012-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1012) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1012_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1013",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1013-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1013), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1013_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1013_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1013-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1013). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1013_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1014",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1014-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1014), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1014_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1014_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1014-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1014). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1014_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1015",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1015-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1015), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1015_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1015_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1015-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1015). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1015_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1016",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1016-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1016), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1016_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1016_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1016-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1016) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1016_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1017",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1017-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1017), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1017_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1017_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1017-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1017). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1017_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1018",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1018-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1018), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1018_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1018_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1018-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1018). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1018_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1019",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1019-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1019), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1019_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1019_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1019-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1019). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1019_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1020",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1020-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1020), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1020_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1020_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1020-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1020) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1020_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1021",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1021-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1021), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1021_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1021_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1021-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1021). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1021_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1022",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1022-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1022), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1022_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1022_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1022-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1022). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1022_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1023",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1023-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1023), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1023_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1023_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1023-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1023). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1023_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1024",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1024-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1024), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1024_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1024_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1024-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1024) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1024_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1025",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1025-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1025), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1025_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1025_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1025-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1025). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1025_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1026",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1026-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1026), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1026_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1026_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1026-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1026). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1026_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1027",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1027-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1027), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1027_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1027_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1027-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1027). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1027_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1028",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1028-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1028), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1028_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1028_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1028-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1028) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1028_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1029",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1029-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1029), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1029_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1029_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1029-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1029). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1029_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1030",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1030-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1030), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1030_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1030_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1030-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1030). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1030_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1031",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1031-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1031), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1031_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1031_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1031-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1031). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1031_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1032",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1032-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1032), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1032_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1032_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1032-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1032) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1032_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1033",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1033-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1033), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1033_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1033_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1033-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1033). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1033_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1034",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1034-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1034), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1034_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1034_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1034-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1034). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1034_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1035",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1035-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1035), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1035_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1035_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1035-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1035). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1035_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1036",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1036-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1036), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1036_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1036_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1036-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1036) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1036_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1037",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1037-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1037), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1037_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1037_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1037-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1037). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1037_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1038",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1038-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1038), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1038_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1038_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1038-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1038). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1038_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1039",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1039-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1039), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1039_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1039_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1039-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1039). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1039_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1040",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1040-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1040), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1040_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1040_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1040-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1040) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1040_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1041",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1041-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1041), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1041_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1041_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1041-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1041). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1041_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1042",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1042-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1042), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1042_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1042_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1042-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1042). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1042_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1043",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1043-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1043), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1043_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1043_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1043-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1043). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1043_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1044",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1044-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1044), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1044_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1044_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1044-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1044) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1044_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1045",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1045-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1045), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1045_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1045_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1045-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1045). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1045_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1046",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1046-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1046), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1046_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1046_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1046-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1046). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1046_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1047",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1047-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1047), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1047_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1047_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1047-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1047). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1047_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1048",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1048-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1048), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1048_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1048_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1048-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1048) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1048_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1049",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1049-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1049), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1049_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1049_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1049-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1049). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1049_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1050",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1050-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1050), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1050_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1050_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1050-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1050). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1050_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1051",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1051-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1051), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1051_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1051_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1051-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1051). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1051_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1052",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1052-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1052), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1052_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1052_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1052-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1052) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1052_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1053",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1053-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1053), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1053_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1053_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1053-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1053). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1053_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1054",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1054-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1054), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1054_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1054_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1054-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1054). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1054_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1055",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1055-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1055), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1055_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1055_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1055-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1055). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1055_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1056",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1056-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1056), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1056_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1056_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1056-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1056) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1056_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1057",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1057-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1057), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1057_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1057_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1057-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1057). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1057_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1058",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1058-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1058), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1058_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1058_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1058-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1058). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1058_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1059",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1059-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1059), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1059_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1059_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1059-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1059). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1059_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1060",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1060-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1060), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1060_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1060_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1060-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1060) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1060_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1061",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1061-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1061), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1061_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1061_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1061-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1061). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1061_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1062",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1062-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1062), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1062_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1062_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1062-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1062). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1062_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1063",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1063-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1063), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1063_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1063_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1063-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1063). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1063_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1064",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1064-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1064), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1064_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1064_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1064-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1064) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1064_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1065",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1065-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1065), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1065_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1065_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1065-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1065). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1065_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1066",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1066-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1066), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1066_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1066_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1066-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1066). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1066_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1067",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1067-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1067), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1067_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1067_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1067-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1067). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1067_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1068",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1068-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1068), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1068_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1068_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1068-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1068) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1068_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1069",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1069-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1069), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1069_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1069_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1069-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1069). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1069_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1070",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1070-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1070), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1070_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1070_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1070-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1070). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1070_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1071",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1071-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1071), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1071_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1071_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1071-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1071). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1071_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1072",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1072-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1072), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1072_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1072_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1072-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1072) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1072_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1073",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1073-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1073), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1073_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1073_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1073-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1073). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1073_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1074",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1074-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1074), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1074_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1074_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1074-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1074). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1074_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1075",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1075-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1075), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1075_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1075_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1075-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1075). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1075_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1076",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1076-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1076), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1076_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1076_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1076-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1076) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1076_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1077",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1077-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1077), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1077_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1077_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1077-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1077). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1077_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1078",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1078-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1078), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1078_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1078_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1078-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1078). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1078_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1079",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1079-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1079), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1079_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1079_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1079-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1079). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1079_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1080",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1080-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1080), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1080_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1080_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1080-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1080) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1080_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1081",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1081-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1081), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1081_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1081_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1081-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1081). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1081_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1082",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1082-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1082), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1082_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1082_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1082-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1082). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1082_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1083",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1083-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1083), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1083_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1083_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1083-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1083). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1083_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1084",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1084-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1084), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1084_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1084_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1084-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1084) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1084_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1085",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1085-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1085), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1085_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1085_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1085-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1085). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1085_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1086",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1086-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1086), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1086_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1086_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1086-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1086). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1086_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1087",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1087-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1087), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1087_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1087_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1087-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1087). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1087_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1088",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1088-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1088), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1088_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1088_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1088-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1088) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1088_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1089",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1089-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1089), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1089_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1089_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1089-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1089). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1089_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1090",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1090-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1090), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1090_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1090_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1090-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1090). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1090_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1091",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1091-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1091), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1091_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1091_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1091-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1091). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1091_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1092",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1092-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1092), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1092_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1092_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1092-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1092) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1092_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1093",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1093-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1093), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1093_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1093_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1093-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1093). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1093_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1094",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1094-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1094), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1094_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1094_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1094-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1094). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1094_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1095",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1095-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1095), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1095_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1095_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1095-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1095). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1095_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1096",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1096-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1096), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1096_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1096_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1096-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1096) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1096_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1097",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1097-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1097), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1097_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1097_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1097-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1097). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1097_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1098",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1098-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1098), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1098_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1098_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1098-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1098). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1098_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1099",
+    "has_conflict": false,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1099-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1099), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1099_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1099_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1099-2",
+        "date": "2025-06-20",
+        "note_text": "Routine checkup for Herr Schmidt (PAT-1099). BP 122/80 mmHg. No acute complaints. Stable.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1099_status",
+            "predicate": "condition",
+            "object": "stable",
+            "confidence": 0.95
+          }
+        ],
+        "is_conflict_encounter": false
+      }
+    ]
+  },
+  {
+    "patient_id": "PAT-1100",
+    "has_conflict": true,
+    "encounters": [
+      {
+        "encounter_id": "ENC-PAT-1100-1",
+        "date": "2025-01-15",
+        "note_text": "Patient: Herr Schmidt (PAT-1100), geb. 12.04.1978. Clinic: Charit\u00e9 Berlin. Anamnese: Patient denies drug allergies. Blood pressure: 125/82 mmHg. Diagnosen: Arterielle Hypertonie (I10). Plan: Continue ramipril 5mg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1100_allergies",
+            "predicate": "status",
+            "object": "no known drug allergies",
+            "confidence": 0.95
+          },
+          {
+            "subject": "PAT-1100_hypertension",
+            "predicate": "status",
+            "object": "active",
+            "confidence": 0.95
+          }
+        ]
+      },
+      {
+        "encounter_id": "ENC-PAT-1100-2",
+        "date": "2025-06-20",
+        "note_text": "Follow-up visit for Herr Schmidt (PAT-1100) at Klinikum Mitte. Patient reports mild skin rash after taking amoxicillin last month. Suspected beta-lactam hypersensitivity. BP: 128/84 mmHg.",
+        "planted_facts": [
+          {
+            "subject": "PAT-1100_allergies",
+            "predicate": "has_allergy",
+            "object": "penicillin/amoxicillin rash",
+            "confidence": 0.92
+          }
+        ],
+        "is_conflict_encounter": true
+      }
+    ]
+  }
+]

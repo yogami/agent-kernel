@@ -1,0 +1,32 @@
+[
+  {
+    "case_id": "golden_vital_bounds_valid",
+    "type": "clinical_assertion",
+    "arguments": {
+      "assertion_type": "vital_bounds",
+      "parameters": {"systolic_bp": 120, "diastolic_bp": 80}
+    },
+    "expected_passed": true
+  },
+  {
+    "case_id": "golden_vital_bounds_invalid",
+    "type": "clinical_assertion",
+    "arguments": {
+      "assertion_type": "vital_bounds",
+      "parameters": {"systolic_bp": 450, "diastolic_bp": 20}
+    },
+    "expected_passed": false
+  },
+  {
+    "case_id": "golden_drug_allergy_conflict",
+    "type": "clinical_assertion",
+    "arguments": {
+      "assertion_type": "drug_allergy_conflict",
+      "parameters": {
+        "patient_allergies": ["penicillin"],
+        "prescribed_drug": "amoxicillin"
+      }
+    },
+    "expected_passed": false
+  }
+]
