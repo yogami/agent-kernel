@@ -22,7 +22,10 @@ from infrastructure.sqlite_fact_store import SQLiteFactStore
 from ops.benchmark import BenchmarkRunner
 from ops.config_manager import ConfigManager
 from ops.eval_runner import EvalRunner
+from ops.prometheus_exporter import metrics_collector
 from ops.self_healer import SelfHealer
+from api.websocket_stream import ws_router
+from fastapi.responses import PlainTextResponse
 from tools.clinical_tools import (
     ClinicalAssertionCheckerTool,
     DeidentifyTextTool,
@@ -199,6 +202,15 @@ def trigger_self_healing() -> dict[str, Any]:
 @app.post("/api/benchmark/run")
 def run_benchmark() -> dict[str, Any]:
     return benchmark_runner.run_benchmark()
+
+
+app.include_router(ws_router)
+
+
+@app.get("/metrics", response_class=PlainTextResponse)
+def prometheus_metrics() -> str:
+    """Expose application metrics in standard Prometheus exposition format."""
+    return metrics_collector.generate_prometheus_format()
 
 
 # Static cockpit interface
