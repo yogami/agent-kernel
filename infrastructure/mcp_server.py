@@ -129,6 +129,12 @@ if __name__ == "__main__":
         FHIRValidatorTool,
         MedicalOntologyMapperTool,
     )
+    from tools.multimodal_tools import (
+        BiomechanicalAngleCalculatorTool,
+        MovementSafetyCircuitBreakerTool,
+        PoseLandmarkParserTool,
+        VLMExerciseEvaluatorTool,
+    )
     from tools.system_tools import CalculatorTool, DateValidatorTool
 
     registry = ToolRegistry()
@@ -138,6 +144,11 @@ if __name__ == "__main__":
     registry.register(ClinicalAssertionCheckerTool())
     registry.register(CalculatorTool())
     registry.register(DateValidatorTool())
+    registry.register(PoseLandmarkParserTool())
+    registry.register(BiomechanicalAngleCalculatorTool())
+    registry.register(MovementSafetyCircuitBreakerTool())
+    registry.register(VLMExerciseEvaluatorTool())
 
     server = MCPServer(registry)
     server.run_stdio()
+

@@ -1,15 +1,16 @@
 # Autonomous Agent Kernel (`agent_kernel`)
 
-A production-grade, framework-free AI agent execution kernel engineered with pure Python 3.12, typed Pydantic v2 domain contracts, a step-budgeted Finite State Machine, an append-only episodic log, a tri-state memory quarantine write gate, and a monotonic non-regression evaluation self-healer.
+A production-grade, framework-free AI agent execution kernel engineered with pure Python 3.12, typed Pydantic v2 domain contracts, a step-budgeted Finite State Machine, an append-only episodic log, a tri-state memory quarantine write gate, an Anthropic Model Context Protocol (MCP) server, Multimodal Kinetics & Computer Vision tools, Hybrid RAG (BM25 + Dense + RRF + Reranking), Prometheus telemetry, and a monotonic non-regression evaluation self-healer.
 
 ```
-                                  [ User Request / Clinical Input ]
-                                                 │
-                                                 ▼
+                                  [ User Request / Clinical / Video Landmark Input ]
+                                                         │
+                                                         ▼
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
-│ 1. CONTEXT RAM (Working Memory Assembler)                                                               │
+│ 1. CONTEXT RAM & HYBRID RAG (Working Memory & Literature Retrieval)                                     │
 │    ├── System Prompt Pack (Versioned immutable config from `config/packs/vN/`)                          │
 │    ├── Procedural Memory (Strict Pydantic tool schemas and operational contracts)                       │
+│    ├── Hybrid RAG Engine (`infrastructure/hybrid_rag.py`): BM25 + Dense Cosine + Reciprocal Rank Fusion │
 │    ├── Semantic Memory (Reads ONLY from promoted `semantic_facts`, filtered by TTL and tenant)          │
 │    │   └── Untrusted Data Delimiter: Memory facts injected as reference data, never as system rules    │
 │    ├── Episodic Context (Recent N turns retrieved from immutable `episodes` table)                      │
@@ -30,8 +31,8 @@ A production-grade, framework-free AI agent execution kernel engineered with pur
                                                  │
                         ┌────────────────────────┴────────────────────────┐
                         ▼                                                 ▼
-             [ Streaming Output to User ]                [ Append-Only SQLite `episodes` Table ]
-                                                                          │
+             [ WebSocket / SSE Streaming ]               [ Append-Only SQLite `episodes` Table ]
+             [ Prometheus `/metrics` Stats ]                              │
                                                                           ▼
 ┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │ 3. MIDDLE LOOP: TRI-STATE MEMORY ADMISSION PIPELINE (Gated Promotion)                                   │
@@ -78,8 +79,25 @@ Open-ended `while True` loops lead to runaway costs and infinite tool recursion.
 - **Loop Breaker**: Tracks tool call signatures and raises `LoopDetectedError` if an identical tool invocation repeats.
 - **Dollar & Token Caps**: Terminates early if cost exceeds safety thresholds.
 
-### 3. Versioned Prompts and Monotonic Non-Regression
-Prompt changes are treated as versioned code packages in `config/packs/vN/` with SHA-256 integrity verification. When automated evaluations detect dev failures, the self-healing controller proposes candidate `vN+1` configurations and runs the frozen Golden Suite. If golden test accuracy drops, the update is rolled back.
+### 3. Multimodal Kinetics & Biomechanical Safety Circuit Breakers
+- **3D Pose Landmark Parser:** Validates 33 body joint coordinates (MediaPipe/OpenCV) and calculates temporal occlusion rates.
+- **Biomechanical Angle Calculator:** Computes 3D joint flexion/extension angles, angular velocities ($\Delta \theta / \Delta t$), and medial valgus displacement.
+- **Movement Safety Circuit Breaker:** Deterministic safety rules intercepting knee valgus collapse ($> 15^\circ$), lumbar flexion rounding under load ($> 30^\circ$), and ballistic velocity spikes ($> 450^\circ/s$).
+- **VLM Exercise Evaluator:** Produces structured physical therapy evaluation report cards from movement kinematics.
+
+### 4. Hybrid RAG with Reciprocal Rank Fusion & Citations
+Standard vector search misses exact alphanumeric codes (ICD-10 `I10` or drug dosages). `agent_kernel` combines:
+- **BM25 Sparse Lexical Search:** Exact token matching across guideline literature.
+- **Dense Cosine Vector Index:** Semantic similarity retrieval.
+- **Reciprocal Rank Fusion (RRF):** Merges dense and sparse ranks with constant $k=60$.
+- **Strict Citation Provenance:** Formats every retrieved chunk with document, section, paragraph, and table references.
+
+### 5. Anthropic Model Context Protocol (MCP) Server
+Implements the open JSON-RPC 2.0 standard over stdio and HTTP, allowing external clients (Cursor, Claude Desktop, external agent swarms) to execute kernel tools seamlessly.
+
+### 6. Prometheus Telemetry & Low-Latency WebSocket Streaming
+- **WebSocket Streaming (`/ws/chat`):** Streams tokens and broadcasts live FSM transitions (`COMPOSE_CONTEXT`, `MODEL_CALL`, `EXECUTE_TOOL`).
+- **Prometheus Scrape Endpoint (`/metrics`):** Exposes request counts, P50/P90/P99 latency histograms, and error distributions.
 
 ---
 
@@ -109,6 +127,8 @@ agent_kernel/
 ├── infrastructure/              # Adapters implementing domain ports
 │   ├── sqlite_episode_store.py  # Immutable append-only episode store
 │   ├── sqlite_fact_store.py     # Tri-state fact tables (quarantine, semantic facts)
+│   ├── hybrid_rag.py            # BM25 + Dense vector search + RRF + Citation formatting
+│   ├── mcp_server.py            # Anthropic Model Context Protocol (JSON-RPC 2.0) server
 │   ├── vector_index.py          # Vector accelerator with metadata filtering
 │   └── llm_adapter.py           # Multi-provider client with local deterministic mock
 ├── core/                        # Application orchestration services
@@ -119,8 +139,10 @@ agent_kernel/
 ├── tools/                       # Standard typed tool registry
 │   ├── registry.py              # Registry mapping schemas to execution handlers
 │   ├── clinical_tools.py        # De-ID scrubber, SNOMED/ICD-10 mapper, FHIR validator
+│   ├── multimodal_tools.py      # Pose parser, 3D joint angles, safety circuit breaker, VLM eval
 │   └── system_tools.py          # Math calculator and date validator
 ├── ops/                         # LLM-Ops, Evaluation, and Self-Healing
+│   ├── prometheus_exporter.py   # Prometheus metrics collector (/metrics endpoint)
 │   ├── telemetry.py             # Span collection (tokens, cost, latency, yield)
 │   ├── config_manager.py        # Versioned config packs (config/packs/vN/)
 │   ├── eval_runner.py           # Golden, dev, and holdout suite execution
@@ -132,11 +154,16 @@ agent_kernel/
 │   ├── dev/                     # Diagnostic test cases
 │   └── holdout/                 # Sealed generalization test cases
 ├── api/                         # FastAPI application and UI cockpit
-│   ├── app.py                   # REST endpoints and WebSocket stream
+│   ├── app.py                   # REST endpoints and Prometheus scrape router
+│   ├── websocket_stream.py      # Real-time WebSocket token and state event stream
 │   └── static/index.html        # Real-time FSM, Memory, and Benchmark cockpit
-├── tests/                       # Comprehensive pytest suite
+├── tests/                       # Comprehensive pytest suite (29 tests passing in 0.34s)
 │   ├── test_state_machine.py    # FSM transitions, budget caps, loop break triggers
 │   ├── test_memory_gate.py      # Quarantine isolation, contradiction rejection, promotion
+│   ├── test_multimodal.py      # Pose landmarks, 3D angle math, safety breakers, VLM summaries
+│   ├── test_hybrid_rag.py       # BM25, dense vectors, RRF score bounds, citations
+│   ├── test_mcp.py              # JSON-RPC 2.0 tool discovery, execution, error handling
+│   ├── test_streaming.py        # WebSocket streaming and Prometheus metrics format
 │   ├── test_eval_gating.py      # Monotonic non-regression and automatic rollback
 │   ├── test_replay.py           # Deterministic episode replay from recorded traces
 │   └── test_clinical_pipeline.py# De-ID, ontology extraction, FHIR validation
@@ -159,27 +186,18 @@ pip install -r requirements.txt
 ### 2. Run Test Suite
 ```bash
 make test
-# or pytest tests/ -v
+# or pytest tests/ -v (29 passing tests in 0.34s)
 ```
 
-### 3. Execute 3-Way Benchmark
+### 3. Run MCP Server (Stdio Mode)
 ```bash
-make benchmark
-# or python3 ops/benchmark.py
+python3 infrastructure/mcp_server.py
 ```
 
-### 4. Launch Mission Control Cockpit
+### 4. Launch Cockpit & Scrape Prometheus Metrics
 ```bash
 make run
-# or uvicorn api.app:app --port 8000
+# App UI: http://localhost:8000
+# Prometheus Scrape: http://localhost:8000/metrics
+# WebSocket Stream: ws://localhost:8000/ws/chat
 ```
-Open `http://localhost:8000` to inspect live FSM state transitions, quarantine admissions, and evaluation matrices.
-
----
-
-## 📜 Architectural Decision Records (ADRs)
-
-- **ADR-001 (Zero Framework Bloat):** Eliminated LangChain/LlamaIndex in favor of pure Python Protocols and Pydantic schemas. Decouples domain logic from external library churn.
-- **ADR-002 (Tri-State Memory Isolation):** Divided fact storage into append-only raw episodes, a quarantine staging area, and a validated semantic table. Prevents hallucination amplification in multi-session agents.
-- **ADR-003 (Deterministic FSM Control):** Replaced recursive while loops with an explicit finite state machine enforcing strict step and budget caps.
-- **ADR-004 (Monotonic Non-Regression):** Enforced a gating rule where candidate prompt packs are committed only when frozen golden benchmark suites remain 100% green.

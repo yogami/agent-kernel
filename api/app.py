@@ -32,8 +32,15 @@ from tools.clinical_tools import (
     FHIRValidatorTool,
     MedicalOntologyMapperTool,
 )
+from tools.multimodal_tools import (
+    BiomechanicalAngleCalculatorTool,
+    MovementSafetyCircuitBreakerTool,
+    PoseLandmarkParserTool,
+    VLMExerciseEvaluatorTool,
+)
 from tools.registry import ToolRegistry
 from tools.system_tools import CalculatorTool, DateValidatorTool
+
 
 app = FastAPI(
     title="Autonomous Agent Kernel API",
@@ -70,6 +77,11 @@ tool_registry.register(FHIRValidatorTool())
 tool_registry.register(ClinicalAssertionCheckerTool())
 tool_registry.register(CalculatorTool())
 tool_registry.register(DateValidatorTool())
+tool_registry.register(PoseLandmarkParserTool())
+tool_registry.register(BiomechanicalAngleCalculatorTool())
+tool_registry.register(MovementSafetyCircuitBreakerTool())
+tool_registry.register(VLMExerciseEvaluatorTool())
+
 
 llm_adapter = MockLLMAdapter()
 
