@@ -23,10 +23,13 @@ class MemoryPromoter:
         fact_store: FactStorePort,
         vector_index: VectorIndexPort | None = None,
         min_confidence: float = 0.85,
+        causal_reasoner: Any | None = None,
     ) -> None:
         self.fact_store = fact_store
         self.vector_index = vector_index
         self.min_confidence = min_confidence
+        self.causal_reasoner = causal_reasoner
+
 
     def submit_candidate(self, candidate: CandidateFact) -> str:
         """Step 1 & 2: Write candidate fact strictly to quarantine table."""
@@ -95,8 +98,21 @@ class MemoryPromoter:
                     )
                     return False, f"Rejected: Contradiction detected. {conflict_detail}"
 
+        # Criteria D: Causal Consistency Check (if causal reasoner is configured)
+        if self.causal_reasoner is not None:
+            is_causally_valid, causal_err = self._check_causal_consistency(candidate)
+            if not is_causally_valid:
+                self.fact_store.update_candidate_status(
+                    candidate_id,
+                    status=AdmissionStatus.REJECTED,
+                    reason=RejectionReason.CAUSAL_INCONSISTENCY,
+                    detail=causal_err,
+                )
+                return False, f"Rejected: Causal inconsistency detected. {causal_err}"
+
         # Admission granted: promote to semantic_facts
         promoted_fact = SemanticFact(
+
             fact_id=str(uuid.uuid4()),
             candidate_id=candidate.candidate_id,
             source_episode_id=candidate.source_episode_id,
@@ -165,3 +181,28 @@ class MemoryPromoter:
         if candidate.confidence >= 0.90 and candidate.predicate.lower() in {"status", "current_medication", "treatment_plan"}:
             return True
         return False
+
+    def _check_causal_consistency(self, candidate: CandidateFact) -> tuple[bool, str]:
+        """Verify that asserted candidate fact is causally plausible under the SCM."""
+        if not self.causal_reasoner or not hasattr(self.causal_reasoner, "scm"):
+            return True, ""
+
+        subj = candidate.subject.lower()
+        pred = candidate.predicate.lower()
+        obj = str(candidate.object).lower()
+        scm = self.causal_reasoner.scm
+
+        # Causal Rule 1: Anaphylaxis requires prior sensitized allergy or beta-lactam exposure
+        if "anaphylaxis" in subj or "allergic" in pred or "anaphylaxis" in obj:
+            if "penicillin_allergy" in scm.nodes:
+                allergy_sensitized = scm.nodes["penicillin_allergy"].observed_value
+                if allergy_sensitized is False and "penicillin" in obj:
+                    return False, "Asserts beta-lactam anaphylaxis but patient has no sensitized beta-lactam allergy in SCM."
+
+        # Causal Rule 2: Blood pressure normalization requires treatment or lifestyle intervention
+        if ("hypertension" in subj or "blood_pressure" in subj) and ("cured" in pred or "normalized" in pred):
+            if "without medication" in obj or "spontaneous" in obj:
+                return False, "Asserts spontaneous normalization of essential hypertension without pharmacological intervention or lifestyle mechanism."
+
+        return True, ""
+

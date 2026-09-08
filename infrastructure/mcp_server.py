@@ -135,6 +135,11 @@ if __name__ == "__main__":
         PoseLandmarkParserTool,
         VLMExerciseEvaluatorTool,
     )
+    from tools.causal_tools import (
+        CausalGraphQueryTool,
+        ExplainCounterfactualAttributionTool,
+        SimulateCausalInterventionTool,
+    )
     from tools.system_tools import CalculatorTool, DateValidatorTool
 
     registry = ToolRegistry()
@@ -148,7 +153,11 @@ if __name__ == "__main__":
     registry.register(BiomechanicalAngleCalculatorTool())
     registry.register(MovementSafetyCircuitBreakerTool())
     registry.register(VLMExerciseEvaluatorTool())
+    registry.register(SimulateCausalInterventionTool())
+    registry.register(ExplainCounterfactualAttributionTool())
+    registry.register(CausalGraphQueryTool())
 
     server = MCPServer(registry)
     server.run_stdio()
+
 

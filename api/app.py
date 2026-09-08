@@ -38,8 +38,15 @@ from tools.multimodal_tools import (
     PoseLandmarkParserTool,
     VLMExerciseEvaluatorTool,
 )
+from tools.causal_tools import (
+    CausalGraphQueryTool,
+    ExplainCounterfactualAttributionTool,
+    SimulateCausalInterventionTool,
+)
+from core.causal_reasoner import CausalReasoner
 from tools.registry import ToolRegistry
 from tools.system_tools import CalculatorTool, DateValidatorTool
+
 
 
 app = FastAPI(
@@ -65,7 +72,8 @@ episode_store = SQLiteEpisodeStore(db_path)
 fact_store = SQLiteFactStore(db_path)
 config_manager = ConfigManager("config/packs")
 context_ram = ContextRAM(fact_store)
-promoter = MemoryPromoter(fact_store)
+causal_reasoner = CausalReasoner()
+promoter = MemoryPromoter(fact_store, causal_reasoner=causal_reasoner)
 eval_runner = EvalRunner("evals")
 self_healer = SelfHealer(config_manager, eval_runner)
 benchmark_runner = BenchmarkRunner()
@@ -81,6 +89,10 @@ tool_registry.register(PoseLandmarkParserTool())
 tool_registry.register(BiomechanicalAngleCalculatorTool())
 tool_registry.register(MovementSafetyCircuitBreakerTool())
 tool_registry.register(VLMExerciseEvaluatorTool())
+tool_registry.register(SimulateCausalInterventionTool(causal_reasoner))
+tool_registry.register(ExplainCounterfactualAttributionTool(causal_reasoner))
+tool_registry.register(CausalGraphQueryTool(causal_reasoner))
+
 
 
 llm_adapter = MockLLMAdapter()
@@ -216,7 +228,32 @@ def run_benchmark() -> dict[str, Any]:
     return benchmark_runner.run_benchmark()
 
 
+@app.post("/api/causal/simulate")
+def simulate_causal_intervention(payload: dict[str, Any]) -> dict[str, Any]:
+    """Pearl's Level 2: Simulate do(Action) and evaluate safety on a mutilated SCM."""
+    intervention = payload.get("intervention", {})
+    context = payload.get("patient_context", {})
+    return causal_reasoner.simulate_intervention_safety(
+        proposed_action=intervention,
+        patient_evidence=context,
+    )
+
+
+@app.post("/api/causal/counterfactual")
+def evaluate_counterfactual(payload: dict[str, Any]) -> dict[str, Any]:
+    """Pearl's Level 3: Evaluate counterfactual attribution for an outcome."""
+    factual = payload.get("factual_evidence", {})
+    hypothetical = payload.get("hypothetical_action", {})
+    target = payload.get("adverse_outcome_target", "")
+    return causal_reasoner.explain_counterfactual_attribution(
+        actual_evidence=factual,
+        hypothetical_alternative=hypothetical,
+        observed_bad_outcome=target,
+    )
+
+
 app.include_router(ws_router)
+
 
 
 @app.get("/metrics", response_class=PlainTextResponse)
