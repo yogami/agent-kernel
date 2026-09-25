@@ -12,3 +12,4 @@ structlog>=24.1.0
 slowapi>=0.1.9
 requests>=2.31.0
 aiosqlite>=0.20.0
+pypdf>=5.0.0

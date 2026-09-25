@@ -76,7 +76,7 @@ from fastapi import Request, WebSocket
 from api.ablation_router import ablation_router
 
 API_KEY_NAME = "X-API-Key"
-PUBLIC_PATHS = {"/", "/metrics", "/docs", "/openapi.json", "/favicon.ico", "/v1/ablation/cases"}
+PUBLIC_PATHS = {"/", "/metrics", "/docs", "/openapi.json", "/favicon.ico", "/v1/ablation/cases", "/v1/ablation/ladder"}
 
 
 def _is_public_request(request: Request) -> bool:
