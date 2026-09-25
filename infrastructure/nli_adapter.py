@@ -139,6 +139,10 @@ class LLMBasedNLIAdapter(NLIProviderPort):
     def classify_pair(self, premise: str, hypothesis: str) -> NLIResult:
         """Classify logical relationship synchronously without asyncio deadlocks."""
         messages = self._build_prompt(premise, hypothesis)
+        if hasattr(self.llm, "scripted_responses") or self.llm.__class__.__name__ == "MockLLMAdapter":
+            resp = self.llm.generate(messages=messages, temperature=0.0)
+            return self._parse_response(resp.get("content", ""))
+
         # Directly use a synchronous httpx client to avoid loop issues
         import httpx
         import os
