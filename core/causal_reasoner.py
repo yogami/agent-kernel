@@ -98,6 +98,12 @@ class CausalReasoner:
                 return min(25.0, dose * 2.5)
             return 0.0
 
+        def calc_clearance(parents: dict[str, Any], curr: Any) -> float:
+            gfr = parents.get("baseline_gfr")
+            if gfr is not None:
+                return float(gfr)
+            return float(curr or 75.0)
+
         def calc_aki(parents: dict[str, Any], curr: Any) -> bool:
             dose = float(parents.get("dosage_mg", 0.0))
             clearance = float(parents.get("renal_clearance", 75.0))
@@ -109,6 +115,7 @@ class CausalReasoner:
             return bool(drug_class == "anticoagulant" and bleeding)
 
         scm.register_mechanism("drug_class", calc_drug_class)
+        scm.register_mechanism("renal_clearance", calc_clearance)
         scm.register_mechanism("anaphylaxis_reaction", calc_anaphylaxis)
         scm.register_mechanism("blood_pressure_reduction", calc_bp_reduction)
         scm.register_mechanism("acute_kidney_injury", calc_aki)
