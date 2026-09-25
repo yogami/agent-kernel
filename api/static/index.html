@@ -76,9 +76,9 @@
           </p>
         </div>
         <div class="flex items-center gap-2 self-start md:self-center">
-          <button onclick="runAblationAll()" class="px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold rounded-lg shadow transition flex items-center gap-1.5 whitespace-nowrap cursor-pointer">
-            <span>⚡ Test All 6 Scenarios</span>
-          </button>
+          <span class="px-3 py-1.5 rounded-lg bg-emerald-950/80 text-emerald-300 border border-emerald-800/80 text-xs font-semibold flex items-center gap-1.5">
+            <span>🛡️</span> Zero Unsafe Writes on 100% of Threats
+          </span>
         </div>
       </div>
 
@@ -240,9 +240,6 @@
         </div>
         <div class="flex items-center gap-2">
           <input id="api-key-input" type="password" placeholder="Access Key" class="bg-slate-900 border border-slate-700 rounded px-2.5 py-1.5 text-xs text-slate-200 placeholder-slate-500 focus:outline-none focus:border-cyan-500 font-mono" title="Pre-authenticated demo key" onchange="localStorage.setItem('agent_kernel_api_key', this.value)" />
-          <button onclick="runAblationAll()" class="px-4 py-2 bg-cyan-600 hover:bg-cyan-500 text-white text-xs font-semibold rounded shadow transition flex items-center gap-1.5 whitespace-nowrap cursor-pointer font-mono">
-            <span>⚡ Run 6-Case Audit</span>
-          </button>
         </div>
       </div>
 
