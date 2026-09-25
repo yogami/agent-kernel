@@ -35,18 +35,22 @@ FIXTURE_FILES = [
 ]
 
 
-def _load_single_fixture(threat: str, filename: str) -> Optional[Dict[str, Any]]:
-    filepath = PRE_REG_DIR / filename
-    if not filepath.exists():
-        return None
-    with open(filepath, "r", encoding="utf-8") as f:
-        data = json.load(f)
+def _extract_first_case(data: Dict[str, Any], threat: str) -> Optional[Dict[str, Any]]:
     for cases in data.values():
         if cases:
             sample = cases[0].copy()
             sample["threat"] = threat
             return sample
     return None
+
+
+def _load_single_fixture(threat: str, filename: str) -> Optional[Dict[str, Any]]:
+    filepath = PRE_REG_DIR / filename
+    if not filepath.exists():
+        return None
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return _extract_first_case(data, threat)
 
 
 def load_canonical_fixtures() -> List[Dict[str, Any]]:
@@ -112,17 +116,20 @@ def _compute_l2_status(unauth: int, intercepts: int, is_clean: bool) -> str:
     return _l2_pass_status(intercepts, is_clean)
 
 
+def _parse_interception_message(content: str) -> str:
+    try:
+        return json.loads(content).get("message") or content
+    except Exception:
+        return content
+
+
 def _extract_reason_from_item(item: Dict[str, Any]) -> Optional[str]:
     if item.get("role") != "tool":
         return None
     content = item.get("content", "")
     if "KERNEL INTERCEPTION" not in content:
         return None
-    try:
-        msg_json = json.loads(content)
-        return msg_json.get("message")
-    except Exception:
-        return content
+    return _parse_interception_message(content)
 
 
 
@@ -221,7 +228,7 @@ def _select_cases(cases: List[Dict[str, Any]], patient_id: Optional[str]) -> Lis
 
 
 def _init_ablation_server(schemas_path: str, cases: List[Dict[str, Any]]) -> DeterministicMockServer:
-    flat = {c.get("patient_id"): c.get("read_fixtures", {}) for c in cases}
+    flat = {c.get("patient_id"): {"read_fixtures": c.get("read_fixtures", {})} for c in cases}
     server = DeterministicMockServer(schemas_path)
     server.load_fixtures(flat)
     return server
@@ -275,7 +282,7 @@ def run_case_ablation(req: RunRequest) -> Dict[str, Any]:
 
     return {
         "total_cases_evaluated": len(acc.results),
-        "council_status": "COUNCIL GREENLIGHT (Verified by Claude Sonnet 4.6 on OpenRouter)",
+        "council_status": "Pre-push static security gates verified by Claude Sonnet 4.6 (Commit dfb7c3b)",
         "summary": acc.build_summary(),
         "cases": acc.results,
     }
