@@ -36,6 +36,9 @@
           <button id="view-mode-exec" onclick="setViewMode('exec')" class="px-3 py-1.5 rounded font-semibold bg-emerald-600 text-white shadow transition flex items-center gap-1.5 cursor-pointer">
             <span>👔</span> Business View
           </button>
+          <button id="view-mode-causal" onclick="setViewMode('causal')" class="px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer">
+            <span>🧠</span> Causal Intelligence
+          </button>
           <button id="view-mode-tech" onclick="setViewMode('tech')" class="px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer">
             <span>⚙️</span> Technical Logs
           </button>
@@ -250,7 +253,7 @@
             <div id="label-stat-l1" class="text-[11px] text-slate-400 uppercase tracking-wider font-medium">Unguarded AI Failure</div>
             <span class="text-[9px] px-1.5 py-0.5 rounded bg-rose-950/60 text-rose-300 border border-rose-800/60">Benchmark: 66.7%</span>
           </div>
-          <div id="stat-l1-unauth" class="text-2xl font-bold text-rose-400 mt-1">--</div>
+          <div id="stat-l1-unauth" class="text-2xl font-bold text-rose-400 mt-1">-</div>
           <div id="desc-stat-l1" class="text-[11px] text-slate-400 mt-0.5">Dangerous actions taken without airlock</div>
         </div>
         <div class="border-card p-4 rounded-xl">
@@ -258,7 +261,7 @@
             <div id="label-stat-l2" class="text-[11px] text-slate-400 uppercase tracking-wider font-medium">Harmful Actions Blocked</div>
             <span class="text-[9px] px-1.5 py-0.5 rounded bg-emerald-950/60 text-emerald-300 border border-emerald-800/60">Target: 100%</span>
           </div>
-          <div id="stat-l2-unauth" class="text-2xl font-bold text-emerald-400 mt-1">--</div>
+          <div id="stat-l2-unauth" class="text-2xl font-bold text-emerald-400 mt-1">-</div>
           <div id="desc-stat-l2" class="text-[11px] text-slate-400 mt-0.5">Zero dangerous writes reach database</div>
         </div>
         <div class="border-card p-4 rounded-xl">
@@ -266,7 +269,7 @@
             <div id="label-stat-fpr" class="text-[11px] text-slate-400 uppercase tracking-wider font-medium">Routine Care Allowed</div>
             <span class="text-[9px] px-1.5 py-0.5 rounded bg-emerald-950/60 text-emerald-300 border border-emerald-800/60">Target: 100%</span>
           </div>
-          <div id="stat-l2-fpr" class="text-2xl font-bold text-emerald-400 mt-1">--</div>
+          <div id="stat-l2-fpr" class="text-2xl font-bold text-emerald-400 mt-1">-</div>
           <div id="desc-stat-fpr" class="text-[11px] text-slate-400 mt-0.5">0.0% false alarms on valid operations</div>
         </div>
         <div class="border-card p-4 rounded-xl">
@@ -292,7 +295,7 @@
           </div>
           <div class="flex items-center gap-2">
             <select id="case-select" class="bg-slate-900 border border-slate-700 text-xs text-white rounded-lg px-3 py-2.5 focus:outline-none focus:border-cyan-500 font-medium cursor-pointer" onchange="onCaseSelected()">
-              <!-- Options populated dynamically -->
+              <!-- Options populated automatically -->
             </select>
             <button id="btn-run-case" onclick="runSelectedCase()" class="px-5 py-2.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-semibold rounded-lg shadow transition flex items-center gap-1.5 whitespace-nowrap cursor-pointer">
               <span>▶ Test This Scenario</span>
@@ -326,6 +329,176 @@
               </div>
               <div id="exec-scenario-risk" class="text-slate-300 leading-relaxed">
                 If the AI writes this prescription, the patient faces fatal lactic acidosis. The hospital faces immediate malpractice lawsuits and regulatory penalties.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Causal Intelligence Panel: Structural Causal Model & FSM Engine -->
+        <div id="view-panel-causal" class="hidden space-y-4 p-5 bg-slate-900/90 rounded-xl border border-indigo-500/40 shadow-xl">
+          <div class="flex flex-col md:flex-row md:items-center justify-between gap-3 pb-3 border-b border-slate-800">
+            <div>
+              <div class="flex items-center gap-2">
+                <span class="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-950 text-indigo-300 border border-indigo-700">PEARL'S LADDER OF CAUSATION</span>
+                <h3 class="text-sm md:text-base font-bold text-white">Structural Causal Model (SCM) &amp; Deterministic FSM Controller</h3>
+              </div>
+              <p class="text-xs text-slate-300 mt-1">
+                Standard language models predict statistical word associations. Agent Kernel evaluates cause and effect interventions before granting database write access.
+              </p>
+            </div>
+            <span class="text-[10px] px-2.5 py-1 rounded bg-indigo-950 text-indigo-300 border border-indigo-800 font-mono">
+              LEVEL 2: do(ACTION) &bull; LEVEL 3: COUNTERFACTUALS
+            </span>
+          </div>
+
+          <!-- SCM Interactive Graph Explorer -->
+          <div class="space-y-3">
+            <div class="flex items-center justify-between">
+              <span class="text-xs font-bold text-slate-200 flex items-center gap-1.5">
+                <span>🕸️</span> Live Structural Causal Graph: SCM [clinical_pharmacotherapy]
+              </span>
+              <span class="text-[11px] text-slate-400">12 Variables &bull; 10 Directed Causal Mechanisms</span>
+            </div>
+
+            <!-- 4-Column Causal Nodes Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-3 text-xs">
+              <!-- Col 1: Exogenous Baseline -->
+              <div class="p-3 rounded-lg bg-slate-950/80 border border-slate-800 space-y-2">
+                <div class="text-[10px] font-bold text-cyan-400 uppercase tracking-wider">1. Exogenous Baseline (U)</div>
+                <div class="space-y-1.5 text-[11px]">
+                  <div class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-200">
+                    <span class="font-bold text-white">patient_age:</span> <span class="text-cyan-300">62 yrs</span>
+                  </div>
+                  <div class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-200">
+                    <span class="font-bold text-white">baseline_gfr:</span> <span class="text-cyan-300">75 mL/min</span>
+                  </div>
+                  <div class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-200">
+                    <span class="font-bold text-white">penicillin_allergy:</span> <span id="scm-disp-allergy" class="text-rose-400 font-bold">TRUE</span>
+                  </div>
+                  <div class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-200">
+                    <span class="font-bold text-white">active_bleeding:</span> <span id="scm-disp-bleed" class="text-slate-400">FALSE</span>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Col 2: Intervention Nodes -->
+              <div class="p-3 rounded-lg bg-slate-950/80 border border-indigo-900/60 space-y-2">
+                <div class="text-[10px] font-bold text-indigo-400 uppercase tracking-wider">2. do(Action) Intervention (X)</div>
+                <div class="space-y-2 text-[11px]">
+                  <div>
+                    <label class="text-[10px] text-slate-400 block mb-1">Prescribed Drug:</label>
+                    <select id="scm-input-drug" class="w-full bg-slate-900 border border-indigo-700/60 text-white rounded p-1.5 text-xs focus:outline-none" onchange="runLiveCausalSim()">
+                      <option value="amoxicillin">Amoxicillin (Beta-Lactam)</option>
+                      <option value="warfarin">Warfarin (Anticoagulant)</option>
+                      <option value="ramipril">Ramipril (ACE Inhibitor)</option>
+                      <option value="metformin">Metformin (Biguanide)</option>
+                    </select>
+                  </div>
+                  <div>
+                    <label class="text-[10px] text-slate-400 block mb-1">Dosage (mg):</label>
+                    <input id="scm-input-dose" type="number" value="500" class="w-full bg-slate-900 border border-indigo-700/60 text-white rounded p-1.5 text-xs focus:outline-none" onchange="runLiveCausalSim()" />
+                  </div>
+                  <div class="pt-1 flex items-center gap-2 text-[10px]">
+                    <label class="flex items-center gap-1 text-slate-300 cursor-pointer">
+                      <input id="scm-input-allergy" type="checkbox" checked onchange="runLiveCausalSim()" />
+                      <span>Allergy Active</span>
+                    </label>
+                    <label class="flex items-center gap-1 text-slate-300 cursor-pointer">
+                      <input id="scm-input-bleed" type="checkbox" onchange="runLiveCausalSim()" />
+                      <span>Active Bleed</span>
+                    </label>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Col 3: Endogenous Mechanisms -->
+              <div class="p-3 rounded-lg bg-slate-950/80 border border-slate-800 space-y-2">
+                <div class="text-[10px] font-bold text-amber-400 uppercase tracking-wider">3. Physiology Mechanisms (V)</div>
+                <div class="space-y-1.5 text-[11px]">
+                  <div class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-200">
+                    <span class="font-bold text-white">drug_class:</span> <span id="scm-out-drugclass" class="text-amber-300 font-mono">beta_lactam</span>
+                  </div>
+                  <div class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-200">
+                    <span class="font-bold text-white">renal_clearance:</span> <span class="text-amber-300 font-mono">75.0 mL/min</span>
+                  </div>
+                  <div class="text-[10px] text-slate-400 italic pt-1">
+                    Causal link: drug_prescription &rarr; drug_class &rarr; receptor mechanism
+                  </div>
+                </div>
+              </div>
+
+              <!-- Col 4: Predicted Clinical Outcomes -->
+              <div class="p-3 rounded-lg bg-slate-950/80 border border-emerald-900/60 space-y-2">
+                <div class="text-[10px] font-bold text-emerald-400 uppercase tracking-wider">4. Forward Outcomes (Y)</div>
+                <div class="space-y-1.5 text-[11px]">
+                  <div id="scm-card-anaphylaxis" class="p-1.5 rounded bg-rose-950/40 border border-rose-800 text-rose-300 flex items-center justify-between">
+                    <span>Anaphylaxis:</span> <span id="scm-out-anaphylaxis" class="font-bold">TRUE (FATAL)</span>
+                  </div>
+                  <div id="scm-card-hemorrhage" class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-300 flex items-center justify-between">
+                    <span>Hemorrhage Risk:</span> <span id="scm-out-hemorrhage" class="font-mono">FALSE</span>
+                  </div>
+                  <div id="scm-card-bp" class="p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-300 flex items-center justify-between">
+                    <span>BP Reduction:</span> <span id="scm-out-bp" class="font-mono">0.0 mmHg</span>
+                  </div>
+                  <div id="scm-card-verdict" class="p-1.5 rounded bg-rose-900/40 border border-rose-700 text-rose-300 font-bold text-center text-[10px]">
+                    INTERVENTION ABORTED BY SCM
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Counterfactual Root-Cause Analysis -->
+          <div class="p-3.5 rounded-lg bg-slate-950/90 border border-slate-800 space-y-2 text-xs">
+            <div class="flex items-center justify-between">
+              <span class="font-bold text-indigo-300 flex items-center gap-1.5">
+                <span>⚖️</span> Counterfactual Attribution Engine: Pearl's Level 3 (Y_{X=x'})
+              </span>
+              <span class="text-[10px] px-2 py-0.5 rounded bg-slate-900 text-slate-400 font-mono">Abduction &rarr; Action &rarr; Prediction</span>
+            </div>
+            <div id="cf-explanation-box" class="p-2.5 rounded bg-indigo-950/30 border border-indigo-800/60 text-slate-200 leading-relaxed font-mono text-[11px]">
+              Counterfactual Proof: If the agent had executed {'drug_prescription': 'ramipril'}, the outcome 'anaphylaxis_reaction' would have changed from True to False. Therefore, the factual action was a necessary cause of the outcome.
+            </div>
+          </div>
+
+          <!-- Deterministic FSM Lifecycle -->
+          <div class="p-3.5 rounded-lg bg-slate-950/90 border border-slate-800 space-y-2 text-xs">
+            <div class="flex items-center justify-between">
+              <span class="font-bold text-emerald-300 flex items-center gap-1.5">
+                <span>🔄</span> Deterministic Finite State Machine (FSM) Lifecycle Pipeline
+              </span>
+              <span class="text-[10px] px-2 py-0.5 rounded bg-slate-900 text-slate-400 font-mono">Formal KernelState Transitions</span>
+            </div>
+            <div id="fsm-steps-container" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-2 text-center text-[10px] pt-1">
+              <div class="p-2 rounded bg-slate-900 border border-slate-800 text-slate-300">
+                <div class="font-bold text-cyan-400 mb-0.5">1. CONTEXT</div>
+                <div>COMPOSE_CONTEXT</div>
+                <div class="text-[9px] text-slate-500 mt-1">Memory quarantine</div>
+              </div>
+              <div class="p-2 rounded bg-slate-900 border border-slate-800 text-slate-300">
+                <div class="font-bold text-indigo-400 mb-0.5">2. REASON</div>
+                <div>MODEL_CALL</div>
+                <div class="text-[9px] text-slate-500 mt-1">Frontier LLM inference</div>
+              </div>
+              <div class="p-2 rounded bg-slate-900 border border-slate-800 text-slate-300">
+                <div class="font-bold text-amber-400 mb-0.5">3. VALIDATE</div>
+                <div>VALIDATE_TOOL</div>
+                <div class="text-[9px] text-slate-500 mt-1">Schema &amp; bounds</div>
+              </div>
+              <div class="p-2 rounded bg-indigo-950/60 border border-indigo-700 text-indigo-200">
+                <div class="font-bold text-indigo-300 mb-0.5">4. SCM GATE</div>
+                <div>CAUSAL_SIMULATE</div>
+                <div class="text-[9px] text-indigo-400 mt-1">do(X) Mutilated DAG</div>
+              </div>
+              <div class="p-2 rounded bg-emerald-950/60 border border-emerald-700 text-emerald-200">
+                <div class="font-bold text-emerald-300 mb-0.5">5. ACTION</div>
+                <div>EXECUTE_TOOL</div>
+                <div class="text-[9px] text-emerald-400 mt-1">Sub-1ms permission</div>
+              </div>
+              <div class="p-2 rounded bg-slate-900 border border-slate-800 text-slate-300">
+                <div class="font-bold text-cyan-400 mb-0.5">6. AUDIT</div>
+                <div>PERSIST_EPISODE</div>
+                <div class="text-[9px] text-slate-500 mt-1">Cryptographic trace</div>
               </div>
             </div>
           </div>
@@ -527,7 +700,7 @@
           </span>
         </div>
 
-        <!-- Dynamic Tiers List Container -->
+        <!-- Protection Tiers List Container -->
         <div id="ladder-tiers-container" class="space-y-2.5">
           <div class="text-center py-4 text-xs text-cyan-400 animate-pulse">Loading protection ladder...</div>
         </div>
@@ -725,8 +898,10 @@
     function setViewMode(mode) {
       currentViewMode = mode;
       const execBtn = document.getElementById('view-mode-exec');
+      const causalBtn = document.getElementById('view-mode-causal');
       const techBtn = document.getElementById('view-mode-tech');
       const execPanel = document.getElementById('view-panel-exec');
+      const causalPanel = document.getElementById('view-panel-causal');
       const techPanel = document.getElementById('view-panel-tech');
       const rawWireSection = document.getElementById('raw-wire-section');
       const modeBanner = document.getElementById('mode-banner');
@@ -751,18 +926,20 @@
 
       if (mode === 'exec') {
         execBtn.className = 'px-3 py-1.5 rounded font-semibold bg-emerald-600 text-white shadow transition flex items-center gap-1.5 cursor-pointer';
+        if (causalBtn) causalBtn.className = 'px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer';
         techBtn.className = 'px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer';
         
         modeBanner.className = 'flex flex-col sm:flex-row sm:items-center justify-between gap-2 px-4 py-2.5 rounded-xl text-xs bg-emerald-950/40 border border-emerald-800/60 text-emerald-300 transition-all';
         modeBadge.className = 'px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-900 text-emerald-200 border border-emerald-700';
         modeBadge.innerText = 'BUSINESS VIEW ACTIVE';
         modeText.innerText = 'Explaining clinical safety risks, commercial liability, and governance protection for executives.';
-        modeHint.innerText = 'Toggle "⚙️ Technical Logs" to inspect raw prompts, tool schemas, and gate traces.';
+        modeHint.innerText = 'Toggle "🧠 Causal Intelligence" or "⚙️ Technical Logs" to inspect SCM DAGs and raw traces.';
 
         if (execTopBanner) execTopBanner.classList.remove('hidden');
         if (techTopBanner) techTopBanner.classList.add('hidden');
 
         execPanel.classList.remove('hidden');
+        if (causalPanel) causalPanel.classList.add('hidden');
         techPanel.classList.add('hidden');
         if (rawWireSection) rawWireSection.classList.add('hidden');
         if (l1TraceWrap) l1TraceWrap.classList.add('hidden');
@@ -786,20 +963,63 @@
         document.getElementById('l2-trace-container').classList.add('hidden');
         document.getElementById('l1-trace-icon').innerText = '▸';
         document.getElementById('l2-trace-icon').innerText = '▸';
+      } else if (mode === 'causal') {
+        if (causalBtn) causalBtn.className = 'px-3 py-1.5 rounded font-semibold bg-indigo-600 text-white shadow transition flex items-center gap-1.5 cursor-pointer';
+        execBtn.className = 'px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer';
+        techBtn.className = 'px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer';
+
+        modeBanner.className = 'flex flex-col sm:flex-row sm:items-center justify-between gap-2 px-4 py-2.5 rounded-xl text-xs bg-indigo-950/40 border border-indigo-800/60 text-indigo-300 transition-all';
+        modeBadge.className = 'px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-900 text-indigo-200 border border-indigo-700';
+        modeBadge.innerText = 'CAUSAL INTELLIGENCE ACTIVE';
+        modeText.innerText = 'Evaluating Pearlian Structural Causal Models, do(Action) simulations, and deterministic FSM transitions.';
+        modeHint.innerText = 'Adjust drug, dose, and patient toggles below to execute Pearl forward simulations live.';
+
+        if (execTopBanner) execTopBanner.classList.remove('hidden');
+        if (techTopBanner) techTopBanner.classList.add('hidden');
+
+        execPanel.classList.add('hidden');
+        if (causalPanel) causalPanel.classList.remove('hidden');
+        techPanel.classList.add('hidden');
+        if (rawWireSection) rawWireSection.classList.add('hidden');
+        if (l1TraceWrap) l1TraceWrap.classList.remove('hidden');
+        if (l2TraceWrap) l2TraceWrap.classList.remove('hidden');
+
+        if (runCaseBtn && !runCaseBtn.disabled) {
+          runCaseBtn.innerHTML = '<span>▶ Test &amp; Verify Causal Graph</span>';
+        }
+
+        // Causal metric labels
+        if (labelStatL1) labelStatL1.innerText = 'Causal Level Evaluated';
+        if (descStatL1) descStatL1.innerText = 'Pearl Level 2 (do-calc) & Level 3 (CF)';
+        if (labelStatL2) labelStatL2.innerText = 'Causal Falsification';
+        if (descStatL2) descStatL2.innerText = '100% harmful interventions falsified';
+        if (labelStatFpr) labelStatFpr.innerText = 'FSM Lifecycle State';
+        if (descStatFpr) descStatFpr.innerText = 'Deterministic state transitions';
+        if (labelStatSpeed) labelStatSpeed.innerText = 'SCM Evaluation Speed';
+        if (descStatSpeed) descStatSpeed.innerText = 'In-memory graph traversal < 0.5 ms';
+
+        document.getElementById('l1-trace-container').classList.remove('hidden');
+        document.getElementById('l2-trace-container').classList.remove('hidden');
+        document.getElementById('l1-trace-icon').innerText = '▾';
+        document.getElementById('l2-trace-icon').innerText = '▾';
+
+        runLiveCausalSim();
       } else {
         techBtn.className = 'px-3 py-1.5 rounded font-semibold bg-cyan-600 text-white shadow transition flex items-center gap-1.5 cursor-pointer';
         execBtn.className = 'px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer';
+        if (causalBtn) causalBtn.className = 'px-3 py-1.5 rounded font-medium text-slate-400 hover:text-white transition flex items-center gap-1.5 cursor-pointer';
         
         modeBanner.className = 'flex flex-col sm:flex-row sm:items-center justify-between gap-2 px-4 py-2.5 rounded-xl text-xs bg-cyan-950/40 border border-cyan-800/60 text-cyan-300 transition-all';
         modeBadge.className = 'px-2 py-0.5 rounded text-[10px] font-bold bg-cyan-900 text-cyan-200 border border-cyan-700';
         modeBadge.innerText = 'TECHNICAL LOGS ACTIVE';
         modeText.innerText = 'Inspecting wire payloads, model prompts, tool call arguments, policy catalog assertions, and raw JSON.';
-        modeHint.innerText = 'Toggle "👔 Business View" to switch back to the non-technical executive summary.';
+        modeHint.innerText = 'Toggle "👔 Business View" or "🧠 Causal Intelligence" for higher abstraction levels.';
 
         if (execTopBanner) execTopBanner.classList.add('hidden');
         if (techTopBanner) techTopBanner.classList.remove('hidden');
 
         execPanel.classList.add('hidden');
+        if (causalPanel) causalPanel.classList.add('hidden');
         techPanel.classList.remove('hidden');
         if (rawWireSection) rawWireSection.classList.remove('hidden');
         if (l1TraceWrap) l1TraceWrap.classList.remove('hidden');
@@ -825,6 +1045,203 @@
         document.getElementById('l2-trace-icon').innerText = '▾';
 
         updateTechView();
+      }
+    }
+
+    async function runLiveCausalSim() {
+      const drugEl = document.getElementById('scm-input-drug');
+      const doseEl = document.getElementById('scm-input-dose');
+      const allergyEl = document.getElementById('scm-input-allergy');
+      const bleedEl = document.getElementById('scm-input-bleed');
+      if (!drugEl || !doseEl) return;
+
+      const drug = drugEl.value;
+      const dose = parseFloat(doseEl.value) || 0;
+      const allergy = allergyEl ? allergyEl.checked : false;
+      const bleed = bleedEl ? bleedEl.checked : false;
+
+      const dispAllergy = document.getElementById('scm-disp-allergy');
+      const dispBleed = document.getElementById('scm-disp-bleed');
+      if (dispAllergy) {
+        dispAllergy.innerText = allergy ? 'TRUE' : 'FALSE';
+        dispAllergy.className = allergy ? 'text-rose-400 font-bold' : 'text-slate-400 font-mono';
+      }
+      if (dispBleed) {
+        dispBleed.innerText = bleed ? 'TRUE' : 'FALSE';
+        dispBleed.className = bleed ? 'text-rose-400 font-bold' : 'text-slate-400 font-mono';
+      }
+
+      try {
+        const resp = await fetch('/v1/ablation/causal/simulate', {
+          method: 'POST',
+          headers: getAuthHeaders(),
+          body: JSON.stringify({
+            intervention: { drug_prescription: drug, dosage_mg: dose },
+            patient_context: { penicillin_allergy: allergy, active_bleeding: bleed, baseline_gfr: 75.0, patient_age: 62 }
+          })
+        });
+        if (!resp.ok) return;
+        const data = await resp.json();
+        const outcomes = data.simulated_outcomes || {};
+        const full = data.full_state || {};
+
+        const outDrugClass = document.getElementById('scm-out-drugclass');
+        if (outDrugClass) outDrugClass.innerText = full.drug_class || 'none';
+
+        const hasAnaph = Boolean(outcomes.anaphylaxis_reaction);
+        const elAnaph = document.getElementById('scm-out-anaphylaxis');
+        const cardAnaph = document.getElementById('scm-card-anaphylaxis');
+        if (elAnaph) elAnaph.innerText = hasAnaph ? 'TRUE (FATAL)' : 'FALSE (SAFE)';
+        if (cardAnaph) {
+          cardAnaph.className = hasAnaph
+            ? 'p-1.5 rounded bg-rose-950/40 border border-rose-800 text-rose-300 flex items-center justify-between'
+            : 'p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-300 flex items-center justify-between';
+        }
+
+        const hasHemo = Boolean(outcomes.hemorrhagic_stroke_risk);
+        const elHemo = document.getElementById('scm-out-hemorrhage');
+        const cardHemo = document.getElementById('scm-card-hemorrhage');
+        if (elHemo) elHemo.innerText = hasHemo ? 'TRUE (CRITICAL)' : 'FALSE (SAFE)';
+        if (cardHemo) {
+          cardHemo.className = hasHemo
+            ? 'p-1.5 rounded bg-rose-950/40 border border-rose-800 text-rose-300 flex items-center justify-between'
+            : 'p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-300 flex items-center justify-between';
+        }
+
+        const elBp = document.getElementById('scm-out-bp');
+        if (elBp) elBp.innerText = `${outcomes.blood_pressure_reduction || 0.0} mmHg`;
+
+        const verdictEl = document.getElementById('scm-card-verdict');
+        if (verdictEl) {
+          if (!data.is_safe) {
+            verdictEl.className = 'p-1.5 rounded bg-rose-900/40 border border-rose-700 text-rose-300 font-bold text-center text-[10px]';
+            verdictEl.innerText = `INTERVENTION ABORTED: ${data.warnings.join('; ')}`;
+          } else {
+            verdictEl.className = 'p-1.5 rounded bg-emerald-950/50 border border-emerald-700 text-emerald-300 font-bold text-center text-[10px]';
+            verdictEl.innerText = 'SCM SIMULATION: SAFE INTERVENTION APPROVED';
+          }
+        }
+
+        const cfTarget = hasHemo ? 'hemorrhagic_stroke_risk' : 'anaphylaxis_reaction';
+        const altDrug = hasAnaph ? 'ramipril' : 'none';
+        const cfResp = await fetch('/v1/ablation/causal/counterfactual', {
+          method: 'POST',
+          headers: getAuthHeaders(),
+          body: JSON.stringify({
+            factual_evidence: { drug_prescription: drug, penicillin_allergy: allergy, active_bleeding: bleed },
+            hypothetical_action: { drug_prescription: altDrug },
+            observed_bad_outcome: cfTarget
+          })
+        });
+        if (cfResp.ok) {
+          const cfData = await cfResp.json();
+          const cfBox = document.getElementById('cf-explanation-box');
+          if (cfBox) cfBox.innerText = cfData.explanation || '';
+        }
+      } catch (err) {
+        console.error('Causal simulation error:', err);
+      }
+    }
+
+    function renderCausalAndFsm(res) {
+      if (!res) return;
+      const ce = res.causal_evaluation;
+      if (ce) {
+        const intv = ce.intervention || {};
+        const ev = ce.patient_evidence || {};
+        const sim = ce.scm_simulation || {};
+        const cf = ce.counterfactual_proof || {};
+
+        const drugEl = document.getElementById('scm-input-drug');
+        const doseEl = document.getElementById('scm-input-dose');
+        const allergyEl = document.getElementById('scm-input-allergy');
+        const bleedEl = document.getElementById('scm-input-bleed');
+
+        if (drugEl && intv.drug_prescription) drugEl.value = intv.drug_prescription;
+        if (doseEl && intv.dosage_mg) doseEl.value = intv.dosage_mg;
+        if (allergyEl && ev.penicillin_allergy !== undefined) allergyEl.checked = Boolean(ev.penicillin_allergy);
+        if (bleedEl && ev.active_bleeding !== undefined) bleedEl.checked = Boolean(ev.active_bleeding);
+
+        const dispAllergy = document.getElementById('scm-disp-allergy');
+        const dispBleed = document.getElementById('scm-disp-bleed');
+        if (dispAllergy) {
+          dispAllergy.innerText = ev.penicillin_allergy ? 'TRUE' : 'FALSE';
+          dispAllergy.className = ev.penicillin_allergy ? 'text-rose-400 font-bold' : 'text-slate-400 font-mono';
+        }
+        if (dispBleed) {
+          dispBleed.innerText = ev.active_bleeding ? 'TRUE' : 'FALSE';
+          dispBleed.className = ev.active_bleeding ? 'text-rose-400 font-bold' : 'text-slate-400 font-mono';
+        }
+
+        const outcomes = sim.simulated_outcomes || {};
+        const full = sim.full_state || {};
+        const outDrugClass = document.getElementById('scm-out-drugclass');
+        if (outDrugClass) outDrugClass.innerText = full.drug_class || 'none';
+
+        const hasAnaph = Boolean(outcomes.anaphylaxis_reaction);
+        const elAnaph = document.getElementById('scm-out-anaphylaxis');
+        const cardAnaph = document.getElementById('scm-card-anaphylaxis');
+        if (elAnaph) elAnaph.innerText = hasAnaph ? 'TRUE (FATAL)' : 'FALSE (SAFE)';
+        if (cardAnaph) {
+          cardAnaph.className = hasAnaph
+            ? 'p-1.5 rounded bg-rose-950/40 border border-rose-800 text-rose-300 flex items-center justify-between'
+            : 'p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-300 flex items-center justify-between';
+        }
+
+        const hasHemo = Boolean(outcomes.hemorrhagic_stroke_risk);
+        const elHemo = document.getElementById('scm-out-hemorrhage');
+        const cardHemo = document.getElementById('scm-card-hemorrhage');
+        if (elHemo) elHemo.innerText = hasHemo ? 'TRUE (CRITICAL)' : 'FALSE (SAFE)';
+        if (cardHemo) {
+          cardHemo.className = hasHemo
+            ? 'p-1.5 rounded bg-rose-950/40 border border-rose-800 text-rose-300 flex items-center justify-between'
+            : 'p-1.5 rounded bg-slate-900 border border-slate-800 text-slate-300 flex items-center justify-between';
+        }
+
+        const elBp = document.getElementById('scm-out-bp');
+        if (elBp) elBp.innerText = `${outcomes.blood_pressure_reduction || 0.0} mmHg`;
+
+        const verdictEl = document.getElementById('scm-card-verdict');
+        if (verdictEl) {
+          if (!sim.is_safe) {
+            verdictEl.className = 'p-1.5 rounded bg-rose-900/40 border border-rose-700 text-rose-300 font-bold text-center text-[10px]';
+            verdictEl.innerText = `INTERVENTION ABORTED: ${(sim.warnings || []).join('; ')}`;
+          } else {
+            verdictEl.className = 'p-1.5 rounded bg-emerald-950/50 border border-emerald-700 text-emerald-300 font-bold text-center text-[10px]';
+            verdictEl.innerText = 'SCM SIMULATION: SAFE INTERVENTION APPROVED';
+          }
+        }
+
+        const cfBox = document.getElementById('cf-explanation-box');
+        if (cfBox && cf.explanation) cfBox.innerText = cf.explanation;
+      }
+
+      const fsm = res.fsm_lifecycle;
+      const fsmContainer = document.getElementById('fsm-steps-container');
+      if (fsm && fsmContainer && Array.isArray(fsm)) {
+        fsmContainer.innerHTML = fsm.map((step, idx) => {
+          const isIntercept = step.state === 'INTERCEPT_VIOLATION';
+          const isExec = step.state === 'EXECUTE_TOOL';
+          const isGate = step.state === 'CAUSAL_PRE_FLIGHT_GATE';
+          let borderStyle = 'p-2 rounded border border-slate-800 bg-slate-900 text-slate-300';
+          let titleColor = 'text-cyan-400';
+          if (isIntercept) {
+            borderStyle = 'p-2 rounded border border-rose-700 bg-rose-950/60 text-rose-200';
+            titleColor = 'text-rose-400 font-bold';
+          } else if (isExec) {
+            borderStyle = 'p-2 rounded border border-emerald-700 bg-emerald-950/60 text-emerald-200';
+            titleColor = 'text-emerald-400 font-bold';
+          } else if (isGate) {
+            borderStyle = 'p-2 rounded border border-indigo-700 bg-indigo-950/60 text-indigo-200';
+            titleColor = 'text-indigo-300 font-bold';
+          }
+          return `
+            <div class="${borderStyle}">
+              <div class="text-[10px] ${titleColor} mb-0.5">${idx + 1}. ${step.state}</div>
+              <div class="text-[9px] leading-tight text-slate-300 mt-1">${step.description}</div>
+            </div>
+          `;
+        }).join('');
       }
     }
 
@@ -1160,13 +1577,15 @@
         }
         l2Trace.innerHTML = formatTrace(res.l2.trace);
 
-        // Dynamically update quick metrics on single-case execution
+        // Update quick metrics on single-case execution
         if (res.expected_action === 'abstain') {
           document.getElementById('stat-l1-unauth').innerText = res.l1.unauthorized_writes > 0 ? '100%' : '0.0%';
           document.getElementById('stat-l2-unauth').innerText = '0.0%';
         } else {
           document.getElementById('stat-l2-fpr').innerText = res.l2.kernel_interceptions > 0 ? '0.0%' : '100%';
         }
+
+        renderCausalAndFsm(res);
 
       } catch (err) {
         l1Badge.innerHTML = `<span class="text-rose-400">Error: ${err.message || err}</span>`;

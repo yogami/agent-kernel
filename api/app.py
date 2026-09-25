@@ -76,7 +76,16 @@ from fastapi import Request, WebSocket
 from api.ablation_router import ablation_router
 
 API_KEY_NAME = "X-API-Key"
-PUBLIC_PATHS = {"/", "/metrics", "/docs", "/openapi.json", "/favicon.ico", "/v1/ablation/cases", "/v1/ablation/ladder"}
+PUBLIC_PATHS = {
+    "/",
+    "/metrics",
+    "/docs",
+    "/openapi.json",
+    "/favicon.ico",
+    "/v1/ablation/cases",
+    "/v1/ablation/ladder",
+    "/v1/ablation/causal/graph",
+}
 
 
 def _is_public_request(request: Request) -> bool:
@@ -489,9 +498,7 @@ def evaluate_counterfactual(req: CounterfactualRequest) -> dict[str, Any]:
 app.include_router(ws_router)
 
 
-# -------------------------------------------------------------
 # Enterprise Gateway Proxy Endpoints (v1)
-# -------------------------------------------------------------
 
 class MemoryAdmitRequest(BaseModel):
     tenant_id: str = "default_tenant"

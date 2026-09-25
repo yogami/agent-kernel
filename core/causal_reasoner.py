@@ -13,6 +13,20 @@ from core.causal_graph import CausalNodeType, StructuralCausalModel
 from core.causal_verifier import CausalVerificationReport, ObservationalCausalVerifier
 
 
+def _check_warning(state: dict[str, Any], key: str, msg: str) -> str | None:
+    return msg if state.get(key) else None
+
+
+def _evaluate_safety_warnings(state: dict[str, Any]) -> tuple[bool, list[str]]:
+    checks = [
+        _check_warning(state, "anaphylaxis_reaction", "Intervention causes ANAPHYLAXIS due to active drug allergy."),
+        _check_warning(state, "acute_kidney_injury", "Intervention causes ACUTE KIDNEY INJURY due to excessive dose over impaired clearance."),
+        _check_warning(state, "hemorrhagic_stroke_risk", "Intervention causes FATAL HEMORRHAGE due to active bleeding contraindication."),
+    ]
+    warnings = [w for w in checks if w is not None]
+    return (len(warnings) == 0, warnings)
+
+
 class CausalReasoner:
     """Orchestrates causal interventions and counterfactual diagnostics for the Agent Kernel."""
 
@@ -28,6 +42,7 @@ class CausalReasoner:
         scm.add_node("patient_age", "Patient age in years", CausalNodeType.EXOGENOUS, baseline_value=62)
         scm.add_node("baseline_gfr", "Baseline Glomerular Filtration Rate", CausalNodeType.EXOGENOUS, baseline_value=75.0)
         scm.add_node("penicillin_allergy", "History of beta-lactam hypersensitivity", CausalNodeType.EXOGENOUS, baseline_value=False)
+        scm.add_node("active_bleeding", "Active intracranial or systemic hemorrhage", CausalNodeType.EXOGENOUS, baseline_value=False)
 
         # Interventions (Agent Tool Decisions)
         scm.add_node("drug_prescription", "Administered medication", CausalNodeType.INTERVENTION, baseline_value="none")
@@ -41,6 +56,7 @@ class CausalReasoner:
         scm.add_node("blood_pressure_reduction", "Reduction in systolic BP mmHg", CausalNodeType.OUTCOME, baseline_value=0.0)
         scm.add_node("anaphylaxis_reaction", "Severe allergic or adverse event", CausalNodeType.OUTCOME, baseline_value=False)
         scm.add_node("acute_kidney_injury", "Risk of renal injury", CausalNodeType.OUTCOME, baseline_value=False)
+        scm.add_node("hemorrhagic_stroke_risk", "Fatal bleeding progression risk", CausalNodeType.OUTCOME, baseline_value=False)
 
         # Causal Mechanisms (Edges)
         scm.add_edge("drug_prescription", "drug_class", "Drug name dictates chemical classification.")
@@ -54,6 +70,9 @@ class CausalReasoner:
         scm.add_edge("dosage_mg", "acute_kidney_injury", "Excessive dose relative to clearance causes nephrotoxicity.")
         scm.add_edge("renal_clearance", "acute_kidney_injury", "Low clearance amplifies toxic build-up.")
 
+        scm.add_edge("drug_class", "hemorrhagic_stroke_risk", "Anticoagulants amplify active hemorrhage.")
+        scm.add_edge("active_bleeding", "hemorrhagic_stroke_risk", "Active bleeding exacerbated by anticoagulants.")
+
         # Register Structural Equations
         def calc_drug_class(parents: dict[str, Any], curr: Any) -> str:
             drug = str(parents.get("drug_prescription", "")).lower()
@@ -63,6 +82,8 @@ class CausalReasoner:
                 return "ace_inhibitor"
             if any(w in drug for w in ["metformin"]):
                 return "biguanide"
+            if any(w in drug for w in ["warfarin", "heparin", "apixaban"]):
+                return "anticoagulant"
             return "other"
 
         def calc_anaphylaxis(parents: dict[str, Any], curr: Any) -> bool:
@@ -80,13 +101,18 @@ class CausalReasoner:
         def calc_aki(parents: dict[str, Any], curr: Any) -> bool:
             dose = float(parents.get("dosage_mg", 0.0))
             clearance = float(parents.get("renal_clearance", 75.0))
-            # Nephrotoxicity if high dose with compromised clearance
             return dose > 40.0 and clearance < 40.0
+
+        def calc_hemorrhage(parents: dict[str, Any], curr: Any) -> bool:
+            drug_class = parents.get("drug_class")
+            bleeding = parents.get("active_bleeding", False)
+            return bool(drug_class == "anticoagulant" and bleeding)
 
         scm.register_mechanism("drug_class", calc_drug_class)
         scm.register_mechanism("anaphylaxis_reaction", calc_anaphylaxis)
         scm.register_mechanism("blood_pressure_reduction", calc_bp_reduction)
         scm.register_mechanism("acute_kidney_injury", calc_aki)
+        scm.register_mechanism("hemorrhagic_stroke_risk", calc_hemorrhage)
 
         return scm
 
@@ -100,23 +126,10 @@ class CausalReasoner:
         Prevents agent execution if the mutilated causal graph predicts
         severe adverse reactions or contraindications.
         """
-        # Set patient observations
         self.scm.set_evidence(patient_evidence)
-
-        # Apply do(Action) intervention
         intervened_scm = self.scm.do_intervention(proposed_action)
         simulated_state = intervened_scm.forward_simulate()
-
-        is_safe = True
-        warnings: list[str] = []
-
-        if simulated_state.get("anaphylaxis_reaction"):
-            is_safe = False
-            warnings.append("Intervention do(drug_prescription) causes ANAPHYLAXIS due to active drug allergy.")
-
-        if simulated_state.get("acute_kidney_injury"):
-            is_safe = False
-            warnings.append("Intervention causes ACUTE KIDNEY INJURY due to excessive dose over impaired clearance.")
+        is_safe, warnings = _evaluate_safety_warnings(simulated_state)
 
         return {
             "is_safe": is_safe,
@@ -124,6 +137,7 @@ class CausalReasoner:
                 "blood_pressure_reduction": simulated_state.get("blood_pressure_reduction", 0.0),
                 "anaphylaxis_reaction": simulated_state.get("anaphylaxis_reaction", False),
                 "acute_kidney_injury": simulated_state.get("acute_kidney_injury", False),
+                "hemorrhagic_stroke_risk": simulated_state.get("hemorrhagic_stroke_risk", False),
             },
             "warnings": warnings,
             "full_state": simulated_state,
