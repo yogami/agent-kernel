@@ -2,16 +2,18 @@
 
 from __future__ import annotations
 
+import asyncio
 from typing import Any
 from domain.models import ToolResult
-from domain.ports import ToolPort
+from domain.ports import ToolPort, ToolSandboxPort
 
 
 class ToolRegistry:
     """Registry mapping tool names to typed tool handlers and schemas."""
 
-    def __init__(self) -> None:
+    def __init__(self, sandbox_runner: ToolSandboxPort | None = None) -> None:
         self._tools: dict[str, ToolPort] = {}
+        self.sandbox_runner = sandbox_runner
 
     def register(self, tool: ToolPort) -> None:
         """Register a new tool instance."""
@@ -40,7 +42,7 @@ class ToolRegistry:
         return schemas
 
     def execute(self, tool_name: str, arguments: dict[str, Any]) -> ToolResult:
-        """Execute a tool by name with arguments and catch any unhandled exceptions."""
+        """Execute a tool by name with arguments, routed through sandbox runner when configured."""
         tool = self.get(tool_name)
         if not tool:
             return ToolResult(
@@ -50,6 +52,8 @@ class ToolRegistry:
                 is_error=True,
                 error_message=f"Tool '{tool_name}' not found in registry.",
             )
+        if self.sandbox_runner is not None:
+            return self.sandbox_runner.run(tool, arguments)
         try:
             return tool.execute(arguments)
         except Exception as exc:
@@ -60,3 +64,30 @@ class ToolRegistry:
                 is_error=True,
                 error_message=f"Execution error in '{tool_name}': {str(exc)}",
             )
+
+    async def execute_async(self, tool_name: str, arguments: dict[str, Any]) -> ToolResult:
+        """Execute a tool asynchronously, routed through sandbox runner when configured."""
+        tool = self.get(tool_name)
+        if not tool:
+            return ToolResult(
+                tool_id="err",
+                tool_name=tool_name,
+                output=None,
+                is_error=True,
+                error_message=f"Tool '{tool_name}' not found in registry.",
+            )
+        if self.sandbox_runner is not None:
+            return await self.sandbox_runner.run_async(tool, arguments)
+        try:
+            if hasattr(tool, "execute_async") and callable(getattr(tool, "execute_async")):
+                return await tool.execute_async(arguments)
+            return await asyncio.to_thread(tool.execute, arguments)
+        except Exception as exc:
+            return ToolResult(
+                tool_id="err",
+                tool_name=tool_name,
+                output=None,
+                is_error=True,
+                error_message=f"Execution error in '{tool_name}': {str(exc)}",
+            )
+

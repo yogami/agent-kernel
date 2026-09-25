@@ -1,0 +1,3002 @@
+[
+  {
+    "canary_traffic_split": 8.733,
+    "canary_error_rate": 5.847,
+    "burn_rate": 4.502,
+    "incident_severity": 3.204
+  },
+  {
+    "canary_traffic_split": 8.01,
+    "canary_error_rate": 5.191,
+    "burn_rate": 4.354,
+    "incident_severity": 3.101
+  },
+  {
+    "canary_traffic_split": 10.92,
+    "canary_error_rate": 7.112,
+    "burn_rate": 5.645,
+    "incident_severity": 4.469
+  },
+  {
+    "canary_traffic_split": 7.501,
+    "canary_error_rate": 4.905,
+    "burn_rate": 4.296,
+    "incident_severity": 2.795
+  },
+  {
+    "canary_traffic_split": 8.682,
+    "canary_error_rate": 5.584,
+    "burn_rate": 4.281,
+    "incident_severity": 2.969
+  },
+  {
+    "canary_traffic_split": 10.502,
+    "canary_error_rate": 6.813,
+    "burn_rate": 5.236,
+    "incident_severity": 3.882
+  },
+  {
+    "canary_traffic_split": 7.942,
+    "canary_error_rate": 5.011,
+    "burn_rate": 4.02,
+    "incident_severity": 2.667
+  },
+  {
+    "canary_traffic_split": 12.394,
+    "canary_error_rate": 7.682,
+    "burn_rate": 6.321,
+    "incident_severity": 4.464
+  },
+  {
+    "canary_traffic_split": 8.719,
+    "canary_error_rate": 5.817,
+    "burn_rate": 4.506,
+    "incident_severity": 3.116
+  },
+  {
+    "canary_traffic_split": 7.549,
+    "canary_error_rate": 4.575,
+    "burn_rate": 4.007,
+    "incident_severity": 2.634
+  },
+  {
+    "canary_traffic_split": 10.648,
+    "canary_error_rate": 7.245,
+    "burn_rate": 5.835,
+    "incident_severity": 3.815
+  },
+  {
+    "canary_traffic_split": 9.253,
+    "canary_error_rate": 5.868,
+    "burn_rate": 4.716,
+    "incident_severity": 3.155
+  },
+  {
+    "canary_traffic_split": 8.535,
+    "canary_error_rate": 5.495,
+    "burn_rate": 4.34,
+    "incident_severity": 3.026
+  },
+  {
+    "canary_traffic_split": 8.675,
+    "canary_error_rate": 5.96,
+    "burn_rate": 4.747,
+    "incident_severity": 3.646
+  },
+  {
+    "canary_traffic_split": 10.838,
+    "canary_error_rate": 6.785,
+    "burn_rate": 5.333,
+    "incident_severity": 3.635
+  },
+  {
+    "canary_traffic_split": 4.9,
+    "canary_error_rate": 3.232,
+    "burn_rate": 2.84,
+    "incident_severity": 1.965
+  },
+  {
+    "canary_traffic_split": 4.711,
+    "canary_error_rate": 3.257,
+    "burn_rate": 2.26,
+    "incident_severity": 1.477
+  },
+  {
+    "canary_traffic_split": 11.364,
+    "canary_error_rate": 7.465,
+    "burn_rate": 6.069,
+    "incident_severity": 4.016
+  },
+  {
+    "canary_traffic_split": 10.432,
+    "canary_error_rate": 6.571,
+    "burn_rate": 5.302,
+    "incident_severity": 3.686
+  },
+  {
+    "canary_traffic_split": 9.729,
+    "canary_error_rate": 6.61,
+    "burn_rate": 4.99,
+    "incident_severity": 3.461
+  },
+  {
+    "canary_traffic_split": 6.91,
+    "canary_error_rate": 4.547,
+    "burn_rate": 3.69,
+    "incident_severity": 2.417
+  },
+  {
+    "canary_traffic_split": 11.478,
+    "canary_error_rate": 7.481,
+    "burn_rate": 5.623,
+    "incident_severity": 4.461
+  },
+  {
+    "canary_traffic_split": 12.963,
+    "canary_error_rate": 8.346,
+    "burn_rate": 6.877,
+    "incident_severity": 5.218
+  },
+  {
+    "canary_traffic_split": 10.753,
+    "canary_error_rate": 7.067,
+    "burn_rate": 5.694,
+    "incident_severity": 3.807
+  },
+  {
+    "canary_traffic_split": 8.771,
+    "canary_error_rate": 5.8,
+    "burn_rate": 4.742,
+    "incident_severity": 3.32
+  },
+  {
+    "canary_traffic_split": 10.373,
+    "canary_error_rate": 6.759,
+    "burn_rate": 5.529,
+    "incident_severity": 3.903
+  },
+  {
+    "canary_traffic_split": 7.682,
+    "canary_error_rate": 4.976,
+    "burn_rate": 4.056,
+    "incident_severity": 2.482
+  },
+  {
+    "canary_traffic_split": 7.465,
+    "canary_error_rate": 4.807,
+    "burn_rate": 3.924,
+    "incident_severity": 2.752
+  },
+  {
+    "canary_traffic_split": 12.318,
+    "canary_error_rate": 7.619,
+    "burn_rate": 5.883,
+    "incident_severity": 4.46
+  },
+  {
+    "canary_traffic_split": 11.05,
+    "canary_error_rate": 7.081,
+    "burn_rate": 5.76,
+    "incident_severity": 4.07
+  },
+  {
+    "canary_traffic_split": 10.565,
+    "canary_error_rate": 6.902,
+    "burn_rate": 5.38,
+    "incident_severity": 3.722
+  },
+  {
+    "canary_traffic_split": 11.969,
+    "canary_error_rate": 7.63,
+    "burn_rate": 5.781,
+    "incident_severity": 3.942
+  },
+  {
+    "canary_traffic_split": 5.566,
+    "canary_error_rate": 3.207,
+    "burn_rate": 2.769,
+    "incident_severity": 2.051
+  },
+  {
+    "canary_traffic_split": 5.359,
+    "canary_error_rate": 3.311,
+    "burn_rate": 2.489,
+    "incident_severity": 1.839
+  },
+  {
+    "canary_traffic_split": 8.743,
+    "canary_error_rate": 6.048,
+    "burn_rate": 4.729,
+    "incident_severity": 3.318
+  },
+  {
+    "canary_traffic_split": 10.981,
+    "canary_error_rate": 7.119,
+    "burn_rate": 5.354,
+    "incident_severity": 3.833
+  },
+  {
+    "canary_traffic_split": 10.954,
+    "canary_error_rate": 6.929,
+    "burn_rate": 5.231,
+    "incident_severity": 3.529
+  },
+  {
+    "canary_traffic_split": 13.228,
+    "canary_error_rate": 8.741,
+    "burn_rate": 7.042,
+    "incident_severity": 4.702
+  },
+  {
+    "canary_traffic_split": 11.13,
+    "canary_error_rate": 7.333,
+    "burn_rate": 5.901,
+    "incident_severity": 4.015
+  },
+  {
+    "canary_traffic_split": 10.9,
+    "canary_error_rate": 7.098,
+    "burn_rate": 5.463,
+    "incident_severity": 3.88
+  },
+  {
+    "canary_traffic_split": 9.58,
+    "canary_error_rate": 6.474,
+    "burn_rate": 5.028,
+    "incident_severity": 3.098
+  },
+  {
+    "canary_traffic_split": 11.261,
+    "canary_error_rate": 7.29,
+    "burn_rate": 5.807,
+    "incident_severity": 4.013
+  },
+  {
+    "canary_traffic_split": 9.809,
+    "canary_error_rate": 6.605,
+    "burn_rate": 5.603,
+    "incident_severity": 4.069
+  },
+  {
+    "canary_traffic_split": 12.28,
+    "canary_error_rate": 7.766,
+    "burn_rate": 6.011,
+    "incident_severity": 4.063
+  },
+  {
+    "canary_traffic_split": 10.666,
+    "canary_error_rate": 6.679,
+    "burn_rate": 5.085,
+    "incident_severity": 3.719
+  },
+  {
+    "canary_traffic_split": 12.607,
+    "canary_error_rate": 8.001,
+    "burn_rate": 6.798,
+    "incident_severity": 5.016
+  },
+  {
+    "canary_traffic_split": 8.299,
+    "canary_error_rate": 5.381,
+    "burn_rate": 4.543,
+    "incident_severity": 3.108
+  },
+  {
+    "canary_traffic_split": 9.388,
+    "canary_error_rate": 6.176,
+    "burn_rate": 5.3,
+    "incident_severity": 3.55
+  },
+  {
+    "canary_traffic_split": 9.928,
+    "canary_error_rate": 6.264,
+    "burn_rate": 4.776,
+    "incident_severity": 3.667
+  },
+  {
+    "canary_traffic_split": 12.532,
+    "canary_error_rate": 8.018,
+    "burn_rate": 6.399,
+    "incident_severity": 4.616
+  },
+  {
+    "canary_traffic_split": 10.989,
+    "canary_error_rate": 7.52,
+    "burn_rate": 6.232,
+    "incident_severity": 3.91
+  },
+  {
+    "canary_traffic_split": 6.745,
+    "canary_error_rate": 4.501,
+    "burn_rate": 3.478,
+    "incident_severity": 2.708
+  },
+  {
+    "canary_traffic_split": 11.282,
+    "canary_error_rate": 7.523,
+    "burn_rate": 6.414,
+    "incident_severity": 4.559
+  },
+  {
+    "canary_traffic_split": 7.262,
+    "canary_error_rate": 4.685,
+    "burn_rate": 3.854,
+    "incident_severity": 2.569
+  },
+  {
+    "canary_traffic_split": 8.476,
+    "canary_error_rate": 5.949,
+    "burn_rate": 4.551,
+    "incident_severity": 3.295
+  },
+  {
+    "canary_traffic_split": 12.274,
+    "canary_error_rate": 7.913,
+    "burn_rate": 6.158,
+    "incident_severity": 4.296
+  },
+  {
+    "canary_traffic_split": 12.712,
+    "canary_error_rate": 8.302,
+    "burn_rate": 6.917,
+    "incident_severity": 4.561
+  },
+  {
+    "canary_traffic_split": 12.289,
+    "canary_error_rate": 7.851,
+    "burn_rate": 6.049,
+    "incident_severity": 4.077
+  },
+  {
+    "canary_traffic_split": 7.516,
+    "canary_error_rate": 4.946,
+    "burn_rate": 3.877,
+    "incident_severity": 2.537
+  },
+  {
+    "canary_traffic_split": 12.657,
+    "canary_error_rate": 8.3,
+    "burn_rate": 6.674,
+    "incident_severity": 4.745
+  },
+  {
+    "canary_traffic_split": 8.791,
+    "canary_error_rate": 5.79,
+    "burn_rate": 4.753,
+    "incident_severity": 3.568
+  },
+  {
+    "canary_traffic_split": 11.094,
+    "canary_error_rate": 7.214,
+    "burn_rate": 5.949,
+    "incident_severity": 4.252
+  },
+  {
+    "canary_traffic_split": 7.54,
+    "canary_error_rate": 5.12,
+    "burn_rate": 3.874,
+    "incident_severity": 2.476
+  },
+  {
+    "canary_traffic_split": 9.074,
+    "canary_error_rate": 5.892,
+    "burn_rate": 4.764,
+    "incident_severity": 3.135
+  },
+  {
+    "canary_traffic_split": 10.724,
+    "canary_error_rate": 6.911,
+    "burn_rate": 5.208,
+    "incident_severity": 3.355
+  },
+  {
+    "canary_traffic_split": 7.849,
+    "canary_error_rate": 5.104,
+    "burn_rate": 4.178,
+    "incident_severity": 2.748
+  },
+  {
+    "canary_traffic_split": 7.872,
+    "canary_error_rate": 5.109,
+    "burn_rate": 4.236,
+    "incident_severity": 2.875
+  },
+  {
+    "canary_traffic_split": 10.615,
+    "canary_error_rate": 6.813,
+    "burn_rate": 5.397,
+    "incident_severity": 3.553
+  },
+  {
+    "canary_traffic_split": 9.446,
+    "canary_error_rate": 6.064,
+    "burn_rate": 4.312,
+    "incident_severity": 3.068
+  },
+  {
+    "canary_traffic_split": 9.694,
+    "canary_error_rate": 6.34,
+    "burn_rate": 5.014,
+    "incident_severity": 3.452
+  },
+  {
+    "canary_traffic_split": 10.463,
+    "canary_error_rate": 7.085,
+    "burn_rate": 5.352,
+    "incident_severity": 3.731
+  },
+  {
+    "canary_traffic_split": 10.149,
+    "canary_error_rate": 6.426,
+    "burn_rate": 4.792,
+    "incident_severity": 3.082
+  },
+  {
+    "canary_traffic_split": 12.947,
+    "canary_error_rate": 8.538,
+    "burn_rate": 6.682,
+    "incident_severity": 4.688
+  },
+  {
+    "canary_traffic_split": 9.817,
+    "canary_error_rate": 6.366,
+    "burn_rate": 5.284,
+    "incident_severity": 3.502
+  },
+  {
+    "canary_traffic_split": 8.206,
+    "canary_error_rate": 5.154,
+    "burn_rate": 4.153,
+    "incident_severity": 2.817
+  },
+  {
+    "canary_traffic_split": 12.455,
+    "canary_error_rate": 8.201,
+    "burn_rate": 6.589,
+    "incident_severity": 5.012
+  },
+  {
+    "canary_traffic_split": 12.109,
+    "canary_error_rate": 7.987,
+    "burn_rate": 6.374,
+    "incident_severity": 4.383
+  },
+  {
+    "canary_traffic_split": 11.406,
+    "canary_error_rate": 7.556,
+    "burn_rate": 5.749,
+    "incident_severity": 4.441
+  },
+  {
+    "canary_traffic_split": 9.204,
+    "canary_error_rate": 6.257,
+    "burn_rate": 4.926,
+    "incident_severity": 3.282
+  },
+  {
+    "canary_traffic_split": 11.466,
+    "canary_error_rate": 7.546,
+    "burn_rate": 6.393,
+    "incident_severity": 4.557
+  },
+  {
+    "canary_traffic_split": 11.18,
+    "canary_error_rate": 7.402,
+    "burn_rate": 6.295,
+    "incident_severity": 4.341
+  },
+  {
+    "canary_traffic_split": 10.347,
+    "canary_error_rate": 6.432,
+    "burn_rate": 5.345,
+    "incident_severity": 3.67
+  },
+  {
+    "canary_traffic_split": 6.794,
+    "canary_error_rate": 4.321,
+    "burn_rate": 3.378,
+    "incident_severity": 2.196
+  },
+  {
+    "canary_traffic_split": 7.913,
+    "canary_error_rate": 5.115,
+    "burn_rate": 3.813,
+    "incident_severity": 2.781
+  },
+  {
+    "canary_traffic_split": 9.94,
+    "canary_error_rate": 6.419,
+    "burn_rate": 5.197,
+    "incident_severity": 3.625
+  },
+  {
+    "canary_traffic_split": 13.985,
+    "canary_error_rate": 8.928,
+    "burn_rate": 6.897,
+    "incident_severity": 4.927
+  },
+  {
+    "canary_traffic_split": 11.485,
+    "canary_error_rate": 7.568,
+    "burn_rate": 6.049,
+    "incident_severity": 4.165
+  },
+  {
+    "canary_traffic_split": 13.313,
+    "canary_error_rate": 8.602,
+    "burn_rate": 7.137,
+    "incident_severity": 4.843
+  },
+  {
+    "canary_traffic_split": 5.65,
+    "canary_error_rate": 3.759,
+    "burn_rate": 2.702,
+    "incident_severity": 1.857
+  },
+  {
+    "canary_traffic_split": 13.305,
+    "canary_error_rate": 8.957,
+    "burn_rate": 7.18,
+    "incident_severity": 5.07
+  },
+  {
+    "canary_traffic_split": 5.507,
+    "canary_error_rate": 3.598,
+    "burn_rate": 2.723,
+    "incident_severity": 1.598
+  },
+  {
+    "canary_traffic_split": 12.975,
+    "canary_error_rate": 8.58,
+    "burn_rate": 7.003,
+    "incident_severity": 4.807
+  },
+  {
+    "canary_traffic_split": 7.542,
+    "canary_error_rate": 4.598,
+    "burn_rate": 3.862,
+    "incident_severity": 2.711
+  },
+  {
+    "canary_traffic_split": 10.494,
+    "canary_error_rate": 6.951,
+    "burn_rate": 5.648,
+    "incident_severity": 3.892
+  },
+  {
+    "canary_traffic_split": 12.699,
+    "canary_error_rate": 8.193,
+    "burn_rate": 6.66,
+    "incident_severity": 4.311
+  },
+  {
+    "canary_traffic_split": 9.052,
+    "canary_error_rate": 6.166,
+    "burn_rate": 4.748,
+    "incident_severity": 3.423
+  },
+  {
+    "canary_traffic_split": 7.07,
+    "canary_error_rate": 4.761,
+    "burn_rate": 3.868,
+    "incident_severity": 2.694
+  },
+  {
+    "canary_traffic_split": 7.193,
+    "canary_error_rate": 4.554,
+    "burn_rate": 3.485,
+    "incident_severity": 2.449
+  },
+  {
+    "canary_traffic_split": 10.411,
+    "canary_error_rate": 6.783,
+    "burn_rate": 5.502,
+    "incident_severity": 4.045
+  },
+  {
+    "canary_traffic_split": 8.174,
+    "canary_error_rate": 5.29,
+    "burn_rate": 4.626,
+    "incident_severity": 3.158
+  },
+  {
+    "canary_traffic_split": 12.811,
+    "canary_error_rate": 8.326,
+    "burn_rate": 6.306,
+    "incident_severity": 4.552
+  },
+  {
+    "canary_traffic_split": 10.735,
+    "canary_error_rate": 6.975,
+    "burn_rate": 5.508,
+    "incident_severity": 3.868
+  },
+  {
+    "canary_traffic_split": 10.753,
+    "canary_error_rate": 7.112,
+    "burn_rate": 5.376,
+    "incident_severity": 3.93
+  },
+  {
+    "canary_traffic_split": 9.715,
+    "canary_error_rate": 6.409,
+    "burn_rate": 5.099,
+    "incident_severity": 3.557
+  },
+  {
+    "canary_traffic_split": 7.588,
+    "canary_error_rate": 4.881,
+    "burn_rate": 3.399,
+    "incident_severity": 2.472
+  },
+  {
+    "canary_traffic_split": 7.821,
+    "canary_error_rate": 5.466,
+    "burn_rate": 4.249,
+    "incident_severity": 2.739
+  },
+  {
+    "canary_traffic_split": 8.334,
+    "canary_error_rate": 5.742,
+    "burn_rate": 4.181,
+    "incident_severity": 2.827
+  },
+  {
+    "canary_traffic_split": 11.335,
+    "canary_error_rate": 7.477,
+    "burn_rate": 6.116,
+    "incident_severity": 4.323
+  },
+  {
+    "canary_traffic_split": 11.055,
+    "canary_error_rate": 6.966,
+    "burn_rate": 5.532,
+    "incident_severity": 3.838
+  },
+  {
+    "canary_traffic_split": 9.401,
+    "canary_error_rate": 6.089,
+    "burn_rate": 5.046,
+    "incident_severity": 3.393
+  },
+  {
+    "canary_traffic_split": 11.362,
+    "canary_error_rate": 7.471,
+    "burn_rate": 5.848,
+    "incident_severity": 3.84
+  },
+  {
+    "canary_traffic_split": 8.536,
+    "canary_error_rate": 5.661,
+    "burn_rate": 4.658,
+    "incident_severity": 3.149
+  },
+  {
+    "canary_traffic_split": 9.855,
+    "canary_error_rate": 6.342,
+    "burn_rate": 5.267,
+    "incident_severity": 3.575
+  },
+  {
+    "canary_traffic_split": 9.758,
+    "canary_error_rate": 6.164,
+    "burn_rate": 5.262,
+    "incident_severity": 3.893
+  },
+  {
+    "canary_traffic_split": 11.83,
+    "canary_error_rate": 7.627,
+    "burn_rate": 6.26,
+    "incident_severity": 4.495
+  },
+  {
+    "canary_traffic_split": 10.219,
+    "canary_error_rate": 6.686,
+    "burn_rate": 5.081,
+    "incident_severity": 3.42
+  },
+  {
+    "canary_traffic_split": 12.073,
+    "canary_error_rate": 7.343,
+    "burn_rate": 5.974,
+    "incident_severity": 4.283
+  },
+  {
+    "canary_traffic_split": 12.11,
+    "canary_error_rate": 7.882,
+    "burn_rate": 6.236,
+    "incident_severity": 4.112
+  },
+  {
+    "canary_traffic_split": 12.396,
+    "canary_error_rate": 8.305,
+    "burn_rate": 6.623,
+    "incident_severity": 4.308
+  },
+  {
+    "canary_traffic_split": 7.966,
+    "canary_error_rate": 5.38,
+    "burn_rate": 4.46,
+    "incident_severity": 3.117
+  },
+  {
+    "canary_traffic_split": 10.514,
+    "canary_error_rate": 6.733,
+    "burn_rate": 5.531,
+    "incident_severity": 3.908
+  },
+  {
+    "canary_traffic_split": 9.875,
+    "canary_error_rate": 6.315,
+    "burn_rate": 5.143,
+    "incident_severity": 3.541
+  },
+  {
+    "canary_traffic_split": 8.963,
+    "canary_error_rate": 5.814,
+    "burn_rate": 4.945,
+    "incident_severity": 3.079
+  },
+  {
+    "canary_traffic_split": 6.27,
+    "canary_error_rate": 3.9,
+    "burn_rate": 2.628,
+    "incident_severity": 1.689
+  },
+  {
+    "canary_traffic_split": 7.994,
+    "canary_error_rate": 5.025,
+    "burn_rate": 4.365,
+    "incident_severity": 3.107
+  },
+  {
+    "canary_traffic_split": 7.853,
+    "canary_error_rate": 4.953,
+    "burn_rate": 3.887,
+    "incident_severity": 2.637
+  },
+  {
+    "canary_traffic_split": 10.118,
+    "canary_error_rate": 6.676,
+    "burn_rate": 5.471,
+    "incident_severity": 3.73
+  },
+  {
+    "canary_traffic_split": 6.39,
+    "canary_error_rate": 4.189,
+    "burn_rate": 2.979,
+    "incident_severity": 2.109
+  },
+  {
+    "canary_traffic_split": 8.378,
+    "canary_error_rate": 5.32,
+    "burn_rate": 4.451,
+    "incident_severity": 3.018
+  },
+  {
+    "canary_traffic_split": 10.858,
+    "canary_error_rate": 7.251,
+    "burn_rate": 5.897,
+    "incident_severity": 3.734
+  },
+  {
+    "canary_traffic_split": 7.956,
+    "canary_error_rate": 5.185,
+    "burn_rate": 4.028,
+    "incident_severity": 2.94
+  },
+  {
+    "canary_traffic_split": 11.601,
+    "canary_error_rate": 7.42,
+    "burn_rate": 5.961,
+    "incident_severity": 4.125
+  },
+  {
+    "canary_traffic_split": 10.129,
+    "canary_error_rate": 6.426,
+    "burn_rate": 5.05,
+    "incident_severity": 3.554
+  },
+  {
+    "canary_traffic_split": 12.165,
+    "canary_error_rate": 7.709,
+    "burn_rate": 6.007,
+    "incident_severity": 4.099
+  },
+  {
+    "canary_traffic_split": 7.286,
+    "canary_error_rate": 4.414,
+    "burn_rate": 3.397,
+    "incident_severity": 2.155
+  },
+  {
+    "canary_traffic_split": 10.933,
+    "canary_error_rate": 7.231,
+    "burn_rate": 5.997,
+    "incident_severity": 4.532
+  },
+  {
+    "canary_traffic_split": 10.599,
+    "canary_error_rate": 6.692,
+    "burn_rate": 5.33,
+    "incident_severity": 3.62
+  },
+  {
+    "canary_traffic_split": 11.679,
+    "canary_error_rate": 7.529,
+    "burn_rate": 5.949,
+    "incident_severity": 4.051
+  },
+  {
+    "canary_traffic_split": 12.917,
+    "canary_error_rate": 8.338,
+    "burn_rate": 6.853,
+    "incident_severity": 5.165
+  },
+  {
+    "canary_traffic_split": 12.606,
+    "canary_error_rate": 8.055,
+    "burn_rate": 6.452,
+    "incident_severity": 4.825
+  },
+  {
+    "canary_traffic_split": 5.529,
+    "canary_error_rate": 3.515,
+    "burn_rate": 2.991,
+    "incident_severity": 2.032
+  },
+  {
+    "canary_traffic_split": 13.592,
+    "canary_error_rate": 8.562,
+    "burn_rate": 6.718,
+    "incident_severity": 4.646
+  },
+  {
+    "canary_traffic_split": 11.966,
+    "canary_error_rate": 7.489,
+    "burn_rate": 6.077,
+    "incident_severity": 4.101
+  },
+  {
+    "canary_traffic_split": 10.646,
+    "canary_error_rate": 6.679,
+    "burn_rate": 5.382,
+    "incident_severity": 3.621
+  },
+  {
+    "canary_traffic_split": 14.56,
+    "canary_error_rate": 9.584,
+    "burn_rate": 7.765,
+    "incident_severity": 5.362
+  },
+  {
+    "canary_traffic_split": 7.479,
+    "canary_error_rate": 4.656,
+    "burn_rate": 3.656,
+    "incident_severity": 2.108
+  },
+  {
+    "canary_traffic_split": 11.261,
+    "canary_error_rate": 7.658,
+    "burn_rate": 6.017,
+    "incident_severity": 4.015
+  },
+  {
+    "canary_traffic_split": 7.624,
+    "canary_error_rate": 4.881,
+    "burn_rate": 3.899,
+    "incident_severity": 2.838
+  },
+  {
+    "canary_traffic_split": 8.827,
+    "canary_error_rate": 5.527,
+    "burn_rate": 4.417,
+    "incident_severity": 2.795
+  },
+  {
+    "canary_traffic_split": 10.699,
+    "canary_error_rate": 7.215,
+    "burn_rate": 5.877,
+    "incident_severity": 4.002
+  },
+  {
+    "canary_traffic_split": 8.784,
+    "canary_error_rate": 5.861,
+    "burn_rate": 4.604,
+    "incident_severity": 3.108
+  },
+  {
+    "canary_traffic_split": 9.984,
+    "canary_error_rate": 6.764,
+    "burn_rate": 5.356,
+    "incident_severity": 3.582
+  },
+  {
+    "canary_traffic_split": 15.13,
+    "canary_error_rate": 9.96,
+    "burn_rate": 8.025,
+    "incident_severity": 5.827
+  },
+  {
+    "canary_traffic_split": 11.574,
+    "canary_error_rate": 7.441,
+    "burn_rate": 6.155,
+    "incident_severity": 4.485
+  },
+  {
+    "canary_traffic_split": 13.232,
+    "canary_error_rate": 8.305,
+    "burn_rate": 6.595,
+    "incident_severity": 4.691
+  },
+  {
+    "canary_traffic_split": 10.888,
+    "canary_error_rate": 7.406,
+    "burn_rate": 5.837,
+    "incident_severity": 4.762
+  },
+  {
+    "canary_traffic_split": 10.623,
+    "canary_error_rate": 7.202,
+    "burn_rate": 5.566,
+    "incident_severity": 3.902
+  },
+  {
+    "canary_traffic_split": 13.377,
+    "canary_error_rate": 8.745,
+    "burn_rate": 6.917,
+    "incident_severity": 4.79
+  },
+  {
+    "canary_traffic_split": 6.025,
+    "canary_error_rate": 4.137,
+    "burn_rate": 3.511,
+    "incident_severity": 2.192
+  },
+  {
+    "canary_traffic_split": 12.458,
+    "canary_error_rate": 8.245,
+    "burn_rate": 6.697,
+    "incident_severity": 4.588
+  },
+  {
+    "canary_traffic_split": 15.288,
+    "canary_error_rate": 10.269,
+    "burn_rate": 8.145,
+    "incident_severity": 5.882
+  },
+  {
+    "canary_traffic_split": 12.254,
+    "canary_error_rate": 8.173,
+    "burn_rate": 6.21,
+    "incident_severity": 4.443
+  },
+  {
+    "canary_traffic_split": 8.585,
+    "canary_error_rate": 5.377,
+    "burn_rate": 4.162,
+    "incident_severity": 3.131
+  },
+  {
+    "canary_traffic_split": 13.56,
+    "canary_error_rate": 8.81,
+    "burn_rate": 7.222,
+    "incident_severity": 5.031
+  },
+  {
+    "canary_traffic_split": 10.847,
+    "canary_error_rate": 6.735,
+    "burn_rate": 5.428,
+    "incident_severity": 3.648
+  },
+  {
+    "canary_traffic_split": 9.334,
+    "canary_error_rate": 6.024,
+    "burn_rate": 4.683,
+    "incident_severity": 3.316
+  },
+  {
+    "canary_traffic_split": 8.371,
+    "canary_error_rate": 5.43,
+    "burn_rate": 3.738,
+    "incident_severity": 2.872
+  },
+  {
+    "canary_traffic_split": 6.987,
+    "canary_error_rate": 4.292,
+    "burn_rate": 3.322,
+    "incident_severity": 2.186
+  },
+  {
+    "canary_traffic_split": 7.306,
+    "canary_error_rate": 4.447,
+    "burn_rate": 3.617,
+    "incident_severity": 2.416
+  },
+  {
+    "canary_traffic_split": 10.011,
+    "canary_error_rate": 6.458,
+    "burn_rate": 4.981,
+    "incident_severity": 3.337
+  },
+  {
+    "canary_traffic_split": 12.198,
+    "canary_error_rate": 7.767,
+    "burn_rate": 6.199,
+    "incident_severity": 4.173
+  },
+  {
+    "canary_traffic_split": 10.583,
+    "canary_error_rate": 7.053,
+    "burn_rate": 5.829,
+    "incident_severity": 3.868
+  },
+  {
+    "canary_traffic_split": 7.792,
+    "canary_error_rate": 4.979,
+    "burn_rate": 3.977,
+    "incident_severity": 2.396
+  },
+  {
+    "canary_traffic_split": 9.185,
+    "canary_error_rate": 6.054,
+    "burn_rate": 4.832,
+    "incident_severity": 3.304
+  },
+  {
+    "canary_traffic_split": 8.271,
+    "canary_error_rate": 5.518,
+    "burn_rate": 4.357,
+    "incident_severity": 2.893
+  },
+  {
+    "canary_traffic_split": 12.373,
+    "canary_error_rate": 8.201,
+    "burn_rate": 6.28,
+    "incident_severity": 4.41
+  },
+  {
+    "canary_traffic_split": 11.766,
+    "canary_error_rate": 7.612,
+    "burn_rate": 5.965,
+    "incident_severity": 3.827
+  },
+  {
+    "canary_traffic_split": 13.24,
+    "canary_error_rate": 8.39,
+    "burn_rate": 6.574,
+    "incident_severity": 4.669
+  },
+  {
+    "canary_traffic_split": 8.358,
+    "canary_error_rate": 5.582,
+    "burn_rate": 4.533,
+    "incident_severity": 3.281
+  },
+  {
+    "canary_traffic_split": 10.213,
+    "canary_error_rate": 6.809,
+    "burn_rate": 5.502,
+    "incident_severity": 4.107
+  },
+  {
+    "canary_traffic_split": 10.269,
+    "canary_error_rate": 6.679,
+    "burn_rate": 5.289,
+    "incident_severity": 3.95
+  },
+  {
+    "canary_traffic_split": 10.217,
+    "canary_error_rate": 6.19,
+    "burn_rate": 4.889,
+    "incident_severity": 3.441
+  },
+  {
+    "canary_traffic_split": 12.722,
+    "canary_error_rate": 8.102,
+    "burn_rate": 6.461,
+    "incident_severity": 4.321
+  },
+  {
+    "canary_traffic_split": 10.236,
+    "canary_error_rate": 6.71,
+    "burn_rate": 5.253,
+    "incident_severity": 3.459
+  },
+  {
+    "canary_traffic_split": 10.375,
+    "canary_error_rate": 6.771,
+    "burn_rate": 5.177,
+    "incident_severity": 3.555
+  },
+  {
+    "canary_traffic_split": 10.644,
+    "canary_error_rate": 6.819,
+    "burn_rate": 5.647,
+    "incident_severity": 4.249
+  },
+  {
+    "canary_traffic_split": 11.526,
+    "canary_error_rate": 7.442,
+    "burn_rate": 5.847,
+    "incident_severity": 4.325
+  },
+  {
+    "canary_traffic_split": 8.945,
+    "canary_error_rate": 5.606,
+    "burn_rate": 4.535,
+    "incident_severity": 3.022
+  },
+  {
+    "canary_traffic_split": 9.917,
+    "canary_error_rate": 6.69,
+    "burn_rate": 5.68,
+    "incident_severity": 3.891
+  },
+  {
+    "canary_traffic_split": 9.87,
+    "canary_error_rate": 6.903,
+    "burn_rate": 5.629,
+    "incident_severity": 3.963
+  },
+  {
+    "canary_traffic_split": 8.457,
+    "canary_error_rate": 5.115,
+    "burn_rate": 4.041,
+    "incident_severity": 2.617
+  },
+  {
+    "canary_traffic_split": 9.228,
+    "canary_error_rate": 5.66,
+    "burn_rate": 4.415,
+    "incident_severity": 3.316
+  },
+  {
+    "canary_traffic_split": 6.879,
+    "canary_error_rate": 4.062,
+    "burn_rate": 3.287,
+    "incident_severity": 2.474
+  },
+  {
+    "canary_traffic_split": 7.521,
+    "canary_error_rate": 4.635,
+    "burn_rate": 3.548,
+    "incident_severity": 2.465
+  },
+  {
+    "canary_traffic_split": 13.323,
+    "canary_error_rate": 8.656,
+    "burn_rate": 7.037,
+    "incident_severity": 4.987
+  },
+  {
+    "canary_traffic_split": 13.236,
+    "canary_error_rate": 8.722,
+    "burn_rate": 7.168,
+    "incident_severity": 5.419
+  },
+  {
+    "canary_traffic_split": 8.463,
+    "canary_error_rate": 5.298,
+    "burn_rate": 4.114,
+    "incident_severity": 2.772
+  },
+  {
+    "canary_traffic_split": 10.415,
+    "canary_error_rate": 6.649,
+    "burn_rate": 5.233,
+    "incident_severity": 3.691
+  },
+  {
+    "canary_traffic_split": 11.128,
+    "canary_error_rate": 7.549,
+    "burn_rate": 5.571,
+    "incident_severity": 3.915
+  },
+  {
+    "canary_traffic_split": 13.077,
+    "canary_error_rate": 8.892,
+    "burn_rate": 7.32,
+    "incident_severity": 5.362
+  },
+  {
+    "canary_traffic_split": 11.595,
+    "canary_error_rate": 7.314,
+    "burn_rate": 5.837,
+    "incident_severity": 4.414
+  },
+  {
+    "canary_traffic_split": 13.561,
+    "canary_error_rate": 8.737,
+    "burn_rate": 6.943,
+    "incident_severity": 4.981
+  },
+  {
+    "canary_traffic_split": 11.82,
+    "canary_error_rate": 7.574,
+    "burn_rate": 6.023,
+    "incident_severity": 4.524
+  },
+  {
+    "canary_traffic_split": 10.121,
+    "canary_error_rate": 6.608,
+    "burn_rate": 5.153,
+    "incident_severity": 3.454
+  },
+  {
+    "canary_traffic_split": 11.515,
+    "canary_error_rate": 7.802,
+    "burn_rate": 6.363,
+    "incident_severity": 4.697
+  },
+  {
+    "canary_traffic_split": 10.596,
+    "canary_error_rate": 7.155,
+    "burn_rate": 5.542,
+    "incident_severity": 3.61
+  },
+  {
+    "canary_traffic_split": 8.805,
+    "canary_error_rate": 5.603,
+    "burn_rate": 4.738,
+    "incident_severity": 3.29
+  },
+  {
+    "canary_traffic_split": 13.318,
+    "canary_error_rate": 8.499,
+    "burn_rate": 6.833,
+    "incident_severity": 5.16
+  },
+  {
+    "canary_traffic_split": 11.095,
+    "canary_error_rate": 7.441,
+    "burn_rate": 5.996,
+    "incident_severity": 4.038
+  },
+  {
+    "canary_traffic_split": 9.503,
+    "canary_error_rate": 6.135,
+    "burn_rate": 4.889,
+    "incident_severity": 3.474
+  },
+  {
+    "canary_traffic_split": 11.828,
+    "canary_error_rate": 7.483,
+    "burn_rate": 5.794,
+    "incident_severity": 4.196
+  },
+  {
+    "canary_traffic_split": 11.194,
+    "canary_error_rate": 7.433,
+    "burn_rate": 5.709,
+    "incident_severity": 3.931
+  },
+  {
+    "canary_traffic_split": 8.142,
+    "canary_error_rate": 5.404,
+    "burn_rate": 4.373,
+    "incident_severity": 2.944
+  },
+  {
+    "canary_traffic_split": 6.4,
+    "canary_error_rate": 4.419,
+    "burn_rate": 3.692,
+    "incident_severity": 2.469
+  },
+  {
+    "canary_traffic_split": 12.068,
+    "canary_error_rate": 8.096,
+    "burn_rate": 6.477,
+    "incident_severity": 4.551
+  },
+  {
+    "canary_traffic_split": 9.562,
+    "canary_error_rate": 6.203,
+    "burn_rate": 4.756,
+    "incident_severity": 3.668
+  },
+  {
+    "canary_traffic_split": 8.969,
+    "canary_error_rate": 6.129,
+    "burn_rate": 4.902,
+    "incident_severity": 3.506
+  },
+  {
+    "canary_traffic_split": 11.177,
+    "canary_error_rate": 7.304,
+    "burn_rate": 5.793,
+    "incident_severity": 4.122
+  },
+  {
+    "canary_traffic_split": 8.377,
+    "canary_error_rate": 5.446,
+    "burn_rate": 4.246,
+    "incident_severity": 2.894
+  },
+  {
+    "canary_traffic_split": 13.563,
+    "canary_error_rate": 8.927,
+    "burn_rate": 6.847,
+    "incident_severity": 4.817
+  },
+  {
+    "canary_traffic_split": 8.318,
+    "canary_error_rate": 5.377,
+    "burn_rate": 4.04,
+    "incident_severity": 3.026
+  },
+  {
+    "canary_traffic_split": 11.15,
+    "canary_error_rate": 7.178,
+    "burn_rate": 5.72,
+    "incident_severity": 4.12
+  },
+  {
+    "canary_traffic_split": 9.311,
+    "canary_error_rate": 6.198,
+    "burn_rate": 5.209,
+    "incident_severity": 3.825
+  },
+  {
+    "canary_traffic_split": 11.746,
+    "canary_error_rate": 7.878,
+    "burn_rate": 6.361,
+    "incident_severity": 4.782
+  },
+  {
+    "canary_traffic_split": 11.961,
+    "canary_error_rate": 8.179,
+    "burn_rate": 6.009,
+    "incident_severity": 4.15
+  },
+  {
+    "canary_traffic_split": 8.367,
+    "canary_error_rate": 5.475,
+    "burn_rate": 4.773,
+    "incident_severity": 3.199
+  },
+  {
+    "canary_traffic_split": 8.67,
+    "canary_error_rate": 5.588,
+    "burn_rate": 4.655,
+    "incident_severity": 3.404
+  },
+  {
+    "canary_traffic_split": 9.503,
+    "canary_error_rate": 6.322,
+    "burn_rate": 5.175,
+    "incident_severity": 3.474
+  },
+  {
+    "canary_traffic_split": 9.248,
+    "canary_error_rate": 6.053,
+    "burn_rate": 4.768,
+    "incident_severity": 3.474
+  },
+  {
+    "canary_traffic_split": 8.579,
+    "canary_error_rate": 5.546,
+    "burn_rate": 4.723,
+    "incident_severity": 3.196
+  },
+  {
+    "canary_traffic_split": 13.77,
+    "canary_error_rate": 9.393,
+    "burn_rate": 7.348,
+    "incident_severity": 4.825
+  },
+  {
+    "canary_traffic_split": 7.315,
+    "canary_error_rate": 4.666,
+    "burn_rate": 3.778,
+    "incident_severity": 2.319
+  },
+  {
+    "canary_traffic_split": 13.995,
+    "canary_error_rate": 9.157,
+    "burn_rate": 7.207,
+    "incident_severity": 5.325
+  },
+  {
+    "canary_traffic_split": 10.836,
+    "canary_error_rate": 6.919,
+    "burn_rate": 5.279,
+    "incident_severity": 3.966
+  },
+  {
+    "canary_traffic_split": 11.285,
+    "canary_error_rate": 7.333,
+    "burn_rate": 5.415,
+    "incident_severity": 3.481
+  },
+  {
+    "canary_traffic_split": 11.993,
+    "canary_error_rate": 7.841,
+    "burn_rate": 6.464,
+    "incident_severity": 4.438
+  },
+  {
+    "canary_traffic_split": 10.206,
+    "canary_error_rate": 6.425,
+    "burn_rate": 5.066,
+    "incident_severity": 3.54
+  },
+  {
+    "canary_traffic_split": 10.449,
+    "canary_error_rate": 6.913,
+    "burn_rate": 5.763,
+    "incident_severity": 4.037
+  },
+  {
+    "canary_traffic_split": 12.522,
+    "canary_error_rate": 8.158,
+    "burn_rate": 6.477,
+    "incident_severity": 4.701
+  },
+  {
+    "canary_traffic_split": 7.734,
+    "canary_error_rate": 4.837,
+    "burn_rate": 3.786,
+    "incident_severity": 2.33
+  },
+  {
+    "canary_traffic_split": 7.201,
+    "canary_error_rate": 4.672,
+    "burn_rate": 3.673,
+    "incident_severity": 2.447
+  },
+  {
+    "canary_traffic_split": 10.203,
+    "canary_error_rate": 6.366,
+    "burn_rate": 4.891,
+    "incident_severity": 3.426
+  },
+  {
+    "canary_traffic_split": 8.299,
+    "canary_error_rate": 5.514,
+    "burn_rate": 4.654,
+    "incident_severity": 3.278
+  },
+  {
+    "canary_traffic_split": 9.087,
+    "canary_error_rate": 5.88,
+    "burn_rate": 4.41,
+    "incident_severity": 2.844
+  },
+  {
+    "canary_traffic_split": 11.052,
+    "canary_error_rate": 7.069,
+    "burn_rate": 5.894,
+    "incident_severity": 4.467
+  },
+  {
+    "canary_traffic_split": 10.56,
+    "canary_error_rate": 7.115,
+    "burn_rate": 5.645,
+    "incident_severity": 3.836
+  },
+  {
+    "canary_traffic_split": 11.45,
+    "canary_error_rate": 7.314,
+    "burn_rate": 5.4,
+    "incident_severity": 3.566
+  },
+  {
+    "canary_traffic_split": 11.743,
+    "canary_error_rate": 7.211,
+    "burn_rate": 5.806,
+    "incident_severity": 4.48
+  },
+  {
+    "canary_traffic_split": 9.588,
+    "canary_error_rate": 6.282,
+    "burn_rate": 5.012,
+    "incident_severity": 3.385
+  },
+  {
+    "canary_traffic_split": 10.425,
+    "canary_error_rate": 6.437,
+    "burn_rate": 5.068,
+    "incident_severity": 3.411
+  },
+  {
+    "canary_traffic_split": 12.996,
+    "canary_error_rate": 8.572,
+    "burn_rate": 7.325,
+    "incident_severity": 5.05
+  },
+  {
+    "canary_traffic_split": 10.101,
+    "canary_error_rate": 6.742,
+    "burn_rate": 5.596,
+    "incident_severity": 3.66
+  },
+  {
+    "canary_traffic_split": 9.852,
+    "canary_error_rate": 6.589,
+    "burn_rate": 5.26,
+    "incident_severity": 3.964
+  },
+  {
+    "canary_traffic_split": 9.713,
+    "canary_error_rate": 6.469,
+    "burn_rate": 4.954,
+    "incident_severity": 3.433
+  },
+  {
+    "canary_traffic_split": 10.63,
+    "canary_error_rate": 6.997,
+    "burn_rate": 5.623,
+    "incident_severity": 3.905
+  },
+  {
+    "canary_traffic_split": 12.2,
+    "canary_error_rate": 8.008,
+    "burn_rate": 6.271,
+    "incident_severity": 4.185
+  },
+  {
+    "canary_traffic_split": 7.487,
+    "canary_error_rate": 4.737,
+    "burn_rate": 3.617,
+    "incident_severity": 2.721
+  },
+  {
+    "canary_traffic_split": 11.051,
+    "canary_error_rate": 7.413,
+    "burn_rate": 5.587,
+    "incident_severity": 3.951
+  },
+  {
+    "canary_traffic_split": 7.209,
+    "canary_error_rate": 4.824,
+    "burn_rate": 3.718,
+    "incident_severity": 2.223
+  },
+  {
+    "canary_traffic_split": 10.226,
+    "canary_error_rate": 6.503,
+    "burn_rate": 4.99,
+    "incident_severity": 3.383
+  },
+  {
+    "canary_traffic_split": 8.314,
+    "canary_error_rate": 5.547,
+    "burn_rate": 4.359,
+    "incident_severity": 2.957
+  },
+  {
+    "canary_traffic_split": 10.576,
+    "canary_error_rate": 7.045,
+    "burn_rate": 5.363,
+    "incident_severity": 3.576
+  },
+  {
+    "canary_traffic_split": 7.92,
+    "canary_error_rate": 5.083,
+    "burn_rate": 3.992,
+    "incident_severity": 3.071
+  },
+  {
+    "canary_traffic_split": 8.566,
+    "canary_error_rate": 5.358,
+    "burn_rate": 4.314,
+    "incident_severity": 2.988
+  },
+  {
+    "canary_traffic_split": 8.247,
+    "canary_error_rate": 5.261,
+    "burn_rate": 4.458,
+    "incident_severity": 3.064
+  },
+  {
+    "canary_traffic_split": 12.841,
+    "canary_error_rate": 8.46,
+    "burn_rate": 6.802,
+    "incident_severity": 4.886
+  },
+  {
+    "canary_traffic_split": 9.516,
+    "canary_error_rate": 6.169,
+    "burn_rate": 5.359,
+    "incident_severity": 3.706
+  },
+  {
+    "canary_traffic_split": 11.308,
+    "canary_error_rate": 7.473,
+    "burn_rate": 5.888,
+    "incident_severity": 4.133
+  },
+  {
+    "canary_traffic_split": 10.142,
+    "canary_error_rate": 6.299,
+    "burn_rate": 5.022,
+    "incident_severity": 3.536
+  },
+  {
+    "canary_traffic_split": 6.317,
+    "canary_error_rate": 3.929,
+    "burn_rate": 3.046,
+    "incident_severity": 2.166
+  },
+  {
+    "canary_traffic_split": 11.766,
+    "canary_error_rate": 7.573,
+    "burn_rate": 6.278,
+    "incident_severity": 4.472
+  },
+  {
+    "canary_traffic_split": 12.804,
+    "canary_error_rate": 8.381,
+    "burn_rate": 6.578,
+    "incident_severity": 4.291
+  },
+  {
+    "canary_traffic_split": 10.328,
+    "canary_error_rate": 6.841,
+    "burn_rate": 5.379,
+    "incident_severity": 3.198
+  },
+  {
+    "canary_traffic_split": 10.657,
+    "canary_error_rate": 7.158,
+    "burn_rate": 5.995,
+    "incident_severity": 4.41
+  },
+  {
+    "canary_traffic_split": 8.028,
+    "canary_error_rate": 4.987,
+    "burn_rate": 3.995,
+    "incident_severity": 2.705
+  },
+  {
+    "canary_traffic_split": 10.711,
+    "canary_error_rate": 6.852,
+    "burn_rate": 5.621,
+    "incident_severity": 4.127
+  },
+  {
+    "canary_traffic_split": 9.913,
+    "canary_error_rate": 6.606,
+    "burn_rate": 5.393,
+    "incident_severity": 3.919
+  },
+  {
+    "canary_traffic_split": 11.906,
+    "canary_error_rate": 7.513,
+    "burn_rate": 6.174,
+    "incident_severity": 4.22
+  },
+  {
+    "canary_traffic_split": 10.776,
+    "canary_error_rate": 7.084,
+    "burn_rate": 5.433,
+    "incident_severity": 3.916
+  },
+  {
+    "canary_traffic_split": 9.481,
+    "canary_error_rate": 6.277,
+    "burn_rate": 5.1,
+    "incident_severity": 3.393
+  },
+  {
+    "canary_traffic_split": 11.79,
+    "canary_error_rate": 7.553,
+    "burn_rate": 6.266,
+    "incident_severity": 4.775
+  },
+  {
+    "canary_traffic_split": 10.968,
+    "canary_error_rate": 7.171,
+    "burn_rate": 5.832,
+    "incident_severity": 3.735
+  },
+  {
+    "canary_traffic_split": 11.117,
+    "canary_error_rate": 7.773,
+    "burn_rate": 6.258,
+    "incident_severity": 4.299
+  },
+  {
+    "canary_traffic_split": 12.802,
+    "canary_error_rate": 7.667,
+    "burn_rate": 6.133,
+    "incident_severity": 4.256
+  },
+  {
+    "canary_traffic_split": 11.388,
+    "canary_error_rate": 7.666,
+    "burn_rate": 6.205,
+    "incident_severity": 4.421
+  },
+  {
+    "canary_traffic_split": 10.105,
+    "canary_error_rate": 6.632,
+    "burn_rate": 5.503,
+    "incident_severity": 4.157
+  },
+  {
+    "canary_traffic_split": 16.427,
+    "canary_error_rate": 10.797,
+    "burn_rate": 8.649,
+    "incident_severity": 6.363
+  },
+  {
+    "canary_traffic_split": 7.481,
+    "canary_error_rate": 4.988,
+    "burn_rate": 4.418,
+    "incident_severity": 3.272
+  },
+  {
+    "canary_traffic_split": 10.071,
+    "canary_error_rate": 6.703,
+    "burn_rate": 5.42,
+    "incident_severity": 3.776
+  },
+  {
+    "canary_traffic_split": 11.021,
+    "canary_error_rate": 7.092,
+    "burn_rate": 5.835,
+    "incident_severity": 4.147
+  },
+  {
+    "canary_traffic_split": 5.811,
+    "canary_error_rate": 3.952,
+    "burn_rate": 3.207,
+    "incident_severity": 2.203
+  },
+  {
+    "canary_traffic_split": 9.893,
+    "canary_error_rate": 6.141,
+    "burn_rate": 4.908,
+    "incident_severity": 3.92
+  },
+  {
+    "canary_traffic_split": 6.481,
+    "canary_error_rate": 4.168,
+    "burn_rate": 3.478,
+    "incident_severity": 2.673
+  },
+  {
+    "canary_traffic_split": 6.538,
+    "canary_error_rate": 4.178,
+    "burn_rate": 3.362,
+    "incident_severity": 2.507
+  },
+  {
+    "canary_traffic_split": 6.675,
+    "canary_error_rate": 4.38,
+    "burn_rate": 3.677,
+    "incident_severity": 2.633
+  },
+  {
+    "canary_traffic_split": 9.337,
+    "canary_error_rate": 6.113,
+    "burn_rate": 4.806,
+    "incident_severity": 3.494
+  },
+  {
+    "canary_traffic_split": 9.025,
+    "canary_error_rate": 5.605,
+    "burn_rate": 4.135,
+    "incident_severity": 2.656
+  },
+  {
+    "canary_traffic_split": 8.692,
+    "canary_error_rate": 5.775,
+    "burn_rate": 4.612,
+    "incident_severity": 3.388
+  },
+  {
+    "canary_traffic_split": 7.786,
+    "canary_error_rate": 5.121,
+    "burn_rate": 3.92,
+    "incident_severity": 2.655
+  },
+  {
+    "canary_traffic_split": 14.838,
+    "canary_error_rate": 9.753,
+    "burn_rate": 8.478,
+    "incident_severity": 6.128
+  },
+  {
+    "canary_traffic_split": 11.458,
+    "canary_error_rate": 7.513,
+    "burn_rate": 6.218,
+    "incident_severity": 4.294
+  },
+  {
+    "canary_traffic_split": 12.684,
+    "canary_error_rate": 8.172,
+    "burn_rate": 6.457,
+    "incident_severity": 4.266
+  },
+  {
+    "canary_traffic_split": 8.927,
+    "canary_error_rate": 6.303,
+    "burn_rate": 5.194,
+    "incident_severity": 3.675
+  },
+  {
+    "canary_traffic_split": 10.739,
+    "canary_error_rate": 6.805,
+    "burn_rate": 5.85,
+    "incident_severity": 3.837
+  },
+  {
+    "canary_traffic_split": 9.989,
+    "canary_error_rate": 6.406,
+    "burn_rate": 4.889,
+    "incident_severity": 3.448
+  },
+  {
+    "canary_traffic_split": 8.643,
+    "canary_error_rate": 5.381,
+    "burn_rate": 4.392,
+    "incident_severity": 3.217
+  },
+  {
+    "canary_traffic_split": 7.505,
+    "canary_error_rate": 4.968,
+    "burn_rate": 3.944,
+    "incident_severity": 3.079
+  },
+  {
+    "canary_traffic_split": 13.256,
+    "canary_error_rate": 8.523,
+    "burn_rate": 7.006,
+    "incident_severity": 5.188
+  },
+  {
+    "canary_traffic_split": 8.739,
+    "canary_error_rate": 6.031,
+    "burn_rate": 4.414,
+    "incident_severity": 3.104
+  },
+  {
+    "canary_traffic_split": 12.786,
+    "canary_error_rate": 8.181,
+    "burn_rate": 6.651,
+    "incident_severity": 4.295
+  },
+  {
+    "canary_traffic_split": 10.13,
+    "canary_error_rate": 6.639,
+    "burn_rate": 5.28,
+    "incident_severity": 3.901
+  },
+  {
+    "canary_traffic_split": 11.839,
+    "canary_error_rate": 7.859,
+    "burn_rate": 6.426,
+    "incident_severity": 4.789
+  },
+  {
+    "canary_traffic_split": 10.036,
+    "canary_error_rate": 6.252,
+    "burn_rate": 4.879,
+    "incident_severity": 3.515
+  },
+  {
+    "canary_traffic_split": 12.885,
+    "canary_error_rate": 8.274,
+    "burn_rate": 6.846,
+    "incident_severity": 4.586
+  },
+  {
+    "canary_traffic_split": 6.884,
+    "canary_error_rate": 4.405,
+    "burn_rate": 3.7,
+    "incident_severity": 2.945
+  },
+  {
+    "canary_traffic_split": 8.176,
+    "canary_error_rate": 5.12,
+    "burn_rate": 4.21,
+    "incident_severity": 2.823
+  },
+  {
+    "canary_traffic_split": 7.767,
+    "canary_error_rate": 5.191,
+    "burn_rate": 4.074,
+    "incident_severity": 2.994
+  },
+  {
+    "canary_traffic_split": 8.71,
+    "canary_error_rate": 5.384,
+    "burn_rate": 4.017,
+    "incident_severity": 3.014
+  },
+  {
+    "canary_traffic_split": 9.039,
+    "canary_error_rate": 5.587,
+    "burn_rate": 4.522,
+    "incident_severity": 3.07
+  },
+  {
+    "canary_traffic_split": 6.333,
+    "canary_error_rate": 4.59,
+    "burn_rate": 3.427,
+    "incident_severity": 2.455
+  },
+  {
+    "canary_traffic_split": 10.67,
+    "canary_error_rate": 6.881,
+    "burn_rate": 5.691,
+    "incident_severity": 4.077
+  },
+  {
+    "canary_traffic_split": 10.479,
+    "canary_error_rate": 6.579,
+    "burn_rate": 5.432,
+    "incident_severity": 4.048
+  },
+  {
+    "canary_traffic_split": 10.877,
+    "canary_error_rate": 6.869,
+    "burn_rate": 5.539,
+    "incident_severity": 4.063
+  },
+  {
+    "canary_traffic_split": 9.031,
+    "canary_error_rate": 5.958,
+    "burn_rate": 4.68,
+    "incident_severity": 3.008
+  },
+  {
+    "canary_traffic_split": 9.32,
+    "canary_error_rate": 6.059,
+    "burn_rate": 4.789,
+    "incident_severity": 3.47
+  },
+  {
+    "canary_traffic_split": 12.541,
+    "canary_error_rate": 8.172,
+    "burn_rate": 6.388,
+    "incident_severity": 4.591
+  },
+  {
+    "canary_traffic_split": 11.035,
+    "canary_error_rate": 7.257,
+    "burn_rate": 5.795,
+    "incident_severity": 4.279
+  },
+  {
+    "canary_traffic_split": 11.315,
+    "canary_error_rate": 7.032,
+    "burn_rate": 5.752,
+    "incident_severity": 3.87
+  },
+  {
+    "canary_traffic_split": 10.521,
+    "canary_error_rate": 6.829,
+    "burn_rate": 5.568,
+    "incident_severity": 4.053
+  },
+  {
+    "canary_traffic_split": 12.986,
+    "canary_error_rate": 8.263,
+    "burn_rate": 6.428,
+    "incident_severity": 4.462
+  },
+  {
+    "canary_traffic_split": 10.373,
+    "canary_error_rate": 6.792,
+    "burn_rate": 5.4,
+    "incident_severity": 3.737
+  },
+  {
+    "canary_traffic_split": 10.888,
+    "canary_error_rate": 7.169,
+    "burn_rate": 6.03,
+    "incident_severity": 4.318
+  },
+  {
+    "canary_traffic_split": 13.509,
+    "canary_error_rate": 8.561,
+    "burn_rate": 6.742,
+    "incident_severity": 4.715
+  },
+  {
+    "canary_traffic_split": 11.801,
+    "canary_error_rate": 7.706,
+    "burn_rate": 6.161,
+    "incident_severity": 4.52
+  },
+  {
+    "canary_traffic_split": 11.245,
+    "canary_error_rate": 7.004,
+    "burn_rate": 5.826,
+    "incident_severity": 4.358
+  },
+  {
+    "canary_traffic_split": 3.829,
+    "canary_error_rate": 2.717,
+    "burn_rate": 2.39,
+    "incident_severity": 2.013
+  },
+  {
+    "canary_traffic_split": 9.061,
+    "canary_error_rate": 5.936,
+    "burn_rate": 4.926,
+    "incident_severity": 3.835
+  },
+  {
+    "canary_traffic_split": 11.453,
+    "canary_error_rate": 7.593,
+    "burn_rate": 6.335,
+    "incident_severity": 4.476
+  },
+  {
+    "canary_traffic_split": 11.076,
+    "canary_error_rate": 7.56,
+    "burn_rate": 5.989,
+    "incident_severity": 4.508
+  },
+  {
+    "canary_traffic_split": 9.053,
+    "canary_error_rate": 6.142,
+    "burn_rate": 4.985,
+    "incident_severity": 3.651
+  },
+  {
+    "canary_traffic_split": 11.542,
+    "canary_error_rate": 7.616,
+    "burn_rate": 6.196,
+    "incident_severity": 4.063
+  },
+  {
+    "canary_traffic_split": 10.75,
+    "canary_error_rate": 7.422,
+    "burn_rate": 5.776,
+    "incident_severity": 3.899
+  },
+  {
+    "canary_traffic_split": 11.364,
+    "canary_error_rate": 7.714,
+    "burn_rate": 6.113,
+    "incident_severity": 4.648
+  },
+  {
+    "canary_traffic_split": 8.64,
+    "canary_error_rate": 5.469,
+    "burn_rate": 4.189,
+    "incident_severity": 3.146
+  },
+  {
+    "canary_traffic_split": 9.123,
+    "canary_error_rate": 5.966,
+    "burn_rate": 4.762,
+    "incident_severity": 3.627
+  },
+  {
+    "canary_traffic_split": 9.808,
+    "canary_error_rate": 6.396,
+    "burn_rate": 5.14,
+    "incident_severity": 3.728
+  },
+  {
+    "canary_traffic_split": 11.157,
+    "canary_error_rate": 7.163,
+    "burn_rate": 5.939,
+    "incident_severity": 3.948
+  },
+  {
+    "canary_traffic_split": 12.453,
+    "canary_error_rate": 8.353,
+    "burn_rate": 6.201,
+    "incident_severity": 4.316
+  },
+  {
+    "canary_traffic_split": 8.992,
+    "canary_error_rate": 6.038,
+    "burn_rate": 4.603,
+    "incident_severity": 3.278
+  },
+  {
+    "canary_traffic_split": 11.638,
+    "canary_error_rate": 7.859,
+    "burn_rate": 5.932,
+    "incident_severity": 4.357
+  },
+  {
+    "canary_traffic_split": 10.897,
+    "canary_error_rate": 6.878,
+    "burn_rate": 5.418,
+    "incident_severity": 3.881
+  },
+  {
+    "canary_traffic_split": 8.49,
+    "canary_error_rate": 5.314,
+    "burn_rate": 4.278,
+    "incident_severity": 3.199
+  },
+  {
+    "canary_traffic_split": 9.965,
+    "canary_error_rate": 6.291,
+    "burn_rate": 4.982,
+    "incident_severity": 3.629
+  },
+  {
+    "canary_traffic_split": 6.46,
+    "canary_error_rate": 4.268,
+    "burn_rate": 3.975,
+    "incident_severity": 3.148
+  },
+  {
+    "canary_traffic_split": 8.623,
+    "canary_error_rate": 5.38,
+    "burn_rate": 4.128,
+    "incident_severity": 2.892
+  },
+  {
+    "canary_traffic_split": 10.016,
+    "canary_error_rate": 6.69,
+    "burn_rate": 5.03,
+    "incident_severity": 3.326
+  },
+  {
+    "canary_traffic_split": 10.325,
+    "canary_error_rate": 6.909,
+    "burn_rate": 5.669,
+    "incident_severity": 3.776
+  },
+  {
+    "canary_traffic_split": 8.736,
+    "canary_error_rate": 5.894,
+    "burn_rate": 4.993,
+    "incident_severity": 3.438
+  },
+  {
+    "canary_traffic_split": 7.292,
+    "canary_error_rate": 4.81,
+    "burn_rate": 3.735,
+    "incident_severity": 2.554
+  },
+  {
+    "canary_traffic_split": 10.599,
+    "canary_error_rate": 6.93,
+    "burn_rate": 5.544,
+    "incident_severity": 4.038
+  },
+  {
+    "canary_traffic_split": 7.455,
+    "canary_error_rate": 4.692,
+    "burn_rate": 3.835,
+    "incident_severity": 2.456
+  },
+  {
+    "canary_traffic_split": 10.214,
+    "canary_error_rate": 6.45,
+    "burn_rate": 5.277,
+    "incident_severity": 3.591
+  },
+  {
+    "canary_traffic_split": 14.407,
+    "canary_error_rate": 9.267,
+    "burn_rate": 7.33,
+    "incident_severity": 4.912
+  },
+  {
+    "canary_traffic_split": 11.511,
+    "canary_error_rate": 7.226,
+    "burn_rate": 6.032,
+    "incident_severity": 4.481
+  },
+  {
+    "canary_traffic_split": 5.642,
+    "canary_error_rate": 3.559,
+    "burn_rate": 2.835,
+    "incident_severity": 2.045
+  },
+  {
+    "canary_traffic_split": 4.542,
+    "canary_error_rate": 3.188,
+    "burn_rate": 2.229,
+    "incident_severity": 1.465
+  },
+  {
+    "canary_traffic_split": 7.621,
+    "canary_error_rate": 5.156,
+    "burn_rate": 4.151,
+    "incident_severity": 2.624
+  },
+  {
+    "canary_traffic_split": 9.003,
+    "canary_error_rate": 5.661,
+    "burn_rate": 4.263,
+    "incident_severity": 2.895
+  },
+  {
+    "canary_traffic_split": 11.632,
+    "canary_error_rate": 7.562,
+    "burn_rate": 6.042,
+    "incident_severity": 4.486
+  },
+  {
+    "canary_traffic_split": 8.91,
+    "canary_error_rate": 5.627,
+    "burn_rate": 4.625,
+    "incident_severity": 3.586
+  },
+  {
+    "canary_traffic_split": 7.493,
+    "canary_error_rate": 5.064,
+    "burn_rate": 4.097,
+    "incident_severity": 2.816
+  },
+  {
+    "canary_traffic_split": 9.759,
+    "canary_error_rate": 6.43,
+    "burn_rate": 5.481,
+    "incident_severity": 3.711
+  },
+  {
+    "canary_traffic_split": 9.1,
+    "canary_error_rate": 5.549,
+    "burn_rate": 4.693,
+    "incident_severity": 3.268
+  },
+  {
+    "canary_traffic_split": 10.545,
+    "canary_error_rate": 6.79,
+    "burn_rate": 5.527,
+    "incident_severity": 3.914
+  },
+  {
+    "canary_traffic_split": 11.248,
+    "canary_error_rate": 7.189,
+    "burn_rate": 5.869,
+    "incident_severity": 4.183
+  },
+  {
+    "canary_traffic_split": 8.81,
+    "canary_error_rate": 5.613,
+    "burn_rate": 4.357,
+    "incident_severity": 3.26
+  },
+  {
+    "canary_traffic_split": 11.157,
+    "canary_error_rate": 6.928,
+    "burn_rate": 5.565,
+    "incident_severity": 3.77
+  },
+  {
+    "canary_traffic_split": 8.656,
+    "canary_error_rate": 5.633,
+    "burn_rate": 4.556,
+    "incident_severity": 3.21
+  },
+  {
+    "canary_traffic_split": 6.802,
+    "canary_error_rate": 4.546,
+    "burn_rate": 3.591,
+    "incident_severity": 2.261
+  },
+  {
+    "canary_traffic_split": 6.368,
+    "canary_error_rate": 4.182,
+    "burn_rate": 3.363,
+    "incident_severity": 2.217
+  },
+  {
+    "canary_traffic_split": 10.68,
+    "canary_error_rate": 6.972,
+    "burn_rate": 5.624,
+    "incident_severity": 4.056
+  },
+  {
+    "canary_traffic_split": 12.433,
+    "canary_error_rate": 7.855,
+    "burn_rate": 6.601,
+    "incident_severity": 4.339
+  },
+  {
+    "canary_traffic_split": 9.949,
+    "canary_error_rate": 6.003,
+    "burn_rate": 4.509,
+    "incident_severity": 3.361
+  },
+  {
+    "canary_traffic_split": 11.67,
+    "canary_error_rate": 7.888,
+    "burn_rate": 6.081,
+    "incident_severity": 4.067
+  },
+  {
+    "canary_traffic_split": 11.985,
+    "canary_error_rate": 7.921,
+    "burn_rate": 6.471,
+    "incident_severity": 4.161
+  },
+  {
+    "canary_traffic_split": 10.213,
+    "canary_error_rate": 6.774,
+    "burn_rate": 5.331,
+    "incident_severity": 3.647
+  },
+  {
+    "canary_traffic_split": 10.624,
+    "canary_error_rate": 6.548,
+    "burn_rate": 5.12,
+    "incident_severity": 3.927
+  },
+  {
+    "canary_traffic_split": 11.217,
+    "canary_error_rate": 7.524,
+    "burn_rate": 6.046,
+    "incident_severity": 4.275
+  },
+  {
+    "canary_traffic_split": 10.141,
+    "canary_error_rate": 6.343,
+    "burn_rate": 5.174,
+    "incident_severity": 3.538
+  },
+  {
+    "canary_traffic_split": 7.566,
+    "canary_error_rate": 4.766,
+    "burn_rate": 3.891,
+    "incident_severity": 2.606
+  },
+  {
+    "canary_traffic_split": 14.097,
+    "canary_error_rate": 9.175,
+    "burn_rate": 7.191,
+    "incident_severity": 5.022
+  },
+  {
+    "canary_traffic_split": 9.155,
+    "canary_error_rate": 5.968,
+    "burn_rate": 4.802,
+    "incident_severity": 2.92
+  },
+  {
+    "canary_traffic_split": 6.393,
+    "canary_error_rate": 4.095,
+    "burn_rate": 3.179,
+    "incident_severity": 2.152
+  },
+  {
+    "canary_traffic_split": 9.835,
+    "canary_error_rate": 6.229,
+    "burn_rate": 4.92,
+    "incident_severity": 3.636
+  },
+  {
+    "canary_traffic_split": 13.997,
+    "canary_error_rate": 9.347,
+    "burn_rate": 7.379,
+    "incident_severity": 5.417
+  },
+  {
+    "canary_traffic_split": 6.636,
+    "canary_error_rate": 4.167,
+    "burn_rate": 3.118,
+    "incident_severity": 2.641
+  },
+  {
+    "canary_traffic_split": 8.969,
+    "canary_error_rate": 6.021,
+    "burn_rate": 4.835,
+    "incident_severity": 3.389
+  },
+  {
+    "canary_traffic_split": 9.766,
+    "canary_error_rate": 6.111,
+    "burn_rate": 4.663,
+    "incident_severity": 2.897
+  },
+  {
+    "canary_traffic_split": 9.562,
+    "canary_error_rate": 6.39,
+    "burn_rate": 5.309,
+    "incident_severity": 3.926
+  },
+  {
+    "canary_traffic_split": 13.309,
+    "canary_error_rate": 8.803,
+    "burn_rate": 6.933,
+    "incident_severity": 4.973
+  },
+  {
+    "canary_traffic_split": 12.326,
+    "canary_error_rate": 7.642,
+    "burn_rate": 6.068,
+    "incident_severity": 4.434
+  },
+  {
+    "canary_traffic_split": 11.018,
+    "canary_error_rate": 7.02,
+    "burn_rate": 5.766,
+    "incident_severity": 4.402
+  },
+  {
+    "canary_traffic_split": 11.512,
+    "canary_error_rate": 7.845,
+    "burn_rate": 6.347,
+    "incident_severity": 4.56
+  },
+  {
+    "canary_traffic_split": 8.825,
+    "canary_error_rate": 5.859,
+    "burn_rate": 4.834,
+    "incident_severity": 3.126
+  },
+  {
+    "canary_traffic_split": 8.325,
+    "canary_error_rate": 5.308,
+    "burn_rate": 4.33,
+    "incident_severity": 2.839
+  },
+  {
+    "canary_traffic_split": 9.917,
+    "canary_error_rate": 6.403,
+    "burn_rate": 4.893,
+    "incident_severity": 3.618
+  },
+  {
+    "canary_traffic_split": 8.671,
+    "canary_error_rate": 5.376,
+    "burn_rate": 4.406,
+    "incident_severity": 3.187
+  },
+  {
+    "canary_traffic_split": 11.365,
+    "canary_error_rate": 7.376,
+    "burn_rate": 6.014,
+    "incident_severity": 4.038
+  },
+  {
+    "canary_traffic_split": 10.954,
+    "canary_error_rate": 7.016,
+    "burn_rate": 5.713,
+    "incident_severity": 3.796
+  },
+  {
+    "canary_traffic_split": 9.237,
+    "canary_error_rate": 6.029,
+    "burn_rate": 5.096,
+    "incident_severity": 3.344
+  },
+  {
+    "canary_traffic_split": 13.621,
+    "canary_error_rate": 9.049,
+    "burn_rate": 7.091,
+    "incident_severity": 4.647
+  },
+  {
+    "canary_traffic_split": 9.422,
+    "canary_error_rate": 6.361,
+    "burn_rate": 5.175,
+    "incident_severity": 3.733
+  },
+  {
+    "canary_traffic_split": 8.473,
+    "canary_error_rate": 5.49,
+    "burn_rate": 4.631,
+    "incident_severity": 3.164
+  },
+  {
+    "canary_traffic_split": 10.548,
+    "canary_error_rate": 6.794,
+    "burn_rate": 5.282,
+    "incident_severity": 3.583
+  },
+  {
+    "canary_traffic_split": 8.96,
+    "canary_error_rate": 5.283,
+    "burn_rate": 4.349,
+    "incident_severity": 3.248
+  },
+  {
+    "canary_traffic_split": 9.286,
+    "canary_error_rate": 5.98,
+    "burn_rate": 4.713,
+    "incident_severity": 3.056
+  },
+  {
+    "canary_traffic_split": 12.129,
+    "canary_error_rate": 8.163,
+    "burn_rate": 6.228,
+    "incident_severity": 4.156
+  },
+  {
+    "canary_traffic_split": 7.694,
+    "canary_error_rate": 4.806,
+    "burn_rate": 3.645,
+    "incident_severity": 2.599
+  },
+  {
+    "canary_traffic_split": 7.952,
+    "canary_error_rate": 5.14,
+    "burn_rate": 4.49,
+    "incident_severity": 2.905
+  },
+  {
+    "canary_traffic_split": 8.417,
+    "canary_error_rate": 5.464,
+    "burn_rate": 3.847,
+    "incident_severity": 2.956
+  },
+  {
+    "canary_traffic_split": 12.455,
+    "canary_error_rate": 8.304,
+    "burn_rate": 6.652,
+    "incident_severity": 4.462
+  },
+  {
+    "canary_traffic_split": 11.416,
+    "canary_error_rate": 7.406,
+    "burn_rate": 5.804,
+    "incident_severity": 3.732
+  },
+  {
+    "canary_traffic_split": 10.712,
+    "canary_error_rate": 6.982,
+    "burn_rate": 5.601,
+    "incident_severity": 3.796
+  },
+  {
+    "canary_traffic_split": 13.416,
+    "canary_error_rate": 8.527,
+    "burn_rate": 6.727,
+    "incident_severity": 4.577
+  },
+  {
+    "canary_traffic_split": 12.71,
+    "canary_error_rate": 8.245,
+    "burn_rate": 6.206,
+    "incident_severity": 4.463
+  },
+  {
+    "canary_traffic_split": 13.134,
+    "canary_error_rate": 8.583,
+    "burn_rate": 6.874,
+    "incident_severity": 4.758
+  },
+  {
+    "canary_traffic_split": 9.138,
+    "canary_error_rate": 5.681,
+    "burn_rate": 4.788,
+    "incident_severity": 3.415
+  },
+  {
+    "canary_traffic_split": 13.055,
+    "canary_error_rate": 8.745,
+    "burn_rate": 7.023,
+    "incident_severity": 4.895
+  },
+  {
+    "canary_traffic_split": 11.613,
+    "canary_error_rate": 7.496,
+    "burn_rate": 6.22,
+    "incident_severity": 4.307
+  },
+  {
+    "canary_traffic_split": 12.049,
+    "canary_error_rate": 7.949,
+    "burn_rate": 6.015,
+    "incident_severity": 4.112
+  },
+  {
+    "canary_traffic_split": 5.892,
+    "canary_error_rate": 3.625,
+    "burn_rate": 3.111,
+    "incident_severity": 2.094
+  },
+  {
+    "canary_traffic_split": 11.391,
+    "canary_error_rate": 7.397,
+    "burn_rate": 5.981,
+    "incident_severity": 4.018
+  },
+  {
+    "canary_traffic_split": 9.72,
+    "canary_error_rate": 6.239,
+    "burn_rate": 4.863,
+    "incident_severity": 3.167
+  },
+  {
+    "canary_traffic_split": 9.595,
+    "canary_error_rate": 6.237,
+    "burn_rate": 4.97,
+    "incident_severity": 3.435
+  },
+  {
+    "canary_traffic_split": 8.638,
+    "canary_error_rate": 5.615,
+    "burn_rate": 4.524,
+    "incident_severity": 2.905
+  },
+  {
+    "canary_traffic_split": 9.154,
+    "canary_error_rate": 6.119,
+    "burn_rate": 5.233,
+    "incident_severity": 3.447
+  },
+  {
+    "canary_traffic_split": 10.901,
+    "canary_error_rate": 7.226,
+    "burn_rate": 5.812,
+    "incident_severity": 3.841
+  },
+  {
+    "canary_traffic_split": 10.055,
+    "canary_error_rate": 6.983,
+    "burn_rate": 5.486,
+    "incident_severity": 4.01
+  },
+  {
+    "canary_traffic_split": 13.363,
+    "canary_error_rate": 8.534,
+    "burn_rate": 6.691,
+    "incident_severity": 4.568
+  },
+  {
+    "canary_traffic_split": 8.933,
+    "canary_error_rate": 5.846,
+    "burn_rate": 4.682,
+    "incident_severity": 3.553
+  },
+  {
+    "canary_traffic_split": 10.175,
+    "canary_error_rate": 6.713,
+    "burn_rate": 5.454,
+    "incident_severity": 3.492
+  },
+  {
+    "canary_traffic_split": 9.09,
+    "canary_error_rate": 5.918,
+    "burn_rate": 4.643,
+    "incident_severity": 3.429
+  },
+  {
+    "canary_traffic_split": 10.18,
+    "canary_error_rate": 6.458,
+    "burn_rate": 5.173,
+    "incident_severity": 3.947
+  },
+  {
+    "canary_traffic_split": 9.559,
+    "canary_error_rate": 6.16,
+    "burn_rate": 5.093,
+    "incident_severity": 3.733
+  },
+  {
+    "canary_traffic_split": 11.668,
+    "canary_error_rate": 7.558,
+    "burn_rate": 5.915,
+    "incident_severity": 4.143
+  },
+  {
+    "canary_traffic_split": 8.34,
+    "canary_error_rate": 5.514,
+    "burn_rate": 4.134,
+    "incident_severity": 3.119
+  },
+  {
+    "canary_traffic_split": 8.857,
+    "canary_error_rate": 6.404,
+    "burn_rate": 5.381,
+    "incident_severity": 3.822
+  },
+  {
+    "canary_traffic_split": 9.882,
+    "canary_error_rate": 6.473,
+    "burn_rate": 5.167,
+    "incident_severity": 3.66
+  },
+  {
+    "canary_traffic_split": 7.21,
+    "canary_error_rate": 4.556,
+    "burn_rate": 3.502,
+    "incident_severity": 2.203
+  },
+  {
+    "canary_traffic_split": 7.632,
+    "canary_error_rate": 4.781,
+    "burn_rate": 3.66,
+    "incident_severity": 2.454
+  },
+  {
+    "canary_traffic_split": 11.889,
+    "canary_error_rate": 7.567,
+    "burn_rate": 5.75,
+    "incident_severity": 3.91
+  },
+  {
+    "canary_traffic_split": 7.13,
+    "canary_error_rate": 4.528,
+    "burn_rate": 3.404,
+    "incident_severity": 2.286
+  },
+  {
+    "canary_traffic_split": 10.48,
+    "canary_error_rate": 6.426,
+    "burn_rate": 5.134,
+    "incident_severity": 3.478
+  },
+  {
+    "canary_traffic_split": 11.726,
+    "canary_error_rate": 7.551,
+    "burn_rate": 5.767,
+    "incident_severity": 3.956
+  },
+  {
+    "canary_traffic_split": 8.316,
+    "canary_error_rate": 5.53,
+    "burn_rate": 4.58,
+    "incident_severity": 3.081
+  },
+  {
+    "canary_traffic_split": 10.989,
+    "canary_error_rate": 7.356,
+    "burn_rate": 6.123,
+    "incident_severity": 4.213
+  },
+  {
+    "canary_traffic_split": 8.468,
+    "canary_error_rate": 5.362,
+    "burn_rate": 4.324,
+    "incident_severity": 2.533
+  },
+  {
+    "canary_traffic_split": 7.28,
+    "canary_error_rate": 4.987,
+    "burn_rate": 3.937,
+    "incident_severity": 2.797
+  },
+  {
+    "canary_traffic_split": 10.053,
+    "canary_error_rate": 6.474,
+    "burn_rate": 5.016,
+    "incident_severity": 3.652
+  },
+  {
+    "canary_traffic_split": 14.052,
+    "canary_error_rate": 9.227,
+    "burn_rate": 7.286,
+    "incident_severity": 4.928
+  },
+  {
+    "canary_traffic_split": 10.213,
+    "canary_error_rate": 6.78,
+    "burn_rate": 5.589,
+    "incident_severity": 3.938
+  },
+  {
+    "canary_traffic_split": 6.939,
+    "canary_error_rate": 4.441,
+    "burn_rate": 3.508,
+    "incident_severity": 2.254
+  },
+  {
+    "canary_traffic_split": 9.068,
+    "canary_error_rate": 5.771,
+    "burn_rate": 4.569,
+    "incident_severity": 3.243
+  },
+  {
+    "canary_traffic_split": 8.089,
+    "canary_error_rate": 5.545,
+    "burn_rate": 4.632,
+    "incident_severity": 3.164
+  },
+  {
+    "canary_traffic_split": 9.314,
+    "canary_error_rate": 5.957,
+    "burn_rate": 4.676,
+    "incident_severity": 2.942
+  },
+  {
+    "canary_traffic_split": 9.977,
+    "canary_error_rate": 6.64,
+    "burn_rate": 5.195,
+    "incident_severity": 3.342
+  },
+  {
+    "canary_traffic_split": 9.795,
+    "canary_error_rate": 6.222,
+    "burn_rate": 5.069,
+    "incident_severity": 3.533
+  },
+  {
+    "canary_traffic_split": 9.027,
+    "canary_error_rate": 6.105,
+    "burn_rate": 5.092,
+    "incident_severity": 3.665
+  },
+  {
+    "canary_traffic_split": 8.074,
+    "canary_error_rate": 5.214,
+    "burn_rate": 4.04,
+    "incident_severity": 2.82
+  },
+  {
+    "canary_traffic_split": 5.142,
+    "canary_error_rate": 3.097,
+    "burn_rate": 2.702,
+    "incident_severity": 1.845
+  },
+  {
+    "canary_traffic_split": 11.611,
+    "canary_error_rate": 7.431,
+    "burn_rate": 5.752,
+    "incident_severity": 3.968
+  },
+  {
+    "canary_traffic_split": 10.108,
+    "canary_error_rate": 6.578,
+    "burn_rate": 5.423,
+    "incident_severity": 3.804
+  },
+  {
+    "canary_traffic_split": 10.774,
+    "canary_error_rate": 6.799,
+    "burn_rate": 5.295,
+    "incident_severity": 3.739
+  },
+  {
+    "canary_traffic_split": 11.208,
+    "canary_error_rate": 6.913,
+    "burn_rate": 5.543,
+    "incident_severity": 3.859
+  },
+  {
+    "canary_traffic_split": 12.119,
+    "canary_error_rate": 7.832,
+    "burn_rate": 5.945,
+    "incident_severity": 4.425
+  },
+  {
+    "canary_traffic_split": 14.832,
+    "canary_error_rate": 9.541,
+    "burn_rate": 7.548,
+    "incident_severity": 5.457
+  },
+  {
+    "canary_traffic_split": 10.057,
+    "canary_error_rate": 6.351,
+    "burn_rate": 4.92,
+    "incident_severity": 3.724
+  },
+  {
+    "canary_traffic_split": 9.51,
+    "canary_error_rate": 5.983,
+    "burn_rate": 4.834,
+    "incident_severity": 3.262
+  },
+  {
+    "canary_traffic_split": 9.714,
+    "canary_error_rate": 5.942,
+    "burn_rate": 5.208,
+    "incident_severity": 3.826
+  },
+  {
+    "canary_traffic_split": 10.386,
+    "canary_error_rate": 6.823,
+    "burn_rate": 5.392,
+    "incident_severity": 3.786
+  },
+  {
+    "canary_traffic_split": 11.557,
+    "canary_error_rate": 7.565,
+    "burn_rate": 6.124,
+    "incident_severity": 4.073
+  },
+  {
+    "canary_traffic_split": 9.197,
+    "canary_error_rate": 5.798,
+    "burn_rate": 4.593,
+    "incident_severity": 3.145
+  },
+  {
+    "canary_traffic_split": 12.512,
+    "canary_error_rate": 7.933,
+    "burn_rate": 6.113,
+    "incident_severity": 4.391
+  },
+  {
+    "canary_traffic_split": 10.253,
+    "canary_error_rate": 6.832,
+    "burn_rate": 5.635,
+    "incident_severity": 4.1
+  },
+  {
+    "canary_traffic_split": 12.178,
+    "canary_error_rate": 8.019,
+    "burn_rate": 6.594,
+    "incident_severity": 4.522
+  },
+  {
+    "canary_traffic_split": 3.897,
+    "canary_error_rate": 2.421,
+    "burn_rate": 1.974,
+    "incident_severity": 1.532
+  },
+  {
+    "canary_traffic_split": 10.495,
+    "canary_error_rate": 6.786,
+    "burn_rate": 5.302,
+    "incident_severity": 3.609
+  },
+  {
+    "canary_traffic_split": 8.523,
+    "canary_error_rate": 5.35,
+    "burn_rate": 4.156,
+    "incident_severity": 2.643
+  },
+  {
+    "canary_traffic_split": 13.971,
+    "canary_error_rate": 9.036,
+    "burn_rate": 7.328,
+    "incident_severity": 5.311
+  },
+  {
+    "canary_traffic_split": 9.514,
+    "canary_error_rate": 6.3,
+    "burn_rate": 5.032,
+    "incident_severity": 3.915
+  },
+  {
+    "canary_traffic_split": 10.601,
+    "canary_error_rate": 6.977,
+    "burn_rate": 5.709,
+    "incident_severity": 4.317
+  },
+  {
+    "canary_traffic_split": 12.011,
+    "canary_error_rate": 7.648,
+    "burn_rate": 5.974,
+    "incident_severity": 4.247
+  },
+  {
+    "canary_traffic_split": 11.242,
+    "canary_error_rate": 7.195,
+    "burn_rate": 5.687,
+    "incident_severity": 3.997
+  },
+  {
+    "canary_traffic_split": 10.081,
+    "canary_error_rate": 6.537,
+    "burn_rate": 5.476,
+    "incident_severity": 3.862
+  },
+  {
+    "canary_traffic_split": 10.002,
+    "canary_error_rate": 6.379,
+    "burn_rate": 4.999,
+    "incident_severity": 3.908
+  },
+  {
+    "canary_traffic_split": 9.757,
+    "canary_error_rate": 6.137,
+    "burn_rate": 4.584,
+    "incident_severity": 3.297
+  },
+  {
+    "canary_traffic_split": 6.809,
+    "canary_error_rate": 4.169,
+    "burn_rate": 3.348,
+    "incident_severity": 2.412
+  },
+  {
+    "canary_traffic_split": 14.635,
+    "canary_error_rate": 9.519,
+    "burn_rate": 7.893,
+    "incident_severity": 5.63
+  },
+  {
+    "canary_traffic_split": 10.813,
+    "canary_error_rate": 6.743,
+    "burn_rate": 5.484,
+    "incident_severity": 3.901
+  },
+  {
+    "canary_traffic_split": 12.175,
+    "canary_error_rate": 7.964,
+    "burn_rate": 6.377,
+    "incident_severity": 4.688
+  }
+]

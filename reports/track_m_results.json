@@ -1,0 +1,226 @@
+{
+  "benchmark": "Track M: Write-Path Memory Integrity",
+  "timestamp": "2026-09-12T18:17:24.799588+00:00",
+  "seeds_evaluated": [
+    42,
+    143,
+    244
+  ],
+  "cases_per_seed": 200,
+  "baseline_results": {
+    "contradiction_admission_rate": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "true_update_acceptance_rate": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "false_quarantine_rate": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "quarantine_precision": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "quarantine_recall": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "quarantine_f1": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "downstream_factuality": {
+      "mean": 0.32,
+      "ci_95": 0.0,
+      "min": 0.32,
+      "max": 0.32
+    }
+  },
+  "kernel_results": {
+    "contradiction_admission_rate": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "true_update_acceptance_rate": {
+      "mean": 0.4531,
+      "ci_95": 0.0,
+      "min": 0.4531,
+      "max": 0.4531
+    },
+    "false_quarantine_rate": {
+      "mean": 0.5469,
+      "ci_95": 0.0,
+      "min": 0.5469,
+      "max": 0.5469
+    },
+    "quarantine_precision": {
+      "mean": 0.886,
+      "ci_95": 0.0,
+      "min": 0.886,
+      "max": 0.886
+    },
+    "quarantine_recall": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "quarantine_f1": {
+      "mean": 0.9396,
+      "ci_95": 0.0,
+      "min": 0.9396,
+      "max": 0.9396
+    },
+    "downstream_factuality": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "seed_breakdown": [
+    {
+      "seed": 42,
+      "cases_evaluated": 200,
+      "baseline": {
+        "contradiction_admission_rate": 1.0,
+        "true_update_acceptance_rate": 1.0,
+        "false_quarantine_rate": 0.0,
+        "quarantine_precision": 0.0,
+        "quarantine_recall": 0.0,
+        "quarantine_f1": 0.0,
+        "downstream_factuality": 0.32,
+        "raw_counts": {
+          "total_candidates": 336,
+          "planted_contradictions": 272,
+          "legitimate_updates": 64,
+          "contradictions_admitted": 272,
+          "contradictions_quarantined": 0,
+          "legitimate_admitted": 64,
+          "legitimate_quarantined": 0,
+          "downstream_correct": 64
+        }
+      },
+      "kernel": {
+        "contradiction_admission_rate": 0.0,
+        "true_update_acceptance_rate": 0.453125,
+        "false_quarantine_rate": 0.546875,
+        "quarantine_precision": 0.8859934853420195,
+        "quarantine_recall": 1.0,
+        "quarantine_f1": 0.9395509499136442,
+        "downstream_factuality": 1.0,
+        "raw_counts": {
+          "total_candidates": 336,
+          "planted_contradictions": 272,
+          "legitimate_updates": 64,
+          "contradictions_admitted": 0,
+          "contradictions_quarantined": 272,
+          "legitimate_admitted": 29,
+          "legitimate_quarantined": 35,
+          "downstream_correct": 200
+        }
+      }
+    },
+    {
+      "seed": 143,
+      "cases_evaluated": 200,
+      "baseline": {
+        "contradiction_admission_rate": 1.0,
+        "true_update_acceptance_rate": 1.0,
+        "false_quarantine_rate": 0.0,
+        "quarantine_precision": 0.0,
+        "quarantine_recall": 0.0,
+        "quarantine_f1": 0.0,
+        "downstream_factuality": 0.32,
+        "raw_counts": {
+          "total_candidates": 336,
+          "planted_contradictions": 272,
+          "legitimate_updates": 64,
+          "contradictions_admitted": 272,
+          "contradictions_quarantined": 0,
+          "legitimate_admitted": 64,
+          "legitimate_quarantined": 0,
+          "downstream_correct": 64
+        }
+      },
+      "kernel": {
+        "contradiction_admission_rate": 0.0,
+        "true_update_acceptance_rate": 0.453125,
+        "false_quarantine_rate": 0.546875,
+        "quarantine_precision": 0.8859934853420195,
+        "quarantine_recall": 1.0,
+        "quarantine_f1": 0.9395509499136442,
+        "downstream_factuality": 1.0,
+        "raw_counts": {
+          "total_candidates": 336,
+          "planted_contradictions": 272,
+          "legitimate_updates": 64,
+          "contradictions_admitted": 0,
+          "contradictions_quarantined": 272,
+          "legitimate_admitted": 29,
+          "legitimate_quarantined": 35,
+          "downstream_correct": 200
+        }
+      }
+    },
+    {
+      "seed": 244,
+      "cases_evaluated": 200,
+      "baseline": {
+        "contradiction_admission_rate": 1.0,
+        "true_update_acceptance_rate": 1.0,
+        "false_quarantine_rate": 0.0,
+        "quarantine_precision": 0.0,
+        "quarantine_recall": 0.0,
+        "quarantine_f1": 0.0,
+        "downstream_factuality": 0.32,
+        "raw_counts": {
+          "total_candidates": 336,
+          "planted_contradictions": 272,
+          "legitimate_updates": 64,
+          "contradictions_admitted": 272,
+          "contradictions_quarantined": 0,
+          "legitimate_admitted": 64,
+          "legitimate_quarantined": 0,
+          "downstream_correct": 64
+        }
+      },
+      "kernel": {
+        "contradiction_admission_rate": 0.0,
+        "true_update_acceptance_rate": 0.453125,
+        "false_quarantine_rate": 0.546875,
+        "quarantine_precision": 0.8859934853420195,
+        "quarantine_recall": 1.0,
+        "quarantine_f1": 0.9395509499136442,
+        "downstream_factuality": 1.0,
+        "raw_counts": {
+          "total_candidates": 336,
+          "planted_contradictions": 272,
+          "legitimate_updates": 64,
+          "contradictions_admitted": 0,
+          "contradictions_quarantined": 272,
+          "legitimate_admitted": 29,
+          "legitimate_quarantined": 35,
+          "downstream_correct": 200
+        }
+      }
+    }
+  ]
+}

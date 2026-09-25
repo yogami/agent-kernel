@@ -1,0 +1,322 @@
+[
+  {
+    "case_id": "TC-OPE-001",
+    "domain": "Operational",
+    "scm_name": "cluster_autoscaling",
+    "graphml_file": "models/cluster_autoscaling.graphml",
+    "data_file": "data/cluster_autoscaling_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "replica_count",
+      "outcome": "p99_latency",
+      "effect": "reduce latency"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-OPE-006",
+    "domain": "Operational",
+    "scm_name": "network_latency_routing",
+    "graphml_file": "models/network_latency_routing.graphml",
+    "data_file": "data/network_latency_routing_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Planted unobserved hardware degradation inducing spurious dependency between routing_weight and rtt_latency.",
+    "proposed_intervention": {
+      "intervention": "routing_weight",
+      "outcome": "rtt_latency",
+      "effect": "reroute link"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-OPE-002",
+    "domain": "Operational",
+    "scm_name": "db_connection_pool",
+    "graphml_file": "models/db_connection_pool.graphml",
+    "data_file": "data/db_connection_pool_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "pool_size",
+      "outcome": "db_latency",
+      "effect": "drain connection queue"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-OPE-007",
+    "domain": "Operational",
+    "scm_name": "kafka_consumer_lag",
+    "graphml_file": "models/kafka_consumer_lag.graphml",
+    "data_file": "data/kafka_consumer_lag_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Direct unmodeled disk queue coupling directly linking partition_backlog to processing_delay.",
+    "proposed_intervention": {
+      "intervention": "assigned_workers",
+      "outcome": "processing_delay",
+      "effect": "scale workers"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-OPE-003",
+    "domain": "Operational",
+    "scm_name": "api_circuit_breaker",
+    "graphml_file": "models/api_circuit_breaker.graphml",
+    "data_file": "data/api_circuit_breaker_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "trip_threshold",
+      "outcome": "fallback_traffic",
+      "effect": "protect service"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-FIN-011",
+    "domain": "Financial",
+    "scm_name": "settlement_reconciliation",
+    "graphml_file": "models/settlement_reconciliation.graphml",
+    "data_file": "data/settlement_reconciliation_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Hidden exchange timing skew inducing unmodeled correlation between ledger_mismatch and dispute_flag.",
+    "proposed_intervention": {
+      "intervention": "auto_reconcile_tolerance",
+      "outcome": "dispute_flag",
+      "effect": "resolve breaks"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-OPE-004",
+    "domain": "Operational",
+    "scm_name": "cache_invalidation",
+    "graphml_file": "models/cache_invalidation.graphml",
+    "data_file": "data/cache_invalidation_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "invalidation_rate",
+      "outcome": "backend_cpu_load",
+      "effect": "balance freshness"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-FIN-012",
+    "domain": "Financial",
+    "scm_name": "trade_execution_slippage",
+    "graphml_file": "models/trade_execution_slippage.graphml",
+    "data_file": "data/trade_execution_slippage_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Unobserved high-frequency latency arbitrage breaking smart_router_split independence from slippage.",
+    "proposed_intervention": {
+      "intervention": "smart_router_split",
+      "outcome": "realized_slippage",
+      "effect": "minimize slippage"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-OPE-005",
+    "domain": "Operational",
+    "scm_name": "deploy_canary",
+    "graphml_file": "models/deploy_canary.graphml",
+    "data_file": "data/deploy_canary_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "canary_traffic_split",
+      "outcome": "incident_severity",
+      "effect": "prevent blast radius"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-FIN-013",
+    "domain": "Financial",
+    "scm_name": "insider_trading_signal",
+    "graphml_file": "models/insider_trading_signal.graphml",
+    "data_file": "data/insider_trading_signal_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Posited direct transmission options_skew -> investigation_priority absent in observational logs.",
+    "proposed_intervention": {
+      "intervention": "investigation_priority",
+      "outcome": "finra_referral",
+      "effect": "escalate case"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-FIN-008",
+    "domain": "Financial",
+    "scm_name": "fraud_scoring",
+    "graphml_file": "models/fraud_scoring.graphml",
+    "data_file": "data/fraud_scoring_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "mfa_challenge_policy",
+      "outcome": "fraud_probability",
+      "effect": "suppress account takeover"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-CLI-015",
+    "domain": "Clinical",
+    "scm_name": "icu_mortality_risk",
+    "graphml_file": "models/icu_mortality_risk.graphml",
+    "data_file": "data/icu_mortality_risk_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Hidden pre-existing COPD pathology coupling sofa_score directly to arterial_po2.",
+    "proposed_intervention": {
+      "intervention": "ventilator_peep_setting",
+      "outcome": "icu_mortality",
+      "effect": "titrate PEEP"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-FIN-009",
+    "domain": "Financial",
+    "scm_name": "credit_default_risk",
+    "graphml_file": "models/credit_default_risk.graphml",
+    "data_file": "data/credit_default_risk_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "collateral_ratio",
+      "outcome": "default_risk",
+      "effect": "mitigate credit loss"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-CLI-016",
+    "domain": "Clinical",
+    "scm_name": "drug_nephrotoxicity",
+    "graphml_file": "models/drug_nephrotoxicity.graphml",
+    "data_file": "data/drug_nephrotoxicity_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Omitted nephrotoxic NSAID co-administration confounding vancomycin_trough and acute_kidney_injury.",
+    "proposed_intervention": {
+      "intervention": "vancomycin_trough",
+      "outcome": "acute_kidney_injury",
+      "effect": "adjust dosing"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-FIN-010",
+    "domain": "Financial",
+    "scm_name": "kyc_verification_flow",
+    "graphml_file": "models/kyc_verification_flow.graphml",
+    "data_file": "data/kyc_verification_flow_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "manual_review_decision",
+      "outcome": "regulatory_approval",
+      "effect": "complete onboarding"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-CLI-018",
+    "domain": "Clinical",
+    "scm_name": "hypertensive_crisis",
+    "graphml_file": "models/hypertensive_crisis.graphml",
+    "data_file": "data/hypertensive_crisis_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Observational data exhibits zero correlation between sodium_intake and arterial_stiffness.",
+    "proposed_intervention": {
+      "intervention": "antihypertensive_dose",
+      "outcome": "blood_pressure_mmhg",
+      "effect": "lower blood pressure"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-CLI-014",
+    "domain": "Clinical",
+    "scm_name": "sepsis_early_warning",
+    "graphml_file": "models/sepsis_early_warning.graphml",
+    "data_file": "data/sepsis_early_warning_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "antibiotic_timing_hours",
+      "outcome": "septic_shock_mortality",
+      "effect": "accelerate therapy"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-CLI-019",
+    "domain": "Clinical",
+    "scm_name": "antibiotic_resistance",
+    "graphml_file": "models/antibiotic_resistance.graphml",
+    "data_file": "data/antibiotic_resistance_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Hidden prior hospitalization duration confounding antibiotic_exposure with treatment_failure.",
+    "proposed_intervention": {
+      "intervention": "antibiotic_exposure",
+      "outcome": "treatment_failure",
+      "effect": "optimize regimen"
+    },
+    "expected_decision": "intercept"
+  },
+  {
+    "case_id": "TC-CLI-017",
+    "domain": "Clinical",
+    "scm_name": "glucose_insulin_dynamics",
+    "graphml_file": "models/glucose_insulin_dynamics.graphml",
+    "data_file": "data/glucose_insulin_dynamics_data.json",
+    "sample_size": 500,
+    "is_falsified": false,
+    "falsified_mechanism_detail": null,
+    "proposed_intervention": {
+      "intervention": "insulin_infusion_units",
+      "outcome": "target_glucose",
+      "effect": "stabilize glucose"
+    },
+    "expected_decision": "allow"
+  },
+  {
+    "case_id": "TC-CLI-020",
+    "domain": "Clinical",
+    "scm_name": "postop_pulmonary_complications",
+    "graphml_file": "models/postop_pulmonary_complications.graphml",
+    "data_file": "data/postop_pulmonary_complications_data.json",
+    "sample_size": 500,
+    "is_falsified": true,
+    "falsified_mechanism_detail": "Uncontrolled pleural effusion directly driving icu_readmission independent of hypoxemia.",
+    "proposed_intervention": {
+      "intervention": "incentive_spirometry",
+      "outcome": "icu_readmission",
+      "effect": "prevent readmission"
+    },
+    "expected_decision": "intercept"
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "debt_to_income": 10.096,
+    "collateral_ratio": 12.36,
+    "credit_score": -6.367,
+    "default_risk": -3.561
+  },
+  {
+    "debt_to_income": 10.296,
+    "collateral_ratio": 12.518,
+    "credit_score": -6.512,
+    "default_risk": -3.968
+  },
+  {
+    "debt_to_income": 13.177,
+    "collateral_ratio": 9.35,
+    "credit_score": -8.834,
+    "default_risk": -0.003
+  },
+  {
+    "debt_to_income": 8.379,
+    "collateral_ratio": 9.027,
+    "credit_score": -5.243,
+    "default_risk": -2.391
+  },
+  {
+    "debt_to_income": 13.893,
+    "collateral_ratio": 9.603,
+    "credit_score": -8.878,
+    "default_risk": -0.036
+  },
+  {
+    "debt_to_income": 6.364,
+    "collateral_ratio": 10.511,
+    "credit_score": -4.015,
+    "default_risk": -4.098
+  },
+  {
+    "debt_to_income": 7.642,
+    "collateral_ratio": 12.601,
+    "credit_score": -4.664,
+    "default_risk": -5.474
+  },
+  {
+    "debt_to_income": 11.179,
+    "collateral_ratio": 13.168,
+    "credit_score": -7.619,
+    "default_risk": -3.359
+  },
+  {
+    "debt_to_income": 5.721,
+    "collateral_ratio": 10.813,
+    "credit_score": -3.347,
+    "default_risk": -5.091
+  },
+  {
+    "debt_to_income": 11.701,
+    "collateral_ratio": 6.716,
+    "credit_score": -7.709,
+    "default_risk": 1.013
+  },
+  {
+    "debt_to_income": 12.226,
+    "collateral_ratio": 9.807,
+    "credit_score": -7.734,
+    "default_risk": -1.043
+  },
+  {
+    "debt_to_income": 8.847,
+    "collateral_ratio": 10.682,
+    "credit_score": -5.656,
+    "default_risk": -3.259
+  },
+  {
+    "debt_to_income": 12.082,
+    "collateral_ratio": 8.569,
+    "credit_score": -7.772,
+    "default_risk": 0.0
+  },
+  {
+    "debt_to_income": 9.048,
+    "collateral_ratio": 10.307,
+    "credit_score": -5.857,
+    "default_risk": -3.112
+  },
+  {
+    "debt_to_income": 13.741,
+    "collateral_ratio": 9.582,
+    "credit_score": -8.779,
+    "default_risk": -0.786
+  },
+  {
+    "debt_to_income": 12.615,
+    "collateral_ratio": 8.807,
+    "credit_score": -8.436,
+    "default_risk": 0.103
+  },
+  {
+    "debt_to_income": 11.779,
+    "collateral_ratio": 5.806,
+    "credit_score": -7.471,
+    "default_risk": 1.205
+  },
+  {
+    "debt_to_income": 12.059,
+    "collateral_ratio": 10.358,
+    "credit_score": -7.612,
+    "default_risk": -1.403
+  },
+  {
+    "debt_to_income": 7.753,
+    "collateral_ratio": 8.763,
+    "credit_score": -4.95,
+    "default_risk": -2.533
+  },
+  {
+    "debt_to_income": 9.648,
+    "collateral_ratio": 7.366,
+    "credit_score": -6.144,
+    "default_risk": -0.009
+  },
+  {
+    "debt_to_income": 12.111,
+    "collateral_ratio": 10.739,
+    "credit_score": -8.135,
+    "default_risk": -1.476
+  },
+  {
+    "debt_to_income": 12.517,
+    "collateral_ratio": 9.715,
+    "credit_score": -8.01,
+    "default_risk": -0.902
+  },
+  {
+    "debt_to_income": 8.88,
+    "collateral_ratio": 10.131,
+    "credit_score": -5.906,
+    "default_risk": -2.823
+  },
+  {
+    "debt_to_income": 10.212,
+    "collateral_ratio": 9.046,
+    "credit_score": -7.13,
+    "default_risk": -0.872
+  },
+  {
+    "debt_to_income": 12.932,
+    "collateral_ratio": 10.208,
+    "credit_score": -8.547,
+    "default_risk": -1.024
+  },
+  {
+    "debt_to_income": 7.794,
+    "collateral_ratio": 9.168,
+    "credit_score": -4.908,
+    "default_risk": -2.778
+  },
+  {
+    "debt_to_income": 9.148,
+    "collateral_ratio": 7.153,
+    "credit_score": -5.977,
+    "default_risk": -0.75
+  },
+  {
+    "debt_to_income": 13.438,
+    "collateral_ratio": 10.364,
+    "credit_score": -8.799,
+    "default_risk": -0.312
+  },
+  {
+    "debt_to_income": 13.451,
+    "collateral_ratio": 9.72,
+    "credit_score": -9.067,
+    "default_risk": 0.222
+  },
+  {
+    "debt_to_income": 8.676,
+    "collateral_ratio": 11.154,
+    "credit_score": -5.902,
+    "default_risk": -3.507
+  },
+  {
+    "debt_to_income": 9.006,
+    "collateral_ratio": 7.666,
+    "credit_score": -6.131,
+    "default_risk": -0.589
+  },
+  {
+    "debt_to_income": 8.769,
+    "collateral_ratio": 12.438,
+    "credit_score": -5.594,
+    "default_risk": -4.507
+  },
+  {
+    "debt_to_income": 10.938,
+    "collateral_ratio": 8.969,
+    "credit_score": -7.166,
+    "default_risk": -0.869
+  },
+  {
+    "debt_to_income": 10.169,
+    "collateral_ratio": 8.223,
+    "credit_score": -6.457,
+    "default_risk": -0.865
+  },
+  {
+    "debt_to_income": 13.043,
+    "collateral_ratio": 8.581,
+    "credit_score": -7.982,
+    "default_risk": -0.011
+  },
+  {
+    "debt_to_income": 12.068,
+    "collateral_ratio": 11.01,
+    "credit_score": -8.186,
+    "default_risk": -1.643
+  },
+  {
+    "debt_to_income": 12.354,
+    "collateral_ratio": 12.899,
+    "credit_score": -8.08,
+    "default_risk": -2.646
+  },
+  {
+    "debt_to_income": 12.394,
+    "collateral_ratio": 8.816,
+    "credit_score": -7.759,
+    "default_risk": -0.349
+  },
+  {
+    "debt_to_income": 7.026,
+    "collateral_ratio": 11.281,
+    "credit_score": -4.546,
+    "default_risk": -4.58
+  },
+  {
+    "debt_to_income": 7.384,
+    "collateral_ratio": 8.813,
+    "credit_score": -4.553,
+    "default_risk": -2.877
+  },
+  {
+    "debt_to_income": 7.431,
+    "collateral_ratio": 7.738,
+    "credit_score": -4.618,
+    "default_risk": -1.619
+  },
+  {
+    "debt_to_income": 7.517,
+    "collateral_ratio": 8.613,
+    "credit_score": -4.749,
+    "default_risk": -2.266
+  },
+  {
+    "debt_to_income": 8.857,
+    "collateral_ratio": 10.732,
+    "credit_score": -5.396,
+    "default_risk": -3.605
+  },
+  {
+    "debt_to_income": 9.236,
+    "collateral_ratio": 10.202,
+    "credit_score": -5.904,
+    "default_risk": -2.724
+  },
+  {
+    "debt_to_income": 7.421,
+    "collateral_ratio": 9.888,
+    "credit_score": -4.644,
+    "default_risk": -3.669
+  },
+  {
+    "debt_to_income": 8.092,
+    "collateral_ratio": 8.546,
+    "credit_score": -4.893,
+    "default_risk": -2.363
+  },
+  {
+    "debt_to_income": 7.796,
+    "collateral_ratio": 12.796,
+    "credit_score": -4.849,
+    "default_risk": -5.395
+  },
+  {
+    "debt_to_income": 10.642,
+    "collateral_ratio": 10.379,
+    "credit_score": -6.784,
+    "default_risk": -2.205
+  },
+  {
+    "debt_to_income": 10.437,
+    "collateral_ratio": 8.765,
+    "credit_score": -6.765,
+    "default_risk": -0.945
+  },
+  {
+    "debt_to_income": 10.35,
+    "collateral_ratio": 9.196,
+    "credit_score": -7.086,
+    "default_risk": -1.058
+  },
+  {
+    "debt_to_income": 9.732,
+    "collateral_ratio": 9.954,
+    "credit_score": -5.951,
+    "default_risk": -2.465
+  },
+  {
+    "debt_to_income": 9.741,
+    "collateral_ratio": 10.792,
+    "credit_score": -6.677,
+    "default_risk": -2.602
+  },
+  {
+    "debt_to_income": 9.649,
+    "collateral_ratio": 11.013,
+    "credit_score": -6.183,
+    "default_risk": -2.863
+  },
+  {
+    "debt_to_income": 10.155,
+    "collateral_ratio": 9.182,
+    "credit_score": -6.58,
+    "default_risk": -1.794
+  },
+  {
+    "debt_to_income": 8.163,
+    "collateral_ratio": 9.302,
+    "credit_score": -5.074,
+    "default_risk": -2.659
+  },
+  {
+    "debt_to_income": 7.438,
+    "collateral_ratio": 11.59,
+    "credit_score": -4.723,
+    "default_risk": -4.525
+  },
+  {
+    "debt_to_income": 12.294,
+    "collateral_ratio": 10.271,
+    "credit_score": -7.761,
+    "default_risk": -1.279
+  },
+  {
+    "debt_to_income": 8.346,
+    "collateral_ratio": 10.692,
+    "credit_score": -5.259,
+    "default_risk": -3.121
+  },
+  {
+    "debt_to_income": 9.078,
+    "collateral_ratio": 10.113,
+    "credit_score": -6.2,
+    "default_risk": -2.589
+  },
+  {
+    "debt_to_income": 5.799,
+    "collateral_ratio": 10.313,
+    "credit_score": -3.61,
+    "default_risk": -4.768
+  },
+  {
+    "debt_to_income": 12.002,
+    "collateral_ratio": 10.332,
+    "credit_score": -7.923,
+    "default_risk": -1.298
+  },
+  {
+    "debt_to_income": 7.03,
+    "collateral_ratio": 10.001,
+    "credit_score": -4.564,
+    "default_risk": -3.915
+  },
+  {
+    "debt_to_income": 9.973,
+    "collateral_ratio": 8.311,
+    "credit_score": -6.662,
+    "default_risk": -0.974
+  },
+  {
+    "debt_to_income": 10.054,
+    "collateral_ratio": 8.982,
+    "credit_score": -6.393,
+    "default_risk": -1.209
+  },
+  {
+    "debt_to_income": 9.765,
+    "collateral_ratio": 8.575,
+    "credit_score": -6.308,
+    "default_risk": -1.615
+  },
+  {
+    "debt_to_income": 8.654,
+    "collateral_ratio": 8.228,
+    "credit_score": -5.49,
+    "default_risk": -1.591
+  },
+  {
+    "debt_to_income": 10.453,
+    "collateral_ratio": 5.387,
+    "credit_score": -6.766,
+    "default_risk": 1.351
+  },
+  {
+    "debt_to_income": 7.227,
+    "collateral_ratio": 13.856,
+    "credit_score": -4.6,
+    "default_risk": -5.793
+  },
+  {
+    "debt_to_income": 10.814,
+    "collateral_ratio": 6.257,
+    "credit_score": -6.729,
+    "default_risk": 0.65
+  },
+  {
+    "debt_to_income": 10.688,
+    "collateral_ratio": 12.018,
+    "credit_score": -7.183,
+    "default_risk": -2.847
+  },
+  {
+    "debt_to_income": 8.039,
+    "collateral_ratio": 12.582,
+    "credit_score": -5.086,
+    "default_risk": -4.966
+  },
+  {
+    "debt_to_income": 10.214,
+    "collateral_ratio": 11.205,
+    "credit_score": -6.641,
+    "default_risk": -3.271
+  },
+  {
+    "debt_to_income": 11.886,
+    "collateral_ratio": 11.275,
+    "credit_score": -7.575,
+    "default_risk": -2.203
+  },
+  {
+    "debt_to_income": 11.889,
+    "collateral_ratio": 12.422,
+    "credit_score": -7.53,
+    "default_risk": -3.378
+  },
+  {
+    "debt_to_income": 9.682,
+    "collateral_ratio": 12.029,
+    "credit_score": -6.258,
+    "default_risk": -3.434
+  },
+  {
+    "debt_to_income": 10.452,
+    "collateral_ratio": 13.381,
+    "credit_score": -7.042,
+    "default_risk": -4.038
+  },
+  {
+    "debt_to_income": 13.148,
+    "collateral_ratio": 6.726,
+    "credit_score": -8.582,
+    "default_risk": 2.048
+  },
+  {
+    "debt_to_income": 9.958,
+    "collateral_ratio": 10.292,
+    "credit_score": -6.396,
+    "default_risk": -2.512
+  },
+  {
+    "debt_to_income": 9.377,
+    "collateral_ratio": 13.121,
+    "credit_score": -5.978,
+    "default_risk": -4.861
+  },
+  {
+    "debt_to_income": 9.574,
+    "collateral_ratio": 8.037,
+    "credit_score": -5.971,
+    "default_risk": -1.119
+  },
+  {
+    "debt_to_income": 10.641,
+    "collateral_ratio": 11.213,
+    "credit_score": -7.157,
+    "default_risk": -2.324
+  },
+  {
+    "debt_to_income": 10.265,
+    "collateral_ratio": 11.381,
+    "credit_score": -6.817,
+    "default_risk": -2.922
+  },
+  {
+    "debt_to_income": 7.221,
+    "collateral_ratio": 8.886,
+    "credit_score": -4.843,
+    "default_risk": -2.188
+  },
+  {
+    "debt_to_income": 10.554,
+    "collateral_ratio": 9.884,
+    "credit_score": -6.772,
+    "default_risk": -1.801
+  },
+  {
+    "debt_to_income": 8.31,
+    "collateral_ratio": 10.091,
+    "credit_score": -5.467,
+    "default_risk": -3.541
+  },
+  {
+    "debt_to_income": 8.468,
+    "collateral_ratio": 10.462,
+    "credit_score": -5.424,
+    "default_risk": -2.823
+  },
+  {
+    "debt_to_income": 11.629,
+    "collateral_ratio": 6.227,
+    "credit_score": -7.339,
+    "default_risk": 1.145
+  },
+  {
+    "debt_to_income": 9.968,
+    "collateral_ratio": 8.189,
+    "credit_score": -6.284,
+    "default_risk": -0.782
+  },
+  {
+    "debt_to_income": 8.286,
+    "collateral_ratio": 11.808,
+    "credit_score": -5.522,
+    "default_risk": -4.186
+  },
+  {
+    "debt_to_income": 13.271,
+    "collateral_ratio": 10.454,
+    "credit_score": -8.603,
+    "default_risk": -1.205
+  },
+  {
+    "debt_to_income": 9.158,
+    "collateral_ratio": 11.597,
+    "credit_score": -6.087,
+    "default_risk": -3.691
+  },
+  {
+    "debt_to_income": 9.935,
+    "collateral_ratio": 7.579,
+    "credit_score": -6.844,
+    "default_risk": -0.242
+  },
+  {
+    "debt_to_income": 11.017,
+    "collateral_ratio": 10.925,
+    "credit_score": -7.549,
+    "default_risk": -2.042
+  },
+  {
+    "debt_to_income": 13.564,
+    "collateral_ratio": 7.985,
+    "credit_score": -8.76,
+    "default_risk": 1.145
+  },
+  {
+    "debt_to_income": 10.027,
+    "collateral_ratio": 11.436,
+    "credit_score": -6.468,
+    "default_risk": -3.051
+  },
+  {
+    "debt_to_income": 10.991,
+    "collateral_ratio": 7.777,
+    "credit_score": -6.868,
+    "default_risk": -0.342
+  },
+  {
+    "debt_to_income": 10.248,
+    "collateral_ratio": 5.36,
+    "credit_score": -6.8,
+    "default_risk": 1.305
+  },
+  {
+    "debt_to_income": 8.195,
+    "collateral_ratio": 11.191,
+    "credit_score": -5.193,
+    "default_risk": -3.724
+  },
+  {
+    "debt_to_income": 10.258,
+    "collateral_ratio": 8.241,
+    "credit_score": -6.576,
+    "default_risk": -0.822
+  },
+  {
+    "debt_to_income": 9.121,
+    "collateral_ratio": 11.0,
+    "credit_score": -6.443,
+    "default_risk": -2.758
+  },
+  {
+    "debt_to_income": 10.207,
+    "collateral_ratio": 11.855,
+    "credit_score": -6.73,
+    "default_risk": -3.322
+  },
+  {
+    "debt_to_income": 13.902,
+    "collateral_ratio": 5.871,
+    "credit_score": -8.837,
+    "default_risk": 2.534
+  },
+  {
+    "debt_to_income": 10.139,
+    "collateral_ratio": 9.634,
+    "credit_score": -6.932,
+    "default_risk": -1.67
+  },
+  {
+    "debt_to_income": 11.248,
+    "collateral_ratio": 9.623,
+    "credit_score": -7.07,
+    "default_risk": -1.553
+  },
+  {
+    "debt_to_income": 9.894,
+    "collateral_ratio": 8.566,
+    "credit_score": -6.213,
+    "default_risk": -1.267
+  },
+  {
+    "debt_to_income": 11.521,
+    "collateral_ratio": 9.83,
+    "credit_score": -6.922,
+    "default_risk": -1.752
+  },
+  {
+    "debt_to_income": 7.834,
+    "collateral_ratio": 10.398,
+    "credit_score": -5.05,
+    "default_risk": -3.507
+  },
+  {
+    "debt_to_income": 8.919,
+    "collateral_ratio": 9.414,
+    "credit_score": -5.806,
+    "default_risk": -2.468
+  },
+  {
+    "debt_to_income": 8.515,
+    "collateral_ratio": 8.684,
+    "credit_score": -5.274,
+    "default_risk": -2.391
+  },
+  {
+    "debt_to_income": 12.55,
+    "collateral_ratio": 10.408,
+    "credit_score": -8.06,
+    "default_risk": -0.788
+  },
+  {
+    "debt_to_income": 13.021,
+    "collateral_ratio": 8.151,
+    "credit_score": -8.671,
+    "default_risk": 0.422
+  },
+  {
+    "debt_to_income": 10.023,
+    "collateral_ratio": 11.667,
+    "credit_score": -6.269,
+    "default_risk": -3.619
+  },
+  {
+    "debt_to_income": 8.995,
+    "collateral_ratio": 13.736,
+    "credit_score": -5.863,
+    "default_risk": -5.245
+  },
+  {
+    "debt_to_income": 13.028,
+    "collateral_ratio": 8.748,
+    "credit_score": -8.478,
+    "default_risk": 0.152
+  },
+  {
+    "debt_to_income": 10.807,
+    "collateral_ratio": 10.081,
+    "credit_score": -7.021,
+    "default_risk": -1.846
+  },
+  {
+    "debt_to_income": 9.584,
+    "collateral_ratio": 11.731,
+    "credit_score": -6.367,
+    "default_risk": -3.349
+  },
+  {
+    "debt_to_income": 11.978,
+    "collateral_ratio": 11.39,
+    "credit_score": -7.601,
+    "default_risk": -2.19
+  },
+  {
+    "debt_to_income": 9.816,
+    "collateral_ratio": 10.834,
+    "credit_score": -6.108,
+    "default_risk": -2.826
+  },
+  {
+    "debt_to_income": 12.104,
+    "collateral_ratio": 11.071,
+    "credit_score": -8.187,
+    "default_risk": -1.909
+  },
+  {
+    "debt_to_income": 7.318,
+    "collateral_ratio": 7.761,
+    "credit_score": -4.689,
+    "default_risk": -1.988
+  },
+  {
+    "debt_to_income": 13.459,
+    "collateral_ratio": 11.171,
+    "credit_score": -8.777,
+    "default_risk": -1.012
+  },
+  {
+    "debt_to_income": 9.498,
+    "collateral_ratio": 11.059,
+    "credit_score": -6.35,
+    "default_risk": -2.838
+  },
+  {
+    "debt_to_income": 10.64,
+    "collateral_ratio": 8.729,
+    "credit_score": -6.697,
+    "default_risk": -0.925
+  },
+  {
+    "debt_to_income": 11.359,
+    "collateral_ratio": 8.427,
+    "credit_score": -7.489,
+    "default_risk": 0.116
+  },
+  {
+    "debt_to_income": 10.258,
+    "collateral_ratio": 9.563,
+    "credit_score": -6.464,
+    "default_risk": -1.673
+  },
+  {
+    "debt_to_income": 8.119,
+    "collateral_ratio": 11.364,
+    "credit_score": -5.362,
+    "default_risk": -3.881
+  },
+  {
+    "debt_to_income": 10.367,
+    "collateral_ratio": 5.826,
+    "credit_score": -6.871,
+    "default_risk": 0.967
+  },
+  {
+    "debt_to_income": 9.476,
+    "collateral_ratio": 8.439,
+    "credit_score": -5.95,
+    "default_risk": -1.272
+  },
+  {
+    "debt_to_income": 6.233,
+    "collateral_ratio": 8.079,
+    "credit_score": -4.142,
+    "default_risk": -2.496
+  },
+  {
+    "debt_to_income": 9.387,
+    "collateral_ratio": 9.718,
+    "credit_score": -6.185,
+    "default_risk": -1.63
+  },
+  {
+    "debt_to_income": 8.675,
+    "collateral_ratio": 11.349,
+    "credit_score": -5.555,
+    "default_risk": -3.799
+  },
+  {
+    "debt_to_income": 10.359,
+    "collateral_ratio": 6.779,
+    "credit_score": -6.642,
+    "default_risk": 0.183
+  },
+  {
+    "debt_to_income": 8.154,
+    "collateral_ratio": 10.593,
+    "credit_score": -5.18,
+    "default_risk": -3.521
+  },
+  {
+    "debt_to_income": 10.488,
+    "collateral_ratio": 10.59,
+    "credit_score": -6.91,
+    "default_risk": -2.531
+  },
+  {
+    "debt_to_income": 7.16,
+    "collateral_ratio": 12.377,
+    "credit_score": -4.465,
+    "default_risk": -5.647
+  },
+  {
+    "debt_to_income": 10.524,
+    "collateral_ratio": 11.809,
+    "credit_score": -6.806,
+    "default_risk": -3.113
+  },
+  {
+    "debt_to_income": 12.568,
+    "collateral_ratio": 9.801,
+    "credit_score": -8.297,
+    "default_risk": -0.855
+  },
+  {
+    "debt_to_income": 9.941,
+    "collateral_ratio": 10.348,
+    "credit_score": -6.519,
+    "default_risk": -2.154
+  },
+  {
+    "debt_to_income": 11.435,
+    "collateral_ratio": 10.554,
+    "credit_score": -7.374,
+    "default_risk": -1.904
+  },
+  {
+    "debt_to_income": 8.301,
+    "collateral_ratio": 8.793,
+    "credit_score": -5.465,
+    "default_risk": -2.317
+  },
+  {
+    "debt_to_income": 3.906,
+    "collateral_ratio": 14.098,
+    "credit_score": -2.5,
+    "default_risk": -8.203
+  },
+  {
+    "debt_to_income": 12.024,
+    "collateral_ratio": 7.187,
+    "credit_score": -7.603,
+    "default_risk": 0.649
+  },
+  {
+    "debt_to_income": 10.691,
+    "collateral_ratio": 12.244,
+    "credit_score": -7.072,
+    "default_risk": -3.445
+  },
+  {
+    "debt_to_income": 11.912,
+    "collateral_ratio": 11.374,
+    "credit_score": -7.681,
+    "default_risk": -2.181
+  },
+  {
+    "debt_to_income": 9.395,
+    "collateral_ratio": 8.606,
+    "credit_score": -5.748,
+    "default_risk": -1.944
+  },
+  {
+    "debt_to_income": 10.032,
+    "collateral_ratio": 9.001,
+    "credit_score": -6.488,
+    "default_risk": -1.202
+  },
+  {
+    "debt_to_income": 7.961,
+    "collateral_ratio": 9.109,
+    "credit_score": -5.051,
+    "default_risk": -2.587
+  },
+  {
+    "debt_to_income": 11.835,
+    "collateral_ratio": 9.074,
+    "credit_score": -8.141,
+    "default_risk": -0.281
+  },
+  {
+    "debt_to_income": 10.231,
+    "collateral_ratio": 12.037,
+    "credit_score": -6.738,
+    "default_risk": -3.498
+  },
+  {
+    "debt_to_income": 7.005,
+    "collateral_ratio": 11.606,
+    "credit_score": -4.455,
+    "default_risk": -5.095
+  },
+  {
+    "debt_to_income": 10.091,
+    "collateral_ratio": 9.694,
+    "credit_score": -6.32,
+    "default_risk": -1.924
+  },
+  {
+    "debt_to_income": 9.944,
+    "collateral_ratio": 9.345,
+    "credit_score": -6.68,
+    "default_risk": -1.395
+  },
+  {
+    "debt_to_income": 9.757,
+    "collateral_ratio": 10.334,
+    "credit_score": -6.593,
+    "default_risk": -2.363
+  },
+  {
+    "debt_to_income": 8.856,
+    "collateral_ratio": 9.506,
+    "credit_score": -5.776,
+    "default_risk": -2.274
+  },
+  {
+    "debt_to_income": 8.648,
+    "collateral_ratio": 9.701,
+    "credit_score": -6.05,
+    "default_risk": -2.246
+  },
+  {
+    "debt_to_income": 8.45,
+    "collateral_ratio": 10.294,
+    "credit_score": -5.619,
+    "default_risk": -3.302
+  },
+  {
+    "debt_to_income": 9.757,
+    "collateral_ratio": 12.481,
+    "credit_score": -6.336,
+    "default_risk": -4.103
+  },
+  {
+    "debt_to_income": 9.592,
+    "collateral_ratio": 8.369,
+    "credit_score": -6.453,
+    "default_risk": -0.879
+  },
+  {
+    "debt_to_income": 11.465,
+    "collateral_ratio": 9.829,
+    "credit_score": -7.56,
+    "default_risk": -0.557
+  },
+  {
+    "debt_to_income": 11.267,
+    "collateral_ratio": 10.752,
+    "credit_score": -7.417,
+    "default_risk": -2.172
+  },
+  {
+    "debt_to_income": 10.318,
+    "collateral_ratio": 8.762,
+    "credit_score": -6.649,
+    "default_risk": -1.303
+  },
+  {
+    "debt_to_income": 11.44,
+    "collateral_ratio": 12.128,
+    "credit_score": -7.441,
+    "default_risk": -2.713
+  },
+  {
+    "debt_to_income": 12.73,
+    "collateral_ratio": 7.336,
+    "credit_score": -8.382,
+    "default_risk": 0.918
+  },
+  {
+    "debt_to_income": 11.833,
+    "collateral_ratio": 10.183,
+    "credit_score": -7.644,
+    "default_risk": -1.734
+  },
+  {
+    "debt_to_income": 12.163,
+    "collateral_ratio": 10.086,
+    "credit_score": -8.003,
+    "default_risk": -1.306
+  },
+  {
+    "debt_to_income": 8.422,
+    "collateral_ratio": 10.585,
+    "credit_score": -5.525,
+    "default_risk": -3.261
+  },
+  {
+    "debt_to_income": 10.553,
+    "collateral_ratio": 9.646,
+    "credit_score": -6.671,
+    "default_risk": -1.29
+  },
+  {
+    "debt_to_income": 9.046,
+    "collateral_ratio": 9.532,
+    "credit_score": -5.868,
+    "default_risk": -2.054
+  },
+  {
+    "debt_to_income": 10.182,
+    "collateral_ratio": 10.144,
+    "credit_score": -6.551,
+    "default_risk": -2.166
+  },
+  {
+    "debt_to_income": 9.863,
+    "collateral_ratio": 12.715,
+    "credit_score": -6.319,
+    "default_risk": -3.948
+  },
+  {
+    "debt_to_income": 8.699,
+    "collateral_ratio": 11.839,
+    "credit_score": -5.816,
+    "default_risk": -3.913
+  },
+  {
+    "debt_to_income": 6.709,
+    "collateral_ratio": 6.65,
+    "credit_score": -4.718,
+    "default_risk": -1.43
+  },
+  {
+    "debt_to_income": 7.522,
+    "collateral_ratio": 9.939,
+    "credit_score": -5.044,
+    "default_risk": -3.027
+  },
+  {
+    "debt_to_income": 3.871,
+    "collateral_ratio": 11.158,
+    "credit_score": -2.81,
+    "default_risk": -5.678
+  },
+  {
+    "debt_to_income": 10.092,
+    "collateral_ratio": 9.127,
+    "credit_score": -6.357,
+    "default_risk": -1.583
+  },
+  {
+    "debt_to_income": 10.629,
+    "collateral_ratio": 12.061,
+    "credit_score": -6.858,
+    "default_risk": -3.05
+  },
+  {
+    "debt_to_income": 8.725,
+    "collateral_ratio": 10.589,
+    "credit_score": -5.694,
+    "default_risk": -3.66
+  },
+  {
+    "debt_to_income": 9.524,
+    "collateral_ratio": 12.402,
+    "credit_score": -6.463,
+    "default_risk": -3.483
+  },
+  {
+    "debt_to_income": 10.044,
+    "collateral_ratio": 10.372,
+    "credit_score": -6.26,
+    "default_risk": -2.752
+  },
+  {
+    "debt_to_income": 9.412,
+    "collateral_ratio": 10.102,
+    "credit_score": -6.224,
+    "default_risk": -2.201
+  },
+  {
+    "debt_to_income": 8.762,
+    "collateral_ratio": 9.451,
+    "credit_score": -5.751,
+    "default_risk": -2.21
+  },
+  {
+    "debt_to_income": 10.491,
+    "collateral_ratio": 11.173,
+    "credit_score": -7.037,
+    "default_risk": -2.405
+  },
+  {
+    "debt_to_income": 10.417,
+    "collateral_ratio": 8.939,
+    "credit_score": -6.663,
+    "default_risk": -1.362
+  },
+  {
+    "debt_to_income": 12.744,
+    "collateral_ratio": 10.591,
+    "credit_score": -7.897,
+    "default_risk": -1.774
+  },
+  {
+    "debt_to_income": 4.893,
+    "collateral_ratio": 10.195,
+    "credit_score": -2.991,
+    "default_risk": -5.018
+  },
+  {
+    "debt_to_income": 8.248,
+    "collateral_ratio": 7.232,
+    "credit_score": -5.334,
+    "default_risk": -1.129
+  },
+  {
+    "debt_to_income": 9.686,
+    "collateral_ratio": 10.226,
+    "credit_score": -6.085,
+    "default_risk": -2.535
+  },
+  {
+    "debt_to_income": 10.366,
+    "collateral_ratio": 10.376,
+    "credit_score": -6.643,
+    "default_risk": -2.288
+  },
+  {
+    "debt_to_income": 10.851,
+    "collateral_ratio": 7.924,
+    "credit_score": -7.279,
+    "default_risk": 0.012
+  },
+  {
+    "debt_to_income": 9.286,
+    "collateral_ratio": 9.172,
+    "credit_score": -5.616,
+    "default_risk": -2.396
+  },
+  {
+    "debt_to_income": 10.341,
+    "collateral_ratio": 7.879,
+    "credit_score": -6.767,
+    "default_risk": -0.477
+  },
+  {
+    "debt_to_income": 7.788,
+    "collateral_ratio": 11.898,
+    "credit_score": -5.334,
+    "default_risk": -4.609
+  },
+  {
+    "debt_to_income": 11.586,
+    "collateral_ratio": 14.63,
+    "credit_score": -7.43,
+    "default_risk": -4.638
+  },
+  {
+    "debt_to_income": 10.13,
+    "collateral_ratio": 9.676,
+    "credit_score": -6.283,
+    "default_risk": -2.077
+  },
+  {
+    "debt_to_income": 9.749,
+    "collateral_ratio": 12.118,
+    "credit_score": -6.15,
+    "default_risk": -3.74
+  },
+  {
+    "debt_to_income": 12.072,
+    "collateral_ratio": 12.641,
+    "credit_score": -7.61,
+    "default_risk": -3.222
+  },
+  {
+    "debt_to_income": 6.8,
+    "collateral_ratio": 11.756,
+    "credit_score": -4.271,
+    "default_risk": -5.108
+  },
+  {
+    "debt_to_income": 8.537,
+    "collateral_ratio": 5.233,
+    "credit_score": -5.605,
+    "default_risk": 0.458
+  },
+  {
+    "debt_to_income": 10.795,
+    "collateral_ratio": 9.2,
+    "credit_score": -7.12,
+    "default_risk": -0.983
+  },
+  {
+    "debt_to_income": 7.489,
+    "collateral_ratio": 12.527,
+    "credit_score": -4.759,
+    "default_risk": -5.014
+  },
+  {
+    "debt_to_income": 6.668,
+    "collateral_ratio": 11.769,
+    "credit_score": -4.519,
+    "default_risk": -4.767
+  },
+  {
+    "debt_to_income": 10.467,
+    "collateral_ratio": 12.545,
+    "credit_score": -6.776,
+    "default_risk": -3.853
+  },
+  {
+    "debt_to_income": 9.781,
+    "collateral_ratio": 8.574,
+    "credit_score": -6.323,
+    "default_risk": -1.186
+  },
+  {
+    "debt_to_income": 10.307,
+    "collateral_ratio": 11.92,
+    "credit_score": -6.748,
+    "default_risk": -3.066
+  },
+  {
+    "debt_to_income": 8.258,
+    "collateral_ratio": 7.472,
+    "credit_score": -5.232,
+    "default_risk": -1.3
+  },
+  {
+    "debt_to_income": 7.247,
+    "collateral_ratio": 6.403,
+    "credit_score": -4.53,
+    "default_risk": -0.899
+  },
+  {
+    "debt_to_income": 12.917,
+    "collateral_ratio": 14.106,
+    "credit_score": -8.064,
+    "default_risk": -3.855
+  },
+  {
+    "debt_to_income": 6.645,
+    "collateral_ratio": 8.739,
+    "credit_score": -4.222,
+    "default_risk": -3.093
+  },
+  {
+    "debt_to_income": 12.002,
+    "collateral_ratio": 8.644,
+    "credit_score": -7.757,
+    "default_risk": -0.16
+  },
+  {
+    "debt_to_income": 9.822,
+    "collateral_ratio": 10.033,
+    "credit_score": -6.37,
+    "default_risk": -2.417
+  },
+  {
+    "debt_to_income": 12.127,
+    "collateral_ratio": 6.991,
+    "credit_score": -8.38,
+    "default_risk": 1.579
+  },
+  {
+    "debt_to_income": 8.787,
+    "collateral_ratio": 10.935,
+    "credit_score": -5.942,
+    "default_risk": -3.602
+  },
+  {
+    "debt_to_income": 10.857,
+    "collateral_ratio": 8.313,
+    "credit_score": -6.97,
+    "default_risk": -0.37
+  },
+  {
+    "debt_to_income": 11.838,
+    "collateral_ratio": 9.701,
+    "credit_score": -7.792,
+    "default_risk": -0.392
+  },
+  {
+    "debt_to_income": 10.966,
+    "collateral_ratio": 7.985,
+    "credit_score": -7.201,
+    "default_risk": -0.243
+  },
+  {
+    "debt_to_income": 7.978,
+    "collateral_ratio": 8.626,
+    "credit_score": -5.158,
+    "default_risk": -2.024
+  },
+  {
+    "debt_to_income": 10.412,
+    "collateral_ratio": 10.768,
+    "credit_score": -6.948,
+    "default_risk": -2.365
+  },
+  {
+    "debt_to_income": 6.537,
+    "collateral_ratio": 8.678,
+    "credit_score": -3.965,
+    "default_risk": -2.907
+  },
+  {
+    "debt_to_income": 8.838,
+    "collateral_ratio": 13.561,
+    "credit_score": -5.385,
+    "default_risk": -5.123
+  },
+  {
+    "debt_to_income": 7.032,
+    "collateral_ratio": 9.4,
+    "credit_score": -4.791,
+    "default_risk": -2.937
+  },
+  {
+    "debt_to_income": 11.154,
+    "collateral_ratio": 10.043,
+    "credit_score": -7.069,
+    "default_risk": -1.878
+  },
+  {
+    "debt_to_income": 9.969,
+    "collateral_ratio": 14.049,
+    "credit_score": -6.232,
+    "default_risk": -5.421
+  },
+  {
+    "debt_to_income": 8.755,
+    "collateral_ratio": 11.298,
+    "credit_score": -5.739,
+    "default_risk": -3.794
+  },
+  {
+    "debt_to_income": 9.588,
+    "collateral_ratio": 8.995,
+    "credit_score": -6.147,
+    "default_risk": -1.518
+  },
+  {
+    "debt_to_income": 11.28,
+    "collateral_ratio": 9.055,
+    "credit_score": -7.41,
+    "default_risk": -0.793
+  },
+  {
+    "debt_to_income": 9.064,
+    "collateral_ratio": 9.368,
+    "credit_score": -6.126,
+    "default_risk": -1.885
+  },
+  {
+    "debt_to_income": 10.653,
+    "collateral_ratio": 6.683,
+    "credit_score": -7.47,
+    "default_risk": 0.941
+  },
+  {
+    "debt_to_income": 8.31,
+    "collateral_ratio": 11.189,
+    "credit_score": -5.179,
+    "default_risk": -4.22
+  },
+  {
+    "debt_to_income": 11.193,
+    "collateral_ratio": 11.477,
+    "credit_score": -6.887,
+    "default_risk": -3.221
+  },
+  {
+    "debt_to_income": 9.58,
+    "collateral_ratio": 10.34,
+    "credit_score": -6.126,
+    "default_risk": -2.788
+  },
+  {
+    "debt_to_income": 6.516,
+    "collateral_ratio": 10.388,
+    "credit_score": -4.209,
+    "default_risk": -3.716
+  },
+  {
+    "debt_to_income": 9.081,
+    "collateral_ratio": 11.802,
+    "credit_score": -5.809,
+    "default_risk": -3.649
+  },
+  {
+    "debt_to_income": 12.675,
+    "collateral_ratio": 15.049,
+    "credit_score": -8.25,
+    "default_risk": -4.404
+  },
+  {
+    "debt_to_income": 11.308,
+    "collateral_ratio": 10.17,
+    "credit_score": -7.366,
+    "default_risk": -1.863
+  },
+  {
+    "debt_to_income": 9.609,
+    "collateral_ratio": 7.455,
+    "credit_score": -6.479,
+    "default_risk": -0.273
+  },
+  {
+    "debt_to_income": 9.738,
+    "collateral_ratio": 8.178,
+    "credit_score": -6.279,
+    "default_risk": -1.482
+  },
+  {
+    "debt_to_income": 9.725,
+    "collateral_ratio": 8.231,
+    "credit_score": -6.543,
+    "default_risk": -0.898
+  },
+  {
+    "debt_to_income": 9.374,
+    "collateral_ratio": 10.05,
+    "credit_score": -5.854,
+    "default_risk": -2.489
+  },
+  {
+    "debt_to_income": 8.63,
+    "collateral_ratio": 11.511,
+    "credit_score": -5.567,
+    "default_risk": -4.044
+  },
+  {
+    "debt_to_income": 9.248,
+    "collateral_ratio": 10.353,
+    "credit_score": -5.619,
+    "default_risk": -2.731
+  },
+  {
+    "debt_to_income": 11.755,
+    "collateral_ratio": 8.168,
+    "credit_score": -7.622,
+    "default_risk": -0.24
+  },
+  {
+    "debt_to_income": 3.942,
+    "collateral_ratio": 9.333,
+    "credit_score": -2.32,
+    "default_risk": -4.628
+  },
+  {
+    "debt_to_income": 6.932,
+    "collateral_ratio": 10.681,
+    "credit_score": -4.482,
+    "default_risk": -3.961
+  },
+  {
+    "debt_to_income": 12.392,
+    "collateral_ratio": 12.848,
+    "credit_score": -7.929,
+    "default_risk": -2.995
+  },
+  {
+    "debt_to_income": 6.946,
+    "collateral_ratio": 12.721,
+    "credit_score": -4.637,
+    "default_risk": -5.742
+  },
+  {
+    "debt_to_income": 9.612,
+    "collateral_ratio": 12.101,
+    "credit_score": -6.152,
+    "default_risk": -3.989
+  },
+  {
+    "debt_to_income": 9.011,
+    "collateral_ratio": 11.294,
+    "credit_score": -5.874,
+    "default_risk": -3.491
+  },
+  {
+    "debt_to_income": 10.667,
+    "collateral_ratio": 10.377,
+    "credit_score": -7.204,
+    "default_risk": -1.736
+  },
+  {
+    "debt_to_income": 12.366,
+    "collateral_ratio": 6.63,
+    "credit_score": -7.974,
+    "default_risk": 1.558
+  },
+  {
+    "debt_to_income": 6.86,
+    "collateral_ratio": 9.416,
+    "credit_score": -4.494,
+    "default_risk": -3.424
+  },
+  {
+    "debt_to_income": 10.961,
+    "collateral_ratio": 7.329,
+    "credit_score": -7.447,
+    "default_risk": 0.09
+  },
+  {
+    "debt_to_income": 10.516,
+    "collateral_ratio": 9.099,
+    "credit_score": -6.84,
+    "default_risk": -1.272
+  },
+  {
+    "debt_to_income": 8.198,
+    "collateral_ratio": 10.483,
+    "credit_score": -5.497,
+    "default_risk": -3.465
+  },
+  {
+    "debt_to_income": 9.487,
+    "collateral_ratio": 11.206,
+    "credit_score": -5.77,
+    "default_risk": -3.47
+  },
+  {
+    "debt_to_income": 10.731,
+    "collateral_ratio": 8.398,
+    "credit_score": -6.981,
+    "default_risk": -0.538
+  },
+  {
+    "debt_to_income": 11.167,
+    "collateral_ratio": 8.191,
+    "credit_score": -7.154,
+    "default_risk": -0.24
+  },
+  {
+    "debt_to_income": 9.157,
+    "collateral_ratio": 9.489,
+    "credit_score": -6.042,
+    "default_risk": -2.116
+  },
+  {
+    "debt_to_income": 11.896,
+    "collateral_ratio": 11.627,
+    "credit_score": -7.888,
+    "default_risk": -2.472
+  },
+  {
+    "debt_to_income": 10.98,
+    "collateral_ratio": 9.233,
+    "credit_score": -7.142,
+    "default_risk": -1.0
+  },
+  {
+    "debt_to_income": 9.885,
+    "collateral_ratio": 8.881,
+    "credit_score": -6.281,
+    "default_risk": -1.22
+  },
+  {
+    "debt_to_income": 9.666,
+    "collateral_ratio": 8.555,
+    "credit_score": -6.619,
+    "default_risk": -0.801
+  },
+  {
+    "debt_to_income": 7.147,
+    "collateral_ratio": 10.157,
+    "credit_score": -4.976,
+    "default_risk": -3.107
+  },
+  {
+    "debt_to_income": 6.556,
+    "collateral_ratio": 8.611,
+    "credit_score": -4.349,
+    "default_risk": -2.823
+  },
+  {
+    "debt_to_income": 12.879,
+    "collateral_ratio": 10.075,
+    "credit_score": -8.361,
+    "default_risk": -0.926
+  },
+  {
+    "debt_to_income": 10.986,
+    "collateral_ratio": 7.287,
+    "credit_score": -7.187,
+    "default_risk": 0.061
+  },
+  {
+    "debt_to_income": 9.038,
+    "collateral_ratio": 9.594,
+    "credit_score": -5.852,
+    "default_risk": -2.596
+  },
+  {
+    "debt_to_income": 8.855,
+    "collateral_ratio": 9.592,
+    "credit_score": -5.54,
+    "default_risk": -2.618
+  },
+  {
+    "debt_to_income": 10.022,
+    "collateral_ratio": 9.342,
+    "credit_score": -6.472,
+    "default_risk": -1.542
+  },
+  {
+    "debt_to_income": 8.662,
+    "collateral_ratio": 9.072,
+    "credit_score": -5.341,
+    "default_risk": -2.345
+  },
+  {
+    "debt_to_income": 10.026,
+    "collateral_ratio": 9.51,
+    "credit_score": -6.799,
+    "default_risk": -1.426
+  },
+  {
+    "debt_to_income": 8.617,
+    "collateral_ratio": 12.258,
+    "credit_score": -5.833,
+    "default_risk": -3.988
+  },
+  {
+    "debt_to_income": 7.684,
+    "collateral_ratio": 7.135,
+    "credit_score": -4.89,
+    "default_risk": -1.129
+  },
+  {
+    "debt_to_income": 6.84,
+    "collateral_ratio": 12.07,
+    "credit_score": -4.319,
+    "default_risk": -5.566
+  },
+  {
+    "debt_to_income": 9.622,
+    "collateral_ratio": 8.171,
+    "credit_score": -6.368,
+    "default_risk": -1.223
+  },
+  {
+    "debt_to_income": 7.699,
+    "collateral_ratio": 8.806,
+    "credit_score": -5.334,
+    "default_risk": -2.534
+  },
+  {
+    "debt_to_income": 11.627,
+    "collateral_ratio": 10.534,
+    "credit_score": -7.611,
+    "default_risk": -1.777
+  },
+  {
+    "debt_to_income": 12.933,
+    "collateral_ratio": 8.639,
+    "credit_score": -8.595,
+    "default_risk": 0.272
+  },
+  {
+    "debt_to_income": 11.097,
+    "collateral_ratio": 8.907,
+    "credit_score": -7.529,
+    "default_risk": -0.791
+  },
+  {
+    "debt_to_income": 13.458,
+    "collateral_ratio": 10.571,
+    "credit_score": -8.893,
+    "default_risk": -0.717
+  },
+  {
+    "debt_to_income": 10.608,
+    "collateral_ratio": 12.189,
+    "credit_score": -6.766,
+    "default_risk": -3.643
+  },
+  {
+    "debt_to_income": 10.602,
+    "collateral_ratio": 7.601,
+    "credit_score": -7.072,
+    "default_risk": -0.076
+  },
+  {
+    "debt_to_income": 13.773,
+    "collateral_ratio": 10.092,
+    "credit_score": -9.026,
+    "default_risk": -0.202
+  },
+  {
+    "debt_to_income": 9.862,
+    "collateral_ratio": 12.192,
+    "credit_score": -6.461,
+    "default_risk": -3.603
+  },
+  {
+    "debt_to_income": 12.612,
+    "collateral_ratio": 10.177,
+    "credit_score": -8.301,
+    "default_risk": -0.585
+  },
+  {
+    "debt_to_income": 9.966,
+    "collateral_ratio": 12.636,
+    "credit_score": -6.406,
+    "default_risk": -3.916
+  },
+  {
+    "debt_to_income": 9.08,
+    "collateral_ratio": 9.077,
+    "credit_score": -6.069,
+    "default_risk": -1.709
+  },
+  {
+    "debt_to_income": 7.713,
+    "collateral_ratio": 12.927,
+    "credit_score": -4.782,
+    "default_risk": -5.617
+  },
+  {
+    "debt_to_income": 9.183,
+    "collateral_ratio": 9.234,
+    "credit_score": -5.873,
+    "default_risk": -1.904
+  },
+  {
+    "debt_to_income": 11.884,
+    "collateral_ratio": 9.017,
+    "credit_score": -7.783,
+    "default_risk": -0.654
+  },
+  {
+    "debt_to_income": 12.171,
+    "collateral_ratio": 6.797,
+    "credit_score": -7.88,
+    "default_risk": 1.106
+  },
+  {
+    "debt_to_income": 9.413,
+    "collateral_ratio": 9.562,
+    "credit_score": -6.411,
+    "default_risk": -1.933
+  },
+  {
+    "debt_to_income": 10.788,
+    "collateral_ratio": 9.253,
+    "credit_score": -7.09,
+    "default_risk": -1.023
+  },
+  {
+    "debt_to_income": 10.408,
+    "collateral_ratio": 10.477,
+    "credit_score": -6.747,
+    "default_risk": -1.951
+  },
+  {
+    "debt_to_income": 10.277,
+    "collateral_ratio": 13.159,
+    "credit_score": -7.192,
+    "default_risk": -3.458
+  },
+  {
+    "debt_to_income": 10.661,
+    "collateral_ratio": 11.971,
+    "credit_score": -6.985,
+    "default_risk": -2.977
+  },
+  {
+    "debt_to_income": 12.2,
+    "collateral_ratio": 13.401,
+    "credit_score": -8.133,
+    "default_risk": -3.458
+  },
+  {
+    "debt_to_income": 8.958,
+    "collateral_ratio": 9.368,
+    "credit_score": -5.636,
+    "default_risk": -2.297
+  },
+  {
+    "debt_to_income": 11.036,
+    "collateral_ratio": 11.259,
+    "credit_score": -7.231,
+    "default_risk": -2.744
+  },
+  {
+    "debt_to_income": 10.962,
+    "collateral_ratio": 10.558,
+    "credit_score": -7.131,
+    "default_risk": -2.118
+  },
+  {
+    "debt_to_income": 7.225,
+    "collateral_ratio": 7.125,
+    "credit_score": -4.828,
+    "default_risk": -1.233
+  },
+  {
+    "debt_to_income": 12.842,
+    "collateral_ratio": 8.342,
+    "credit_score": -8.625,
+    "default_risk": 0.62
+  },
+  {
+    "debt_to_income": 7.622,
+    "collateral_ratio": 10.08,
+    "credit_score": -4.834,
+    "default_risk": -3.773
+  },
+  {
+    "debt_to_income": 12.376,
+    "collateral_ratio": 9.577,
+    "credit_score": -7.932,
+    "default_risk": -0.583
+  },
+  {
+    "debt_to_income": 9.637,
+    "collateral_ratio": 11.39,
+    "credit_score": -6.339,
+    "default_risk": -2.891
+  },
+  {
+    "debt_to_income": 9.782,
+    "collateral_ratio": 8.701,
+    "credit_score": -6.135,
+    "default_risk": -1.051
+  },
+  {
+    "debt_to_income": 10.404,
+    "collateral_ratio": 10.369,
+    "credit_score": -6.525,
+    "default_risk": -2.106
+  },
+  {
+    "debt_to_income": 14.068,
+    "collateral_ratio": 11.216,
+    "credit_score": -9.395,
+    "default_risk": -0.506
+  },
+  {
+    "debt_to_income": 10.163,
+    "collateral_ratio": 10.017,
+    "credit_score": -6.067,
+    "default_risk": -2.413
+  },
+  {
+    "debt_to_income": 13.062,
+    "collateral_ratio": 9.086,
+    "credit_score": -8.941,
+    "default_risk": 0.564
+  },
+  {
+    "debt_to_income": 6.614,
+    "collateral_ratio": 7.685,
+    "credit_score": -4.26,
+    "default_risk": -2.385
+  },
+  {
+    "debt_to_income": 10.998,
+    "collateral_ratio": 6.844,
+    "credit_score": -7.1,
+    "default_risk": 0.567
+  },
+  {
+    "debt_to_income": 9.461,
+    "collateral_ratio": 9.331,
+    "credit_score": -6.218,
+    "default_risk": -1.607
+  },
+  {
+    "debt_to_income": 9.197,
+    "collateral_ratio": 8.667,
+    "credit_score": -6.009,
+    "default_risk": -1.57
+  },
+  {
+    "debt_to_income": 10.617,
+    "collateral_ratio": 8.94,
+    "credit_score": -6.932,
+    "default_risk": -1.445
+  },
+  {
+    "debt_to_income": 14.579,
+    "collateral_ratio": 12.524,
+    "credit_score": -9.561,
+    "default_risk": -1.56
+  },
+  {
+    "debt_to_income": 12.191,
+    "collateral_ratio": 10.618,
+    "credit_score": -7.974,
+    "default_risk": -1.58
+  },
+  {
+    "debt_to_income": 10.277,
+    "collateral_ratio": 9.547,
+    "credit_score": -6.603,
+    "default_risk": -1.865
+  },
+  {
+    "debt_to_income": 4.776,
+    "collateral_ratio": 12.77,
+    "credit_score": -2.999,
+    "default_risk": -6.633
+  },
+  {
+    "debt_to_income": 11.484,
+    "collateral_ratio": 12.955,
+    "credit_score": -7.641,
+    "default_risk": -3.54
+  },
+  {
+    "debt_to_income": 7.602,
+    "collateral_ratio": 12.882,
+    "credit_score": -5.206,
+    "default_risk": -4.879
+  },
+  {
+    "debt_to_income": 11.879,
+    "collateral_ratio": 9.85,
+    "credit_score": -7.361,
+    "default_risk": -0.83
+  },
+  {
+    "debt_to_income": 14.822,
+    "collateral_ratio": 8.089,
+    "credit_score": -9.696,
+    "default_risk": 1.451
+  },
+  {
+    "debt_to_income": 11.349,
+    "collateral_ratio": 7.454,
+    "credit_score": -7.361,
+    "default_risk": 0.209
+  },
+  {
+    "debt_to_income": 11.318,
+    "collateral_ratio": 12.755,
+    "credit_score": -7.372,
+    "default_risk": -3.33
+  },
+  {
+    "debt_to_income": 9.336,
+    "collateral_ratio": 7.042,
+    "credit_score": -5.683,
+    "default_risk": -0.745
+  },
+  {
+    "debt_to_income": 7.237,
+    "collateral_ratio": 8.474,
+    "credit_score": -4.665,
+    "default_risk": -2.322
+  },
+  {
+    "debt_to_income": 10.228,
+    "collateral_ratio": 11.359,
+    "credit_score": -6.514,
+    "default_risk": -3.176
+  },
+  {
+    "debt_to_income": 8.225,
+    "collateral_ratio": 7.514,
+    "credit_score": -5.338,
+    "default_risk": -1.3
+  },
+  {
+    "debt_to_income": 11.088,
+    "collateral_ratio": 8.767,
+    "credit_score": -7.024,
+    "default_risk": -0.902
+  },
+  {
+    "debt_to_income": 14.112,
+    "collateral_ratio": 10.557,
+    "credit_score": -8.945,
+    "default_risk": -0.366
+  },
+  {
+    "debt_to_income": 10.528,
+    "collateral_ratio": 11.398,
+    "credit_score": -6.846,
+    "default_risk": -2.728
+  },
+  {
+    "debt_to_income": 14.97,
+    "collateral_ratio": 7.868,
+    "credit_score": -9.583,
+    "default_risk": 1.655
+  },
+  {
+    "debt_to_income": 8.477,
+    "collateral_ratio": 8.547,
+    "credit_score": -5.602,
+    "default_risk": -2.216
+  },
+  {
+    "debt_to_income": 11.515,
+    "collateral_ratio": 13.009,
+    "credit_score": -7.751,
+    "default_risk": -3.159
+  },
+  {
+    "debt_to_income": 8.92,
+    "collateral_ratio": 5.195,
+    "credit_score": -5.803,
+    "default_risk": 0.323
+  },
+  {
+    "debt_to_income": 6.513,
+    "collateral_ratio": 8.527,
+    "credit_score": -4.321,
+    "default_risk": -2.69
+  },
+  {
+    "debt_to_income": 11.85,
+    "collateral_ratio": 11.842,
+    "credit_score": -7.837,
+    "default_risk": -2.786
+  },
+  {
+    "debt_to_income": 7.773,
+    "collateral_ratio": 8.489,
+    "credit_score": -5.013,
+    "default_risk": -2.507
+  },
+  {
+    "debt_to_income": 10.389,
+    "collateral_ratio": 11.218,
+    "credit_score": -6.529,
+    "default_risk": -2.861
+  },
+  {
+    "debt_to_income": 10.589,
+    "collateral_ratio": 8.129,
+    "credit_score": -6.933,
+    "default_risk": -0.585
+  },
+  {
+    "debt_to_income": 9.763,
+    "collateral_ratio": 10.582,
+    "credit_score": -6.015,
+    "default_risk": -2.86
+  },
+  {
+    "debt_to_income": 9.012,
+    "collateral_ratio": 7.314,
+    "credit_score": -5.696,
+    "default_risk": -0.923
+  },
+  {
+    "debt_to_income": 7.621,
+    "collateral_ratio": 11.465,
+    "credit_score": -4.967,
+    "default_risk": -4.445
+  },
+  {
+    "debt_to_income": 8.773,
+    "collateral_ratio": 8.8,
+    "credit_score": -5.565,
+    "default_risk": -1.717
+  },
+  {
+    "debt_to_income": 9.07,
+    "collateral_ratio": 8.749,
+    "credit_score": -5.7,
+    "default_risk": -1.863
+  },
+  {
+    "debt_to_income": 8.731,
+    "collateral_ratio": 11.446,
+    "credit_score": -5.563,
+    "default_risk": -4.121
+  },
+  {
+    "debt_to_income": 9.027,
+    "collateral_ratio": 9.277,
+    "credit_score": -5.853,
+    "default_risk": -2.167
+  },
+  {
+    "debt_to_income": 6.433,
+    "collateral_ratio": 11.285,
+    "credit_score": -4.212,
+    "default_risk": -4.785
+  },
+  {
+    "debt_to_income": 10.454,
+    "collateral_ratio": 10.633,
+    "credit_score": -6.504,
+    "default_risk": -2.625
+  },
+  {
+    "debt_to_income": 9.361,
+    "collateral_ratio": 8.18,
+    "credit_score": -5.853,
+    "default_risk": -1.479
+  },
+  {
+    "debt_to_income": 4.234,
+    "collateral_ratio": 7.685,
+    "credit_score": -3.081,
+    "default_risk": -2.857
+  },
+  {
+    "debt_to_income": 9.849,
+    "collateral_ratio": 6.513,
+    "credit_score": -6.373,
+    "default_risk": 0.553
+  },
+  {
+    "debt_to_income": 10.731,
+    "collateral_ratio": 12.848,
+    "credit_score": -6.935,
+    "default_risk": -4.088
+  },
+  {
+    "debt_to_income": 10.885,
+    "collateral_ratio": 8.085,
+    "credit_score": -6.887,
+    "default_risk": -0.237
+  },
+  {
+    "debt_to_income": 7.567,
+    "collateral_ratio": 12.453,
+    "credit_score": -5.023,
+    "default_risk": -5.096
+  },
+  {
+    "debt_to_income": 9.613,
+    "collateral_ratio": 9.546,
+    "credit_score": -6.57,
+    "default_risk": -1.802
+  },
+  {
+    "debt_to_income": 12.805,
+    "collateral_ratio": 11.355,
+    "credit_score": -7.996,
+    "default_risk": -1.981
+  },
+  {
+    "debt_to_income": 8.208,
+    "collateral_ratio": 7.573,
+    "credit_score": -5.401,
+    "default_risk": -1.529
+  },
+  {
+    "debt_to_income": 9.468,
+    "collateral_ratio": 8.675,
+    "credit_score": -6.1,
+    "default_risk": -1.289
+  },
+  {
+    "debt_to_income": 7.064,
+    "collateral_ratio": 10.522,
+    "credit_score": -4.356,
+    "default_risk": -3.99
+  },
+  {
+    "debt_to_income": 10.517,
+    "collateral_ratio": 5.04,
+    "credit_score": -6.948,
+    "default_risk": 1.568
+  },
+  {
+    "debt_to_income": 11.581,
+    "collateral_ratio": 8.824,
+    "credit_score": -7.428,
+    "default_risk": -0.505
+  },
+  {
+    "debt_to_income": 10.453,
+    "collateral_ratio": 10.218,
+    "credit_score": -6.761,
+    "default_risk": -1.995
+  },
+  {
+    "debt_to_income": 7.965,
+    "collateral_ratio": 5.951,
+    "credit_score": -4.999,
+    "default_risk": -0.33
+  },
+  {
+    "debt_to_income": 8.242,
+    "collateral_ratio": 12.622,
+    "credit_score": -5.324,
+    "default_risk": -5.199
+  },
+  {
+    "debt_to_income": 12.177,
+    "collateral_ratio": 9.576,
+    "credit_score": -7.986,
+    "default_risk": -1.032
+  },
+  {
+    "debt_to_income": 11.976,
+    "collateral_ratio": 10.494,
+    "credit_score": -7.723,
+    "default_risk": -1.67
+  },
+  {
+    "debt_to_income": 11.993,
+    "collateral_ratio": 14.159,
+    "credit_score": -7.415,
+    "default_risk": -4.889
+  },
+  {
+    "debt_to_income": 7.649,
+    "collateral_ratio": 9.588,
+    "credit_score": -4.941,
+    "default_risk": -2.769
+  },
+  {
+    "debt_to_income": 9.61,
+    "collateral_ratio": 7.647,
+    "credit_score": -6.404,
+    "default_risk": -0.778
+  },
+  {
+    "debt_to_income": 11.864,
+    "collateral_ratio": 12.109,
+    "credit_score": -7.961,
+    "default_risk": -2.468
+  },
+  {
+    "debt_to_income": 11.615,
+    "collateral_ratio": 7.728,
+    "credit_score": -7.385,
+    "default_risk": 0.472
+  },
+  {
+    "debt_to_income": 10.838,
+    "collateral_ratio": 12.23,
+    "credit_score": -7.247,
+    "default_risk": -3.06
+  },
+  {
+    "debt_to_income": 9.396,
+    "collateral_ratio": 8.999,
+    "credit_score": -6.041,
+    "default_risk": -1.945
+  },
+  {
+    "debt_to_income": 12.581,
+    "collateral_ratio": 8.763,
+    "credit_score": -8.308,
+    "default_risk": 0.399
+  },
+  {
+    "debt_to_income": 11.777,
+    "collateral_ratio": 11.718,
+    "credit_score": -7.686,
+    "default_risk": -2.324
+  },
+  {
+    "debt_to_income": 8.575,
+    "collateral_ratio": 14.102,
+    "credit_score": -5.601,
+    "default_risk": -5.708
+  },
+  {
+    "debt_to_income": 10.638,
+    "collateral_ratio": 11.517,
+    "credit_score": -6.994,
+    "default_risk": -2.781
+  },
+  {
+    "debt_to_income": 13.24,
+    "collateral_ratio": 7.735,
+    "credit_score": -8.522,
+    "default_risk": 1.101
+  },
+  {
+    "debt_to_income": 8.87,
+    "collateral_ratio": 12.904,
+    "credit_score": -5.33,
+    "default_risk": -4.904
+  },
+  {
+    "debt_to_income": 9.055,
+    "collateral_ratio": 5.917,
+    "credit_score": -5.906,
+    "default_risk": 0.245
+  },
+  {
+    "debt_to_income": 10.266,
+    "collateral_ratio": 12.217,
+    "credit_score": -6.779,
+    "default_risk": -3.574
+  },
+  {
+    "debt_to_income": 12.755,
+    "collateral_ratio": 8.409,
+    "credit_score": -8.079,
+    "default_risk": -0.108
+  },
+  {
+    "debt_to_income": 11.181,
+    "collateral_ratio": 11.514,
+    "credit_score": -7.227,
+    "default_risk": -2.802
+  },
+  {
+    "debt_to_income": 10.052,
+    "collateral_ratio": 6.944,
+    "credit_score": -6.482,
+    "default_risk": 0.148
+  },
+  {
+    "debt_to_income": 12.461,
+    "collateral_ratio": 9.623,
+    "credit_score": -8.219,
+    "default_risk": -0.447
+  },
+  {
+    "debt_to_income": 9.543,
+    "collateral_ratio": 10.279,
+    "credit_score": -6.238,
+    "default_risk": -2.601
+  },
+  {
+    "debt_to_income": 9.3,
+    "collateral_ratio": 11.509,
+    "credit_score": -5.9,
+    "default_risk": -3.698
+  },
+  {
+    "debt_to_income": 9.945,
+    "collateral_ratio": 8.273,
+    "credit_score": -6.387,
+    "default_risk": -1.491
+  },
+  {
+    "debt_to_income": 9.745,
+    "collateral_ratio": 9.34,
+    "credit_score": -6.297,
+    "default_risk": -1.612
+  },
+  {
+    "debt_to_income": 7.275,
+    "collateral_ratio": 10.145,
+    "credit_score": -4.876,
+    "default_risk": -3.188
+  },
+  {
+    "debt_to_income": 11.735,
+    "collateral_ratio": 11.341,
+    "credit_score": -7.844,
+    "default_risk": -2.141
+  },
+  {
+    "debt_to_income": 11.246,
+    "collateral_ratio": 9.669,
+    "credit_score": -7.593,
+    "default_risk": -1.237
+  },
+  {
+    "debt_to_income": 11.057,
+    "collateral_ratio": 10.493,
+    "credit_score": -7.164,
+    "default_risk": -1.845
+  },
+  {
+    "debt_to_income": 11.295,
+    "collateral_ratio": 7.756,
+    "credit_score": -7.14,
+    "default_risk": 0.094
+  },
+  {
+    "debt_to_income": 6.534,
+    "collateral_ratio": 9.364,
+    "credit_score": -4.09,
+    "default_risk": -3.511
+  },
+  {
+    "debt_to_income": 10.663,
+    "collateral_ratio": 8.811,
+    "credit_score": -6.659,
+    "default_risk": -1.311
+  },
+  {
+    "debt_to_income": 10.405,
+    "collateral_ratio": 7.324,
+    "credit_score": -6.936,
+    "default_risk": 0.385
+  },
+  {
+    "debt_to_income": 14.074,
+    "collateral_ratio": 7.036,
+    "credit_score": -8.842,
+    "default_risk": 1.825
+  },
+  {
+    "debt_to_income": 10.906,
+    "collateral_ratio": 10.825,
+    "credit_score": -6.935,
+    "default_risk": -2.391
+  },
+  {
+    "debt_to_income": 5.887,
+    "collateral_ratio": 8.794,
+    "credit_score": -4.191,
+    "default_risk": -2.91
+  },
+  {
+    "debt_to_income": 9.7,
+    "collateral_ratio": 8.531,
+    "credit_score": -6.082,
+    "default_risk": -1.602
+  },
+  {
+    "debt_to_income": 10.176,
+    "collateral_ratio": 8.585,
+    "credit_score": -6.324,
+    "default_risk": -1.431
+  },
+  {
+    "debt_to_income": 12.337,
+    "collateral_ratio": 8.142,
+    "credit_score": -8.033,
+    "default_risk": 0.495
+  },
+  {
+    "debt_to_income": 11.293,
+    "collateral_ratio": 11.34,
+    "credit_score": -7.159,
+    "default_risk": -2.263
+  },
+  {
+    "debt_to_income": 6.011,
+    "collateral_ratio": 9.24,
+    "credit_score": -4.126,
+    "default_risk": -3.423
+  },
+  {
+    "debt_to_income": 11.335,
+    "collateral_ratio": 10.833,
+    "credit_score": -7.266,
+    "default_risk": -2.23
+  },
+  {
+    "debt_to_income": 7.447,
+    "collateral_ratio": 8.319,
+    "credit_score": -4.673,
+    "default_risk": -2.268
+  },
+  {
+    "debt_to_income": 6.939,
+    "collateral_ratio": 13.167,
+    "credit_score": -4.555,
+    "default_risk": -6.083
+  },
+  {
+    "debt_to_income": 9.698,
+    "collateral_ratio": 8.047,
+    "credit_score": -6.389,
+    "default_risk": -0.684
+  },
+  {
+    "debt_to_income": 12.909,
+    "collateral_ratio": 6.404,
+    "credit_score": -8.059,
+    "default_risk": 1.772
+  },
+  {
+    "debt_to_income": 8.961,
+    "collateral_ratio": 9.563,
+    "credit_score": -5.935,
+    "default_risk": -2.243
+  },
+  {
+    "debt_to_income": 10.073,
+    "collateral_ratio": 11.999,
+    "credit_score": -5.962,
+    "default_risk": -3.725
+  },
+  {
+    "debt_to_income": 12.325,
+    "collateral_ratio": 10.438,
+    "credit_score": -8.162,
+    "default_risk": -1.188
+  },
+  {
+    "debt_to_income": 5.383,
+    "collateral_ratio": 12.173,
+    "credit_score": -3.209,
+    "default_risk": -6.244
+  },
+  {
+    "debt_to_income": 11.23,
+    "collateral_ratio": 8.654,
+    "credit_score": -7.283,
+    "default_risk": -0.555
+  },
+  {
+    "debt_to_income": 12.468,
+    "collateral_ratio": 10.577,
+    "credit_score": -7.901,
+    "default_risk": -1.349
+  },
+  {
+    "debt_to_income": 14.813,
+    "collateral_ratio": 7.755,
+    "credit_score": -9.764,
+    "default_risk": 1.623
+  },
+  {
+    "debt_to_income": 11.814,
+    "collateral_ratio": 6.023,
+    "credit_score": -7.341,
+    "default_risk": 1.412
+  },
+  {
+    "debt_to_income": 9.92,
+    "collateral_ratio": 10.92,
+    "credit_score": -6.452,
+    "default_risk": -2.489
+  },
+  {
+    "debt_to_income": 11.347,
+    "collateral_ratio": 8.906,
+    "credit_score": -7.405,
+    "default_risk": -0.643
+  },
+  {
+    "debt_to_income": 11.106,
+    "collateral_ratio": 8.21,
+    "credit_score": -7.15,
+    "default_risk": -0.328
+  },
+  {
+    "debt_to_income": 8.183,
+    "collateral_ratio": 10.194,
+    "credit_score": -5.421,
+    "default_risk": -2.962
+  },
+  {
+    "debt_to_income": 12.937,
+    "collateral_ratio": 5.298,
+    "credit_score": -8.697,
+    "default_risk": 2.503
+  },
+  {
+    "debt_to_income": 11.597,
+    "collateral_ratio": 10.062,
+    "credit_score": -8.037,
+    "default_risk": -0.952
+  },
+  {
+    "debt_to_income": 10.419,
+    "collateral_ratio": 9.527,
+    "credit_score": -6.658,
+    "default_risk": -1.666
+  },
+  {
+    "debt_to_income": 7.43,
+    "collateral_ratio": 10.313,
+    "credit_score": -4.743,
+    "default_risk": -3.68
+  },
+  {
+    "debt_to_income": 10.744,
+    "collateral_ratio": 12.988,
+    "credit_score": -7.086,
+    "default_risk": -3.685
+  },
+  {
+    "debt_to_income": 9.143,
+    "collateral_ratio": 10.394,
+    "credit_score": -5.654,
+    "default_risk": -2.62
+  },
+  {
+    "debt_to_income": 10.253,
+    "collateral_ratio": 8.681,
+    "credit_score": -6.653,
+    "default_risk": -1.35
+  },
+  {
+    "debt_to_income": 8.255,
+    "collateral_ratio": 10.104,
+    "credit_score": -5.52,
+    "default_risk": -2.837
+  },
+  {
+    "debt_to_income": 6.963,
+    "collateral_ratio": 7.511,
+    "credit_score": -4.195,
+    "default_risk": -2.059
+  },
+  {
+    "debt_to_income": 10.874,
+    "collateral_ratio": 8.93,
+    "credit_score": -6.888,
+    "default_risk": -1.083
+  },
+  {
+    "debt_to_income": 7.166,
+    "collateral_ratio": 6.831,
+    "credit_score": -4.679,
+    "default_risk": -1.512
+  },
+  {
+    "debt_to_income": 8.111,
+    "collateral_ratio": 6.59,
+    "credit_score": -5.335,
+    "default_risk": -0.622
+  },
+  {
+    "debt_to_income": 7.991,
+    "collateral_ratio": 7.749,
+    "credit_score": -5.475,
+    "default_risk": -1.305
+  },
+  {
+    "debt_to_income": 10.674,
+    "collateral_ratio": 15.786,
+    "credit_score": -6.202,
+    "default_risk": -6.555
+  },
+  {
+    "debt_to_income": 12.185,
+    "collateral_ratio": 10.676,
+    "credit_score": -7.872,
+    "default_risk": -1.46
+  },
+  {
+    "debt_to_income": 10.96,
+    "collateral_ratio": 9.642,
+    "credit_score": -7.097,
+    "default_risk": -1.364
+  },
+  {
+    "debt_to_income": 9.931,
+    "collateral_ratio": 10.137,
+    "credit_score": -6.695,
+    "default_risk": -1.867
+  },
+  {
+    "debt_to_income": 8.903,
+    "collateral_ratio": 9.702,
+    "credit_score": -6.01,
+    "default_risk": -2.242
+  },
+  {
+    "debt_to_income": 11.608,
+    "collateral_ratio": 8.193,
+    "credit_score": -8.173,
+    "default_risk": 0.37
+  },
+  {
+    "debt_to_income": 12.54,
+    "collateral_ratio": 9.486,
+    "credit_score": -8.191,
+    "default_risk": -0.361
+  },
+  {
+    "debt_to_income": 11.594,
+    "collateral_ratio": 7.195,
+    "credit_score": -7.449,
+    "default_risk": 0.748
+  },
+  {
+    "debt_to_income": 8.906,
+    "collateral_ratio": 11.363,
+    "credit_score": -5.945,
+    "default_risk": -3.368
+  },
+  {
+    "debt_to_income": 11.44,
+    "collateral_ratio": 7.765,
+    "credit_score": -7.132,
+    "default_risk": 0.064
+  },
+  {
+    "debt_to_income": 10.099,
+    "collateral_ratio": 10.598,
+    "credit_score": -6.501,
+    "default_risk": -2.563
+  },
+  {
+    "debt_to_income": 7.307,
+    "collateral_ratio": 8.928,
+    "credit_score": -5.061,
+    "default_risk": -2.422
+  },
+  {
+    "debt_to_income": 7.143,
+    "collateral_ratio": 9.821,
+    "credit_score": -4.573,
+    "default_risk": -3.325
+  },
+  {
+    "debt_to_income": 9.584,
+    "collateral_ratio": 9.564,
+    "credit_score": -5.948,
+    "default_risk": -2.163
+  },
+  {
+    "debt_to_income": 11.155,
+    "collateral_ratio": 13.571,
+    "credit_score": -6.998,
+    "default_risk": -4.468
+  },
+  {
+    "debt_to_income": 10.676,
+    "collateral_ratio": 5.447,
+    "credit_score": -6.929,
+    "default_risk": 1.269
+  },
+  {
+    "debt_to_income": 6.054,
+    "collateral_ratio": 12.718,
+    "credit_score": -4.081,
+    "default_risk": -5.788
+  },
+  {
+    "debt_to_income": 7.397,
+    "collateral_ratio": 10.777,
+    "credit_score": -5.068,
+    "default_risk": -3.987
+  },
+  {
+    "debt_to_income": 9.368,
+    "collateral_ratio": 7.399,
+    "credit_score": -6.19,
+    "default_risk": -0.705
+  },
+  {
+    "debt_to_income": 11.61,
+    "collateral_ratio": 6.315,
+    "credit_score": -7.761,
+    "default_risk": 1.249
+  },
+  {
+    "debt_to_income": 13.988,
+    "collateral_ratio": 10.871,
+    "credit_score": -8.824,
+    "default_risk": -0.978
+  },
+  {
+    "debt_to_income": 14.64,
+    "collateral_ratio": 10.849,
+    "credit_score": -9.225,
+    "default_risk": -0.937
+  },
+  {
+    "debt_to_income": 11.496,
+    "collateral_ratio": 13.676,
+    "credit_score": -7.713,
+    "default_risk": -3.803
+  },
+  {
+    "debt_to_income": 12.019,
+    "collateral_ratio": 7.298,
+    "credit_score": -7.544,
+    "default_risk": 0.585
+  },
+  {
+    "debt_to_income": 14.707,
+    "collateral_ratio": 9.485,
+    "credit_score": -9.852,
+    "default_risk": 0.945
+  },
+  {
+    "debt_to_income": 4.671,
+    "collateral_ratio": 7.401,
+    "credit_score": -2.932,
+    "default_risk": -3.131
+  },
+  {
+    "debt_to_income": 5.544,
+    "collateral_ratio": 5.395,
+    "credit_score": -3.177,
+    "default_risk": -1.649
+  },
+  {
+    "debt_to_income": 8.73,
+    "collateral_ratio": 6.851,
+    "credit_score": -5.56,
+    "default_risk": -0.777
+  },
+  {
+    "debt_to_income": 12.172,
+    "collateral_ratio": 8.916,
+    "credit_score": -7.901,
+    "default_risk": -0.195
+  },
+  {
+    "debt_to_income": 10.503,
+    "collateral_ratio": 11.108,
+    "credit_score": -6.775,
+    "default_risk": -3.025
+  },
+  {
+    "debt_to_income": 8.668,
+    "collateral_ratio": 8.641,
+    "credit_score": -5.629,
+    "default_risk": -2.048
+  },
+  {
+    "debt_to_income": 8.529,
+    "collateral_ratio": 10.801,
+    "credit_score": -5.641,
+    "default_risk": -3.658
+  },
+  {
+    "debt_to_income": 7.971,
+    "collateral_ratio": 10.13,
+    "credit_score": -5.396,
+    "default_risk": -2.822
+  },
+  {
+    "debt_to_income": 10.292,
+    "collateral_ratio": 8.218,
+    "credit_score": -6.979,
+    "default_risk": -0.759
+  },
+  {
+    "debt_to_income": 8.233,
+    "collateral_ratio": 8.7,
+    "credit_score": -5.626,
+    "default_risk": -2.013
+  },
+  {
+    "debt_to_income": 10.222,
+    "collateral_ratio": 8.577,
+    "credit_score": -6.696,
+    "default_risk": -0.752
+  },
+  {
+    "debt_to_income": 8.502,
+    "collateral_ratio": 11.226,
+    "credit_score": -5.405,
+    "default_risk": -3.82
+  },
+  {
+    "debt_to_income": 5.604,
+    "collateral_ratio": 11.072,
+    "credit_score": -3.888,
+    "default_risk": -4.894
+  },
+  {
+    "debt_to_income": 10.65,
+    "collateral_ratio": 12.58,
+    "credit_score": -6.939,
+    "default_risk": -3.236
+  },
+  {
+    "debt_to_income": 9.374,
+    "collateral_ratio": 9.27,
+    "credit_score": -6.08,
+    "default_risk": -1.9
+  },
+  {
+    "debt_to_income": 10.625,
+    "collateral_ratio": 9.419,
+    "credit_score": -7.089,
+    "default_risk": -1.36
+  },
+  {
+    "debt_to_income": 10.603,
+    "collateral_ratio": 11.237,
+    "credit_score": -6.849,
+    "default_risk": -3.218
+  },
+  {
+    "debt_to_income": 10.418,
+    "collateral_ratio": 7.367,
+    "credit_score": -6.696,
+    "default_risk": -0.242
+  },
+  {
+    "debt_to_income": 10.239,
+    "collateral_ratio": 12.306,
+    "credit_score": -6.713,
+    "default_risk": -3.972
+  },
+  {
+    "debt_to_income": 7.294,
+    "collateral_ratio": 11.913,
+    "credit_score": -5.022,
+    "default_risk": -4.555
+  },
+  {
+    "debt_to_income": 9.145,
+    "collateral_ratio": 12.353,
+    "credit_score": -6.288,
+    "default_risk": -4.206
+  },
+  {
+    "debt_to_income": 9.56,
+    "collateral_ratio": 10.573,
+    "credit_score": -6.085,
+    "default_risk": -3.08
+  },
+  {
+    "debt_to_income": 7.947,
+    "collateral_ratio": 8.461,
+    "credit_score": -4.837,
+    "default_risk": -2.236
+  },
+  {
+    "debt_to_income": 11.425,
+    "collateral_ratio": 8.032,
+    "credit_score": -7.393,
+    "default_risk": 0.272
+  },
+  {
+    "debt_to_income": 8.341,
+    "collateral_ratio": 4.193,
+    "credit_score": -5.36,
+    "default_risk": 1.011
+  },
+  {
+    "debt_to_income": 8.811,
+    "collateral_ratio": 10.551,
+    "credit_score": -5.539,
+    "default_risk": -3.329
+  },
+  {
+    "debt_to_income": 9.774,
+    "collateral_ratio": 14.366,
+    "credit_score": -6.487,
+    "default_risk": -4.753
+  },
+  {
+    "debt_to_income": 12.472,
+    "collateral_ratio": 7.277,
+    "credit_score": -8.14,
+    "default_risk": 1.205
+  },
+  {
+    "debt_to_income": 10.931,
+    "collateral_ratio": 10.964,
+    "credit_score": -6.88,
+    "default_risk": -2.517
+  },
+  {
+    "debt_to_income": 7.929,
+    "collateral_ratio": 11.519,
+    "credit_score": -5.032,
+    "default_risk": -4.381
+  },
+  {
+    "debt_to_income": 11.114,
+    "collateral_ratio": 7.548,
+    "credit_score": -7.271,
+    "default_risk": 0.292
+  },
+  {
+    "debt_to_income": 11.444,
+    "collateral_ratio": 5.75,
+    "credit_score": -7.667,
+    "default_risk": 1.834
+  },
+  {
+    "debt_to_income": 9.533,
+    "collateral_ratio": 9.942,
+    "credit_score": -6.36,
+    "default_risk": -2.533
+  },
+  {
+    "debt_to_income": 10.052,
+    "collateral_ratio": 8.943,
+    "credit_score": -6.113,
+    "default_risk": -1.469
+  },
+  {
+    "debt_to_income": 11.405,
+    "collateral_ratio": 9.146,
+    "credit_score": -7.377,
+    "default_risk": -0.708
+  },
+  {
+    "debt_to_income": 10.03,
+    "collateral_ratio": 7.188,
+    "credit_score": -6.657,
+    "default_risk": -0.154
+  },
+  {
+    "debt_to_income": 8.929,
+    "collateral_ratio": 7.403,
+    "credit_score": -5.571,
+    "default_risk": -1.058
+  },
+  {
+    "debt_to_income": 10.217,
+    "collateral_ratio": 12.185,
+    "credit_score": -6.769,
+    "default_risk": -3.358
+  },
+  {
+    "debt_to_income": 7.118,
+    "collateral_ratio": 10.143,
+    "credit_score": -4.544,
+    "default_risk": -3.657
+  }
+]

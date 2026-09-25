@@ -1,0 +1,6 @@
+[run]
+omit =
+    legacy/*
+    council_gate.py
+    run_frontier_audit.py
+

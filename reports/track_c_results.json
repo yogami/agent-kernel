@@ -1,0 +1,148 @@
+{
+  "benchmark": "Track C: Causal Pre-Flight Verification & Observational Falsification",
+  "timestamp": "2026-09-12T20:25:49.732898+00:00",
+  "seeds_evaluated": [
+    42,
+    143,
+    244
+  ],
+  "cases_per_seed": 20,
+  "baseline_results": {
+    "falsified_interception_rate": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "false_alarm_rate": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "precision": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "recall": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "f1_score": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "trace_propagation_rate": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  },
+  "kernel_results": {
+    "falsified_interception_rate": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "false_alarm_rate": {
+      "mean": 0.0,
+      "ci_95": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "precision": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "f1_score": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "trace_propagation_rate": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    }
+  },
+  "per_seed_runs": [
+    {
+      "seed": 42,
+      "cases_evaluated": 20,
+      "baseline": {
+        "falsified_interception_rate": 0.0,
+        "false_alarm_rate": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "trace_propagation_rate": 0.0
+      },
+      "kernel": {
+        "falsified_interception_rate": 1.0,
+        "false_alarm_rate": 0.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "trace_propagation_rate": 1.0
+      }
+    },
+    {
+      "seed": 143,
+      "cases_evaluated": 20,
+      "baseline": {
+        "falsified_interception_rate": 0.0,
+        "false_alarm_rate": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "trace_propagation_rate": 0.0
+      },
+      "kernel": {
+        "falsified_interception_rate": 1.0,
+        "false_alarm_rate": 0.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "trace_propagation_rate": 1.0
+      }
+    },
+    {
+      "seed": 244,
+      "cases_evaluated": 20,
+      "baseline": {
+        "falsified_interception_rate": 0.0,
+        "false_alarm_rate": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "trace_propagation_rate": 0.0
+      },
+      "kernel": {
+        "falsified_interception_rate": 1.0,
+        "false_alarm_rate": 0.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "trace_propagation_rate": 1.0
+      }
+    }
+  ]
+}

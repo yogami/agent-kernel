@@ -1,0 +1,3002 @@
+[
+  {
+    "sodium_intake": 12.456,
+    "antihypertensive_dose": 8.011,
+    "arterial_stiffness": 7.447,
+    "blood_pressure_mmhg": -1.028
+  },
+  {
+    "sodium_intake": 12.826,
+    "antihypertensive_dose": 8.501,
+    "arterial_stiffness": 9.81,
+    "blood_pressure_mmhg": 0.394
+  },
+  {
+    "sodium_intake": 11.827,
+    "antihypertensive_dose": 11.608,
+    "arterial_stiffness": 10.006,
+    "blood_pressure_mmhg": -1.509
+  },
+  {
+    "sodium_intake": 10.854,
+    "antihypertensive_dose": 11.838,
+    "arterial_stiffness": 7.748,
+    "blood_pressure_mmhg": -4.081
+  },
+  {
+    "sodium_intake": 9.802,
+    "antihypertensive_dose": 3.255,
+    "arterial_stiffness": 2.27,
+    "blood_pressure_mmhg": -0.819
+  },
+  {
+    "sodium_intake": 12.566,
+    "antihypertensive_dose": 12.199,
+    "arterial_stiffness": 10.622,
+    "blood_pressure_mmhg": -1.728
+  },
+  {
+    "sodium_intake": 14.706,
+    "antihypertensive_dose": 11.71,
+    "arterial_stiffness": 9.33,
+    "blood_pressure_mmhg": -2.379
+  },
+  {
+    "sodium_intake": 10.635,
+    "antihypertensive_dose": 7.492,
+    "arterial_stiffness": 6.032,
+    "blood_pressure_mmhg": -1.624
+  },
+  {
+    "sodium_intake": 12.122,
+    "antihypertensive_dose": 5.631,
+    "arterial_stiffness": 7.046,
+    "blood_pressure_mmhg": 0.819
+  },
+  {
+    "sodium_intake": 9.183,
+    "antihypertensive_dose": 8.96,
+    "arterial_stiffness": 5.791,
+    "blood_pressure_mmhg": -2.806
+  },
+  {
+    "sodium_intake": 12.338,
+    "antihypertensive_dose": 11.678,
+    "arterial_stiffness": 6.821,
+    "blood_pressure_mmhg": -4.837
+  },
+  {
+    "sodium_intake": 11.551,
+    "antihypertensive_dose": 10.882,
+    "arterial_stiffness": 6.67,
+    "blood_pressure_mmhg": -3.998
+  },
+  {
+    "sodium_intake": 9.825,
+    "antihypertensive_dose": 3.716,
+    "arterial_stiffness": 2.34,
+    "blood_pressure_mmhg": -1.18
+  },
+  {
+    "sodium_intake": 10.882,
+    "antihypertensive_dose": 8.752,
+    "arterial_stiffness": 7.255,
+    "blood_pressure_mmhg": -1.722
+  },
+  {
+    "sodium_intake": 10.654,
+    "antihypertensive_dose": 18.594,
+    "arterial_stiffness": 11.35,
+    "blood_pressure_mmhg": -6.481
+  },
+  {
+    "sodium_intake": 10.392,
+    "antihypertensive_dose": 5.051,
+    "arterial_stiffness": 5.559,
+    "blood_pressure_mmhg": 0.226
+  },
+  {
+    "sodium_intake": 11.48,
+    "antihypertensive_dose": 4.431,
+    "arterial_stiffness": 5.468,
+    "blood_pressure_mmhg": 0.626
+  },
+  {
+    "sodium_intake": 11.807,
+    "antihypertensive_dose": 5.53,
+    "arterial_stiffness": 3.479,
+    "blood_pressure_mmhg": -2.22
+  },
+  {
+    "sodium_intake": 10.307,
+    "antihypertensive_dose": 13.786,
+    "arterial_stiffness": 12.829,
+    "blood_pressure_mmhg": -1.343
+  },
+  {
+    "sodium_intake": 10.293,
+    "antihypertensive_dose": 10.39,
+    "arterial_stiffness": 5.005,
+    "blood_pressure_mmhg": -4.924
+  },
+  {
+    "sodium_intake": 9.807,
+    "antihypertensive_dose": 7.342,
+    "arterial_stiffness": 4.052,
+    "blood_pressure_mmhg": -2.868
+  },
+  {
+    "sodium_intake": 10.49,
+    "antihypertensive_dose": 8.355,
+    "arterial_stiffness": 3.978,
+    "blood_pressure_mmhg": -4.16
+  },
+  {
+    "sodium_intake": 10.749,
+    "antihypertensive_dose": 13.693,
+    "arterial_stiffness": 9.098,
+    "blood_pressure_mmhg": -4.395
+  },
+  {
+    "sodium_intake": 11.35,
+    "antihypertensive_dose": 6.319,
+    "arterial_stiffness": 6.503,
+    "blood_pressure_mmhg": -0.296
+  },
+  {
+    "sodium_intake": 12.416,
+    "antihypertensive_dose": 13.429,
+    "arterial_stiffness": 10.233,
+    "blood_pressure_mmhg": -3.437
+  },
+  {
+    "sodium_intake": 11.252,
+    "antihypertensive_dose": 12.775,
+    "arterial_stiffness": 10.286,
+    "blood_pressure_mmhg": -2.37
+  },
+  {
+    "sodium_intake": 10.949,
+    "antihypertensive_dose": 2.912,
+    "arterial_stiffness": 2.906,
+    "blood_pressure_mmhg": -0.209
+  },
+  {
+    "sodium_intake": 8.284,
+    "antihypertensive_dose": 8.277,
+    "arterial_stiffness": 5.283,
+    "blood_pressure_mmhg": -3.013
+  },
+  {
+    "sodium_intake": 10.471,
+    "antihypertensive_dose": 8.239,
+    "arterial_stiffness": 8.137,
+    "blood_pressure_mmhg": -0.471
+  },
+  {
+    "sodium_intake": 11.108,
+    "antihypertensive_dose": 8.153,
+    "arterial_stiffness": 5.882,
+    "blood_pressure_mmhg": -2.359
+  },
+  {
+    "sodium_intake": 11.892,
+    "antihypertensive_dose": 12.374,
+    "arterial_stiffness": 13.006,
+    "blood_pressure_mmhg": -0.015
+  },
+  {
+    "sodium_intake": 7.009,
+    "antihypertensive_dose": 18.82,
+    "arterial_stiffness": 13.014,
+    "blood_pressure_mmhg": -5.322
+  },
+  {
+    "sodium_intake": 9.425,
+    "antihypertensive_dose": 13.441,
+    "arterial_stiffness": 10.606,
+    "blood_pressure_mmhg": -3.09
+  },
+  {
+    "sodium_intake": 11.65,
+    "antihypertensive_dose": 2.238,
+    "arterial_stiffness": 3.528,
+    "blood_pressure_mmhg": 1.268
+  },
+  {
+    "sodium_intake": 9.462,
+    "antihypertensive_dose": 9.873,
+    "arterial_stiffness": 5.41,
+    "blood_pressure_mmhg": -3.887
+  },
+  {
+    "sodium_intake": 6.888,
+    "antihypertensive_dose": 12.728,
+    "arterial_stiffness": 7.708,
+    "blood_pressure_mmhg": -4.675
+  },
+  {
+    "sodium_intake": 9.728,
+    "antihypertensive_dose": 6.279,
+    "arterial_stiffness": 5.576,
+    "blood_pressure_mmhg": -0.839
+  },
+  {
+    "sodium_intake": 11.994,
+    "antihypertensive_dose": 11.7,
+    "arterial_stiffness": 10.815,
+    "blood_pressure_mmhg": -1.253
+  },
+  {
+    "sodium_intake": 7.814,
+    "antihypertensive_dose": 4.386,
+    "arterial_stiffness": -1.182,
+    "blood_pressure_mmhg": -4.882
+  },
+  {
+    "sodium_intake": 8.996,
+    "antihypertensive_dose": 9.369,
+    "arterial_stiffness": 4.755,
+    "blood_pressure_mmhg": -4.034
+  },
+  {
+    "sodium_intake": 7.608,
+    "antihypertensive_dose": 14.958,
+    "arterial_stiffness": 6.431,
+    "blood_pressure_mmhg": -8.153
+  },
+  {
+    "sodium_intake": 11.0,
+    "antihypertensive_dose": 9.686,
+    "arterial_stiffness": 10.629,
+    "blood_pressure_mmhg": 0.098
+  },
+  {
+    "sodium_intake": 9.956,
+    "antihypertensive_dose": 15.201,
+    "arterial_stiffness": 11.486,
+    "blood_pressure_mmhg": -3.255
+  },
+  {
+    "sodium_intake": 8.272,
+    "antihypertensive_dose": 2.334,
+    "arterial_stiffness": -2.313,
+    "blood_pressure_mmhg": -4.108
+  },
+  {
+    "sodium_intake": 11.373,
+    "antihypertensive_dose": 17.025,
+    "arterial_stiffness": 12.787,
+    "blood_pressure_mmhg": -4.005
+  },
+  {
+    "sodium_intake": 5.636,
+    "antihypertensive_dose": 11.989,
+    "arterial_stiffness": 2.3,
+    "blood_pressure_mmhg": -8.464
+  },
+  {
+    "sodium_intake": 11.989,
+    "antihypertensive_dose": 13.421,
+    "arterial_stiffness": 12.638,
+    "blood_pressure_mmhg": -0.988
+  },
+  {
+    "sodium_intake": 8.62,
+    "antihypertensive_dose": 15.539,
+    "arterial_stiffness": 8.715,
+    "blood_pressure_mmhg": -6.376
+  },
+  {
+    "sodium_intake": 9.714,
+    "antihypertensive_dose": 16.482,
+    "arterial_stiffness": 13.596,
+    "blood_pressure_mmhg": -3.017
+  },
+  {
+    "sodium_intake": 11.392,
+    "antihypertensive_dose": 8.388,
+    "arterial_stiffness": 3.047,
+    "blood_pressure_mmhg": -4.493
+  },
+  {
+    "sodium_intake": 10.104,
+    "antihypertensive_dose": 7.53,
+    "arterial_stiffness": 5.152,
+    "blood_pressure_mmhg": -2.372
+  },
+  {
+    "sodium_intake": 10.395,
+    "antihypertensive_dose": 10.839,
+    "arterial_stiffness": 6.627,
+    "blood_pressure_mmhg": -4.171
+  },
+  {
+    "sodium_intake": 9.885,
+    "antihypertensive_dose": 6.346,
+    "arterial_stiffness": 5.232,
+    "blood_pressure_mmhg": -1.396
+  },
+  {
+    "sodium_intake": 15.089,
+    "antihypertensive_dose": 7.801,
+    "arterial_stiffness": 7.414,
+    "blood_pressure_mmhg": -0.652
+  },
+  {
+    "sodium_intake": 10.97,
+    "antihypertensive_dose": 5.259,
+    "arterial_stiffness": 2.944,
+    "blood_pressure_mmhg": -2.019
+  },
+  {
+    "sodium_intake": 8.229,
+    "antihypertensive_dose": 10.455,
+    "arterial_stiffness": 6.059,
+    "blood_pressure_mmhg": -3.676
+  },
+  {
+    "sodium_intake": 10.622,
+    "antihypertensive_dose": 4.385,
+    "arterial_stiffness": 2.58,
+    "blood_pressure_mmhg": -1.666
+  },
+  {
+    "sodium_intake": 9.117,
+    "antihypertensive_dose": 6.258,
+    "arterial_stiffness": 6.007,
+    "blood_pressure_mmhg": -0.283
+  },
+  {
+    "sodium_intake": 7.575,
+    "antihypertensive_dose": 8.347,
+    "arterial_stiffness": 2.62,
+    "blood_pressure_mmhg": -4.716
+  },
+  {
+    "sodium_intake": 11.015,
+    "antihypertensive_dose": 9.008,
+    "arterial_stiffness": 4.313,
+    "blood_pressure_mmhg": -4.15
+  },
+  {
+    "sodium_intake": 10.187,
+    "antihypertensive_dose": 10.066,
+    "arterial_stiffness": 8.758,
+    "blood_pressure_mmhg": -1.667
+  },
+  {
+    "sodium_intake": 8.389,
+    "antihypertensive_dose": 9.756,
+    "arterial_stiffness": 3.997,
+    "blood_pressure_mmhg": -5.207
+  },
+  {
+    "sodium_intake": 10.96,
+    "antihypertensive_dose": 5.407,
+    "arterial_stiffness": 2.954,
+    "blood_pressure_mmhg": -2.088
+  },
+  {
+    "sodium_intake": 9.192,
+    "antihypertensive_dose": 9.737,
+    "arterial_stiffness": 4.624,
+    "blood_pressure_mmhg": -4.749
+  },
+  {
+    "sodium_intake": 9.251,
+    "antihypertensive_dose": 10.591,
+    "arterial_stiffness": 3.707,
+    "blood_pressure_mmhg": -6.061
+  },
+  {
+    "sodium_intake": 12.589,
+    "antihypertensive_dose": 13.742,
+    "arterial_stiffness": 11.814,
+    "blood_pressure_mmhg": -2.193
+  },
+  {
+    "sodium_intake": 10.09,
+    "antihypertensive_dose": 14.885,
+    "arterial_stiffness": 8.477,
+    "blood_pressure_mmhg": -5.661
+  },
+  {
+    "sodium_intake": 10.888,
+    "antihypertensive_dose": 9.772,
+    "arterial_stiffness": 5.433,
+    "blood_pressure_mmhg": -4.31
+  },
+  {
+    "sodium_intake": 9.849,
+    "antihypertensive_dose": 18.431,
+    "arterial_stiffness": 13.908,
+    "blood_pressure_mmhg": -4.561
+  },
+  {
+    "sodium_intake": 10.826,
+    "antihypertensive_dose": 12.221,
+    "arterial_stiffness": 10.82,
+    "blood_pressure_mmhg": -1.702
+  },
+  {
+    "sodium_intake": 11.367,
+    "antihypertensive_dose": 11.296,
+    "arterial_stiffness": 9.811,
+    "blood_pressure_mmhg": -1.216
+  },
+  {
+    "sodium_intake": 9.768,
+    "antihypertensive_dose": 6.244,
+    "arterial_stiffness": 5.94,
+    "blood_pressure_mmhg": -0.375
+  },
+  {
+    "sodium_intake": 11.4,
+    "antihypertensive_dose": 2.699,
+    "arterial_stiffness": 4.584,
+    "blood_pressure_mmhg": 1.185
+  },
+  {
+    "sodium_intake": 8.558,
+    "antihypertensive_dose": 11.602,
+    "arterial_stiffness": 5.394,
+    "blood_pressure_mmhg": -5.443
+  },
+  {
+    "sodium_intake": 6.697,
+    "antihypertensive_dose": 10.073,
+    "arterial_stiffness": 1.344,
+    "blood_pressure_mmhg": -7.317
+  },
+  {
+    "sodium_intake": 9.893,
+    "antihypertensive_dose": 1.778,
+    "arterial_stiffness": 3.358,
+    "blood_pressure_mmhg": 1.258
+  },
+  {
+    "sodium_intake": 8.731,
+    "antihypertensive_dose": 9.559,
+    "arterial_stiffness": 6.283,
+    "blood_pressure_mmhg": -3.388
+  },
+  {
+    "sodium_intake": 9.7,
+    "antihypertensive_dose": 5.772,
+    "arterial_stiffness": 0.341,
+    "blood_pressure_mmhg": -4.57
+  },
+  {
+    "sodium_intake": 8.223,
+    "antihypertensive_dose": 7.766,
+    "arterial_stiffness": 4.963,
+    "blood_pressure_mmhg": -2.6
+  },
+  {
+    "sodium_intake": 9.227,
+    "antihypertensive_dose": 13.893,
+    "arterial_stiffness": 9.126,
+    "blood_pressure_mmhg": -4.726
+  },
+  {
+    "sodium_intake": 13.165,
+    "antihypertensive_dose": 11.123,
+    "arterial_stiffness": 13.052,
+    "blood_pressure_mmhg": 0.932
+  },
+  {
+    "sodium_intake": 12.675,
+    "antihypertensive_dose": 10.272,
+    "arterial_stiffness": 8.163,
+    "blood_pressure_mmhg": -2.236
+  },
+  {
+    "sodium_intake": 8.309,
+    "antihypertensive_dose": 11.057,
+    "arterial_stiffness": 8.714,
+    "blood_pressure_mmhg": -2.59
+  },
+  {
+    "sodium_intake": 10.511,
+    "antihypertensive_dose": 12.39,
+    "arterial_stiffness": 9.302,
+    "blood_pressure_mmhg": -3.192
+  },
+  {
+    "sodium_intake": 9.013,
+    "antihypertensive_dose": 7.437,
+    "arterial_stiffness": 2.014,
+    "blood_pressure_mmhg": -4.784
+  },
+  {
+    "sodium_intake": 11.519,
+    "antihypertensive_dose": 7.705,
+    "arterial_stiffness": 4.4,
+    "blood_pressure_mmhg": -2.692
+  },
+  {
+    "sodium_intake": 7.358,
+    "antihypertensive_dose": 10.889,
+    "arterial_stiffness": 7.196,
+    "blood_pressure_mmhg": -3.459
+  },
+  {
+    "sodium_intake": 8.111,
+    "antihypertensive_dose": 13.152,
+    "arterial_stiffness": 7.633,
+    "blood_pressure_mmhg": -4.809
+  },
+  {
+    "sodium_intake": 11.967,
+    "antihypertensive_dose": 7.244,
+    "arterial_stiffness": 2.399,
+    "blood_pressure_mmhg": -3.959
+  },
+  {
+    "sodium_intake": 9.674,
+    "antihypertensive_dose": 7.791,
+    "arterial_stiffness": 2.528,
+    "blood_pressure_mmhg": -4.707
+  },
+  {
+    "sodium_intake": 9.918,
+    "antihypertensive_dose": 1.987,
+    "arterial_stiffness": 0.337,
+    "blood_pressure_mmhg": -1.34
+  },
+  {
+    "sodium_intake": 5.489,
+    "antihypertensive_dose": 9.365,
+    "arterial_stiffness": 3.673,
+    "blood_pressure_mmhg": -5.335
+  },
+  {
+    "sodium_intake": 10.758,
+    "antihypertensive_dose": 3.878,
+    "arterial_stiffness": 5.743,
+    "blood_pressure_mmhg": 1.331
+  },
+  {
+    "sodium_intake": 9.176,
+    "antihypertensive_dose": 6.12,
+    "arterial_stiffness": 4.295,
+    "blood_pressure_mmhg": -1.541
+  },
+  {
+    "sodium_intake": 13.355,
+    "antihypertensive_dose": 10.066,
+    "arterial_stiffness": 8.196,
+    "blood_pressure_mmhg": -2.492
+  },
+  {
+    "sodium_intake": 6.826,
+    "antihypertensive_dose": 8.624,
+    "arterial_stiffness": 4.985,
+    "blood_pressure_mmhg": -3.324
+  },
+  {
+    "sodium_intake": 11.544,
+    "antihypertensive_dose": 9.642,
+    "arterial_stiffness": 7.88,
+    "blood_pressure_mmhg": -1.785
+  },
+  {
+    "sodium_intake": 8.654,
+    "antihypertensive_dose": 14.954,
+    "arterial_stiffness": 12.143,
+    "blood_pressure_mmhg": -3.271
+  },
+  {
+    "sodium_intake": 10.063,
+    "antihypertensive_dose": 5.954,
+    "arterial_stiffness": 6.978,
+    "blood_pressure_mmhg": 0.537
+  },
+  {
+    "sodium_intake": 6.184,
+    "antihypertensive_dose": 11.028,
+    "arterial_stiffness": 5.589,
+    "blood_pressure_mmhg": -4.479
+  },
+  {
+    "sodium_intake": 8.758,
+    "antihypertensive_dose": 7.499,
+    "arterial_stiffness": 5.081,
+    "blood_pressure_mmhg": -2.582
+  },
+  {
+    "sodium_intake": 12.488,
+    "antihypertensive_dose": 6.618,
+    "arterial_stiffness": 7.582,
+    "blood_pressure_mmhg": 0.205
+  },
+  {
+    "sodium_intake": 9.203,
+    "antihypertensive_dose": 6.131,
+    "arterial_stiffness": 2.744,
+    "blood_pressure_mmhg": -3.401
+  },
+  {
+    "sodium_intake": 10.919,
+    "antihypertensive_dose": 4.207,
+    "arterial_stiffness": 3.464,
+    "blood_pressure_mmhg": -1.147
+  },
+  {
+    "sodium_intake": 13.347,
+    "antihypertensive_dose": 8.761,
+    "arterial_stiffness": 9.926,
+    "blood_pressure_mmhg": 0.433
+  },
+  {
+    "sodium_intake": 8.699,
+    "antihypertensive_dose": 6.491,
+    "arterial_stiffness": 1.599,
+    "blood_pressure_mmhg": -4.429
+  },
+  {
+    "sodium_intake": 10.797,
+    "antihypertensive_dose": 13.851,
+    "arterial_stiffness": 10.159,
+    "blood_pressure_mmhg": -3.699
+  },
+  {
+    "sodium_intake": 6.43,
+    "antihypertensive_dose": 7.388,
+    "arterial_stiffness": 2.535,
+    "blood_pressure_mmhg": -4.031
+  },
+  {
+    "sodium_intake": 10.8,
+    "antihypertensive_dose": 7.975,
+    "arterial_stiffness": 5.75,
+    "blood_pressure_mmhg": -2.271
+  },
+  {
+    "sodium_intake": 7.143,
+    "antihypertensive_dose": 9.264,
+    "arterial_stiffness": 5.611,
+    "blood_pressure_mmhg": -3.102
+  },
+  {
+    "sodium_intake": 12.162,
+    "antihypertensive_dose": 11.38,
+    "arterial_stiffness": 10.094,
+    "blood_pressure_mmhg": -1.338
+  },
+  {
+    "sodium_intake": 13.464,
+    "antihypertensive_dose": 4.226,
+    "arterial_stiffness": 7.781,
+    "blood_pressure_mmhg": 2.401
+  },
+  {
+    "sodium_intake": 11.256,
+    "antihypertensive_dose": 6.567,
+    "arterial_stiffness": 4.317,
+    "blood_pressure_mmhg": -1.993
+  },
+  {
+    "sodium_intake": 9.902,
+    "antihypertensive_dose": 12.296,
+    "arterial_stiffness": 10.431,
+    "blood_pressure_mmhg": -1.958
+  },
+  {
+    "sodium_intake": 10.782,
+    "antihypertensive_dose": 8.875,
+    "arterial_stiffness": 5.831,
+    "blood_pressure_mmhg": -2.769
+  },
+  {
+    "sodium_intake": 8.887,
+    "antihypertensive_dose": 9.97,
+    "arterial_stiffness": 6.856,
+    "blood_pressure_mmhg": -2.806
+  },
+  {
+    "sodium_intake": 9.686,
+    "antihypertensive_dose": 16.847,
+    "arterial_stiffness": 15.871,
+    "blood_pressure_mmhg": -1.457
+  },
+  {
+    "sodium_intake": 10.542,
+    "antihypertensive_dose": 6.123,
+    "arterial_stiffness": 3.787,
+    "blood_pressure_mmhg": -2.3
+  },
+  {
+    "sodium_intake": 10.332,
+    "antihypertensive_dose": 8.475,
+    "arterial_stiffness": 5.639,
+    "blood_pressure_mmhg": -2.409
+  },
+  {
+    "sodium_intake": 10.744,
+    "antihypertensive_dose": 16.94,
+    "arterial_stiffness": 13.184,
+    "blood_pressure_mmhg": -4.001
+  },
+  {
+    "sodium_intake": 8.235,
+    "antihypertensive_dose": 11.978,
+    "arterial_stiffness": 9.603,
+    "blood_pressure_mmhg": -2.311
+  },
+  {
+    "sodium_intake": 8.347,
+    "antihypertensive_dose": 10.451,
+    "arterial_stiffness": 6.755,
+    "blood_pressure_mmhg": -3.275
+  },
+  {
+    "sodium_intake": 12.11,
+    "antihypertensive_dose": 6.881,
+    "arterial_stiffness": 9.646,
+    "blood_pressure_mmhg": 1.742
+  },
+  {
+    "sodium_intake": 11.298,
+    "antihypertensive_dose": 8.664,
+    "arterial_stiffness": 9.067,
+    "blood_pressure_mmhg": -0.167
+  },
+  {
+    "sodium_intake": 10.091,
+    "antihypertensive_dose": 8.002,
+    "arterial_stiffness": 4.981,
+    "blood_pressure_mmhg": -2.707
+  },
+  {
+    "sodium_intake": 11.587,
+    "antihypertensive_dose": 19.588,
+    "arterial_stiffness": 15.358,
+    "blood_pressure_mmhg": -4.625
+  },
+  {
+    "sodium_intake": 9.981,
+    "antihypertensive_dose": 9.497,
+    "arterial_stiffness": 8.43,
+    "blood_pressure_mmhg": -1.184
+  },
+  {
+    "sodium_intake": 7.275,
+    "antihypertensive_dose": 8.476,
+    "arterial_stiffness": 5.334,
+    "blood_pressure_mmhg": -3.039
+  },
+  {
+    "sodium_intake": 10.235,
+    "antihypertensive_dose": 12.236,
+    "arterial_stiffness": 10.179,
+    "blood_pressure_mmhg": -2.228
+  },
+  {
+    "sodium_intake": 9.544,
+    "antihypertensive_dose": 11.178,
+    "arterial_stiffness": 9.686,
+    "blood_pressure_mmhg": -1.891
+  },
+  {
+    "sodium_intake": 11.192,
+    "antihypertensive_dose": 13.055,
+    "arterial_stiffness": 10.787,
+    "blood_pressure_mmhg": -2.406
+  },
+  {
+    "sodium_intake": 8.781,
+    "antihypertensive_dose": 7.299,
+    "arterial_stiffness": 1.994,
+    "blood_pressure_mmhg": -4.631
+  },
+  {
+    "sodium_intake": 9.473,
+    "antihypertensive_dose": 5.841,
+    "arterial_stiffness": 2.706,
+    "blood_pressure_mmhg": -2.876
+  },
+  {
+    "sodium_intake": 6.712,
+    "antihypertensive_dose": 11.907,
+    "arterial_stiffness": 6.055,
+    "blood_pressure_mmhg": -5.546
+  },
+  {
+    "sodium_intake": 10.611,
+    "antihypertensive_dose": 15.104,
+    "arterial_stiffness": 11.207,
+    "blood_pressure_mmhg": -4.016
+  },
+  {
+    "sodium_intake": 11.148,
+    "antihypertensive_dose": 11.209,
+    "arterial_stiffness": 8.556,
+    "blood_pressure_mmhg": -3.048
+  },
+  {
+    "sodium_intake": 9.128,
+    "antihypertensive_dose": 7.546,
+    "arterial_stiffness": 4.85,
+    "blood_pressure_mmhg": -2.22
+  },
+  {
+    "sodium_intake": 12.056,
+    "antihypertensive_dose": 8.673,
+    "arterial_stiffness": 7.848,
+    "blood_pressure_mmhg": -1.208
+  },
+  {
+    "sodium_intake": 10.557,
+    "antihypertensive_dose": 7.052,
+    "arterial_stiffness": 7.962,
+    "blood_pressure_mmhg": 0.525
+  },
+  {
+    "sodium_intake": 12.598,
+    "antihypertensive_dose": 8.316,
+    "arterial_stiffness": 7.406,
+    "blood_pressure_mmhg": -0.678
+  },
+  {
+    "sodium_intake": 8.636,
+    "antihypertensive_dose": 11.908,
+    "arterial_stiffness": 7.464,
+    "blood_pressure_mmhg": -4.348
+  },
+  {
+    "sodium_intake": 12.314,
+    "antihypertensive_dose": 13.85,
+    "arterial_stiffness": 11.316,
+    "blood_pressure_mmhg": -3.021
+  },
+  {
+    "sodium_intake": 13.413,
+    "antihypertensive_dose": 11.509,
+    "arterial_stiffness": 13.196,
+    "blood_pressure_mmhg": 1.08
+  },
+  {
+    "sodium_intake": 10.29,
+    "antihypertensive_dose": 8.84,
+    "arterial_stiffness": 5.176,
+    "blood_pressure_mmhg": -3.481
+  },
+  {
+    "sodium_intake": 11.655,
+    "antihypertensive_dose": 14.572,
+    "arterial_stiffness": 13.574,
+    "blood_pressure_mmhg": -1.557
+  },
+  {
+    "sodium_intake": 12.503,
+    "antihypertensive_dose": 10.286,
+    "arterial_stiffness": 10.419,
+    "blood_pressure_mmhg": -0.297
+  },
+  {
+    "sodium_intake": 10.47,
+    "antihypertensive_dose": 5.156,
+    "arterial_stiffness": 1.431,
+    "blood_pressure_mmhg": -3.15
+  },
+  {
+    "sodium_intake": 7.542,
+    "antihypertensive_dose": 4.122,
+    "arterial_stiffness": -0.485,
+    "blood_pressure_mmhg": -3.68
+  },
+  {
+    "sodium_intake": 11.915,
+    "antihypertensive_dose": 9.7,
+    "arterial_stiffness": 9.304,
+    "blood_pressure_mmhg": -0.943
+  },
+  {
+    "sodium_intake": 11.732,
+    "antihypertensive_dose": 5.159,
+    "arterial_stiffness": 2.968,
+    "blood_pressure_mmhg": -1.93
+  },
+  {
+    "sodium_intake": 8.63,
+    "antihypertensive_dose": 10.809,
+    "arterial_stiffness": 5.718,
+    "blood_pressure_mmhg": -4.261
+  },
+  {
+    "sodium_intake": 6.195,
+    "antihypertensive_dose": 9.996,
+    "arterial_stiffness": 2.017,
+    "blood_pressure_mmhg": -7.005
+  },
+  {
+    "sodium_intake": 9.506,
+    "antihypertensive_dose": 9.084,
+    "arterial_stiffness": 5.438,
+    "blood_pressure_mmhg": -3.298
+  },
+  {
+    "sodium_intake": 12.823,
+    "antihypertensive_dose": 7.792,
+    "arterial_stiffness": 6.058,
+    "blood_pressure_mmhg": -1.824
+  },
+  {
+    "sodium_intake": 8.588,
+    "antihypertensive_dose": 11.895,
+    "arterial_stiffness": 7.85,
+    "blood_pressure_mmhg": -4.253
+  },
+  {
+    "sodium_intake": 8.835,
+    "antihypertensive_dose": 10.296,
+    "arterial_stiffness": 6.534,
+    "blood_pressure_mmhg": -3.741
+  },
+  {
+    "sodium_intake": 12.031,
+    "antihypertensive_dose": 7.288,
+    "arterial_stiffness": 6.883,
+    "blood_pressure_mmhg": -0.643
+  },
+  {
+    "sodium_intake": 11.534,
+    "antihypertensive_dose": 11.092,
+    "arterial_stiffness": 9.654,
+    "blood_pressure_mmhg": -1.499
+  },
+  {
+    "sodium_intake": 13.827,
+    "antihypertensive_dose": 18.901,
+    "arterial_stiffness": 17.084,
+    "blood_pressure_mmhg": -2.449
+  },
+  {
+    "sodium_intake": 9.239,
+    "antihypertensive_dose": 11.223,
+    "arterial_stiffness": 9.884,
+    "blood_pressure_mmhg": -2.136
+  },
+  {
+    "sodium_intake": 7.488,
+    "antihypertensive_dose": 8.843,
+    "arterial_stiffness": 2.976,
+    "blood_pressure_mmhg": -5.347
+  },
+  {
+    "sodium_intake": 9.059,
+    "antihypertensive_dose": 9.655,
+    "arterial_stiffness": 8.552,
+    "blood_pressure_mmhg": -1.717
+  },
+  {
+    "sodium_intake": 11.371,
+    "antihypertensive_dose": 11.734,
+    "arterial_stiffness": 11.609,
+    "blood_pressure_mmhg": -0.567
+  },
+  {
+    "sodium_intake": 11.189,
+    "antihypertensive_dose": 4.452,
+    "arterial_stiffness": 3.874,
+    "blood_pressure_mmhg": -0.709
+  },
+  {
+    "sodium_intake": 13.122,
+    "antihypertensive_dose": 10.024,
+    "arterial_stiffness": 10.232,
+    "blood_pressure_mmhg": -0.532
+  },
+  {
+    "sodium_intake": 7.39,
+    "antihypertensive_dose": 0.449,
+    "arterial_stiffness": -1.891,
+    "blood_pressure_mmhg": -2.035
+  },
+  {
+    "sodium_intake": 12.649,
+    "antihypertensive_dose": 9.799,
+    "arterial_stiffness": 6.071,
+    "blood_pressure_mmhg": -3.521
+  },
+  {
+    "sodium_intake": 10.99,
+    "antihypertensive_dose": 11.286,
+    "arterial_stiffness": 8.575,
+    "blood_pressure_mmhg": -2.55
+  },
+  {
+    "sodium_intake": 11.781,
+    "antihypertensive_dose": 6.165,
+    "arterial_stiffness": 4.331,
+    "blood_pressure_mmhg": -1.873
+  },
+  {
+    "sodium_intake": 10.353,
+    "antihypertensive_dose": 14.127,
+    "arterial_stiffness": 10.71,
+    "blood_pressure_mmhg": -3.096
+  },
+  {
+    "sodium_intake": 13.902,
+    "antihypertensive_dose": 9.291,
+    "arterial_stiffness": 8.213,
+    "blood_pressure_mmhg": -1.259
+  },
+  {
+    "sodium_intake": 7.672,
+    "antihypertensive_dose": 6.26,
+    "arterial_stiffness": 3.04,
+    "blood_pressure_mmhg": -2.707
+  },
+  {
+    "sodium_intake": 11.003,
+    "antihypertensive_dose": 9.867,
+    "arterial_stiffness": 5.969,
+    "blood_pressure_mmhg": -3.689
+  },
+  {
+    "sodium_intake": 12.123,
+    "antihypertensive_dose": 6.283,
+    "arterial_stiffness": 5.251,
+    "blood_pressure_mmhg": -1.159
+  },
+  {
+    "sodium_intake": 9.395,
+    "antihypertensive_dose": 10.881,
+    "arterial_stiffness": 6.039,
+    "blood_pressure_mmhg": -4.513
+  },
+  {
+    "sodium_intake": 10.803,
+    "antihypertensive_dose": 15.648,
+    "arterial_stiffness": 14.103,
+    "blood_pressure_mmhg": -2.015
+  },
+  {
+    "sodium_intake": 9.874,
+    "antihypertensive_dose": 16.4,
+    "arterial_stiffness": 11.352,
+    "blood_pressure_mmhg": -4.886
+  },
+  {
+    "sodium_intake": 10.127,
+    "antihypertensive_dose": 9.941,
+    "arterial_stiffness": 5.849,
+    "blood_pressure_mmhg": -3.859
+  },
+  {
+    "sodium_intake": 9.925,
+    "antihypertensive_dose": 12.935,
+    "arterial_stiffness": 11.592,
+    "blood_pressure_mmhg": -2.032
+  },
+  {
+    "sodium_intake": 9.654,
+    "antihypertensive_dose": 11.108,
+    "arterial_stiffness": 6.868,
+    "blood_pressure_mmhg": -4.051
+  },
+  {
+    "sodium_intake": 10.324,
+    "antihypertensive_dose": 9.289,
+    "arterial_stiffness": 6.227,
+    "blood_pressure_mmhg": -2.592
+  },
+  {
+    "sodium_intake": 11.077,
+    "antihypertensive_dose": 13.274,
+    "arterial_stiffness": 8.56,
+    "blood_pressure_mmhg": -4.361
+  },
+  {
+    "sodium_intake": 8.366,
+    "antihypertensive_dose": 3.824,
+    "arterial_stiffness": 1.981,
+    "blood_pressure_mmhg": -1.585
+  },
+  {
+    "sodium_intake": 10.754,
+    "antihypertensive_dose": 11.123,
+    "arterial_stiffness": 8.159,
+    "blood_pressure_mmhg": -2.962
+  },
+  {
+    "sodium_intake": 12.267,
+    "antihypertensive_dose": 9.418,
+    "arterial_stiffness": 9.178,
+    "blood_pressure_mmhg": -0.494
+  },
+  {
+    "sodium_intake": 9.073,
+    "antihypertensive_dose": 10.528,
+    "arterial_stiffness": 9.592,
+    "blood_pressure_mmhg": -0.904
+  },
+  {
+    "sodium_intake": 7.85,
+    "antihypertensive_dose": 6.29,
+    "arterial_stiffness": 2.884,
+    "blood_pressure_mmhg": -3.563
+  },
+  {
+    "sodium_intake": 8.949,
+    "antihypertensive_dose": 4.772,
+    "arterial_stiffness": 2.999,
+    "blood_pressure_mmhg": -1.367
+  },
+  {
+    "sodium_intake": 8.963,
+    "antihypertensive_dose": 6.999,
+    "arterial_stiffness": 2.925,
+    "blood_pressure_mmhg": -3.248
+  },
+  {
+    "sodium_intake": 10.694,
+    "antihypertensive_dose": 12.53,
+    "arterial_stiffness": 8.084,
+    "blood_pressure_mmhg": -4.222
+  },
+  {
+    "sodium_intake": 7.097,
+    "antihypertensive_dose": 5.498,
+    "arterial_stiffness": 0.689,
+    "blood_pressure_mmhg": -4.396
+  },
+  {
+    "sodium_intake": 8.793,
+    "antihypertensive_dose": 8.688,
+    "arterial_stiffness": 3.543,
+    "blood_pressure_mmhg": -4.434
+  },
+  {
+    "sodium_intake": 11.485,
+    "antihypertensive_dose": 11.675,
+    "arterial_stiffness": 11.563,
+    "blood_pressure_mmhg": -1.186
+  },
+  {
+    "sodium_intake": 10.235,
+    "antihypertensive_dose": 13.348,
+    "arterial_stiffness": 12.498,
+    "blood_pressure_mmhg": -1.106
+  },
+  {
+    "sodium_intake": 10.948,
+    "antihypertensive_dose": 13.084,
+    "arterial_stiffness": 8.078,
+    "blood_pressure_mmhg": -4.508
+  },
+  {
+    "sodium_intake": 11.708,
+    "antihypertensive_dose": 8.359,
+    "arterial_stiffness": 5.234,
+    "blood_pressure_mmhg": -2.899
+  },
+  {
+    "sodium_intake": 8.987,
+    "antihypertensive_dose": 15.184,
+    "arterial_stiffness": 10.828,
+    "blood_pressure_mmhg": -4.453
+  },
+  {
+    "sodium_intake": 12.46,
+    "antihypertensive_dose": 11.868,
+    "arterial_stiffness": 11.024,
+    "blood_pressure_mmhg": -1.269
+  },
+  {
+    "sodium_intake": 6.635,
+    "antihypertensive_dose": 15.197,
+    "arterial_stiffness": 8.129,
+    "blood_pressure_mmhg": -6.661
+  },
+  {
+    "sodium_intake": 9.579,
+    "antihypertensive_dose": 6.027,
+    "arterial_stiffness": 5.289,
+    "blood_pressure_mmhg": -0.872
+  },
+  {
+    "sodium_intake": 6.21,
+    "antihypertensive_dose": 4.18,
+    "arterial_stiffness": 2.397,
+    "blood_pressure_mmhg": -1.9
+  },
+  {
+    "sodium_intake": 9.935,
+    "antihypertensive_dose": 10.642,
+    "arterial_stiffness": 8.338,
+    "blood_pressure_mmhg": -2.383
+  },
+  {
+    "sodium_intake": 10.482,
+    "antihypertensive_dose": 10.935,
+    "arterial_stiffness": 7.966,
+    "blood_pressure_mmhg": -3.249
+  },
+  {
+    "sodium_intake": 12.685,
+    "antihypertensive_dose": 5.371,
+    "arterial_stiffness": 6.547,
+    "blood_pressure_mmhg": 0.509
+  },
+  {
+    "sodium_intake": 11.736,
+    "antihypertensive_dose": 11.412,
+    "arterial_stiffness": 9.852,
+    "blood_pressure_mmhg": -1.95
+  },
+  {
+    "sodium_intake": 7.183,
+    "antihypertensive_dose": 4.236,
+    "arterial_stiffness": 1.52,
+    "blood_pressure_mmhg": -2.546
+  },
+  {
+    "sodium_intake": 9.616,
+    "antihypertensive_dose": 9.445,
+    "arterial_stiffness": 4.473,
+    "blood_pressure_mmhg": -4.624
+  },
+  {
+    "sodium_intake": 8.63,
+    "antihypertensive_dose": 8.457,
+    "arterial_stiffness": 1.504,
+    "blood_pressure_mmhg": -6.047
+  },
+  {
+    "sodium_intake": 9.05,
+    "antihypertensive_dose": 15.259,
+    "arterial_stiffness": 9.101,
+    "blood_pressure_mmhg": -5.8
+  },
+  {
+    "sodium_intake": 11.176,
+    "antihypertensive_dose": 10.613,
+    "arterial_stiffness": 11.107,
+    "blood_pressure_mmhg": -0.442
+  },
+  {
+    "sodium_intake": 10.482,
+    "antihypertensive_dose": 10.386,
+    "arterial_stiffness": 8.737,
+    "blood_pressure_mmhg": -1.837
+  },
+  {
+    "sodium_intake": 8.053,
+    "antihypertensive_dose": 1.641,
+    "arterial_stiffness": -0.823,
+    "blood_pressure_mmhg": -2.181
+  },
+  {
+    "sodium_intake": 7.899,
+    "antihypertensive_dose": 8.605,
+    "arterial_stiffness": 1.131,
+    "blood_pressure_mmhg": -6.627
+  },
+  {
+    "sodium_intake": 13.724,
+    "antihypertensive_dose": 4.553,
+    "arterial_stiffness": 6.011,
+    "blood_pressure_mmhg": 1.069
+  },
+  {
+    "sodium_intake": 11.052,
+    "antihypertensive_dose": 8.323,
+    "arterial_stiffness": 9.124,
+    "blood_pressure_mmhg": -0.273
+  },
+  {
+    "sodium_intake": 12.461,
+    "antihypertensive_dose": 2.94,
+    "arterial_stiffness": 1.181,
+    "blood_pressure_mmhg": -1.609
+  },
+  {
+    "sodium_intake": 12.501,
+    "antihypertensive_dose": 9.172,
+    "arterial_stiffness": 9.145,
+    "blood_pressure_mmhg": -0.256
+  },
+  {
+    "sodium_intake": 11.999,
+    "antihypertensive_dose": 7.18,
+    "arterial_stiffness": 7.633,
+    "blood_pressure_mmhg": -0.129
+  },
+  {
+    "sodium_intake": 8.808,
+    "antihypertensive_dose": 7.671,
+    "arterial_stiffness": 5.599,
+    "blood_pressure_mmhg": -2.046
+  },
+  {
+    "sodium_intake": 12.564,
+    "antihypertensive_dose": 15.115,
+    "arterial_stiffness": 16.026,
+    "blood_pressure_mmhg": -0.127
+  },
+  {
+    "sodium_intake": 9.101,
+    "antihypertensive_dose": 9.533,
+    "arterial_stiffness": 8.382,
+    "blood_pressure_mmhg": -1.408
+  },
+  {
+    "sodium_intake": 8.585,
+    "antihypertensive_dose": 6.033,
+    "arterial_stiffness": 4.712,
+    "blood_pressure_mmhg": -1.394
+  },
+  {
+    "sodium_intake": 7.01,
+    "antihypertensive_dose": 10.772,
+    "arterial_stiffness": 5.762,
+    "blood_pressure_mmhg": -4.56
+  },
+  {
+    "sodium_intake": 11.303,
+    "antihypertensive_dose": 5.125,
+    "arterial_stiffness": 2.303,
+    "blood_pressure_mmhg": -2.601
+  },
+  {
+    "sodium_intake": 10.361,
+    "antihypertensive_dose": 14.518,
+    "arterial_stiffness": 13.781,
+    "blood_pressure_mmhg": -1.153
+  },
+  {
+    "sodium_intake": 10.302,
+    "antihypertensive_dose": 12.714,
+    "arterial_stiffness": 8.708,
+    "blood_pressure_mmhg": -4.076
+  },
+  {
+    "sodium_intake": 11.285,
+    "antihypertensive_dose": 6.723,
+    "arterial_stiffness": 4.582,
+    "blood_pressure_mmhg": -1.711
+  },
+  {
+    "sodium_intake": 9.792,
+    "antihypertensive_dose": 13.514,
+    "arterial_stiffness": 11.348,
+    "blood_pressure_mmhg": -2.476
+  },
+  {
+    "sodium_intake": 10.282,
+    "antihypertensive_dose": 7.215,
+    "arterial_stiffness": 4.945,
+    "blood_pressure_mmhg": -1.947
+  },
+  {
+    "sodium_intake": 8.813,
+    "antihypertensive_dose": 13.061,
+    "arterial_stiffness": 10.61,
+    "blood_pressure_mmhg": -2.691
+  },
+  {
+    "sodium_intake": 8.455,
+    "antihypertensive_dose": 6.211,
+    "arterial_stiffness": 3.085,
+    "blood_pressure_mmhg": -2.898
+  },
+  {
+    "sodium_intake": 7.925,
+    "antihypertensive_dose": 2.721,
+    "arterial_stiffness": -1.235,
+    "blood_pressure_mmhg": -3.67
+  },
+  {
+    "sodium_intake": 10.247,
+    "antihypertensive_dose": 12.413,
+    "arterial_stiffness": 8.533,
+    "blood_pressure_mmhg": -3.653
+  },
+  {
+    "sodium_intake": 11.297,
+    "antihypertensive_dose": 10.608,
+    "arterial_stiffness": 9.917,
+    "blood_pressure_mmhg": -1.058
+  },
+  {
+    "sodium_intake": 8.589,
+    "antihypertensive_dose": 12.355,
+    "arterial_stiffness": 6.271,
+    "blood_pressure_mmhg": -5.922
+  },
+  {
+    "sodium_intake": 9.649,
+    "antihypertensive_dose": 7.421,
+    "arterial_stiffness": 5.554,
+    "blood_pressure_mmhg": -1.465
+  },
+  {
+    "sodium_intake": 8.279,
+    "antihypertensive_dose": 11.989,
+    "arterial_stiffness": 8.642,
+    "blood_pressure_mmhg": -3.347
+  },
+  {
+    "sodium_intake": 7.49,
+    "antihypertensive_dose": 5.189,
+    "arterial_stiffness": 2.971,
+    "blood_pressure_mmhg": -1.751
+  },
+  {
+    "sodium_intake": 12.802,
+    "antihypertensive_dose": 6.005,
+    "arterial_stiffness": 7.443,
+    "blood_pressure_mmhg": 0.849
+  },
+  {
+    "sodium_intake": 10.121,
+    "antihypertensive_dose": 7.244,
+    "arterial_stiffness": 5.309,
+    "blood_pressure_mmhg": -2.307
+  },
+  {
+    "sodium_intake": 6.829,
+    "antihypertensive_dose": 12.883,
+    "arterial_stiffness": 4.722,
+    "blood_pressure_mmhg": -6.969
+  },
+  {
+    "sodium_intake": 10.601,
+    "antihypertensive_dose": 8.554,
+    "arterial_stiffness": 8.739,
+    "blood_pressure_mmhg": -0.596
+  },
+  {
+    "sodium_intake": 10.363,
+    "antihypertensive_dose": 12.08,
+    "arterial_stiffness": 7.703,
+    "blood_pressure_mmhg": -4.18
+  },
+  {
+    "sodium_intake": 7.36,
+    "antihypertensive_dose": 11.131,
+    "arterial_stiffness": 6.432,
+    "blood_pressure_mmhg": -4.13
+  },
+  {
+    "sodium_intake": 8.155,
+    "antihypertensive_dose": 10.911,
+    "arterial_stiffness": 6.471,
+    "blood_pressure_mmhg": -4.177
+  },
+  {
+    "sodium_intake": 12.448,
+    "antihypertensive_dose": 6.939,
+    "arterial_stiffness": 7.729,
+    "blood_pressure_mmhg": 0.681
+  },
+  {
+    "sodium_intake": 10.483,
+    "antihypertensive_dose": 12.951,
+    "arterial_stiffness": 11.893,
+    "blood_pressure_mmhg": -1.415
+  },
+  {
+    "sodium_intake": 10.718,
+    "antihypertensive_dose": 10.85,
+    "arterial_stiffness": 7.424,
+    "blood_pressure_mmhg": -3.184
+  },
+  {
+    "sodium_intake": 11.987,
+    "antihypertensive_dose": 9.561,
+    "arterial_stiffness": 7.42,
+    "blood_pressure_mmhg": -2.131
+  },
+  {
+    "sodium_intake": 12.171,
+    "antihypertensive_dose": 2.632,
+    "arterial_stiffness": 1.515,
+    "blood_pressure_mmhg": -1.05
+  },
+  {
+    "sodium_intake": 9.962,
+    "antihypertensive_dose": 4.731,
+    "arterial_stiffness": 0.463,
+    "blood_pressure_mmhg": -3.49
+  },
+  {
+    "sodium_intake": 12.959,
+    "antihypertensive_dose": 5.685,
+    "arterial_stiffness": 3.353,
+    "blood_pressure_mmhg": -2.26
+  },
+  {
+    "sodium_intake": 9.644,
+    "antihypertensive_dose": 8.818,
+    "arterial_stiffness": 4.031,
+    "blood_pressure_mmhg": -4.002
+  },
+  {
+    "sodium_intake": 12.946,
+    "antihypertensive_dose": 16.992,
+    "arterial_stiffness": 16.578,
+    "blood_pressure_mmhg": -1.093
+  },
+  {
+    "sodium_intake": 9.318,
+    "antihypertensive_dose": 0.377,
+    "arterial_stiffness": -1.891,
+    "blood_pressure_mmhg": -1.715
+  },
+  {
+    "sodium_intake": 11.696,
+    "antihypertensive_dose": 10.874,
+    "arterial_stiffness": 8.79,
+    "blood_pressure_mmhg": -2.128
+  },
+  {
+    "sodium_intake": 9.498,
+    "antihypertensive_dose": 12.355,
+    "arterial_stiffness": 9.379,
+    "blood_pressure_mmhg": -3.195
+  },
+  {
+    "sodium_intake": 8.921,
+    "antihypertensive_dose": 12.857,
+    "arterial_stiffness": 8.439,
+    "blood_pressure_mmhg": -4.324
+  },
+  {
+    "sodium_intake": 7.895,
+    "antihypertensive_dose": 13.128,
+    "arterial_stiffness": 5.525,
+    "blood_pressure_mmhg": -6.893
+  },
+  {
+    "sodium_intake": 14.271,
+    "antihypertensive_dose": 9.963,
+    "arterial_stiffness": 9.74,
+    "blood_pressure_mmhg": -0.826
+  },
+  {
+    "sodium_intake": 15.13,
+    "antihypertensive_dose": 20.028,
+    "arterial_stiffness": 18.685,
+    "blood_pressure_mmhg": -2.048
+  },
+  {
+    "sodium_intake": 8.456,
+    "antihypertensive_dose": 13.102,
+    "arterial_stiffness": 9.659,
+    "blood_pressure_mmhg": -3.651
+  },
+  {
+    "sodium_intake": 7.102,
+    "antihypertensive_dose": 16.581,
+    "arterial_stiffness": 8.721,
+    "blood_pressure_mmhg": -7.246
+  },
+  {
+    "sodium_intake": 7.355,
+    "antihypertensive_dose": 23.519,
+    "arterial_stiffness": 16.285,
+    "blood_pressure_mmhg": -7.037
+  },
+  {
+    "sodium_intake": 7.847,
+    "antihypertensive_dose": 6.063,
+    "arterial_stiffness": 3.17,
+    "blood_pressure_mmhg": -2.551
+  },
+  {
+    "sodium_intake": 7.609,
+    "antihypertensive_dose": 14.453,
+    "arterial_stiffness": 7.948,
+    "blood_pressure_mmhg": -6.019
+  },
+  {
+    "sodium_intake": 8.381,
+    "antihypertensive_dose": 9.376,
+    "arterial_stiffness": 5.516,
+    "blood_pressure_mmhg": -3.285
+  },
+  {
+    "sodium_intake": 9.374,
+    "antihypertensive_dose": 4.084,
+    "arterial_stiffness": 2.342,
+    "blood_pressure_mmhg": -1.677
+  },
+  {
+    "sodium_intake": 8.053,
+    "antihypertensive_dose": 9.485,
+    "arterial_stiffness": 7.616,
+    "blood_pressure_mmhg": -1.959
+  },
+  {
+    "sodium_intake": 12.487,
+    "antihypertensive_dose": 15.209,
+    "arterial_stiffness": 10.697,
+    "blood_pressure_mmhg": -4.373
+  },
+  {
+    "sodium_intake": 11.557,
+    "antihypertensive_dose": 7.842,
+    "arterial_stiffness": 8.158,
+    "blood_pressure_mmhg": -0.349
+  },
+  {
+    "sodium_intake": 8.167,
+    "antihypertensive_dose": 17.34,
+    "arterial_stiffness": 9.581,
+    "blood_pressure_mmhg": -7.11
+  },
+  {
+    "sodium_intake": 8.386,
+    "antihypertensive_dose": 7.366,
+    "arterial_stiffness": 4.054,
+    "blood_pressure_mmhg": -3.124
+  },
+  {
+    "sodium_intake": 7.621,
+    "antihypertensive_dose": 9.529,
+    "arterial_stiffness": 6.232,
+    "blood_pressure_mmhg": -3.06
+  },
+  {
+    "sodium_intake": 13.002,
+    "antihypertensive_dose": 8.295,
+    "arterial_stiffness": 7.165,
+    "blood_pressure_mmhg": -1.647
+  },
+  {
+    "sodium_intake": 8.499,
+    "antihypertensive_dose": 8.63,
+    "arterial_stiffness": 2.734,
+    "blood_pressure_mmhg": -5.111
+  },
+  {
+    "sodium_intake": 11.783,
+    "antihypertensive_dose": 12.67,
+    "arterial_stiffness": 10.313,
+    "blood_pressure_mmhg": -2.332
+  },
+  {
+    "sodium_intake": 11.642,
+    "antihypertensive_dose": 13.99,
+    "arterial_stiffness": 13.62,
+    "blood_pressure_mmhg": -0.808
+  },
+  {
+    "sodium_intake": 8.205,
+    "antihypertensive_dose": 13.02,
+    "arterial_stiffness": 10.701,
+    "blood_pressure_mmhg": -2.473
+  },
+  {
+    "sodium_intake": 6.771,
+    "antihypertensive_dose": 11.355,
+    "arterial_stiffness": 4.547,
+    "blood_pressure_mmhg": -6.059
+  },
+  {
+    "sodium_intake": 11.839,
+    "antihypertensive_dose": 14.095,
+    "arterial_stiffness": 12.173,
+    "blood_pressure_mmhg": -2.553
+  },
+  {
+    "sodium_intake": 9.274,
+    "antihypertensive_dose": 11.707,
+    "arterial_stiffness": 7.082,
+    "blood_pressure_mmhg": -4.131
+  },
+  {
+    "sodium_intake": 11.291,
+    "antihypertensive_dose": 17.688,
+    "arterial_stiffness": 10.934,
+    "blood_pressure_mmhg": -6.383
+  },
+  {
+    "sodium_intake": 11.964,
+    "antihypertensive_dose": 3.721,
+    "arterial_stiffness": 1.602,
+    "blood_pressure_mmhg": -1.74
+  },
+  {
+    "sodium_intake": 7.398,
+    "antihypertensive_dose": 18.814,
+    "arterial_stiffness": 9.616,
+    "blood_pressure_mmhg": -8.278
+  },
+  {
+    "sodium_intake": 10.098,
+    "antihypertensive_dose": 9.634,
+    "arterial_stiffness": 8.611,
+    "blood_pressure_mmhg": -1.026
+  },
+  {
+    "sodium_intake": 13.943,
+    "antihypertensive_dose": 7.635,
+    "arterial_stiffness": 8.067,
+    "blood_pressure_mmhg": -0.38
+  },
+  {
+    "sodium_intake": 8.07,
+    "antihypertensive_dose": 8.615,
+    "arterial_stiffness": 4.991,
+    "blood_pressure_mmhg": -3.355
+  },
+  {
+    "sodium_intake": 9.718,
+    "antihypertensive_dose": 7.144,
+    "arterial_stiffness": 5.859,
+    "blood_pressure_mmhg": -1.077
+  },
+  {
+    "sodium_intake": 10.784,
+    "antihypertensive_dose": 5.217,
+    "arterial_stiffness": 1.655,
+    "blood_pressure_mmhg": -3.092
+  },
+  {
+    "sodium_intake": 10.262,
+    "antihypertensive_dose": -1.859,
+    "arterial_stiffness": -0.781,
+    "blood_pressure_mmhg": 0.884
+  },
+  {
+    "sodium_intake": 11.052,
+    "antihypertensive_dose": 12.242,
+    "arterial_stiffness": 9.984,
+    "blood_pressure_mmhg": -2.486
+  },
+  {
+    "sodium_intake": 10.644,
+    "antihypertensive_dose": 9.58,
+    "arterial_stiffness": 10.135,
+    "blood_pressure_mmhg": -0.074
+  },
+  {
+    "sodium_intake": 11.83,
+    "antihypertensive_dose": 12.495,
+    "arterial_stiffness": 9.953,
+    "blood_pressure_mmhg": -2.667
+  },
+  {
+    "sodium_intake": 7.965,
+    "antihypertensive_dose": 6.046,
+    "arterial_stiffness": 2.769,
+    "blood_pressure_mmhg": -2.634
+  },
+  {
+    "sodium_intake": 8.009,
+    "antihypertensive_dose": 8.976,
+    "arterial_stiffness": 1.849,
+    "blood_pressure_mmhg": -6.079
+  },
+  {
+    "sodium_intake": 9.676,
+    "antihypertensive_dose": 8.992,
+    "arterial_stiffness": 9.392,
+    "blood_pressure_mmhg": 0.161
+  },
+  {
+    "sodium_intake": 8.236,
+    "antihypertensive_dose": 4.318,
+    "arterial_stiffness": 3.183,
+    "blood_pressure_mmhg": -1.124
+  },
+  {
+    "sodium_intake": 11.185,
+    "antihypertensive_dose": 10.497,
+    "arterial_stiffness": 8.382,
+    "blood_pressure_mmhg": -2.507
+  },
+  {
+    "sodium_intake": 8.941,
+    "antihypertensive_dose": 14.509,
+    "arterial_stiffness": 13.025,
+    "blood_pressure_mmhg": -1.232
+  },
+  {
+    "sodium_intake": 8.931,
+    "antihypertensive_dose": 3.723,
+    "arterial_stiffness": 1.53,
+    "blood_pressure_mmhg": -1.883
+  },
+  {
+    "sodium_intake": 9.026,
+    "antihypertensive_dose": 8.087,
+    "arterial_stiffness": 6.023,
+    "blood_pressure_mmhg": -2.424
+  },
+  {
+    "sodium_intake": 10.809,
+    "antihypertensive_dose": 3.923,
+    "arterial_stiffness": 5.309,
+    "blood_pressure_mmhg": 0.875
+  },
+  {
+    "sodium_intake": 11.869,
+    "antihypertensive_dose": 13.053,
+    "arterial_stiffness": 8.565,
+    "blood_pressure_mmhg": -4.168
+  },
+  {
+    "sodium_intake": 7.104,
+    "antihypertensive_dose": 8.581,
+    "arterial_stiffness": 4.14,
+    "blood_pressure_mmhg": -3.765
+  },
+  {
+    "sodium_intake": 12.583,
+    "antihypertensive_dose": 7.177,
+    "arterial_stiffness": 8.967,
+    "blood_pressure_mmhg": 0.718
+  },
+  {
+    "sodium_intake": 8.547,
+    "antihypertensive_dose": 5.84,
+    "arterial_stiffness": 3.457,
+    "blood_pressure_mmhg": -1.89
+  },
+  {
+    "sodium_intake": 10.175,
+    "antihypertensive_dose": 10.985,
+    "arterial_stiffness": 6.643,
+    "blood_pressure_mmhg": -3.854
+  },
+  {
+    "sodium_intake": 10.631,
+    "antihypertensive_dose": 7.377,
+    "arterial_stiffness": 6.377,
+    "blood_pressure_mmhg": -1.473
+  },
+  {
+    "sodium_intake": 6.759,
+    "antihypertensive_dose": 6.346,
+    "arterial_stiffness": 4.318,
+    "blood_pressure_mmhg": -1.83
+  },
+  {
+    "sodium_intake": 9.63,
+    "antihypertensive_dose": 7.337,
+    "arterial_stiffness": 1.9,
+    "blood_pressure_mmhg": -4.865
+  },
+  {
+    "sodium_intake": 10.704,
+    "antihypertensive_dose": 10.15,
+    "arterial_stiffness": 7.637,
+    "blood_pressure_mmhg": -2.327
+  },
+  {
+    "sodium_intake": 9.959,
+    "antihypertensive_dose": 8.342,
+    "arterial_stiffness": 6.686,
+    "blood_pressure_mmhg": -2.019
+  },
+  {
+    "sodium_intake": 11.733,
+    "antihypertensive_dose": 11.039,
+    "arterial_stiffness": 8.271,
+    "blood_pressure_mmhg": -2.595
+  },
+  {
+    "sodium_intake": 6.85,
+    "antihypertensive_dose": 9.691,
+    "arterial_stiffness": 4.644,
+    "blood_pressure_mmhg": -4.494
+  },
+  {
+    "sodium_intake": 11.77,
+    "antihypertensive_dose": 5.901,
+    "arterial_stiffness": 6.314,
+    "blood_pressure_mmhg": -0.048
+  },
+  {
+    "sodium_intake": 10.578,
+    "antihypertensive_dose": 3.974,
+    "arterial_stiffness": 2.399,
+    "blood_pressure_mmhg": -1.478
+  },
+  {
+    "sodium_intake": 9.112,
+    "antihypertensive_dose": 4.136,
+    "arterial_stiffness": 3.313,
+    "blood_pressure_mmhg": -0.815
+  },
+  {
+    "sodium_intake": 13.207,
+    "antihypertensive_dose": 9.169,
+    "arterial_stiffness": 6.678,
+    "blood_pressure_mmhg": -2.609
+  },
+  {
+    "sodium_intake": 10.716,
+    "antihypertensive_dose": 12.467,
+    "arterial_stiffness": 8.401,
+    "blood_pressure_mmhg": -3.722
+  },
+  {
+    "sodium_intake": 9.204,
+    "antihypertensive_dose": 7.204,
+    "arterial_stiffness": 3.196,
+    "blood_pressure_mmhg": -3.806
+  },
+  {
+    "sodium_intake": 12.801,
+    "antihypertensive_dose": 7.017,
+    "arterial_stiffness": 9.253,
+    "blood_pressure_mmhg": 1.484
+  },
+  {
+    "sodium_intake": 9.775,
+    "antihypertensive_dose": 8.206,
+    "arterial_stiffness": 2.536,
+    "blood_pressure_mmhg": -4.758
+  },
+  {
+    "sodium_intake": 9.494,
+    "antihypertensive_dose": 7.436,
+    "arterial_stiffness": 2.119,
+    "blood_pressure_mmhg": -4.563
+  },
+  {
+    "sodium_intake": 9.316,
+    "antihypertensive_dose": 10.724,
+    "arterial_stiffness": 10.517,
+    "blood_pressure_mmhg": -0.868
+  },
+  {
+    "sodium_intake": 9.915,
+    "antihypertensive_dose": 14.477,
+    "arterial_stiffness": 9.339,
+    "blood_pressure_mmhg": -4.98
+  },
+  {
+    "sodium_intake": 11.702,
+    "antihypertensive_dose": 12.826,
+    "arterial_stiffness": 15.258,
+    "blood_pressure_mmhg": 0.938
+  },
+  {
+    "sodium_intake": 10.676,
+    "antihypertensive_dose": 18.256,
+    "arterial_stiffness": 14.08,
+    "blood_pressure_mmhg": -4.493
+  },
+  {
+    "sodium_intake": 9.433,
+    "antihypertensive_dose": 3.813,
+    "arterial_stiffness": 2.469,
+    "blood_pressure_mmhg": -1.195
+  },
+  {
+    "sodium_intake": 8.466,
+    "antihypertensive_dose": 7.707,
+    "arterial_stiffness": 4.131,
+    "blood_pressure_mmhg": -3.006
+  },
+  {
+    "sodium_intake": 14.658,
+    "antihypertensive_dose": 6.011,
+    "arterial_stiffness": 9.737,
+    "blood_pressure_mmhg": 2.128
+  },
+  {
+    "sodium_intake": 9.889,
+    "antihypertensive_dose": 13.813,
+    "arterial_stiffness": 9.622,
+    "blood_pressure_mmhg": -4.235
+  },
+  {
+    "sodium_intake": 5.709,
+    "antihypertensive_dose": 16.242,
+    "arterial_stiffness": 10.18,
+    "blood_pressure_mmhg": -5.529
+  },
+  {
+    "sodium_intake": 9.088,
+    "antihypertensive_dose": 8.212,
+    "arterial_stiffness": 3.314,
+    "blood_pressure_mmhg": -4.411
+  },
+  {
+    "sodium_intake": 7.865,
+    "antihypertensive_dose": 6.041,
+    "arterial_stiffness": 3.266,
+    "blood_pressure_mmhg": -2.868
+  },
+  {
+    "sodium_intake": 12.527,
+    "antihypertensive_dose": 11.958,
+    "arterial_stiffness": 14.711,
+    "blood_pressure_mmhg": 1.68
+  },
+  {
+    "sodium_intake": 12.143,
+    "antihypertensive_dose": 8.469,
+    "arterial_stiffness": 9.567,
+    "blood_pressure_mmhg": 0.188
+  },
+  {
+    "sodium_intake": 10.514,
+    "antihypertensive_dose": 13.686,
+    "arterial_stiffness": 8.549,
+    "blood_pressure_mmhg": -4.661
+  },
+  {
+    "sodium_intake": 9.987,
+    "antihypertensive_dose": 13.002,
+    "arterial_stiffness": 4.968,
+    "blood_pressure_mmhg": -6.964
+  },
+  {
+    "sodium_intake": 10.605,
+    "antihypertensive_dose": 12.131,
+    "arterial_stiffness": 10.727,
+    "blood_pressure_mmhg": -1.772
+  },
+  {
+    "sodium_intake": 7.283,
+    "antihypertensive_dose": 13.876,
+    "arterial_stiffness": 8.426,
+    "blood_pressure_mmhg": -5.114
+  },
+  {
+    "sodium_intake": 8.18,
+    "antihypertensive_dose": 8.286,
+    "arterial_stiffness": 2.082,
+    "blood_pressure_mmhg": -5.103
+  },
+  {
+    "sodium_intake": 12.995,
+    "antihypertensive_dose": 9.268,
+    "arterial_stiffness": 10.357,
+    "blood_pressure_mmhg": 0.374
+  },
+  {
+    "sodium_intake": 7.203,
+    "antihypertensive_dose": 4.249,
+    "arterial_stiffness": 2.023,
+    "blood_pressure_mmhg": -2.165
+  },
+  {
+    "sodium_intake": 14.084,
+    "antihypertensive_dose": 16.532,
+    "arterial_stiffness": 17.947,
+    "blood_pressure_mmhg": 0.354
+  },
+  {
+    "sodium_intake": 11.88,
+    "antihypertensive_dose": 14.527,
+    "arterial_stiffness": 9.863,
+    "blood_pressure_mmhg": -4.612
+  },
+  {
+    "sodium_intake": 10.228,
+    "antihypertensive_dose": 11.387,
+    "arterial_stiffness": 11.662,
+    "blood_pressure_mmhg": -0.309
+  },
+  {
+    "sodium_intake": 8.559,
+    "antihypertensive_dose": 8.947,
+    "arterial_stiffness": 5.077,
+    "blood_pressure_mmhg": -3.57
+  },
+  {
+    "sodium_intake": 11.798,
+    "antihypertensive_dose": 5.78,
+    "arterial_stiffness": 4.255,
+    "blood_pressure_mmhg": -1.475
+  },
+  {
+    "sodium_intake": 10.934,
+    "antihypertensive_dose": 5.902,
+    "arterial_stiffness": 3.419,
+    "blood_pressure_mmhg": -2.313
+  },
+  {
+    "sodium_intake": 10.056,
+    "antihypertensive_dose": 5.105,
+    "arterial_stiffness": 3.988,
+    "blood_pressure_mmhg": -1.231
+  },
+  {
+    "sodium_intake": 6.37,
+    "antihypertensive_dose": 6.348,
+    "arterial_stiffness": 1.338,
+    "blood_pressure_mmhg": -4.214
+  },
+  {
+    "sodium_intake": 10.196,
+    "antihypertensive_dose": 4.361,
+    "arterial_stiffness": 1.881,
+    "blood_pressure_mmhg": -1.987
+  },
+  {
+    "sodium_intake": 9.476,
+    "antihypertensive_dose": 10.112,
+    "arterial_stiffness": 5.834,
+    "blood_pressure_mmhg": -3.79
+  },
+  {
+    "sodium_intake": 12.252,
+    "antihypertensive_dose": 0.794,
+    "arterial_stiffness": -0.365,
+    "blood_pressure_mmhg": -1.221
+  },
+  {
+    "sodium_intake": 8.489,
+    "antihypertensive_dose": 4.196,
+    "arterial_stiffness": -0.702,
+    "blood_pressure_mmhg": -4.332
+  },
+  {
+    "sodium_intake": 11.592,
+    "antihypertensive_dose": 9.215,
+    "arterial_stiffness": 8.27,
+    "blood_pressure_mmhg": -1.418
+  },
+  {
+    "sodium_intake": 11.126,
+    "antihypertensive_dose": 11.457,
+    "arterial_stiffness": 11.2,
+    "blood_pressure_mmhg": -0.638
+  },
+  {
+    "sodium_intake": 10.639,
+    "antihypertensive_dose": 14.477,
+    "arterial_stiffness": 8.606,
+    "blood_pressure_mmhg": -5.238
+  },
+  {
+    "sodium_intake": 9.884,
+    "antihypertensive_dose": 10.074,
+    "arterial_stiffness": 6.832,
+    "blood_pressure_mmhg": -3.072
+  },
+  {
+    "sodium_intake": 11.174,
+    "antihypertensive_dose": 10.957,
+    "arterial_stiffness": 12.433,
+    "blood_pressure_mmhg": 0.793
+  },
+  {
+    "sodium_intake": 11.213,
+    "antihypertensive_dose": 9.956,
+    "arterial_stiffness": 7.118,
+    "blood_pressure_mmhg": -3.273
+  },
+  {
+    "sodium_intake": 11.017,
+    "antihypertensive_dose": 12.257,
+    "arterial_stiffness": 8.711,
+    "blood_pressure_mmhg": -3.595
+  },
+  {
+    "sodium_intake": 7.512,
+    "antihypertensive_dose": 9.063,
+    "arterial_stiffness": 3.208,
+    "blood_pressure_mmhg": -5.177
+  },
+  {
+    "sodium_intake": 11.426,
+    "antihypertensive_dose": 7.113,
+    "arterial_stiffness": 6.654,
+    "blood_pressure_mmhg": -0.867
+  },
+  {
+    "sodium_intake": 7.25,
+    "antihypertensive_dose": 9.314,
+    "arterial_stiffness": 3.458,
+    "blood_pressure_mmhg": -4.654
+  },
+  {
+    "sodium_intake": 8.252,
+    "antihypertensive_dose": 7.793,
+    "arterial_stiffness": 3.36,
+    "blood_pressure_mmhg": -3.911
+  },
+  {
+    "sodium_intake": 8.858,
+    "antihypertensive_dose": 8.663,
+    "arterial_stiffness": 5.751,
+    "blood_pressure_mmhg": -3.004
+  },
+  {
+    "sodium_intake": 10.676,
+    "antihypertensive_dose": 0.975,
+    "arterial_stiffness": 1.302,
+    "blood_pressure_mmhg": 0.617
+  },
+  {
+    "sodium_intake": 8.3,
+    "antihypertensive_dose": 7.815,
+    "arterial_stiffness": 3.86,
+    "blood_pressure_mmhg": -3.549
+  },
+  {
+    "sodium_intake": 10.52,
+    "antihypertensive_dose": 9.477,
+    "arterial_stiffness": 6.159,
+    "blood_pressure_mmhg": -3.159
+  },
+  {
+    "sodium_intake": 9.003,
+    "antihypertensive_dose": 10.588,
+    "arterial_stiffness": 10.127,
+    "blood_pressure_mmhg": -1.132
+  },
+  {
+    "sodium_intake": 12.077,
+    "antihypertensive_dose": 14.519,
+    "arterial_stiffness": 10.944,
+    "blood_pressure_mmhg": -3.235
+  },
+  {
+    "sodium_intake": 12.647,
+    "antihypertensive_dose": 7.167,
+    "arterial_stiffness": 7.29,
+    "blood_pressure_mmhg": -0.086
+  },
+  {
+    "sodium_intake": 8.654,
+    "antihypertensive_dose": 19.192,
+    "arterial_stiffness": 15.467,
+    "blood_pressure_mmhg": -3.742
+  },
+  {
+    "sodium_intake": 11.662,
+    "antihypertensive_dose": 13.44,
+    "arterial_stiffness": 11.72,
+    "blood_pressure_mmhg": -2.064
+  },
+  {
+    "sodium_intake": 10.395,
+    "antihypertensive_dose": 14.267,
+    "arterial_stiffness": 12.073,
+    "blood_pressure_mmhg": -2.439
+  },
+  {
+    "sodium_intake": 10.983,
+    "antihypertensive_dose": 12.393,
+    "arterial_stiffness": 10.107,
+    "blood_pressure_mmhg": -2.571
+  },
+  {
+    "sodium_intake": 7.141,
+    "antihypertensive_dose": 6.691,
+    "arterial_stiffness": 0.128,
+    "blood_pressure_mmhg": -5.152
+  },
+  {
+    "sodium_intake": 10.085,
+    "antihypertensive_dose": 8.53,
+    "arterial_stiffness": 1.461,
+    "blood_pressure_mmhg": -6.071
+  },
+  {
+    "sodium_intake": 11.374,
+    "antihypertensive_dose": 7.146,
+    "arterial_stiffness": 7.309,
+    "blood_pressure_mmhg": -0.711
+  },
+  {
+    "sodium_intake": 7.154,
+    "antihypertensive_dose": 5.811,
+    "arterial_stiffness": 2.349,
+    "blood_pressure_mmhg": -3.092
+  },
+  {
+    "sodium_intake": 6.835,
+    "antihypertensive_dose": 9.017,
+    "arterial_stiffness": 10.556,
+    "blood_pressure_mmhg": 0.444
+  },
+  {
+    "sodium_intake": 6.984,
+    "antihypertensive_dose": 9.358,
+    "arterial_stiffness": 3.396,
+    "blood_pressure_mmhg": -5.453
+  },
+  {
+    "sodium_intake": 13.479,
+    "antihypertensive_dose": 12.706,
+    "arterial_stiffness": 9.621,
+    "blood_pressure_mmhg": -2.898
+  },
+  {
+    "sodium_intake": 7.097,
+    "antihypertensive_dose": 10.62,
+    "arterial_stiffness": 5.681,
+    "blood_pressure_mmhg": -4.532
+  },
+  {
+    "sodium_intake": 10.295,
+    "antihypertensive_dose": 9.822,
+    "arterial_stiffness": 6.304,
+    "blood_pressure_mmhg": -2.806
+  },
+  {
+    "sodium_intake": 8.47,
+    "antihypertensive_dose": 13.079,
+    "arterial_stiffness": 8.626,
+    "blood_pressure_mmhg": -4.616
+  },
+  {
+    "sodium_intake": 7.301,
+    "antihypertensive_dose": 8.921,
+    "arterial_stiffness": 8.083,
+    "blood_pressure_mmhg": -0.98
+  },
+  {
+    "sodium_intake": 9.348,
+    "antihypertensive_dose": 5.411,
+    "arterial_stiffness": 2.372,
+    "blood_pressure_mmhg": -2.854
+  },
+  {
+    "sodium_intake": 6.842,
+    "antihypertensive_dose": 11.775,
+    "arterial_stiffness": 9.414,
+    "blood_pressure_mmhg": -2.368
+  },
+  {
+    "sodium_intake": 9.17,
+    "antihypertensive_dose": 9.242,
+    "arterial_stiffness": 8.849,
+    "blood_pressure_mmhg": -0.955
+  },
+  {
+    "sodium_intake": 5.987,
+    "antihypertensive_dose": 14.294,
+    "arterial_stiffness": 8.675,
+    "blood_pressure_mmhg": -5.521
+  },
+  {
+    "sodium_intake": 11.95,
+    "antihypertensive_dose": 14.356,
+    "arterial_stiffness": 13.117,
+    "blood_pressure_mmhg": -1.675
+  },
+  {
+    "sodium_intake": 14.357,
+    "antihypertensive_dose": 6.825,
+    "arterial_stiffness": 9.915,
+    "blood_pressure_mmhg": 2.368
+  },
+  {
+    "sodium_intake": 10.046,
+    "antihypertensive_dose": 3.923,
+    "arterial_stiffness": 2.948,
+    "blood_pressure_mmhg": -1.143
+  },
+  {
+    "sodium_intake": 12.857,
+    "antihypertensive_dose": 22.276,
+    "arterial_stiffness": 20.326,
+    "blood_pressure_mmhg": -2.9
+  },
+  {
+    "sodium_intake": 7.554,
+    "antihypertensive_dose": 17.577,
+    "arterial_stiffness": 9.342,
+    "blood_pressure_mmhg": -7.876
+  },
+  {
+    "sodium_intake": 13.551,
+    "antihypertensive_dose": 12.44,
+    "arterial_stiffness": 8.997,
+    "blood_pressure_mmhg": -3.163
+  },
+  {
+    "sodium_intake": 5.548,
+    "antihypertensive_dose": 7.555,
+    "arterial_stiffness": 2.894,
+    "blood_pressure_mmhg": -3.933
+  },
+  {
+    "sodium_intake": 6.736,
+    "antihypertensive_dose": 8.602,
+    "arterial_stiffness": 6.565,
+    "blood_pressure_mmhg": -1.898
+  },
+  {
+    "sodium_intake": 9.769,
+    "antihypertensive_dose": 5.461,
+    "arterial_stiffness": 3.884,
+    "blood_pressure_mmhg": -1.541
+  },
+  {
+    "sodium_intake": 10.759,
+    "antihypertensive_dose": 14.206,
+    "arterial_stiffness": 13.006,
+    "blood_pressure_mmhg": -1.571
+  },
+  {
+    "sodium_intake": 10.812,
+    "antihypertensive_dose": 8.668,
+    "arterial_stiffness": 7.451,
+    "blood_pressure_mmhg": -1.45
+  },
+  {
+    "sodium_intake": 8.948,
+    "antihypertensive_dose": 0.215,
+    "arterial_stiffness": -2.009,
+    "blood_pressure_mmhg": -1.78
+  },
+  {
+    "sodium_intake": 10.896,
+    "antihypertensive_dose": 11.784,
+    "arterial_stiffness": 10.253,
+    "blood_pressure_mmhg": -1.749
+  },
+  {
+    "sodium_intake": 9.862,
+    "antihypertensive_dose": 8.541,
+    "arterial_stiffness": 4.579,
+    "blood_pressure_mmhg": -3.488
+  },
+  {
+    "sodium_intake": 12.527,
+    "antihypertensive_dose": 3.433,
+    "arterial_stiffness": -0.453,
+    "blood_pressure_mmhg": -3.085
+  },
+  {
+    "sodium_intake": 9.612,
+    "antihypertensive_dose": 12.187,
+    "arterial_stiffness": 9.039,
+    "blood_pressure_mmhg": -2.931
+  },
+  {
+    "sodium_intake": 9.396,
+    "antihypertensive_dose": 6.577,
+    "arterial_stiffness": 1.301,
+    "blood_pressure_mmhg": -4.522
+  },
+  {
+    "sodium_intake": 9.981,
+    "antihypertensive_dose": 15.521,
+    "arterial_stiffness": 10.036,
+    "blood_pressure_mmhg": -5.181
+  },
+  {
+    "sodium_intake": 14.364,
+    "antihypertensive_dose": 6.286,
+    "arterial_stiffness": 7.476,
+    "blood_pressure_mmhg": 0.989
+  },
+  {
+    "sodium_intake": 12.309,
+    "antihypertensive_dose": 0.308,
+    "arterial_stiffness": -2.015,
+    "blood_pressure_mmhg": -1.779
+  },
+  {
+    "sodium_intake": 12.481,
+    "antihypertensive_dose": 11.195,
+    "arterial_stiffness": 10.759,
+    "blood_pressure_mmhg": -0.971
+  },
+  {
+    "sodium_intake": 11.302,
+    "antihypertensive_dose": 11.75,
+    "arterial_stiffness": 13.12,
+    "blood_pressure_mmhg": 0.466
+  },
+  {
+    "sodium_intake": 10.769,
+    "antihypertensive_dose": 6.799,
+    "arterial_stiffness": 7.753,
+    "blood_pressure_mmhg": 0.562
+  },
+  {
+    "sodium_intake": 9.325,
+    "antihypertensive_dose": 11.117,
+    "arterial_stiffness": 8.347,
+    "blood_pressure_mmhg": -3.007
+  },
+  {
+    "sodium_intake": 11.012,
+    "antihypertensive_dose": 6.429,
+    "arterial_stiffness": 2.853,
+    "blood_pressure_mmhg": -3.315
+  },
+  {
+    "sodium_intake": 11.752,
+    "antihypertensive_dose": 16.411,
+    "arterial_stiffness": 12.103,
+    "blood_pressure_mmhg": -4.444
+  },
+  {
+    "sodium_intake": 11.407,
+    "antihypertensive_dose": 10.432,
+    "arterial_stiffness": 9.134,
+    "blood_pressure_mmhg": -1.198
+  },
+  {
+    "sodium_intake": 11.409,
+    "antihypertensive_dose": 12.696,
+    "arterial_stiffness": 7.912,
+    "blood_pressure_mmhg": -4.823
+  },
+  {
+    "sodium_intake": 12.102,
+    "antihypertensive_dose": 10.782,
+    "arterial_stiffness": 9.998,
+    "blood_pressure_mmhg": -1.175
+  },
+  {
+    "sodium_intake": 9.41,
+    "antihypertensive_dose": 9.202,
+    "arterial_stiffness": 6.104,
+    "blood_pressure_mmhg": -3.059
+  },
+  {
+    "sodium_intake": 11.992,
+    "antihypertensive_dose": 10.166,
+    "arterial_stiffness": 9.571,
+    "blood_pressure_mmhg": -1.079
+  },
+  {
+    "sodium_intake": 12.349,
+    "antihypertensive_dose": 21.467,
+    "arterial_stiffness": 16.494,
+    "blood_pressure_mmhg": -5.325
+  },
+  {
+    "sodium_intake": 10.835,
+    "antihypertensive_dose": 9.794,
+    "arterial_stiffness": 5.733,
+    "blood_pressure_mmhg": -3.635
+  },
+  {
+    "sodium_intake": 11.795,
+    "antihypertensive_dose": 6.018,
+    "arterial_stiffness": 5.884,
+    "blood_pressure_mmhg": -0.065
+  },
+  {
+    "sodium_intake": 11.803,
+    "antihypertensive_dose": 10.488,
+    "arterial_stiffness": 5.514,
+    "blood_pressure_mmhg": -4.676
+  },
+  {
+    "sodium_intake": 14.64,
+    "antihypertensive_dose": 17.654,
+    "arterial_stiffness": 15.86,
+    "blood_pressure_mmhg": -2.15
+  },
+  {
+    "sodium_intake": 7.805,
+    "antihypertensive_dose": 2.083,
+    "arterial_stiffness": -0.449,
+    "blood_pressure_mmhg": -1.779
+  },
+  {
+    "sodium_intake": 11.712,
+    "antihypertensive_dose": 4.067,
+    "arterial_stiffness": 1.733,
+    "blood_pressure_mmhg": -1.634
+  },
+  {
+    "sodium_intake": 10.144,
+    "antihypertensive_dose": 16.804,
+    "arterial_stiffness": 12.238,
+    "blood_pressure_mmhg": -4.684
+  },
+  {
+    "sodium_intake": 11.337,
+    "antihypertensive_dose": 10.702,
+    "arterial_stiffness": 10.357,
+    "blood_pressure_mmhg": -0.935
+  },
+  {
+    "sodium_intake": 10.033,
+    "antihypertensive_dose": 19.36,
+    "arterial_stiffness": 12.9,
+    "blood_pressure_mmhg": -6.032
+  },
+  {
+    "sodium_intake": 11.404,
+    "antihypertensive_dose": 12.564,
+    "arterial_stiffness": 9.169,
+    "blood_pressure_mmhg": -3.462
+  },
+  {
+    "sodium_intake": 9.539,
+    "antihypertensive_dose": 7.464,
+    "arterial_stiffness": 4.374,
+    "blood_pressure_mmhg": -2.751
+  },
+  {
+    "sodium_intake": 9.981,
+    "antihypertensive_dose": 10.733,
+    "arterial_stiffness": 4.827,
+    "blood_pressure_mmhg": -5.174
+  },
+  {
+    "sodium_intake": 13.023,
+    "antihypertensive_dose": 3.896,
+    "arterial_stiffness": 6.322,
+    "blood_pressure_mmhg": 1.731
+  },
+  {
+    "sodium_intake": 7.731,
+    "antihypertensive_dose": 14.23,
+    "arterial_stiffness": 9.843,
+    "blood_pressure_mmhg": -4.287
+  },
+  {
+    "sodium_intake": 8.42,
+    "antihypertensive_dose": 16.484,
+    "arterial_stiffness": 9.643,
+    "blood_pressure_mmhg": -6.362
+  },
+  {
+    "sodium_intake": 9.782,
+    "antihypertensive_dose": 7.53,
+    "arterial_stiffness": 5.701,
+    "blood_pressure_mmhg": -2.587
+  },
+  {
+    "sodium_intake": 11.706,
+    "antihypertensive_dose": 4.595,
+    "arterial_stiffness": 6.009,
+    "blood_pressure_mmhg": 1.195
+  },
+  {
+    "sodium_intake": 9.349,
+    "antihypertensive_dose": 13.153,
+    "arterial_stiffness": 8.076,
+    "blood_pressure_mmhg": -4.576
+  },
+  {
+    "sodium_intake": 12.869,
+    "antihypertensive_dose": 5.473,
+    "arterial_stiffness": 3.27,
+    "blood_pressure_mmhg": -1.886
+  },
+  {
+    "sodium_intake": 10.288,
+    "antihypertensive_dose": 10.425,
+    "arterial_stiffness": 5.338,
+    "blood_pressure_mmhg": -4.43
+  },
+  {
+    "sodium_intake": 10.356,
+    "antihypertensive_dose": 19.59,
+    "arterial_stiffness": 14.276,
+    "blood_pressure_mmhg": -5.55
+  },
+  {
+    "sodium_intake": 13.141,
+    "antihypertensive_dose": 9.299,
+    "arterial_stiffness": 8.114,
+    "blood_pressure_mmhg": -1.489
+  },
+  {
+    "sodium_intake": 7.487,
+    "antihypertensive_dose": 5.641,
+    "arterial_stiffness": -0.567,
+    "blood_pressure_mmhg": -5.193
+  },
+  {
+    "sodium_intake": 11.279,
+    "antihypertensive_dose": 19.014,
+    "arterial_stiffness": 10.046,
+    "blood_pressure_mmhg": -8.008
+  },
+  {
+    "sodium_intake": 9.409,
+    "antihypertensive_dose": 3.144,
+    "arterial_stiffness": 0.161,
+    "blood_pressure_mmhg": -2.332
+  },
+  {
+    "sodium_intake": 9.435,
+    "antihypertensive_dose": 16.456,
+    "arterial_stiffness": 10.208,
+    "blood_pressure_mmhg": -5.672
+  },
+  {
+    "sodium_intake": 9.705,
+    "antihypertensive_dose": 1.501,
+    "arterial_stiffness": 2.327,
+    "blood_pressure_mmhg": 0.742
+  },
+  {
+    "sodium_intake": 11.35,
+    "antihypertensive_dose": 8.571,
+    "arterial_stiffness": 5.177,
+    "blood_pressure_mmhg": -3.228
+  },
+  {
+    "sodium_intake": 10.432,
+    "antihypertensive_dose": 14.804,
+    "arterial_stiffness": 11.022,
+    "blood_pressure_mmhg": -4.083
+  },
+  {
+    "sodium_intake": 7.966,
+    "antihypertensive_dose": 5.725,
+    "arterial_stiffness": 2.681,
+    "blood_pressure_mmhg": -2.703
+  },
+  {
+    "sodium_intake": 8.411,
+    "antihypertensive_dose": 4.571,
+    "arterial_stiffness": 3.217,
+    "blood_pressure_mmhg": -1.054
+  },
+  {
+    "sodium_intake": 11.851,
+    "antihypertensive_dose": 12.006,
+    "arterial_stiffness": 14.253,
+    "blood_pressure_mmhg": 1.268
+  },
+  {
+    "sodium_intake": 10.065,
+    "antihypertensive_dose": 11.739,
+    "arterial_stiffness": 6.289,
+    "blood_pressure_mmhg": -5.139
+  },
+  {
+    "sodium_intake": 8.294,
+    "antihypertensive_dose": 8.743,
+    "arterial_stiffness": 3.405,
+    "blood_pressure_mmhg": -4.984
+  },
+  {
+    "sodium_intake": 11.46,
+    "antihypertensive_dose": 11.205,
+    "arterial_stiffness": 9.45,
+    "blood_pressure_mmhg": -1.638
+  },
+  {
+    "sodium_intake": 12.295,
+    "antihypertensive_dose": 17.166,
+    "arterial_stiffness": 13.049,
+    "blood_pressure_mmhg": -3.992
+  },
+  {
+    "sodium_intake": 11.657,
+    "antihypertensive_dose": 11.378,
+    "arterial_stiffness": 8.3,
+    "blood_pressure_mmhg": -3.087
+  },
+  {
+    "sodium_intake": 11.725,
+    "antihypertensive_dose": 12.829,
+    "arterial_stiffness": 10.385,
+    "blood_pressure_mmhg": -2.329
+  },
+  {
+    "sodium_intake": 11.103,
+    "antihypertensive_dose": 20.873,
+    "arterial_stiffness": 17.505,
+    "blood_pressure_mmhg": -3.916
+  },
+  {
+    "sodium_intake": 6.35,
+    "antihypertensive_dose": 20.072,
+    "arterial_stiffness": 8.101,
+    "blood_pressure_mmhg": -10.611
+  },
+  {
+    "sodium_intake": 10.745,
+    "antihypertensive_dose": 11.435,
+    "arterial_stiffness": 7.833,
+    "blood_pressure_mmhg": -3.555
+  },
+  {
+    "sodium_intake": 10.995,
+    "antihypertensive_dose": 17.636,
+    "arterial_stiffness": 12.301,
+    "blood_pressure_mmhg": -5.049
+  },
+  {
+    "sodium_intake": 6.774,
+    "antihypertensive_dose": 12.268,
+    "arterial_stiffness": 6.888,
+    "blood_pressure_mmhg": -5.022
+  },
+  {
+    "sodium_intake": 10.216,
+    "antihypertensive_dose": 3.237,
+    "arterial_stiffness": 0.434,
+    "blood_pressure_mmhg": -2.094
+  },
+  {
+    "sodium_intake": 9.347,
+    "antihypertensive_dose": 15.232,
+    "arterial_stiffness": 11.312,
+    "blood_pressure_mmhg": -3.809
+  },
+  {
+    "sodium_intake": 9.443,
+    "antihypertensive_dose": 9.067,
+    "arterial_stiffness": 8.13,
+    "blood_pressure_mmhg": -1.29
+  },
+  {
+    "sodium_intake": 7.428,
+    "antihypertensive_dose": 6.874,
+    "arterial_stiffness": 1.258,
+    "blood_pressure_mmhg": -4.832
+  },
+  {
+    "sodium_intake": 10.085,
+    "antihypertensive_dose": 11.203,
+    "arterial_stiffness": 9.992,
+    "blood_pressure_mmhg": -1.622
+  },
+  {
+    "sodium_intake": 7.512,
+    "antihypertensive_dose": 12.573,
+    "arterial_stiffness": 6.444,
+    "blood_pressure_mmhg": -5.525
+  },
+  {
+    "sodium_intake": 11.094,
+    "antihypertensive_dose": 9.879,
+    "arterial_stiffness": 5.546,
+    "blood_pressure_mmhg": -4.059
+  },
+  {
+    "sodium_intake": 11.315,
+    "antihypertensive_dose": 19.095,
+    "arterial_stiffness": 12.293,
+    "blood_pressure_mmhg": -6.545
+  },
+  {
+    "sodium_intake": 11.178,
+    "antihypertensive_dose": 3.105,
+    "arterial_stiffness": 5.793,
+    "blood_pressure_mmhg": 2.201
+  },
+  {
+    "sodium_intake": 7.624,
+    "antihypertensive_dose": 6.883,
+    "arterial_stiffness": 3.605,
+    "blood_pressure_mmhg": -2.859
+  },
+  {
+    "sodium_intake": 9.258,
+    "antihypertensive_dose": 12.873,
+    "arterial_stiffness": 6.77,
+    "blood_pressure_mmhg": -5.294
+  },
+  {
+    "sodium_intake": 11.307,
+    "antihypertensive_dose": 11.026,
+    "arterial_stiffness": 11.268,
+    "blood_pressure_mmhg": -0.208
+  },
+  {
+    "sodium_intake": 12.235,
+    "antihypertensive_dose": 3.44,
+    "arterial_stiffness": 1.249,
+    "blood_pressure_mmhg": -2.14
+  },
+  {
+    "sodium_intake": 8.739,
+    "antihypertensive_dose": 10.724,
+    "arterial_stiffness": 6.319,
+    "blood_pressure_mmhg": -3.972
+  },
+  {
+    "sodium_intake": 5.498,
+    "antihypertensive_dose": 11.853,
+    "arterial_stiffness": 7.193,
+    "blood_pressure_mmhg": -4.508
+  },
+  {
+    "sodium_intake": 10.564,
+    "antihypertensive_dose": 10.981,
+    "arterial_stiffness": 6.788,
+    "blood_pressure_mmhg": -4.296
+  },
+  {
+    "sodium_intake": 10.723,
+    "antihypertensive_dose": 3.923,
+    "arterial_stiffness": 2.467,
+    "blood_pressure_mmhg": -1.796
+  },
+  {
+    "sodium_intake": 10.818,
+    "antihypertensive_dose": 14.55,
+    "arterial_stiffness": 13.649,
+    "blood_pressure_mmhg": -1.405
+  },
+  {
+    "sodium_intake": 8.094,
+    "antihypertensive_dose": 13.268,
+    "arterial_stiffness": 7.18,
+    "blood_pressure_mmhg": -5.503
+  },
+  {
+    "sodium_intake": 7.454,
+    "antihypertensive_dose": 12.747,
+    "arterial_stiffness": 2.559,
+    "blood_pressure_mmhg": -8.747
+  },
+  {
+    "sodium_intake": 8.902,
+    "antihypertensive_dose": 12.87,
+    "arterial_stiffness": 7.592,
+    "blood_pressure_mmhg": -4.751
+  },
+  {
+    "sodium_intake": 7.496,
+    "antihypertensive_dose": 9.639,
+    "arterial_stiffness": 7.754,
+    "blood_pressure_mmhg": -2.087
+  },
+  {
+    "sodium_intake": 10.022,
+    "antihypertensive_dose": 16.973,
+    "arterial_stiffness": 11.958,
+    "blood_pressure_mmhg": -4.742
+  },
+  {
+    "sodium_intake": 14.001,
+    "antihypertensive_dose": 14.747,
+    "arterial_stiffness": 12.68,
+    "blood_pressure_mmhg": -2.277
+  },
+  {
+    "sodium_intake": 9.458,
+    "antihypertensive_dose": 18.308,
+    "arterial_stiffness": 11.96,
+    "blood_pressure_mmhg": -6.008
+  },
+  {
+    "sodium_intake": 12.017,
+    "antihypertensive_dose": 6.144,
+    "arterial_stiffness": 8.849,
+    "blood_pressure_mmhg": 1.507
+  },
+  {
+    "sodium_intake": 13.493,
+    "antihypertensive_dose": 9.916,
+    "arterial_stiffness": 12.475,
+    "blood_pressure_mmhg": 1.288
+  },
+  {
+    "sodium_intake": 8.069,
+    "antihypertensive_dose": 6.18,
+    "arterial_stiffness": 6.206,
+    "blood_pressure_mmhg": -0.259
+  },
+  {
+    "sodium_intake": 8.087,
+    "antihypertensive_dose": 7.452,
+    "arterial_stiffness": 3.764,
+    "blood_pressure_mmhg": -3.167
+  },
+  {
+    "sodium_intake": 11.482,
+    "antihypertensive_dose": 12.608,
+    "arterial_stiffness": 10.102,
+    "blood_pressure_mmhg": -2.278
+  },
+  {
+    "sodium_intake": 9.156,
+    "antihypertensive_dose": 7.191,
+    "arterial_stiffness": 3.772,
+    "blood_pressure_mmhg": -2.921
+  },
+  {
+    "sodium_intake": 8.964,
+    "antihypertensive_dose": 8.859,
+    "arterial_stiffness": 8.912,
+    "blood_pressure_mmhg": 0.018
+  }
+]

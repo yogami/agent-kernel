@@ -30,7 +30,7 @@ class PoseFrame(BaseModel):
 
 
 class PoseLandmarkParserTool(ToolPort):
-    """Parses and validates 33 MediaPipe/OpenCV skeletal joint landmark streams."""
+    """Parses and validates pre-extracted 3D skeletal joint landmark coordinate streams."""
 
     name: str = "parse_pose_landmarks"
     description: str = (
@@ -319,7 +319,7 @@ class MovementSafetyCircuitBreakerTool(ToolPort):
 
 
 class VLMExerciseEvaluatorTool(ToolPort):
-    """Produces structured clinical exercise evaluations from temporal kinematics."""
+    """Produces structured clinical exercise evaluations from aggregated temporal kinematics."""
 
     name: str = "evaluate_exercise_kinematics"
     description: str = (

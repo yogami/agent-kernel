@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-09-17T12:28:12.116000+00:00",
+  "cases_evaluated": 12,
+  "llm_provider": "AsyncGeminiAdapter",
+  "model_name": "gemini-3.5-flash-lite",
+  "metrics": {
+    "phi_leakage_rate": 0.1667,
+    "contraindication_escape_rate": 0.1667,
+    "contradiction_admission_rate": 0.0,
+    "latency_p50_ms": 47345.86
+  }
+}

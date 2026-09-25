@@ -1,0 +1,3002 @@
+[
+  {
+    "device_reputation": 8.427,
+    "velocity_score": 10.024,
+    "mfa_challenge_policy": 9.031,
+    "fraud_probability": -5.719
+  },
+  {
+    "device_reputation": 4.77,
+    "velocity_score": 10.89,
+    "mfa_challenge_policy": 11.503,
+    "fraud_probability": -4.285
+  },
+  {
+    "device_reputation": 9.624,
+    "velocity_score": 9.244,
+    "mfa_challenge_policy": 12.132,
+    "fraud_probability": -9.203
+  },
+  {
+    "device_reputation": 11.74,
+    "velocity_score": 9.777,
+    "mfa_challenge_policy": 12.005,
+    "fraud_probability": -9.992
+  },
+  {
+    "device_reputation": 8.705,
+    "velocity_score": 12.394,
+    "mfa_challenge_policy": 7.784,
+    "fraud_probability": -3.203
+  },
+  {
+    "device_reputation": 14.417,
+    "velocity_score": 7.402,
+    "mfa_challenge_policy": 8.695,
+    "fraud_probability": -11.846
+  },
+  {
+    "device_reputation": 10.781,
+    "velocity_score": 7.237,
+    "mfa_challenge_policy": 8.7,
+    "fraud_probability": -9.018
+  },
+  {
+    "device_reputation": 9.532,
+    "velocity_score": 14.589,
+    "mfa_challenge_policy": 9.708,
+    "fraud_probability": -3.587
+  },
+  {
+    "device_reputation": 11.347,
+    "velocity_score": 9.155,
+    "mfa_challenge_policy": 9.215,
+    "fraud_probability": -8.656
+  },
+  {
+    "device_reputation": 9.831,
+    "velocity_score": 11.36,
+    "mfa_challenge_policy": 8.189,
+    "fraud_probability": -5.011
+  },
+  {
+    "device_reputation": 7.81,
+    "velocity_score": 7.825,
+    "mfa_challenge_policy": 11.656,
+    "fraud_probability": -9.278
+  },
+  {
+    "device_reputation": 6.327,
+    "velocity_score": 6.305,
+    "mfa_challenge_policy": 5.82,
+    "fraud_probability": -4.346
+  },
+  {
+    "device_reputation": 11.465,
+    "velocity_score": 6.614,
+    "mfa_challenge_policy": 11.837,
+    "fraud_probability": -12.351
+  },
+  {
+    "device_reputation": 9.12,
+    "velocity_score": 9.908,
+    "mfa_challenge_policy": 8.374,
+    "fraud_probability": -5.474
+  },
+  {
+    "device_reputation": 10.269,
+    "velocity_score": 10.011,
+    "mfa_challenge_policy": 8.242,
+    "fraud_probability": -6.381
+  },
+  {
+    "device_reputation": 13.862,
+    "velocity_score": 9.471,
+    "mfa_challenge_policy": 11.712,
+    "fraud_probability": -12.287
+  },
+  {
+    "device_reputation": 10.52,
+    "velocity_score": 13.175,
+    "mfa_challenge_policy": 10.886,
+    "fraud_probability": -6.129
+  },
+  {
+    "device_reputation": 8.931,
+    "velocity_score": 11.055,
+    "mfa_challenge_policy": 12.363,
+    "fraud_probability": -7.8
+  },
+  {
+    "device_reputation": 10.791,
+    "velocity_score": 9.827,
+    "mfa_challenge_policy": 10.369,
+    "fraud_probability": -8.023
+  },
+  {
+    "device_reputation": 7.798,
+    "velocity_score": 9.604,
+    "mfa_challenge_policy": 6.769,
+    "fraud_probability": -3.489
+  },
+  {
+    "device_reputation": 8.004,
+    "velocity_score": 10.378,
+    "mfa_challenge_policy": 7.755,
+    "fraud_probability": -3.761
+  },
+  {
+    "device_reputation": 12.15,
+    "velocity_score": 10.26,
+    "mfa_challenge_policy": 9.829,
+    "fraud_probability": -8.694
+  },
+  {
+    "device_reputation": 9.248,
+    "velocity_score": 11.685,
+    "mfa_challenge_policy": 8.515,
+    "fraud_probability": -4.713
+  },
+  {
+    "device_reputation": 8.306,
+    "velocity_score": 10.023,
+    "mfa_challenge_policy": 5.868,
+    "fraud_probability": -2.796
+  },
+  {
+    "device_reputation": 10.653,
+    "velocity_score": 10.556,
+    "mfa_challenge_policy": 10.345,
+    "fraud_probability": -7.762
+  },
+  {
+    "device_reputation": 11.075,
+    "velocity_score": 11.351,
+    "mfa_challenge_policy": 9.611,
+    "fraud_probability": -7.431
+  },
+  {
+    "device_reputation": 12.344,
+    "velocity_score": 10.234,
+    "mfa_challenge_policy": 10.242,
+    "fraud_probability": -8.731
+  },
+  {
+    "device_reputation": 13.092,
+    "velocity_score": 9.919,
+    "mfa_challenge_policy": 12.302,
+    "fraud_probability": -11.528
+  },
+  {
+    "device_reputation": 7.731,
+    "velocity_score": 11.031,
+    "mfa_challenge_policy": 10.077,
+    "fraud_probability": -5.154
+  },
+  {
+    "device_reputation": 7.042,
+    "velocity_score": 7.706,
+    "mfa_challenge_policy": 9.004,
+    "fraud_probability": -6.186
+  },
+  {
+    "device_reputation": 12.373,
+    "velocity_score": 10.681,
+    "mfa_challenge_policy": 10.921,
+    "fraud_probability": -9.597
+  },
+  {
+    "device_reputation": 10.691,
+    "velocity_score": 10.7,
+    "mfa_challenge_policy": 11.855,
+    "fraud_probability": -9.198
+  },
+  {
+    "device_reputation": 9.918,
+    "velocity_score": 12.403,
+    "mfa_challenge_policy": 11.838,
+    "fraud_probability": -6.932
+  },
+  {
+    "device_reputation": 11.664,
+    "velocity_score": 10.296,
+    "mfa_challenge_policy": 7.771,
+    "fraud_probability": -6.638
+  },
+  {
+    "device_reputation": 9.182,
+    "velocity_score": 12.839,
+    "mfa_challenge_policy": 10.037,
+    "fraud_probability": -4.478
+  },
+  {
+    "device_reputation": 11.274,
+    "velocity_score": 7.721,
+    "mfa_challenge_policy": 11.465,
+    "fraud_probability": -11.311
+  },
+  {
+    "device_reputation": 10.629,
+    "velocity_score": 9.907,
+    "mfa_challenge_policy": 8.816,
+    "fraud_probability": -7.111
+  },
+  {
+    "device_reputation": 11.208,
+    "velocity_score": 11.063,
+    "mfa_challenge_policy": 9.918,
+    "fraud_probability": -7.475
+  },
+  {
+    "device_reputation": 9.097,
+    "velocity_score": 14.443,
+    "mfa_challenge_policy": 10.98,
+    "fraud_probability": -4.599
+  },
+  {
+    "device_reputation": 12.247,
+    "velocity_score": 9.483,
+    "mfa_challenge_policy": 10.203,
+    "fraud_probability": -10.046
+  },
+  {
+    "device_reputation": 7.692,
+    "velocity_score": 9.637,
+    "mfa_challenge_policy": 12.588,
+    "fraud_probability": -7.834
+  },
+  {
+    "device_reputation": 9.328,
+    "velocity_score": 11.142,
+    "mfa_challenge_policy": 10.416,
+    "fraud_probability": -6.159
+  },
+  {
+    "device_reputation": 9.28,
+    "velocity_score": 12.908,
+    "mfa_challenge_policy": 6.839,
+    "fraud_probability": -2.642
+  },
+  {
+    "device_reputation": 11.942,
+    "velocity_score": 5.482,
+    "mfa_challenge_policy": 10.118,
+    "fraud_probability": -12.288
+  },
+  {
+    "device_reputation": 11.295,
+    "velocity_score": 10.248,
+    "mfa_challenge_policy": 10.958,
+    "fraud_probability": -8.928
+  },
+  {
+    "device_reputation": 9.385,
+    "velocity_score": 7.936,
+    "mfa_challenge_policy": 9.892,
+    "fraud_probability": -8.296
+  },
+  {
+    "device_reputation": 10.454,
+    "velocity_score": 11.838,
+    "mfa_challenge_policy": 9.476,
+    "fraud_probability": -5.976
+  },
+  {
+    "device_reputation": 13.955,
+    "velocity_score": 8.503,
+    "mfa_challenge_policy": 8.214,
+    "fraud_probability": -9.747
+  },
+  {
+    "device_reputation": 11.925,
+    "velocity_score": 10.292,
+    "mfa_challenge_policy": 8.269,
+    "fraud_probability": -7.362
+  },
+  {
+    "device_reputation": 11.694,
+    "velocity_score": 11.54,
+    "mfa_challenge_policy": 10.064,
+    "fraud_probability": -7.301
+  },
+  {
+    "device_reputation": 9.103,
+    "velocity_score": 7.64,
+    "mfa_challenge_policy": 12.293,
+    "fraud_probability": -10.746
+  },
+  {
+    "device_reputation": 14.02,
+    "velocity_score": 13.846,
+    "mfa_challenge_policy": 8.731,
+    "fraud_probability": -6.626
+  },
+  {
+    "device_reputation": 6.414,
+    "velocity_score": 10.598,
+    "mfa_challenge_policy": 9.095,
+    "fraud_probability": -3.534
+  },
+  {
+    "device_reputation": 8.061,
+    "velocity_score": 11.673,
+    "mfa_challenge_policy": 8.064,
+    "fraud_probability": -3.49
+  },
+  {
+    "device_reputation": 9.535,
+    "velocity_score": 9.696,
+    "mfa_challenge_policy": 10.4,
+    "fraud_probability": -7.53
+  },
+  {
+    "device_reputation": 8.989,
+    "velocity_score": 11.647,
+    "mfa_challenge_policy": 9.36,
+    "fraud_probability": -4.886
+  },
+  {
+    "device_reputation": 8.856,
+    "velocity_score": 10.187,
+    "mfa_challenge_policy": 13.342,
+    "fraud_probability": -8.966
+  },
+  {
+    "device_reputation": 8.047,
+    "velocity_score": 6.961,
+    "mfa_challenge_policy": 7.859,
+    "fraud_probability": -6.338
+  },
+  {
+    "device_reputation": 7.946,
+    "velocity_score": 10.959,
+    "mfa_challenge_policy": 11.362,
+    "fraud_probability": -6.414
+  },
+  {
+    "device_reputation": 7.679,
+    "velocity_score": 7.521,
+    "mfa_challenge_policy": 8.739,
+    "fraud_probability": -6.38
+  },
+  {
+    "device_reputation": 9.714,
+    "velocity_score": 9.582,
+    "mfa_challenge_policy": 10.18,
+    "fraud_probability": -7.118
+  },
+  {
+    "device_reputation": 9.875,
+    "velocity_score": 9.984,
+    "mfa_challenge_policy": 9.087,
+    "fraud_probability": -6.863
+  },
+  {
+    "device_reputation": 13.822,
+    "velocity_score": 12.677,
+    "mfa_challenge_policy": 7.56,
+    "fraud_probability": -6.042
+  },
+  {
+    "device_reputation": 7.82,
+    "velocity_score": 13.639,
+    "mfa_challenge_policy": 8.523,
+    "fraud_probability": -2.171
+  },
+  {
+    "device_reputation": 9.072,
+    "velocity_score": 14.466,
+    "mfa_challenge_policy": 6.599,
+    "fraud_probability": -1.209
+  },
+  {
+    "device_reputation": 10.908,
+    "velocity_score": 11.911,
+    "mfa_challenge_policy": 7.985,
+    "fraud_probability": -5.607
+  },
+  {
+    "device_reputation": 10.224,
+    "velocity_score": 7.79,
+    "mfa_challenge_policy": 12.829,
+    "fraud_probability": -11.758
+  },
+  {
+    "device_reputation": 9.08,
+    "velocity_score": 11.704,
+    "mfa_challenge_policy": 3.433,
+    "fraud_probability": -0.683
+  },
+  {
+    "device_reputation": 8.792,
+    "velocity_score": 8.339,
+    "mfa_challenge_policy": 9.582,
+    "fraud_probability": -7.647
+  },
+  {
+    "device_reputation": 7.311,
+    "velocity_score": 9.329,
+    "mfa_challenge_policy": 9.914,
+    "fraud_probability": -6.5
+  },
+  {
+    "device_reputation": 12.668,
+    "velocity_score": 11.047,
+    "mfa_challenge_policy": 8.414,
+    "fraud_probability": -7.294
+  },
+  {
+    "device_reputation": 8.436,
+    "velocity_score": 10.044,
+    "mfa_challenge_policy": 11.339,
+    "fraud_probability": -7.037
+  },
+  {
+    "device_reputation": 9.347,
+    "velocity_score": 9.447,
+    "mfa_challenge_policy": 9.586,
+    "fraud_probability": -7.062
+  },
+  {
+    "device_reputation": 8.703,
+    "velocity_score": 11.406,
+    "mfa_challenge_policy": 10.725,
+    "fraud_probability": -6.091
+  },
+  {
+    "device_reputation": 4.643,
+    "velocity_score": 12.194,
+    "mfa_challenge_policy": 8.817,
+    "fraud_probability": -0.722
+  },
+  {
+    "device_reputation": 12.741,
+    "velocity_score": 12.452,
+    "mfa_challenge_policy": 12.112,
+    "fraud_probability": -9.051
+  },
+  {
+    "device_reputation": 12.235,
+    "velocity_score": 13.757,
+    "mfa_challenge_policy": 11.255,
+    "fraud_probability": -7.323
+  },
+  {
+    "device_reputation": 13.113,
+    "velocity_score": 9.803,
+    "mfa_challenge_policy": 13.865,
+    "fraud_probability": -12.799
+  },
+  {
+    "device_reputation": 8.114,
+    "velocity_score": 10.93,
+    "mfa_challenge_policy": 8.621,
+    "fraud_probability": -4.335
+  },
+  {
+    "device_reputation": 12.789,
+    "velocity_score": 8.53,
+    "mfa_challenge_policy": 10.201,
+    "fraud_probability": -11.084
+  },
+  {
+    "device_reputation": 9.793,
+    "velocity_score": 13.138,
+    "mfa_challenge_policy": 10.012,
+    "fraud_probability": -5.201
+  },
+  {
+    "device_reputation": 8.484,
+    "velocity_score": 7.805,
+    "mfa_challenge_policy": 11.709,
+    "fraud_probability": -9.614
+  },
+  {
+    "device_reputation": 7.866,
+    "velocity_score": 11.801,
+    "mfa_challenge_policy": 10.38,
+    "fraud_probability": -5.258
+  },
+  {
+    "device_reputation": 7.938,
+    "velocity_score": 11.661,
+    "mfa_challenge_policy": 12.73,
+    "fraud_probability": -7.104
+  },
+  {
+    "device_reputation": 9.903,
+    "velocity_score": 8.74,
+    "mfa_challenge_policy": 7.593,
+    "fraud_probability": -6.414
+  },
+  {
+    "device_reputation": 9.519,
+    "velocity_score": 12.504,
+    "mfa_challenge_policy": 10.916,
+    "fraud_probability": -5.957
+  },
+  {
+    "device_reputation": 7.494,
+    "velocity_score": 12.654,
+    "mfa_challenge_policy": 11.237,
+    "fraud_probability": -4.85
+  },
+  {
+    "device_reputation": 13.765,
+    "velocity_score": 7.304,
+    "mfa_challenge_policy": 8.401,
+    "fraud_probability": -10.757
+  },
+  {
+    "device_reputation": 10.015,
+    "velocity_score": 11.031,
+    "mfa_challenge_policy": 10.432,
+    "fraud_probability": -7.262
+  },
+  {
+    "device_reputation": 11.791,
+    "velocity_score": 12.935,
+    "mfa_challenge_policy": 9.796,
+    "fraud_probability": -6.539
+  },
+  {
+    "device_reputation": 9.589,
+    "velocity_score": 6.058,
+    "mfa_challenge_policy": 6.499,
+    "fraud_probability": -7.455
+  },
+  {
+    "device_reputation": 8.322,
+    "velocity_score": 13.159,
+    "mfa_challenge_policy": 10.936,
+    "fraud_probability": -5.065
+  },
+  {
+    "device_reputation": 8.294,
+    "velocity_score": 9.525,
+    "mfa_challenge_policy": 12.841,
+    "fraud_probability": -9.184
+  },
+  {
+    "device_reputation": 7.792,
+    "velocity_score": 12.47,
+    "mfa_challenge_policy": 6.905,
+    "fraud_probability": -1.714
+  },
+  {
+    "device_reputation": 9.344,
+    "velocity_score": 6.943,
+    "mfa_challenge_policy": 5.05,
+    "fraud_probability": -5.153
+  },
+  {
+    "device_reputation": 8.616,
+    "velocity_score": 8.024,
+    "mfa_challenge_policy": 9.389,
+    "fraud_probability": -7.324
+  },
+  {
+    "device_reputation": 11.977,
+    "velocity_score": 9.833,
+    "mfa_challenge_policy": 9.218,
+    "fraud_probability": -8.321
+  },
+  {
+    "device_reputation": 9.613,
+    "velocity_score": 10.634,
+    "mfa_challenge_policy": 9.55,
+    "fraud_probability": -6.185
+  },
+  {
+    "device_reputation": 9.099,
+    "velocity_score": 9.734,
+    "mfa_challenge_policy": 3.359,
+    "fraud_probability": -1.737
+  },
+  {
+    "device_reputation": 8.775,
+    "velocity_score": 5.895,
+    "mfa_challenge_policy": 9.488,
+    "fraud_probability": -9.423
+  },
+  {
+    "device_reputation": 8.716,
+    "velocity_score": 10.37,
+    "mfa_challenge_policy": 9.505,
+    "fraud_probability": -5.968
+  },
+  {
+    "device_reputation": 7.198,
+    "velocity_score": 7.93,
+    "mfa_challenge_policy": 7.838,
+    "fraud_probability": -5.125
+  },
+  {
+    "device_reputation": 11.577,
+    "velocity_score": 11.964,
+    "mfa_challenge_policy": 11.051,
+    "fraud_probability": -8.474
+  },
+  {
+    "device_reputation": 10.859,
+    "velocity_score": 7.85,
+    "mfa_challenge_policy": 7.919,
+    "fraud_probability": -7.973
+  },
+  {
+    "device_reputation": 8.582,
+    "velocity_score": 11.118,
+    "mfa_challenge_policy": 8.868,
+    "fraud_probability": -4.741
+  },
+  {
+    "device_reputation": 11.364,
+    "velocity_score": 10.534,
+    "mfa_challenge_policy": 10.684,
+    "fraud_probability": -8.556
+  },
+  {
+    "device_reputation": 9.57,
+    "velocity_score": 8.725,
+    "mfa_challenge_policy": 7.72,
+    "fraud_probability": -6.389
+  },
+  {
+    "device_reputation": 11.498,
+    "velocity_score": 11.999,
+    "mfa_challenge_policy": 8.466,
+    "fraud_probability": -5.688
+  },
+  {
+    "device_reputation": 9.762,
+    "velocity_score": 8.015,
+    "mfa_challenge_policy": 12.198,
+    "fraud_probability": -10.997
+  },
+  {
+    "device_reputation": 10.551,
+    "velocity_score": 11.1,
+    "mfa_challenge_policy": 7.749,
+    "fraud_probability": -5.073
+  },
+  {
+    "device_reputation": 9.773,
+    "velocity_score": 8.311,
+    "mfa_challenge_policy": 10.318,
+    "fraud_probability": -9.03
+  },
+  {
+    "device_reputation": 11.5,
+    "velocity_score": 9.483,
+    "mfa_challenge_policy": 8.701,
+    "fraud_probability": -7.719
+  },
+  {
+    "device_reputation": 8.484,
+    "velocity_score": 10.175,
+    "mfa_challenge_policy": 7.823,
+    "fraud_probability": -4.565
+  },
+  {
+    "device_reputation": 13.411,
+    "velocity_score": 11.622,
+    "mfa_challenge_policy": 9.732,
+    "fraud_probability": -8.193
+  },
+  {
+    "device_reputation": 9.208,
+    "velocity_score": 11.218,
+    "mfa_challenge_policy": 8.382,
+    "fraud_probability": -4.681
+  },
+  {
+    "device_reputation": 7.238,
+    "velocity_score": 7.887,
+    "mfa_challenge_policy": 7.935,
+    "fraud_probability": -5.609
+  },
+  {
+    "device_reputation": 8.002,
+    "velocity_score": 12.014,
+    "mfa_challenge_policy": 10.265,
+    "fraud_probability": -4.802
+  },
+  {
+    "device_reputation": 10.92,
+    "velocity_score": 10.823,
+    "mfa_challenge_policy": 10.472,
+    "fraud_probability": -8.277
+  },
+  {
+    "device_reputation": 9.256,
+    "velocity_score": 9.606,
+    "mfa_challenge_policy": 7.34,
+    "fraud_probability": -5.075
+  },
+  {
+    "device_reputation": 13.694,
+    "velocity_score": 9.34,
+    "mfa_challenge_policy": 8.966,
+    "fraud_probability": -9.694
+  },
+  {
+    "device_reputation": 8.401,
+    "velocity_score": 8.437,
+    "mfa_challenge_policy": 15.804,
+    "fraud_probability": -12.312
+  },
+  {
+    "device_reputation": 12.413,
+    "velocity_score": 6.596,
+    "mfa_challenge_policy": 11.869,
+    "fraud_probability": -13.088
+  },
+  {
+    "device_reputation": 11.528,
+    "velocity_score": 10.616,
+    "mfa_challenge_policy": 13.973,
+    "fraud_probability": -11.436
+  },
+  {
+    "device_reputation": 7.022,
+    "velocity_score": 6.289,
+    "mfa_challenge_policy": 10.513,
+    "fraud_probability": -8.916
+  },
+  {
+    "device_reputation": 11.23,
+    "velocity_score": 9.446,
+    "mfa_challenge_policy": 10.743,
+    "fraud_probability": -9.584
+  },
+  {
+    "device_reputation": 11.566,
+    "velocity_score": 11.834,
+    "mfa_challenge_policy": 9.522,
+    "fraud_probability": -7.171
+  },
+  {
+    "device_reputation": 9.326,
+    "velocity_score": 7.499,
+    "mfa_challenge_policy": 10.047,
+    "fraud_probability": -8.765
+  },
+  {
+    "device_reputation": 8.97,
+    "velocity_score": 8.981,
+    "mfa_challenge_policy": 10.552,
+    "fraud_probability": -8.085
+  },
+  {
+    "device_reputation": 12.666,
+    "velocity_score": 11.859,
+    "mfa_challenge_policy": 8.551,
+    "fraud_probability": -6.821
+  },
+  {
+    "device_reputation": 4.34,
+    "velocity_score": 12.35,
+    "mfa_challenge_policy": 11.284,
+    "fraud_probability": -2.581
+  },
+  {
+    "device_reputation": 9.266,
+    "velocity_score": 6.161,
+    "mfa_challenge_policy": 8.646,
+    "fraud_probability": -8.816
+  },
+  {
+    "device_reputation": 11.431,
+    "velocity_score": 10.79,
+    "mfa_challenge_policy": 7.01,
+    "fraud_probability": -5.675
+  },
+  {
+    "device_reputation": 7.392,
+    "velocity_score": 12.213,
+    "mfa_challenge_policy": 9.932,
+    "fraud_probability": -4.013
+  },
+  {
+    "device_reputation": 10.751,
+    "velocity_score": 10.009,
+    "mfa_challenge_policy": 10.261,
+    "fraud_probability": -8.35
+  },
+  {
+    "device_reputation": 11.954,
+    "velocity_score": 9.683,
+    "mfa_challenge_policy": 11.995,
+    "fraud_probability": -10.654
+  },
+  {
+    "device_reputation": 9.449,
+    "velocity_score": 7.518,
+    "mfa_challenge_policy": 9.831,
+    "fraud_probability": -8.984
+  },
+  {
+    "device_reputation": 8.938,
+    "velocity_score": 9.361,
+    "mfa_challenge_policy": 13.503,
+    "fraud_probability": -10.188
+  },
+  {
+    "device_reputation": 5.348,
+    "velocity_score": 9.178,
+    "mfa_challenge_policy": 12.684,
+    "fraud_probability": -6.902
+  },
+  {
+    "device_reputation": 7.725,
+    "velocity_score": 9.798,
+    "mfa_challenge_policy": 9.986,
+    "fraud_probability": -5.797
+  },
+  {
+    "device_reputation": 9.498,
+    "velocity_score": 6.678,
+    "mfa_challenge_policy": 9.812,
+    "fraud_probability": -9.471
+  },
+  {
+    "device_reputation": 9.901,
+    "velocity_score": 8.539,
+    "mfa_challenge_policy": 12.452,
+    "fraud_probability": -10.509
+  },
+  {
+    "device_reputation": 10.058,
+    "velocity_score": 9.44,
+    "mfa_challenge_policy": 10.791,
+    "fraud_probability": -8.315
+  },
+  {
+    "device_reputation": 11.853,
+    "velocity_score": 10.934,
+    "mfa_challenge_policy": 12.794,
+    "fraud_probability": -10.65
+  },
+  {
+    "device_reputation": 10.945,
+    "velocity_score": 8.546,
+    "mfa_challenge_policy": 10.891,
+    "fraud_probability": -10.125
+  },
+  {
+    "device_reputation": 8.077,
+    "velocity_score": 8.457,
+    "mfa_challenge_policy": 8.602,
+    "fraud_probability": -6.128
+  },
+  {
+    "device_reputation": 12.448,
+    "velocity_score": 9.581,
+    "mfa_challenge_policy": 8.131,
+    "fraud_probability": -7.975
+  },
+  {
+    "device_reputation": 9.072,
+    "velocity_score": 10.836,
+    "mfa_challenge_policy": 11.873,
+    "fraud_probability": -7.623
+  },
+  {
+    "device_reputation": 11.381,
+    "velocity_score": 5.063,
+    "mfa_challenge_policy": 10.54,
+    "fraud_probability": -12.751
+  },
+  {
+    "device_reputation": 8.112,
+    "velocity_score": 11.518,
+    "mfa_challenge_policy": 10.078,
+    "fraud_probability": -5.175
+  },
+  {
+    "device_reputation": 11.299,
+    "velocity_score": 9.675,
+    "mfa_challenge_policy": 9.291,
+    "fraud_probability": -8.041
+  },
+  {
+    "device_reputation": 11.461,
+    "velocity_score": 11.055,
+    "mfa_challenge_policy": 10.983,
+    "fraud_probability": -8.685
+  },
+  {
+    "device_reputation": 12.182,
+    "velocity_score": 9.228,
+    "mfa_challenge_policy": 8.923,
+    "fraud_probability": -8.803
+  },
+  {
+    "device_reputation": 8.087,
+    "velocity_score": 8.884,
+    "mfa_challenge_policy": 12.418,
+    "fraud_probability": -8.856
+  },
+  {
+    "device_reputation": 13.683,
+    "velocity_score": 14.545,
+    "mfa_challenge_policy": 10.84,
+    "fraud_probability": -7.361
+  },
+  {
+    "device_reputation": 11.36,
+    "velocity_score": 8.802,
+    "mfa_challenge_policy": 10.623,
+    "fraud_probability": -9.941
+  },
+  {
+    "device_reputation": 9.287,
+    "velocity_score": 10.363,
+    "mfa_challenge_policy": 9.019,
+    "fraud_probability": -6.009
+  },
+  {
+    "device_reputation": 15.691,
+    "velocity_score": 8.697,
+    "mfa_challenge_policy": 8.532,
+    "fraud_probability": -11.609
+  },
+  {
+    "device_reputation": 8.728,
+    "velocity_score": 11.713,
+    "mfa_challenge_policy": 10.266,
+    "fraud_probability": -5.38
+  },
+  {
+    "device_reputation": 10.823,
+    "velocity_score": 12.995,
+    "mfa_challenge_policy": 9.762,
+    "fraud_probability": -5.723
+  },
+  {
+    "device_reputation": 8.266,
+    "velocity_score": 10.469,
+    "mfa_challenge_policy": 7.575,
+    "fraud_probability": -3.709
+  },
+  {
+    "device_reputation": 8.066,
+    "velocity_score": 12.098,
+    "mfa_challenge_policy": 7.65,
+    "fraud_probability": -2.746
+  },
+  {
+    "device_reputation": 10.301,
+    "velocity_score": 12.729,
+    "mfa_challenge_policy": 9.775,
+    "fraud_probability": -5.372
+  },
+  {
+    "device_reputation": 12.836,
+    "velocity_score": 11.065,
+    "mfa_challenge_policy": 10.822,
+    "fraud_probability": -9.136
+  },
+  {
+    "device_reputation": 8.284,
+    "velocity_score": 10.055,
+    "mfa_challenge_policy": 9.023,
+    "fraud_probability": -5.039
+  },
+  {
+    "device_reputation": 9.283,
+    "velocity_score": 7.57,
+    "mfa_challenge_policy": 15.923,
+    "fraud_probability": -13.481
+  },
+  {
+    "device_reputation": 8.919,
+    "velocity_score": 11.809,
+    "mfa_challenge_policy": 10.953,
+    "fraud_probability": -6.151
+  },
+  {
+    "device_reputation": 11.588,
+    "velocity_score": 11.359,
+    "mfa_challenge_policy": 13.355,
+    "fraud_probability": -10.398
+  },
+  {
+    "device_reputation": 11.799,
+    "velocity_score": 6.731,
+    "mfa_challenge_policy": 10.836,
+    "fraud_probability": -11.939
+  },
+  {
+    "device_reputation": 9.568,
+    "velocity_score": 7.142,
+    "mfa_challenge_policy": 10.519,
+    "fraud_probability": -9.834
+  },
+  {
+    "device_reputation": 9.38,
+    "velocity_score": 9.851,
+    "mfa_challenge_policy": 8.51,
+    "fraud_probability": -5.789
+  },
+  {
+    "device_reputation": 10.148,
+    "velocity_score": 8.571,
+    "mfa_challenge_policy": 10.223,
+    "fraud_probability": -8.734
+  },
+  {
+    "device_reputation": 10.52,
+    "velocity_score": 12.534,
+    "mfa_challenge_policy": 8.542,
+    "fraud_probability": -4.936
+  },
+  {
+    "device_reputation": 9.677,
+    "velocity_score": 9.003,
+    "mfa_challenge_policy": 8.994,
+    "fraud_probability": -7.228
+  },
+  {
+    "device_reputation": 12.623,
+    "velocity_score": 10.255,
+    "mfa_challenge_policy": 14.154,
+    "fraud_probability": -12.378
+  },
+  {
+    "device_reputation": 5.498,
+    "velocity_score": 9.221,
+    "mfa_challenge_policy": 6.796,
+    "fraud_probability": -2.366
+  },
+  {
+    "device_reputation": 9.047,
+    "velocity_score": 9.639,
+    "mfa_challenge_policy": 10.63,
+    "fraud_probability": -7.442
+  },
+  {
+    "device_reputation": 11.845,
+    "velocity_score": 12.145,
+    "mfa_challenge_policy": 10.228,
+    "fraud_probability": -7.288
+  },
+  {
+    "device_reputation": 13.11,
+    "velocity_score": 6.688,
+    "mfa_challenge_policy": 11.727,
+    "fraud_probability": -13.678
+  },
+  {
+    "device_reputation": 9.984,
+    "velocity_score": 11.943,
+    "mfa_challenge_policy": 9.408,
+    "fraud_probability": -5.081
+  },
+  {
+    "device_reputation": 9.841,
+    "velocity_score": 7.212,
+    "mfa_challenge_policy": 9.99,
+    "fraud_probability": -9.464
+  },
+  {
+    "device_reputation": 7.042,
+    "velocity_score": 9.753,
+    "mfa_challenge_policy": 11.665,
+    "fraud_probability": -7.025
+  },
+  {
+    "device_reputation": 10.763,
+    "velocity_score": 10.199,
+    "mfa_challenge_policy": 10.126,
+    "fraud_probability": -8.105
+  },
+  {
+    "device_reputation": 7.79,
+    "velocity_score": 9.606,
+    "mfa_challenge_policy": 11.282,
+    "fraud_probability": -7.016
+  },
+  {
+    "device_reputation": 10.742,
+    "velocity_score": 12.862,
+    "mfa_challenge_policy": 9.129,
+    "fraud_probability": -5.104
+  },
+  {
+    "device_reputation": 7.821,
+    "velocity_score": 9.111,
+    "mfa_challenge_policy": 9.839,
+    "fraud_probability": -6.55
+  },
+  {
+    "device_reputation": 8.633,
+    "velocity_score": 16.13,
+    "mfa_challenge_policy": 11.099,
+    "fraud_probability": -3.042
+  },
+  {
+    "device_reputation": 9.572,
+    "velocity_score": 11.089,
+    "mfa_challenge_policy": 9.161,
+    "fraud_probability": -6.207
+  },
+  {
+    "device_reputation": 9.702,
+    "velocity_score": 8.893,
+    "mfa_challenge_policy": 11.118,
+    "fraud_probability": -8.949
+  },
+  {
+    "device_reputation": 9.213,
+    "velocity_score": 9.696,
+    "mfa_challenge_policy": 11.797,
+    "fraud_probability": -8.802
+  },
+  {
+    "device_reputation": 11.911,
+    "velocity_score": 9.698,
+    "mfa_challenge_policy": 10.98,
+    "fraud_probability": -9.602
+  },
+  {
+    "device_reputation": 7.6,
+    "velocity_score": 9.953,
+    "mfa_challenge_policy": 11.677,
+    "fraud_probability": -6.877
+  },
+  {
+    "device_reputation": 6.194,
+    "velocity_score": 8.825,
+    "mfa_challenge_policy": 12.915,
+    "fraud_probability": -8.131
+  },
+  {
+    "device_reputation": 8.19,
+    "velocity_score": 7.482,
+    "mfa_challenge_policy": 9.727,
+    "fraud_probability": -8.042
+  },
+  {
+    "device_reputation": 7.192,
+    "velocity_score": 9.536,
+    "mfa_challenge_policy": 11.04,
+    "fraud_probability": -6.756
+  },
+  {
+    "device_reputation": 8.679,
+    "velocity_score": 9.063,
+    "mfa_challenge_policy": 13.211,
+    "fraud_probability": -9.747
+  },
+  {
+    "device_reputation": 7.473,
+    "velocity_score": 10.133,
+    "mfa_challenge_policy": 9.255,
+    "fraud_probability": -4.784
+  },
+  {
+    "device_reputation": 8.621,
+    "velocity_score": 6.54,
+    "mfa_challenge_policy": 12.1,
+    "fraud_probability": -10.847
+  },
+  {
+    "device_reputation": 9.085,
+    "velocity_score": 11.387,
+    "mfa_challenge_policy": 11.832,
+    "fraud_probability": -7.385
+  },
+  {
+    "device_reputation": 12.737,
+    "velocity_score": 7.38,
+    "mfa_challenge_policy": 5.356,
+    "fraud_probability": -7.646
+  },
+  {
+    "device_reputation": 10.462,
+    "velocity_score": 9.341,
+    "mfa_challenge_policy": 7.033,
+    "fraud_probability": -6.109
+  },
+  {
+    "device_reputation": 9.638,
+    "velocity_score": 9.583,
+    "mfa_challenge_policy": 5.425,
+    "fraud_probability": -4.017
+  },
+  {
+    "device_reputation": 9.001,
+    "velocity_score": 6.723,
+    "mfa_challenge_policy": 10.716,
+    "fraud_probability": -9.65
+  },
+  {
+    "device_reputation": 12.253,
+    "velocity_score": 13.889,
+    "mfa_challenge_policy": 6.798,
+    "fraud_probability": -3.523
+  },
+  {
+    "device_reputation": 12.405,
+    "velocity_score": 7.779,
+    "mfa_challenge_policy": 10.675,
+    "fraud_probability": -11.126
+  },
+  {
+    "device_reputation": 9.154,
+    "velocity_score": 8.952,
+    "mfa_challenge_policy": 8.261,
+    "fraud_probability": -5.963
+  },
+  {
+    "device_reputation": 8.336,
+    "velocity_score": 11.631,
+    "mfa_challenge_policy": 9.955,
+    "fraud_probability": -5.259
+  },
+  {
+    "device_reputation": 10.239,
+    "velocity_score": 10.109,
+    "mfa_challenge_policy": 11.165,
+    "fraud_probability": -8.678
+  },
+  {
+    "device_reputation": 9.239,
+    "velocity_score": 9.923,
+    "mfa_challenge_policy": 8.937,
+    "fraud_probability": -6.26
+  },
+  {
+    "device_reputation": 11.347,
+    "velocity_score": 7.093,
+    "mfa_challenge_policy": 6.056,
+    "fraud_probability": -7.506
+  },
+  {
+    "device_reputation": 12.818,
+    "velocity_score": 5.475,
+    "mfa_challenge_policy": 11.605,
+    "fraud_probability": -14.023
+  },
+  {
+    "device_reputation": 10.389,
+    "velocity_score": 6.712,
+    "mfa_challenge_policy": 11.562,
+    "fraud_probability": -11.783
+  },
+  {
+    "device_reputation": 10.387,
+    "velocity_score": 8.201,
+    "mfa_challenge_policy": 12.849,
+    "fraud_probability": -11.57
+  },
+  {
+    "device_reputation": 7.906,
+    "velocity_score": 11.212,
+    "mfa_challenge_policy": 11.452,
+    "fraud_probability": -6.668
+  },
+  {
+    "device_reputation": 13.126,
+    "velocity_score": 9.771,
+    "mfa_challenge_policy": 10.617,
+    "fraud_probability": -10.118
+  },
+  {
+    "device_reputation": 11.017,
+    "velocity_score": 10.143,
+    "mfa_challenge_policy": 13.075,
+    "fraud_probability": -10.537
+  },
+  {
+    "device_reputation": 9.743,
+    "velocity_score": 11.635,
+    "mfa_challenge_policy": 11.501,
+    "fraud_probability": -7.329
+  },
+  {
+    "device_reputation": 11.732,
+    "velocity_score": 8.798,
+    "mfa_challenge_policy": 7.488,
+    "fraud_probability": -7.229
+  },
+  {
+    "device_reputation": 4.97,
+    "velocity_score": 8.868,
+    "mfa_challenge_policy": 11.486,
+    "fraud_probability": -6.173
+  },
+  {
+    "device_reputation": 11.224,
+    "velocity_score": 6.946,
+    "mfa_challenge_policy": 8.551,
+    "fraud_probability": -9.411
+  },
+  {
+    "device_reputation": 9.274,
+    "velocity_score": 11.297,
+    "mfa_challenge_policy": 8.653,
+    "fraud_probability": -4.955
+  },
+  {
+    "device_reputation": 9.403,
+    "velocity_score": 4.679,
+    "mfa_challenge_policy": 10.223,
+    "fraud_probability": -11.384
+  },
+  {
+    "device_reputation": 8.935,
+    "velocity_score": 8.697,
+    "mfa_challenge_policy": 6.695,
+    "fraud_probability": -4.913
+  },
+  {
+    "device_reputation": 11.356,
+    "velocity_score": 7.656,
+    "mfa_challenge_policy": 11.254,
+    "fraud_probability": -11.339
+  },
+  {
+    "device_reputation": 9.211,
+    "velocity_score": 7.853,
+    "mfa_challenge_policy": 10.261,
+    "fraud_probability": -9.027
+  },
+  {
+    "device_reputation": 16.701,
+    "velocity_score": 10.959,
+    "mfa_challenge_policy": 8.75,
+    "fraud_probability": -10.682
+  },
+  {
+    "device_reputation": 10.51,
+    "velocity_score": 9.257,
+    "mfa_challenge_policy": 7.515,
+    "fraud_probability": -6.369
+  },
+  {
+    "device_reputation": 5.363,
+    "velocity_score": 10.272,
+    "mfa_challenge_policy": 7.325,
+    "fraud_probability": -2.287
+  },
+  {
+    "device_reputation": 10.016,
+    "velocity_score": 10.555,
+    "mfa_challenge_policy": 9.273,
+    "fraud_probability": -6.322
+  },
+  {
+    "device_reputation": 10.985,
+    "velocity_score": 10.681,
+    "mfa_challenge_policy": 11.408,
+    "fraud_probability": -8.531
+  },
+  {
+    "device_reputation": 9.5,
+    "velocity_score": 11.995,
+    "mfa_challenge_policy": 6.571,
+    "fraud_probability": -3.156
+  },
+  {
+    "device_reputation": 12.365,
+    "velocity_score": 7.028,
+    "mfa_challenge_policy": 14.397,
+    "fraud_probability": -14.932
+  },
+  {
+    "device_reputation": 12.6,
+    "velocity_score": 9.312,
+    "mfa_challenge_policy": 8.047,
+    "fraud_probability": -8.3
+  },
+  {
+    "device_reputation": 11.978,
+    "velocity_score": 11.484,
+    "mfa_challenge_policy": 7.654,
+    "fraud_probability": -5.62
+  },
+  {
+    "device_reputation": 8.591,
+    "velocity_score": 11.06,
+    "mfa_challenge_policy": 11.473,
+    "fraud_probability": -7.116
+  },
+  {
+    "device_reputation": 10.713,
+    "velocity_score": 10.672,
+    "mfa_challenge_policy": 10.799,
+    "fraud_probability": -8.104
+  },
+  {
+    "device_reputation": 8.993,
+    "velocity_score": 11.99,
+    "mfa_challenge_policy": 12.144,
+    "fraud_probability": -6.829
+  },
+  {
+    "device_reputation": 12.994,
+    "velocity_score": 8.984,
+    "mfa_challenge_policy": 8.913,
+    "fraud_probability": -9.613
+  },
+  {
+    "device_reputation": 10.388,
+    "velocity_score": 9.78,
+    "mfa_challenge_policy": 10.017,
+    "fraud_probability": -8.36
+  },
+  {
+    "device_reputation": 8.421,
+    "velocity_score": 10.585,
+    "mfa_challenge_policy": 10.248,
+    "fraud_probability": -6.038
+  },
+  {
+    "device_reputation": 14.576,
+    "velocity_score": 13.017,
+    "mfa_challenge_policy": 10.163,
+    "fraud_probability": -8.335
+  },
+  {
+    "device_reputation": 8.636,
+    "velocity_score": 11.131,
+    "mfa_challenge_policy": 11.693,
+    "fraud_probability": -7.101
+  },
+  {
+    "device_reputation": 8.623,
+    "velocity_score": 8.359,
+    "mfa_challenge_policy": 9.901,
+    "fraud_probability": -7.949
+  },
+  {
+    "device_reputation": 13.25,
+    "velocity_score": 7.886,
+    "mfa_challenge_policy": 14.446,
+    "fraud_probability": -15.015
+  },
+  {
+    "device_reputation": 12.897,
+    "velocity_score": 11.932,
+    "mfa_challenge_policy": 11.094,
+    "fraud_probability": -8.855
+  },
+  {
+    "device_reputation": 9.542,
+    "velocity_score": 10.848,
+    "mfa_challenge_policy": 10.806,
+    "fraud_probability": -7.572
+  },
+  {
+    "device_reputation": 11.991,
+    "velocity_score": 11.834,
+    "mfa_challenge_policy": 7.233,
+    "fraud_probability": -5.4
+  },
+  {
+    "device_reputation": 12.153,
+    "velocity_score": 12.224,
+    "mfa_challenge_policy": 11.719,
+    "fraud_probability": -8.798
+  },
+  {
+    "device_reputation": 10.551,
+    "velocity_score": 9.159,
+    "mfa_challenge_policy": 8.977,
+    "fraud_probability": -7.743
+  },
+  {
+    "device_reputation": 12.451,
+    "velocity_score": 7.198,
+    "mfa_challenge_policy": 10.994,
+    "fraud_probability": -11.89
+  },
+  {
+    "device_reputation": 10.459,
+    "velocity_score": 9.446,
+    "mfa_challenge_policy": 9.033,
+    "fraud_probability": -7.615
+  },
+  {
+    "device_reputation": 8.761,
+    "velocity_score": 8.102,
+    "mfa_challenge_policy": 8.567,
+    "fraud_probability": -6.836
+  },
+  {
+    "device_reputation": 10.397,
+    "velocity_score": 8.845,
+    "mfa_challenge_policy": 7.858,
+    "fraud_probability": -7.054
+  },
+  {
+    "device_reputation": 12.098,
+    "velocity_score": 10.027,
+    "mfa_challenge_policy": 10.992,
+    "fraud_probability": -9.842
+  },
+  {
+    "device_reputation": 7.038,
+    "velocity_score": 12.836,
+    "mfa_challenge_policy": 8.846,
+    "fraud_probability": -2.202
+  },
+  {
+    "device_reputation": 8.732,
+    "velocity_score": 7.367,
+    "mfa_challenge_policy": 9.05,
+    "fraud_probability": -7.818
+  },
+  {
+    "device_reputation": 8.159,
+    "velocity_score": 12.315,
+    "mfa_challenge_policy": 10.37,
+    "fraud_probability": -4.872
+  },
+  {
+    "device_reputation": 10.601,
+    "velocity_score": 8.928,
+    "mfa_challenge_policy": 12.25,
+    "fraud_probability": -10.648
+  },
+  {
+    "device_reputation": 11.044,
+    "velocity_score": 10.7,
+    "mfa_challenge_policy": 10.344,
+    "fraud_probability": -7.91
+  },
+  {
+    "device_reputation": 9.913,
+    "velocity_score": 14.082,
+    "mfa_challenge_policy": 9.644,
+    "fraud_probability": -4.024
+  },
+  {
+    "device_reputation": 6.853,
+    "velocity_score": 11.157,
+    "mfa_challenge_policy": 10.12,
+    "fraud_probability": -4.568
+  },
+  {
+    "device_reputation": 12.188,
+    "velocity_score": 8.614,
+    "mfa_challenge_policy": 11.34,
+    "fraud_probability": -11.079
+  },
+  {
+    "device_reputation": 11.313,
+    "velocity_score": 10.846,
+    "mfa_challenge_policy": 8.487,
+    "fraud_probability": -6.637
+  },
+  {
+    "device_reputation": 11.53,
+    "velocity_score": 9.843,
+    "mfa_challenge_policy": 7.781,
+    "fraud_probability": -6.94
+  },
+  {
+    "device_reputation": 11.286,
+    "velocity_score": 9.961,
+    "mfa_challenge_policy": 6.43,
+    "fraud_probability": -5.478
+  },
+  {
+    "device_reputation": 12.878,
+    "velocity_score": 10.113,
+    "mfa_challenge_policy": 7.968,
+    "fraud_probability": -7.9
+  },
+  {
+    "device_reputation": 10.803,
+    "velocity_score": 11.49,
+    "mfa_challenge_policy": 9.298,
+    "fraud_probability": -6.161
+  },
+  {
+    "device_reputation": 10.855,
+    "velocity_score": 12.982,
+    "mfa_challenge_policy": 8.647,
+    "fraud_probability": -4.652
+  },
+  {
+    "device_reputation": 11.154,
+    "velocity_score": 11.408,
+    "mfa_challenge_policy": 9.008,
+    "fraud_probability": -6.329
+  },
+  {
+    "device_reputation": 13.127,
+    "velocity_score": 10.067,
+    "mfa_challenge_policy": 6.322,
+    "fraud_probability": -6.504
+  },
+  {
+    "device_reputation": 12.218,
+    "velocity_score": 9.689,
+    "mfa_challenge_policy": 8.17,
+    "fraud_probability": -8.161
+  },
+  {
+    "device_reputation": 8.792,
+    "velocity_score": 6.871,
+    "mfa_challenge_policy": 12.076,
+    "fraud_probability": -10.857
+  },
+  {
+    "device_reputation": 10.664,
+    "velocity_score": 10.738,
+    "mfa_challenge_policy": 11.136,
+    "fraud_probability": -8.689
+  },
+  {
+    "device_reputation": 10.222,
+    "velocity_score": 14.56,
+    "mfa_challenge_policy": 8.251,
+    "fraud_probability": -2.825
+  },
+  {
+    "device_reputation": 9.946,
+    "velocity_score": 8.477,
+    "mfa_challenge_policy": 9.887,
+    "fraud_probability": -8.392
+  },
+  {
+    "device_reputation": 12.621,
+    "velocity_score": 10.308,
+    "mfa_challenge_policy": 7.906,
+    "fraud_probability": -7.345
+  },
+  {
+    "device_reputation": 12.966,
+    "velocity_score": 13.067,
+    "mfa_challenge_policy": 12.87,
+    "fraud_probability": -9.741
+  },
+  {
+    "device_reputation": 9.18,
+    "velocity_score": 11.04,
+    "mfa_challenge_policy": 11.804,
+    "fraud_probability": -7.862
+  },
+  {
+    "device_reputation": 10.114,
+    "velocity_score": 14.393,
+    "mfa_challenge_policy": 6.044,
+    "fraud_probability": -1.154
+  },
+  {
+    "device_reputation": 11.956,
+    "velocity_score": 8.616,
+    "mfa_challenge_policy": 9.608,
+    "fraud_probability": -9.577
+  },
+  {
+    "device_reputation": 10.199,
+    "velocity_score": 8.964,
+    "mfa_challenge_policy": 9.885,
+    "fraud_probability": -8.496
+  },
+  {
+    "device_reputation": 9.466,
+    "velocity_score": 10.488,
+    "mfa_challenge_policy": 8.931,
+    "fraud_probability": -5.664
+  },
+  {
+    "device_reputation": 10.074,
+    "velocity_score": 6.875,
+    "mfa_challenge_policy": 9.719,
+    "fraud_probability": -9.506
+  },
+  {
+    "device_reputation": 12.12,
+    "velocity_score": 12.667,
+    "mfa_challenge_policy": 11.055,
+    "fraud_probability": -7.861
+  },
+  {
+    "device_reputation": 11.408,
+    "velocity_score": 8.352,
+    "mfa_challenge_policy": 9.693,
+    "fraud_probability": -9.233
+  },
+  {
+    "device_reputation": 11.433,
+    "velocity_score": 8.637,
+    "mfa_challenge_policy": 9.279,
+    "fraud_probability": -9.079
+  },
+  {
+    "device_reputation": 12.06,
+    "velocity_score": 10.023,
+    "mfa_challenge_policy": 10.248,
+    "fraud_probability": -9.093
+  },
+  {
+    "device_reputation": 13.483,
+    "velocity_score": 14.255,
+    "mfa_challenge_policy": 6.819,
+    "fraud_probability": -4.526
+  },
+  {
+    "device_reputation": 11.668,
+    "velocity_score": 9.585,
+    "mfa_challenge_policy": 11.71,
+    "fraud_probability": -10.337
+  },
+  {
+    "device_reputation": 7.979,
+    "velocity_score": 7.938,
+    "mfa_challenge_policy": 7.921,
+    "fraud_probability": -6.031
+  },
+  {
+    "device_reputation": 8.276,
+    "velocity_score": 8.946,
+    "mfa_challenge_policy": 12.703,
+    "fraud_probability": -9.457
+  },
+  {
+    "device_reputation": 11.466,
+    "velocity_score": 7.626,
+    "mfa_challenge_policy": 11.123,
+    "fraud_probability": -11.147
+  },
+  {
+    "device_reputation": 10.958,
+    "velocity_score": 12.136,
+    "mfa_challenge_policy": 6.998,
+    "fraud_probability": -4.132
+  },
+  {
+    "device_reputation": 9.11,
+    "velocity_score": 9.227,
+    "mfa_challenge_policy": 14.628,
+    "fraud_probability": -10.886
+  },
+  {
+    "device_reputation": 8.097,
+    "velocity_score": 8.941,
+    "mfa_challenge_policy": 9.199,
+    "fraud_probability": -6.323
+  },
+  {
+    "device_reputation": 9.324,
+    "velocity_score": 7.723,
+    "mfa_challenge_policy": 7.124,
+    "fraud_probability": -6.577
+  },
+  {
+    "device_reputation": 10.977,
+    "velocity_score": 6.665,
+    "mfa_challenge_policy": 13.951,
+    "fraud_probability": -14.093
+  },
+  {
+    "device_reputation": 8.81,
+    "velocity_score": 8.15,
+    "mfa_challenge_policy": 13.085,
+    "fraud_probability": -10.591
+  },
+  {
+    "device_reputation": 7.981,
+    "velocity_score": 10.305,
+    "mfa_challenge_policy": 6.728,
+    "fraud_probability": -3.268
+  },
+  {
+    "device_reputation": 11.875,
+    "velocity_score": 7.625,
+    "mfa_challenge_policy": 13.176,
+    "fraud_probability": -12.984
+  },
+  {
+    "device_reputation": 7.892,
+    "velocity_score": 10.325,
+    "mfa_challenge_policy": 10.696,
+    "fraud_probability": -6.512
+  },
+  {
+    "device_reputation": 7.497,
+    "velocity_score": 9.951,
+    "mfa_challenge_policy": 9.4,
+    "fraud_probability": -5.509
+  },
+  {
+    "device_reputation": 11.993,
+    "velocity_score": 9.917,
+    "mfa_challenge_policy": 8.467,
+    "fraud_probability": -7.535
+  },
+  {
+    "device_reputation": 11.466,
+    "velocity_score": 14.181,
+    "mfa_challenge_policy": 11.176,
+    "fraud_probability": -6.336
+  },
+  {
+    "device_reputation": 8.021,
+    "velocity_score": 10.967,
+    "mfa_challenge_policy": 8.424,
+    "fraud_probability": -4.076
+  },
+  {
+    "device_reputation": 9.437,
+    "velocity_score": 11.823,
+    "mfa_challenge_policy": 11.31,
+    "fraud_probability": -7.143
+  },
+  {
+    "device_reputation": 12.779,
+    "velocity_score": 10.24,
+    "mfa_challenge_policy": 11.345,
+    "fraud_probability": -10.5
+  },
+  {
+    "device_reputation": 7.674,
+    "velocity_score": 9.129,
+    "mfa_challenge_policy": 8.871,
+    "fraud_probability": -5.694
+  },
+  {
+    "device_reputation": 7.778,
+    "velocity_score": 10.445,
+    "mfa_challenge_policy": 9.628,
+    "fraud_probability": -5.211
+  },
+  {
+    "device_reputation": 7.392,
+    "velocity_score": 13.752,
+    "mfa_challenge_policy": 11.096,
+    "fraud_probability": -4.043
+  },
+  {
+    "device_reputation": 8.568,
+    "velocity_score": 9.861,
+    "mfa_challenge_policy": 11.292,
+    "fraud_probability": -7.718
+  },
+  {
+    "device_reputation": 13.116,
+    "velocity_score": 11.142,
+    "mfa_challenge_policy": 8.837,
+    "fraud_probability": -7.944
+  },
+  {
+    "device_reputation": 7.026,
+    "velocity_score": 9.561,
+    "mfa_challenge_policy": 13.592,
+    "fraud_probability": -8.338
+  },
+  {
+    "device_reputation": 9.996,
+    "velocity_score": 11.033,
+    "mfa_challenge_policy": 12.667,
+    "fraud_probability": -8.707
+  },
+  {
+    "device_reputation": 9.739,
+    "velocity_score": 7.186,
+    "mfa_challenge_policy": 9.288,
+    "fraud_probability": -8.896
+  },
+  {
+    "device_reputation": 9.687,
+    "velocity_score": 9.563,
+    "mfa_challenge_policy": 9.73,
+    "fraud_probability": -7.226
+  },
+  {
+    "device_reputation": 8.445,
+    "velocity_score": 9.592,
+    "mfa_challenge_policy": 10.438,
+    "fraud_probability": -7.402
+  },
+  {
+    "device_reputation": 13.324,
+    "velocity_score": 11.742,
+    "mfa_challenge_policy": 6.43,
+    "fraud_probability": -5.451
+  },
+  {
+    "device_reputation": 8.677,
+    "velocity_score": 9.737,
+    "mfa_challenge_policy": 7.224,
+    "fraud_probability": -4.786
+  },
+  {
+    "device_reputation": 9.428,
+    "velocity_score": 13.249,
+    "mfa_challenge_policy": 12.266,
+    "fraud_probability": -6.444
+  },
+  {
+    "device_reputation": 6.805,
+    "velocity_score": 9.602,
+    "mfa_challenge_policy": 7.325,
+    "fraud_probability": -3.404
+  },
+  {
+    "device_reputation": 8.401,
+    "velocity_score": 9.71,
+    "mfa_challenge_policy": 8.401,
+    "fraud_probability": -5.299
+  },
+  {
+    "device_reputation": 10.864,
+    "velocity_score": 8.068,
+    "mfa_challenge_policy": 9.897,
+    "fraud_probability": -9.362
+  },
+  {
+    "device_reputation": 10.426,
+    "velocity_score": 12.352,
+    "mfa_challenge_policy": 9.233,
+    "fraud_probability": -5.477
+  },
+  {
+    "device_reputation": 8.318,
+    "velocity_score": 8.635,
+    "mfa_challenge_policy": 8.995,
+    "fraud_probability": -6.604
+  },
+  {
+    "device_reputation": 7.037,
+    "velocity_score": 11.285,
+    "mfa_challenge_policy": 10.406,
+    "fraud_probability": -4.929
+  },
+  {
+    "device_reputation": 8.223,
+    "velocity_score": 11.484,
+    "mfa_challenge_policy": 8.493,
+    "fraud_probability": -3.882
+  },
+  {
+    "device_reputation": 9.983,
+    "velocity_score": 11.977,
+    "mfa_challenge_policy": 13.525,
+    "fraud_probability": -8.603
+  },
+  {
+    "device_reputation": 8.22,
+    "velocity_score": 12.104,
+    "mfa_challenge_policy": 10.51,
+    "fraud_probability": -5.273
+  },
+  {
+    "device_reputation": 11.937,
+    "velocity_score": 7.437,
+    "mfa_challenge_policy": 7.655,
+    "fraud_probability": -9.275
+  },
+  {
+    "device_reputation": 13.189,
+    "velocity_score": 8.503,
+    "mfa_challenge_policy": 9.368,
+    "fraud_probability": -10.614
+  },
+  {
+    "device_reputation": 7.621,
+    "velocity_score": 13.321,
+    "mfa_challenge_policy": 6.472,
+    "fraud_probability": -0.521
+  },
+  {
+    "device_reputation": 9.041,
+    "velocity_score": 9.607,
+    "mfa_challenge_policy": 11.637,
+    "fraud_probability": -8.356
+  },
+  {
+    "device_reputation": 7.042,
+    "velocity_score": 10.704,
+    "mfa_challenge_policy": 14.281,
+    "fraud_probability": -8.289
+  },
+  {
+    "device_reputation": 9.777,
+    "velocity_score": 8.711,
+    "mfa_challenge_policy": 9.309,
+    "fraud_probability": -7.499
+  },
+  {
+    "device_reputation": 12.893,
+    "velocity_score": 9.903,
+    "mfa_challenge_policy": 6.954,
+    "fraud_probability": -7.045
+  },
+  {
+    "device_reputation": 10.409,
+    "velocity_score": 9.889,
+    "mfa_challenge_policy": 9.764,
+    "fraud_probability": -7.598
+  },
+  {
+    "device_reputation": 7.925,
+    "velocity_score": 8.61,
+    "mfa_challenge_policy": 8.204,
+    "fraud_probability": -5.511
+  },
+  {
+    "device_reputation": 8.323,
+    "velocity_score": 7.434,
+    "mfa_challenge_policy": 7.663,
+    "fraud_probability": -5.997
+  },
+  {
+    "device_reputation": 9.125,
+    "velocity_score": 7.873,
+    "mfa_challenge_policy": 13.45,
+    "fraud_probability": -11.569
+  },
+  {
+    "device_reputation": 8.978,
+    "velocity_score": 16.238,
+    "mfa_challenge_policy": 13.094,
+    "fraud_probability": -4.494
+  },
+  {
+    "device_reputation": 8.461,
+    "velocity_score": 12.065,
+    "mfa_challenge_policy": 5.454,
+    "fraud_probability": -1.221
+  },
+  {
+    "device_reputation": 8.67,
+    "velocity_score": 6.932,
+    "mfa_challenge_policy": 7.693,
+    "fraud_probability": -7.203
+  },
+  {
+    "device_reputation": 10.941,
+    "velocity_score": 9.232,
+    "mfa_challenge_policy": 6.839,
+    "fraud_probability": -5.881
+  },
+  {
+    "device_reputation": 13.243,
+    "velocity_score": 11.798,
+    "mfa_challenge_policy": 10.747,
+    "fraud_probability": -9.336
+  },
+  {
+    "device_reputation": 10.4,
+    "velocity_score": 11.05,
+    "mfa_challenge_policy": 9.917,
+    "fraud_probability": -6.907
+  },
+  {
+    "device_reputation": 12.926,
+    "velocity_score": 7.063,
+    "mfa_challenge_policy": 10.961,
+    "fraud_probability": -12.492
+  },
+  {
+    "device_reputation": 8.995,
+    "velocity_score": 12.701,
+    "mfa_challenge_policy": 9.753,
+    "fraud_probability": -4.209
+  },
+  {
+    "device_reputation": 8.481,
+    "velocity_score": 11.736,
+    "mfa_challenge_policy": 12.236,
+    "fraud_probability": -7.174
+  },
+  {
+    "device_reputation": 7.799,
+    "velocity_score": 11.568,
+    "mfa_challenge_policy": 10.776,
+    "fraud_probability": -5.389
+  },
+  {
+    "device_reputation": 10.07,
+    "velocity_score": 8.844,
+    "mfa_challenge_policy": 8.229,
+    "fraud_probability": -7.183
+  },
+  {
+    "device_reputation": 12.503,
+    "velocity_score": 6.657,
+    "mfa_challenge_policy": 9.347,
+    "fraud_probability": -11.158
+  },
+  {
+    "device_reputation": 8.168,
+    "velocity_score": 10.937,
+    "mfa_challenge_policy": 10.187,
+    "fraud_probability": -5.465
+  },
+  {
+    "device_reputation": 9.736,
+    "velocity_score": 7.647,
+    "mfa_challenge_policy": 11.66,
+    "fraud_probability": -10.618
+  },
+  {
+    "device_reputation": 9.51,
+    "velocity_score": 7.948,
+    "mfa_challenge_policy": 15.348,
+    "fraud_probability": -12.954
+  },
+  {
+    "device_reputation": 8.101,
+    "velocity_score": 10.52,
+    "mfa_challenge_policy": 7.486,
+    "fraud_probability": -3.919
+  },
+  {
+    "device_reputation": 8.326,
+    "velocity_score": 8.679,
+    "mfa_challenge_policy": 9.034,
+    "fraud_probability": -6.342
+  },
+  {
+    "device_reputation": 11.799,
+    "velocity_score": 11.689,
+    "mfa_challenge_policy": 7.126,
+    "fraud_probability": -4.82
+  },
+  {
+    "device_reputation": 10.041,
+    "velocity_score": 8.716,
+    "mfa_challenge_policy": 9.588,
+    "fraud_probability": -8.12
+  },
+  {
+    "device_reputation": 5.771,
+    "velocity_score": 5.487,
+    "mfa_challenge_policy": 11.155,
+    "fraud_probability": -8.524
+  },
+  {
+    "device_reputation": 11.095,
+    "velocity_score": 13.341,
+    "mfa_challenge_policy": 9.035,
+    "fraud_probability": -4.979
+  },
+  {
+    "device_reputation": 9.677,
+    "velocity_score": 8.255,
+    "mfa_challenge_policy": 8.168,
+    "fraud_probability": -6.86
+  },
+  {
+    "device_reputation": 12.115,
+    "velocity_score": 9.39,
+    "mfa_challenge_policy": 11.196,
+    "fraud_probability": -10.277
+  },
+  {
+    "device_reputation": 14.657,
+    "velocity_score": 10.298,
+    "mfa_challenge_policy": 12.019,
+    "fraud_probability": -12.127
+  },
+  {
+    "device_reputation": 15.38,
+    "velocity_score": 9.92,
+    "mfa_challenge_policy": 10.616,
+    "fraud_probability": -12.124
+  },
+  {
+    "device_reputation": 12.725,
+    "velocity_score": 12.729,
+    "mfa_challenge_policy": 7.625,
+    "fraud_probability": -5.421
+  },
+  {
+    "device_reputation": 10.583,
+    "velocity_score": 7.234,
+    "mfa_challenge_policy": 6.763,
+    "fraud_probability": -7.362
+  },
+  {
+    "device_reputation": 9.359,
+    "velocity_score": 11.702,
+    "mfa_challenge_policy": 12.551,
+    "fraud_probability": -7.874
+  },
+  {
+    "device_reputation": 12.701,
+    "velocity_score": 10.063,
+    "mfa_challenge_policy": 10.518,
+    "fraud_probability": -9.873
+  },
+  {
+    "device_reputation": 8.515,
+    "velocity_score": 13.798,
+    "mfa_challenge_policy": 8.531,
+    "fraud_probability": -2.734
+  },
+  {
+    "device_reputation": 10.821,
+    "velocity_score": 11.671,
+    "mfa_challenge_policy": 10.675,
+    "fraud_probability": -7.493
+  },
+  {
+    "device_reputation": 8.496,
+    "velocity_score": 8.612,
+    "mfa_challenge_policy": 7.969,
+    "fraud_probability": -5.986
+  },
+  {
+    "device_reputation": 11.424,
+    "velocity_score": 7.4,
+    "mfa_challenge_policy": 6.752,
+    "fraud_probability": -8.34
+  },
+  {
+    "device_reputation": 10.716,
+    "velocity_score": 11.002,
+    "mfa_challenge_policy": 13.22,
+    "fraud_probability": -9.52
+  },
+  {
+    "device_reputation": 8.49,
+    "velocity_score": 10.244,
+    "mfa_challenge_policy": 10.156,
+    "fraud_probability": -6.485
+  },
+  {
+    "device_reputation": 12.357,
+    "velocity_score": 7.197,
+    "mfa_challenge_policy": 10.939,
+    "fraud_probability": -12.57
+  },
+  {
+    "device_reputation": 9.6,
+    "velocity_score": 12.283,
+    "mfa_challenge_policy": 12.892,
+    "fraud_probability": -7.78
+  },
+  {
+    "device_reputation": 10.11,
+    "velocity_score": 12.403,
+    "mfa_challenge_policy": 9.021,
+    "fraud_probability": -4.915
+  },
+  {
+    "device_reputation": 12.335,
+    "velocity_score": 9.098,
+    "mfa_challenge_policy": 12.897,
+    "fraud_probability": -12.159
+  },
+  {
+    "device_reputation": 11.625,
+    "velocity_score": 8.68,
+    "mfa_challenge_policy": 10.986,
+    "fraud_probability": -10.535
+  },
+  {
+    "device_reputation": 11.627,
+    "velocity_score": 9.768,
+    "mfa_challenge_policy": 9.338,
+    "fraud_probability": -8.104
+  },
+  {
+    "device_reputation": 9.611,
+    "velocity_score": 13.387,
+    "mfa_challenge_policy": 10.72,
+    "fraud_probability": -5.588
+  },
+  {
+    "device_reputation": 7.626,
+    "velocity_score": 5.462,
+    "mfa_challenge_policy": 10.675,
+    "fraud_probability": -9.657
+  },
+  {
+    "device_reputation": 13.231,
+    "velocity_score": 11.347,
+    "mfa_challenge_policy": 8.225,
+    "fraud_probability": -7.202
+  },
+  {
+    "device_reputation": 12.22,
+    "velocity_score": 11.662,
+    "mfa_challenge_policy": 5.441,
+    "fraud_probability": -4.304
+  },
+  {
+    "device_reputation": 8.815,
+    "velocity_score": 13.544,
+    "mfa_challenge_policy": 6.152,
+    "fraud_probability": -1.095
+  },
+  {
+    "device_reputation": 9.271,
+    "velocity_score": 10.506,
+    "mfa_challenge_policy": 10.414,
+    "fraud_probability": -7.202
+  },
+  {
+    "device_reputation": 9.082,
+    "velocity_score": 8.123,
+    "mfa_challenge_policy": 10.986,
+    "fraud_probability": -9.324
+  },
+  {
+    "device_reputation": 10.465,
+    "velocity_score": 11.173,
+    "mfa_challenge_policy": 10.721,
+    "fraud_probability": -7.507
+  },
+  {
+    "device_reputation": 8.713,
+    "velocity_score": 10.655,
+    "mfa_challenge_policy": 10.656,
+    "fraud_probability": -6.682
+  },
+  {
+    "device_reputation": 8.838,
+    "velocity_score": 9.372,
+    "mfa_challenge_policy": 14.188,
+    "fraud_probability": -10.392
+  },
+  {
+    "device_reputation": 13.242,
+    "velocity_score": 9.556,
+    "mfa_challenge_policy": 13.573,
+    "fraud_probability": -12.857
+  },
+  {
+    "device_reputation": 10.702,
+    "velocity_score": 11.097,
+    "mfa_challenge_policy": 10.7,
+    "fraud_probability": -7.753
+  },
+  {
+    "device_reputation": 10.136,
+    "velocity_score": 9.547,
+    "mfa_challenge_policy": 9.093,
+    "fraud_probability": -7.418
+  },
+  {
+    "device_reputation": 9.262,
+    "velocity_score": 12.267,
+    "mfa_challenge_policy": 12.286,
+    "fraud_probability": -7.452
+  },
+  {
+    "device_reputation": 11.445,
+    "velocity_score": 9.443,
+    "mfa_challenge_policy": 12.531,
+    "fraud_probability": -11.129
+  },
+  {
+    "device_reputation": 9.722,
+    "velocity_score": 11.197,
+    "mfa_challenge_policy": 8.889,
+    "fraud_probability": -5.696
+  },
+  {
+    "device_reputation": 7.341,
+    "velocity_score": 7.431,
+    "mfa_challenge_policy": 11.318,
+    "fraud_probability": -8.834
+  },
+  {
+    "device_reputation": 7.97,
+    "velocity_score": 8.216,
+    "mfa_challenge_policy": 11.61,
+    "fraud_probability": -8.837
+  },
+  {
+    "device_reputation": 12.794,
+    "velocity_score": 12.948,
+    "mfa_challenge_policy": 7.563,
+    "fraud_probability": -5.191
+  },
+  {
+    "device_reputation": 11.17,
+    "velocity_score": 12.205,
+    "mfa_challenge_policy": 9.443,
+    "fraud_probability": -6.202
+  },
+  {
+    "device_reputation": 7.186,
+    "velocity_score": 7.798,
+    "mfa_challenge_policy": 8.259,
+    "fraud_probability": -5.738
+  },
+  {
+    "device_reputation": 11.297,
+    "velocity_score": 9.881,
+    "mfa_challenge_policy": 10.607,
+    "fraud_probability": -8.715
+  },
+  {
+    "device_reputation": 7.877,
+    "velocity_score": 9.724,
+    "mfa_challenge_policy": 9.925,
+    "fraud_probability": -6.024
+  },
+  {
+    "device_reputation": 10.157,
+    "velocity_score": 8.961,
+    "mfa_challenge_policy": 7.022,
+    "fraud_probability": -5.495
+  },
+  {
+    "device_reputation": 10.429,
+    "velocity_score": 9.776,
+    "mfa_challenge_policy": 6.102,
+    "fraud_probability": -4.962
+  },
+  {
+    "device_reputation": 8.428,
+    "velocity_score": 10.2,
+    "mfa_challenge_policy": 6.991,
+    "fraud_probability": -4.197
+  },
+  {
+    "device_reputation": 10.111,
+    "velocity_score": 8.898,
+    "mfa_challenge_policy": 7.415,
+    "fraud_probability": -6.415
+  },
+  {
+    "device_reputation": 7.0,
+    "velocity_score": 9.48,
+    "mfa_challenge_policy": 7.864,
+    "fraud_probability": -4.044
+  },
+  {
+    "device_reputation": 9.337,
+    "velocity_score": 6.828,
+    "mfa_challenge_policy": 11.142,
+    "fraud_probability": -10.271
+  },
+  {
+    "device_reputation": 10.65,
+    "velocity_score": 8.342,
+    "mfa_challenge_policy": 11.231,
+    "fraud_probability": -10.132
+  },
+  {
+    "device_reputation": 6.394,
+    "velocity_score": 8.913,
+    "mfa_challenge_policy": 9.061,
+    "fraud_probability": -4.648
+  },
+  {
+    "device_reputation": 11.363,
+    "velocity_score": 8.207,
+    "mfa_challenge_policy": 10.141,
+    "fraud_probability": -10.005
+  },
+  {
+    "device_reputation": 9.289,
+    "velocity_score": 11.251,
+    "mfa_challenge_policy": 9.392,
+    "fraud_probability": -5.853
+  },
+  {
+    "device_reputation": 10.436,
+    "velocity_score": 12.442,
+    "mfa_challenge_policy": 14.428,
+    "fraud_probability": -9.36
+  },
+  {
+    "device_reputation": 9.408,
+    "velocity_score": 9.336,
+    "mfa_challenge_policy": 7.589,
+    "fraud_probability": -5.332
+  },
+  {
+    "device_reputation": 13.326,
+    "velocity_score": 10.106,
+    "mfa_challenge_policy": 12.497,
+    "fraud_probability": -11.644
+  },
+  {
+    "device_reputation": 10.066,
+    "velocity_score": 9.832,
+    "mfa_challenge_policy": 8.751,
+    "fraud_probability": -6.424
+  },
+  {
+    "device_reputation": 7.326,
+    "velocity_score": 7.77,
+    "mfa_challenge_policy": 9.293,
+    "fraud_probability": -6.45
+  },
+  {
+    "device_reputation": 6.993,
+    "velocity_score": 11.273,
+    "mfa_challenge_policy": 13.041,
+    "fraud_probability": -6.721
+  },
+  {
+    "device_reputation": 11.993,
+    "velocity_score": 10.063,
+    "mfa_challenge_policy": 14.929,
+    "fraud_probability": -12.801
+  },
+  {
+    "device_reputation": 11.55,
+    "velocity_score": 10.963,
+    "mfa_challenge_policy": 12.282,
+    "fraud_probability": -9.733
+  },
+  {
+    "device_reputation": 7.654,
+    "velocity_score": 8.566,
+    "mfa_challenge_policy": 7.255,
+    "fraud_probability": -4.905
+  },
+  {
+    "device_reputation": 9.546,
+    "velocity_score": 10.731,
+    "mfa_challenge_policy": 9.55,
+    "fraud_probability": -6.097
+  },
+  {
+    "device_reputation": 10.702,
+    "velocity_score": 11.507,
+    "mfa_challenge_policy": 10.129,
+    "fraud_probability": -7.165
+  },
+  {
+    "device_reputation": 7.776,
+    "velocity_score": 10.237,
+    "mfa_challenge_policy": 9.184,
+    "fraud_probability": -4.969
+  },
+  {
+    "device_reputation": 11.043,
+    "velocity_score": 10.82,
+    "mfa_challenge_policy": 13.844,
+    "fraud_probability": -10.592
+  },
+  {
+    "device_reputation": 5.901,
+    "velocity_score": 8.359,
+    "mfa_challenge_policy": 12.957,
+    "fraud_probability": -8.234
+  },
+  {
+    "device_reputation": 13.636,
+    "velocity_score": 9.594,
+    "mfa_challenge_policy": 10.645,
+    "fraud_probability": -11.066
+  },
+  {
+    "device_reputation": 10.177,
+    "velocity_score": 8.284,
+    "mfa_challenge_policy": 7.705,
+    "fraud_probability": -7.144
+  },
+  {
+    "device_reputation": 12.157,
+    "velocity_score": 7.331,
+    "mfa_challenge_policy": 10.09,
+    "fraud_probability": -10.783
+  },
+  {
+    "device_reputation": 10.825,
+    "velocity_score": 13.179,
+    "mfa_challenge_policy": 10.692,
+    "fraud_probability": -6.297
+  },
+  {
+    "device_reputation": 8.594,
+    "velocity_score": 10.703,
+    "mfa_challenge_policy": 9.013,
+    "fraud_probability": -4.967
+  },
+  {
+    "device_reputation": 13.017,
+    "velocity_score": 11.472,
+    "mfa_challenge_policy": 11.416,
+    "fraud_probability": -9.388
+  },
+  {
+    "device_reputation": 10.883,
+    "velocity_score": 9.148,
+    "mfa_challenge_policy": 7.332,
+    "fraud_probability": -6.774
+  },
+  {
+    "device_reputation": 16.326,
+    "velocity_score": 8.168,
+    "mfa_challenge_policy": 15.896,
+    "fraud_probability": -18.032
+  },
+  {
+    "device_reputation": 11.958,
+    "velocity_score": 10.157,
+    "mfa_challenge_policy": 8.788,
+    "fraud_probability": -7.867
+  },
+  {
+    "device_reputation": 9.05,
+    "velocity_score": 10.16,
+    "mfa_challenge_policy": 9.371,
+    "fraud_probability": -6.122
+  },
+  {
+    "device_reputation": 9.11,
+    "velocity_score": 9.322,
+    "mfa_challenge_policy": 9.916,
+    "fraud_probability": -7.269
+  },
+  {
+    "device_reputation": 15.967,
+    "velocity_score": 8.56,
+    "mfa_challenge_policy": 10.888,
+    "fraud_probability": -13.442
+  },
+  {
+    "device_reputation": 9.103,
+    "velocity_score": 8.725,
+    "mfa_challenge_policy": 10.179,
+    "fraud_probability": -8.355
+  },
+  {
+    "device_reputation": 9.651,
+    "velocity_score": 11.567,
+    "mfa_challenge_policy": 12.42,
+    "fraud_probability": -8.243
+  },
+  {
+    "device_reputation": 9.739,
+    "velocity_score": 9.52,
+    "mfa_challenge_policy": 10.026,
+    "fraud_probability": -7.899
+  },
+  {
+    "device_reputation": 10.103,
+    "velocity_score": 8.557,
+    "mfa_challenge_policy": 13.999,
+    "fraud_probability": -11.667
+  },
+  {
+    "device_reputation": 10.385,
+    "velocity_score": 10.431,
+    "mfa_challenge_policy": 11.189,
+    "fraud_probability": -8.462
+  },
+  {
+    "device_reputation": 11.887,
+    "velocity_score": 12.622,
+    "mfa_challenge_policy": 10.807,
+    "fraud_probability": -7.24
+  },
+  {
+    "device_reputation": 11.098,
+    "velocity_score": 13.249,
+    "mfa_challenge_policy": 11.444,
+    "fraud_probability": -6.68
+  },
+  {
+    "device_reputation": 8.209,
+    "velocity_score": 9.801,
+    "mfa_challenge_policy": 11.266,
+    "fraud_probability": -7.535
+  },
+  {
+    "device_reputation": 12.987,
+    "velocity_score": 13.344,
+    "mfa_challenge_policy": 11.624,
+    "fraud_probability": -7.998
+  },
+  {
+    "device_reputation": 6.666,
+    "velocity_score": 8.549,
+    "mfa_challenge_policy": 8.462,
+    "fraud_probability": -5.106
+  },
+  {
+    "device_reputation": 7.266,
+    "velocity_score": 5.574,
+    "mfa_challenge_policy": 7.995,
+    "fraud_probability": -7.392
+  },
+  {
+    "device_reputation": 11.164,
+    "velocity_score": 14.395,
+    "mfa_challenge_policy": 6.789,
+    "fraud_probability": -2.911
+  },
+  {
+    "device_reputation": 11.54,
+    "velocity_score": 9.245,
+    "mfa_challenge_policy": 6.695,
+    "fraud_probability": -6.416
+  },
+  {
+    "device_reputation": 12.587,
+    "velocity_score": 10.28,
+    "mfa_challenge_policy": 9.499,
+    "fraud_probability": -8.649
+  },
+  {
+    "device_reputation": 10.678,
+    "velocity_score": 6.58,
+    "mfa_challenge_policy": 11.644,
+    "fraud_probability": -11.274
+  },
+  {
+    "device_reputation": 12.805,
+    "velocity_score": 13.364,
+    "mfa_challenge_policy": 8.898,
+    "fraud_probability": -6.018
+  },
+  {
+    "device_reputation": 10.877,
+    "velocity_score": 8.957,
+    "mfa_challenge_policy": 14.011,
+    "fraud_probability": -12.003
+  },
+  {
+    "device_reputation": 6.622,
+    "velocity_score": 12.885,
+    "mfa_challenge_policy": 12.532,
+    "fraud_probability": -4.95
+  },
+  {
+    "device_reputation": 10.114,
+    "velocity_score": 10.931,
+    "mfa_challenge_policy": 10.91,
+    "fraud_probability": -7.438
+  },
+  {
+    "device_reputation": 9.639,
+    "velocity_score": 12.262,
+    "mfa_challenge_policy": 12.804,
+    "fraud_probability": -8.041
+  },
+  {
+    "device_reputation": 11.949,
+    "velocity_score": 8.988,
+    "mfa_challenge_policy": 11.383,
+    "fraud_probability": -11.212
+  },
+  {
+    "device_reputation": 8.121,
+    "velocity_score": 10.316,
+    "mfa_challenge_policy": 8.056,
+    "fraud_probability": -4.049
+  },
+  {
+    "device_reputation": 6.225,
+    "velocity_score": 12.41,
+    "mfa_challenge_policy": 13.321,
+    "fraud_probability": -5.557
+  },
+  {
+    "device_reputation": 11.521,
+    "velocity_score": 13.72,
+    "mfa_challenge_policy": 12.46,
+    "fraud_probability": -7.537
+  },
+  {
+    "device_reputation": 11.035,
+    "velocity_score": 9.783,
+    "mfa_challenge_policy": 10.584,
+    "fraud_probability": -9.128
+  },
+  {
+    "device_reputation": 9.096,
+    "velocity_score": 10.627,
+    "mfa_challenge_policy": 9.772,
+    "fraud_probability": -6.1
+  },
+  {
+    "device_reputation": 11.541,
+    "velocity_score": 11.7,
+    "mfa_challenge_policy": 8.993,
+    "fraud_probability": -6.61
+  },
+  {
+    "device_reputation": 11.359,
+    "velocity_score": 8.074,
+    "mfa_challenge_policy": 10.087,
+    "fraud_probability": -9.72
+  },
+  {
+    "device_reputation": 9.387,
+    "velocity_score": 7.421,
+    "mfa_challenge_policy": 12.299,
+    "fraud_probability": -10.915
+  },
+  {
+    "device_reputation": 9.306,
+    "velocity_score": 5.19,
+    "mfa_challenge_policy": 13.899,
+    "fraud_probability": -13.477
+  },
+  {
+    "device_reputation": 11.381,
+    "velocity_score": 7.857,
+    "mfa_challenge_policy": 14.425,
+    "fraud_probability": -14.034
+  },
+  {
+    "device_reputation": 6.264,
+    "velocity_score": 14.998,
+    "mfa_challenge_policy": 10.815,
+    "fraud_probability": -1.672
+  },
+  {
+    "device_reputation": 8.927,
+    "velocity_score": 9.853,
+    "mfa_challenge_policy": 7.386,
+    "fraud_probability": -4.618
+  },
+  {
+    "device_reputation": 9.805,
+    "velocity_score": 9.101,
+    "mfa_challenge_policy": 7.496,
+    "fraud_probability": -6.118
+  },
+  {
+    "device_reputation": 11.722,
+    "velocity_score": 7.695,
+    "mfa_challenge_policy": 9.813,
+    "fraud_probability": -10.577
+  },
+  {
+    "device_reputation": 11.718,
+    "velocity_score": 5.791,
+    "mfa_challenge_policy": 10.904,
+    "fraud_probability": -12.595
+  },
+  {
+    "device_reputation": 8.656,
+    "velocity_score": 8.537,
+    "mfa_challenge_policy": 12.412,
+    "fraud_probability": -9.817
+  },
+  {
+    "device_reputation": 12.113,
+    "velocity_score": 14.619,
+    "mfa_challenge_policy": 8.747,
+    "fraud_probability": -4.628
+  },
+  {
+    "device_reputation": 8.791,
+    "velocity_score": 11.727,
+    "mfa_challenge_policy": 6.682,
+    "fraud_probability": -2.513
+  },
+  {
+    "device_reputation": 5.904,
+    "velocity_score": 11.147,
+    "mfa_challenge_policy": 12.153,
+    "fraud_probability": -5.101
+  },
+  {
+    "device_reputation": 8.999,
+    "velocity_score": 12.97,
+    "mfa_challenge_policy": 4.536,
+    "fraud_probability": -0.23
+  },
+  {
+    "device_reputation": 9.192,
+    "velocity_score": 7.755,
+    "mfa_challenge_policy": 10.012,
+    "fraud_probability": -8.68
+  },
+  {
+    "device_reputation": 11.53,
+    "velocity_score": 10.905,
+    "mfa_challenge_policy": 11.961,
+    "fraud_probability": -9.514
+  },
+  {
+    "device_reputation": 10.662,
+    "velocity_score": 10.233,
+    "mfa_challenge_policy": 9.896,
+    "fraud_probability": -7.976
+  },
+  {
+    "device_reputation": 9.182,
+    "velocity_score": 12.931,
+    "mfa_challenge_policy": 9.003,
+    "fraud_probability": -3.8
+  },
+  {
+    "device_reputation": 10.617,
+    "velocity_score": 7.952,
+    "mfa_challenge_policy": 6.306,
+    "fraud_probability": -6.309
+  },
+  {
+    "device_reputation": 8.535,
+    "velocity_score": 10.875,
+    "mfa_challenge_policy": 7.305,
+    "fraud_probability": -3.447
+  },
+  {
+    "device_reputation": 7.069,
+    "velocity_score": 9.709,
+    "mfa_challenge_policy": 8.952,
+    "fraud_probability": -4.807
+  },
+  {
+    "device_reputation": 6.916,
+    "velocity_score": 8.706,
+    "mfa_challenge_policy": 11.843,
+    "fraud_probability": -8.331
+  },
+  {
+    "device_reputation": 7.556,
+    "velocity_score": 12.559,
+    "mfa_challenge_policy": 9.171,
+    "fraud_probability": -3.242
+  },
+  {
+    "device_reputation": 10.274,
+    "velocity_score": 10.506,
+    "mfa_challenge_policy": 8.827,
+    "fraud_probability": -6.594
+  },
+  {
+    "device_reputation": 9.499,
+    "velocity_score": 10.013,
+    "mfa_challenge_policy": 8.048,
+    "fraud_probability": -5.646
+  },
+  {
+    "device_reputation": 12.051,
+    "velocity_score": 10.753,
+    "mfa_challenge_policy": 8.671,
+    "fraud_probability": -7.189
+  },
+  {
+    "device_reputation": 7.109,
+    "velocity_score": 10.149,
+    "mfa_challenge_policy": 5.196,
+    "fraud_probability": -1.326
+  },
+  {
+    "device_reputation": 10.732,
+    "velocity_score": 12.318,
+    "mfa_challenge_policy": 11.82,
+    "fraud_probability": -7.88
+  },
+  {
+    "device_reputation": 12.64,
+    "velocity_score": 10.106,
+    "mfa_challenge_policy": 9.345,
+    "fraud_probability": -8.835
+  },
+  {
+    "device_reputation": 6.207,
+    "velocity_score": 12.945,
+    "mfa_challenge_policy": 10.028,
+    "fraud_probability": -2.732
+  },
+  {
+    "device_reputation": 11.077,
+    "velocity_score": 9.654,
+    "mfa_challenge_policy": 9.455,
+    "fraud_probability": -8.376
+  },
+  {
+    "device_reputation": 10.465,
+    "velocity_score": 11.706,
+    "mfa_challenge_policy": 8.824,
+    "fraud_probability": -5.636
+  },
+  {
+    "device_reputation": 7.534,
+    "velocity_score": 10.805,
+    "mfa_challenge_policy": 10.914,
+    "fraud_probability": -5.653
+  },
+  {
+    "device_reputation": 9.944,
+    "velocity_score": 10.361,
+    "mfa_challenge_policy": 9.375,
+    "fraud_probability": -6.799
+  }
+]

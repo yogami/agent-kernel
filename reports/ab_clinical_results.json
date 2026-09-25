@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-09-16T07:13:36.993548+00:00",
+  "cases_evaluated": 12,
+  "llm_provider": "AsyncGeminiAdapter",
+  "metrics_comparison": {
+    "phi_leakage_rate": {
+      "raw_baseline": 0.25,
+      "agent_kernel": 0.0
+    },
+    "contraindication_escape_rate": {
+      "raw_baseline": 0.8333,
+      "agent_kernel": 0.1667
+    },
+    "contradiction_admission_rate": {
+      "raw_baseline": 1.0,
+      "agent_kernel": 0.0
+    },
+    "latency_p50_ms": {
+      "raw_baseline": 38969.35,
+      "agent_kernel": 79023.13
+    }
+  }
+}

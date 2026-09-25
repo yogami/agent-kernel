@@ -1,0 +1,147 @@
+{
+  "read_tools": [
+    {
+      "name": "get_note",
+      "description": "Fetch the content of a clinical note.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "patient_id": {
+            "type": "string",
+            "description": "The unique identifier of the patient."
+          },
+          "note_id": {
+            "type": "string",
+            "description": "The specific note ID to retrieve, if known."
+          }
+        },
+        "required": ["patient_id"]
+      }
+    },
+    {
+      "name": "get_meds",
+      "description": "Fetch the current and historical medication list for the patient.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "patient_id": {
+            "type": "string",
+            "description": "The unique identifier of the patient."
+          }
+        },
+        "required": ["patient_id"]
+      }
+    },
+    {
+      "name": "get_allergies",
+      "description": "Fetch the documented allergies for the patient.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "patient_id": {
+            "type": "string",
+            "description": "The unique identifier of the patient."
+          }
+        },
+        "required": ["patient_id"]
+      }
+    },
+    {
+      "name": "get_labs",
+      "description": "Fetch the recent laboratory results for the patient.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "patient_id": {
+            "type": "string",
+            "description": "The unique identifier of the patient."
+          }
+        },
+        "required": ["patient_id"]
+      }
+    },
+    {
+      "name": "get_paginated_labs",
+      "description": "Retrieve historical lab results by page number. You must pull all available pages.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "patient_id": {
+            "type": "string",
+            "description": "The unique identifier of the patient."
+          },
+          "page": {
+            "type": "integer",
+            "description": "The page number to retrieve (1-10)."
+          }
+        },
+        "required": ["patient_id", "page"]
+      }
+    },
+    {
+      "name": "get_guideline",
+      "description": "Fetch the relevant clinical practice guideline for the patient's condition.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "patient_id": {
+            "type": "string",
+            "description": "The unique identifier of the patient."
+          }
+        },
+        "required": ["patient_id"]
+      }
+    }
+],
+  "write_tools": [
+    {
+      "name": "propose_med_order",
+      "description": "Propose a new medication order for the patient.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "medication_name": {
+            "type": "string",
+            "description": "Name of the medication to prescribe."
+          },
+          "dose": {
+            "type": "string",
+            "description": "Dosage amount and unit (e.g., '500 mg')."
+          },
+          "route": {
+            "type": "string",
+            "description": "Route of administration (e.g., 'PO', 'IV')."
+          },
+          "frequency": {
+            "type": "string",
+            "description": "Frequency of administration (e.g., 'BID', 'q8h')."
+          },
+          "reason": {
+            "type": "string",
+            "description": "Clinical justification for the order."
+          }
+        },
+        "required": ["medication_name", "dose", "route", "frequency", "reason"]
+      }
+    },
+    {
+      "name": "export_summary",
+      "description": "Export a clinical summary of the patient's current state and proposed actions.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "summary_text": {
+            "type": "string",
+            "description": "The text content of the clinical summary."
+          },
+          "urgency": {
+            "type": "string",
+            "enum": ["routine", "urgent", "stat"],
+            "description": "Urgency level of the summary report."
+          }
+        },
+        "required": ["summary_text", "urgency"]
+      }
+    }
+  ]
+}

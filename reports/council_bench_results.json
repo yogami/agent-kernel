@@ -1,0 +1,201 @@
+{
+  "benchmark": "agent_kernel-bench (Unified Factorial Evaluation)",
+  "timestamp": "2026-09-14T21:13:02.472391+00:00",
+  "seeds_evaluated": [
+    42,
+    143,
+    244
+  ],
+  "total_cases_per_pass": 270,
+  "cases_breakdown": {
+    "track_m_memory": 200,
+    "track_t_confinement": 50,
+    "track_c_causal": 20
+  },
+  "factorial_configurations": {
+    "raw_baseline": {
+      "overall_accuracy": {
+        "mean": 0.1296,
+        "ci_95": 0.0,
+        "min": 0.1296,
+        "max": 0.1296
+      },
+      "track_m_pass_rate": {
+        "mean": 0.0,
+        "ci_95": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "track_t_pass_rate": {
+        "mean": 0.5,
+        "ci_95": 0.0,
+        "min": 0.5,
+        "max": 0.5
+      },
+      "track_c_pass_rate": {
+        "mean": 0.5,
+        "ci_95": 0.0,
+        "min": 0.5,
+        "max": 0.5
+      }
+    },
+    "kernel_no_nli": {
+      "overall_accuracy": {
+        "mean": 0.2593,
+        "ci_95": 0.0,
+        "min": 0.2593,
+        "max": 0.2593
+      },
+      "track_m_pass_rate": {
+        "mean": 0.0,
+        "ci_95": 0.0,
+        "min": 0.0,
+        "max": 0.0
+      },
+      "track_t_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_c_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "kernel_no_confinement": {
+      "overall_accuracy": {
+        "mean": 0.9074,
+        "ci_95": 0.0,
+        "min": 0.9074,
+        "max": 0.9074
+      },
+      "track_m_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_t_pass_rate": {
+        "mean": 0.5,
+        "ci_95": 0.0,
+        "min": 0.5,
+        "max": 0.5
+      },
+      "track_c_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    },
+    "kernel_no_causal": {
+      "overall_accuracy": {
+        "mean": 0.963,
+        "ci_95": 0.0,
+        "min": 0.963,
+        "max": 0.963
+      },
+      "track_m_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_t_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_c_pass_rate": {
+        "mean": 0.5,
+        "ci_95": 0.0,
+        "min": 0.5,
+        "max": 0.5
+      }
+    },
+    "full_kernel": {
+      "overall_accuracy": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_m_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_t_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      },
+      "track_c_pass_rate": {
+        "mean": 1.0,
+        "ci_95": 0.0,
+        "min": 1.0,
+        "max": 1.0
+      }
+    }
+  },
+  "model_tier_comparison": {
+    "kernel_open_8b_accuracy": {
+      "mean": 1.0,
+      "ci_95": 0.0,
+      "min": 1.0,
+      "max": 1.0
+    },
+    "raw_frontier_accuracy": {
+      "mean": 0.1296,
+      "ci_95": 0.0,
+      "min": 0.1296,
+      "max": 0.1296
+    }
+  },
+  "hypothesis_testing": {
+    "hypothesis": "Full Kernel + Open 8B > Raw Frontier across reliability & safety tracks",
+    "mcnemar_test": {
+      "contingency_table": {
+        "both_pass": 35,
+        "a_only": 235,
+        "b_only": 0,
+        "both_fail": 0
+      },
+      "discordant_b": 235,
+      "discordant_c": 0,
+      "total_discordant": 235,
+      "test_statistic": 233.0043,
+      "p_value": 0.0,
+      "is_statistically_significant": true,
+      "odds_ratio": "inf",
+      "method": "Edwards Continuity-Corrected Chi-Squared (n >= 25)",
+      "alpha": 0.05
+    }
+  },
+  "per_seed_runs": [
+    {
+      "seed": 42,
+      "kernel_8b_accuracy": 1.0,
+      "raw_frontier_accuracy": 0.1296,
+      "mcnemar_p_value": 1.3188112993447748e-52
+    },
+    {
+      "seed": 143,
+      "kernel_8b_accuracy": 1.0,
+      "raw_frontier_accuracy": 0.1296,
+      "mcnemar_p_value": 1.3188112993447748e-52
+    },
+    {
+      "seed": 244,
+      "kernel_8b_accuracy": 1.0,
+      "raw_frontier_accuracy": 0.1296,
+      "mcnemar_p_value": 1.3188112993447748e-52
+    }
+  ]
+}

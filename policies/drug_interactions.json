@@ -1,0 +1,34 @@
+{
+  "domain": "healthcare_drug_interactions",
+  "version": "1.0.0",
+  "description": "Pharmacokinetic and Cytochrome P450 Drug-Drug Interaction Policies",
+  "interaction_rules": [
+    {
+      "rule_id": "RULE-DDI-001",
+      "mechanism": "CYP3A4_inhibition",
+      "severity": "CRITICAL",
+      "perpetrators": ["clarithromycin", "ketoconazole", "itraconazole", "ritonavir"],
+      "substrates": ["colchicine", "simvastatin", "lovastatin"],
+      "explanation": "Strong CYP3A4 inhibition prevents clearance of colchicine/statins, causing fatal toxicity or severe rhabdomyolysis.",
+      "remediation": "Withhold substrate or select non-CYP3A4 metabolized alternative."
+    },
+    {
+      "rule_id": "RULE-DDI-002",
+      "mechanism": "CYP2C9_inhibition",
+      "severity": "HIGH",
+      "perpetrators": ["fluconazole", "amiodarone", "bactrim", "metronidazole"],
+      "substrates": ["warfarin"],
+      "explanation": "CYP2C9 inhibition decreases S-warfarin clearance, leading to supratherapeutic INR and severe hemorrhage risk.",
+      "remediation": "Empirically reduce warfarin dose by 50% with daily INR monitoring, or select alternative anticoagulant."
+    },
+    {
+      "rule_id": "RULE-DDI-003",
+      "mechanism": "CYP3A4_induction",
+      "severity": "HIGH",
+      "perpetrators": ["rifampin", "carbamazepine", "phenytoin", "st. john's wort"],
+      "substrates": ["carbamazepine", "oral contraceptives", "cyclosporine", "tacrolimus", "apixaban"],
+      "explanation": "Potent CYP3A4 induction significantly lowers target drug serum concentrations, risking treatment failure or breakthrough seizures.",
+      "remediation": "Adjust target drug dosing or choose alternative therapeutic regimen."
+    }
+  ]
+}

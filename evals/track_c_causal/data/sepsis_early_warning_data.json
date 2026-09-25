@@ -1,0 +1,3502 @@
+[
+  {
+    "infection_source": 12.503,
+    "antibiotic_timing_hours": 9.456,
+    "inflammatory_response": 9.762,
+    "lactate_clearance": -13.885,
+    "septic_shock_mortality": 11.174
+  },
+  {
+    "infection_source": 4.054,
+    "antibiotic_timing_hours": 8.727,
+    "inflammatory_response": 3.313,
+    "lactate_clearance": -8.917,
+    "septic_shock_mortality": 7.187
+  },
+  {
+    "infection_source": 6.105,
+    "antibiotic_timing_hours": 5.093,
+    "inflammatory_response": 4.974,
+    "lactate_clearance": -6.976,
+    "septic_shock_mortality": 5.693
+  },
+  {
+    "infection_source": 14.47,
+    "antibiotic_timing_hours": 8.154,
+    "inflammatory_response": 11.507,
+    "lactate_clearance": -14.056,
+    "septic_shock_mortality": 11.267
+  },
+  {
+    "infection_source": 11.049,
+    "antibiotic_timing_hours": 9.257,
+    "inflammatory_response": 8.647,
+    "lactate_clearance": -13.165,
+    "septic_shock_mortality": 10.235
+  },
+  {
+    "infection_source": 11.088,
+    "antibiotic_timing_hours": 12.099,
+    "inflammatory_response": 9.082,
+    "lactate_clearance": -15.304,
+    "septic_shock_mortality": 12.297
+  },
+  {
+    "infection_source": 9.412,
+    "antibiotic_timing_hours": 8.842,
+    "inflammatory_response": 7.685,
+    "lactate_clearance": -11.835,
+    "septic_shock_mortality": 9.455
+  },
+  {
+    "infection_source": 9.842,
+    "antibiotic_timing_hours": 8.793,
+    "inflammatory_response": 7.638,
+    "lactate_clearance": -11.682,
+    "septic_shock_mortality": 9.347
+  },
+  {
+    "infection_source": 12.543,
+    "antibiotic_timing_hours": 10.015,
+    "inflammatory_response": 9.882,
+    "lactate_clearance": -14.554,
+    "septic_shock_mortality": 11.418
+  },
+  {
+    "infection_source": 12.742,
+    "antibiotic_timing_hours": 10.773,
+    "inflammatory_response": 10.403,
+    "lactate_clearance": -15.422,
+    "septic_shock_mortality": 12.338
+  },
+  {
+    "infection_source": 11.016,
+    "antibiotic_timing_hours": 9.251,
+    "inflammatory_response": 8.87,
+    "lactate_clearance": -13.364,
+    "septic_shock_mortality": 10.861
+  },
+  {
+    "infection_source": 10.103,
+    "antibiotic_timing_hours": 8.07,
+    "inflammatory_response": 7.972,
+    "lactate_clearance": -11.591,
+    "septic_shock_mortality": 9.247
+  },
+  {
+    "infection_source": 11.906,
+    "antibiotic_timing_hours": 6.498,
+    "inflammatory_response": 9.649,
+    "lactate_clearance": -11.424,
+    "septic_shock_mortality": 9.39
+  },
+  {
+    "infection_source": 10.803,
+    "antibiotic_timing_hours": 9.432,
+    "inflammatory_response": 8.487,
+    "lactate_clearance": -12.981,
+    "septic_shock_mortality": 10.239
+  },
+  {
+    "infection_source": 12.151,
+    "antibiotic_timing_hours": 10.805,
+    "inflammatory_response": 9.716,
+    "lactate_clearance": -15.074,
+    "septic_shock_mortality": 12.12
+  },
+  {
+    "infection_source": 12.854,
+    "antibiotic_timing_hours": 9.479,
+    "inflammatory_response": 10.19,
+    "lactate_clearance": -14.1,
+    "septic_shock_mortality": 11.519
+  },
+  {
+    "infection_source": 10.28,
+    "antibiotic_timing_hours": 8.923,
+    "inflammatory_response": 8.036,
+    "lactate_clearance": -12.543,
+    "septic_shock_mortality": 10.327
+  },
+  {
+    "infection_source": 10.775,
+    "antibiotic_timing_hours": 9.053,
+    "inflammatory_response": 8.628,
+    "lactate_clearance": -12.727,
+    "septic_shock_mortality": 10.297
+  },
+  {
+    "infection_source": 9.686,
+    "antibiotic_timing_hours": 8.907,
+    "inflammatory_response": 7.398,
+    "lactate_clearance": -12.056,
+    "septic_shock_mortality": 9.364
+  },
+  {
+    "infection_source": 8.753,
+    "antibiotic_timing_hours": 13.795,
+    "inflammatory_response": 7.338,
+    "lactate_clearance": -15.108,
+    "septic_shock_mortality": 11.959
+  },
+  {
+    "infection_source": 10.295,
+    "antibiotic_timing_hours": 12.657,
+    "inflammatory_response": 8.237,
+    "lactate_clearance": -15.366,
+    "septic_shock_mortality": 12.583
+  },
+  {
+    "infection_source": 13.156,
+    "antibiotic_timing_hours": 5.81,
+    "inflammatory_response": 10.359,
+    "lactate_clearance": -12.023,
+    "septic_shock_mortality": 9.845
+  },
+  {
+    "infection_source": 9.719,
+    "antibiotic_timing_hours": 8.719,
+    "inflammatory_response": 7.811,
+    "lactate_clearance": -11.54,
+    "septic_shock_mortality": 9.643
+  },
+  {
+    "infection_source": 13.162,
+    "antibiotic_timing_hours": 7.041,
+    "inflammatory_response": 10.16,
+    "lactate_clearance": -12.371,
+    "septic_shock_mortality": 9.954
+  },
+  {
+    "infection_source": 12.267,
+    "antibiotic_timing_hours": 8.995,
+    "inflammatory_response": 9.755,
+    "lactate_clearance": -13.308,
+    "septic_shock_mortality": 10.84
+  },
+  {
+    "infection_source": 12.423,
+    "antibiotic_timing_hours": 7.995,
+    "inflammatory_response": 9.726,
+    "lactate_clearance": -12.95,
+    "septic_shock_mortality": 10.502
+  },
+  {
+    "infection_source": 10.029,
+    "antibiotic_timing_hours": 10.714,
+    "inflammatory_response": 7.845,
+    "lactate_clearance": -13.54,
+    "septic_shock_mortality": 10.758
+  },
+  {
+    "infection_source": 10.703,
+    "antibiotic_timing_hours": 10.22,
+    "inflammatory_response": 8.301,
+    "lactate_clearance": -13.298,
+    "septic_shock_mortality": 10.768
+  },
+  {
+    "infection_source": 6.558,
+    "antibiotic_timing_hours": 11.614,
+    "inflammatory_response": 5.137,
+    "lactate_clearance": -12.175,
+    "septic_shock_mortality": 9.362
+  },
+  {
+    "infection_source": 9.236,
+    "antibiotic_timing_hours": 14.914,
+    "inflammatory_response": 7.454,
+    "lactate_clearance": -16.361,
+    "septic_shock_mortality": 13.113
+  },
+  {
+    "infection_source": 9.787,
+    "antibiotic_timing_hours": 13.08,
+    "inflammatory_response": 7.99,
+    "lactate_clearance": -15.531,
+    "septic_shock_mortality": 12.557
+  },
+  {
+    "infection_source": 11.509,
+    "antibiotic_timing_hours": 8.965,
+    "inflammatory_response": 9.431,
+    "lactate_clearance": -13.079,
+    "septic_shock_mortality": 10.667
+  },
+  {
+    "infection_source": 10.935,
+    "antibiotic_timing_hours": 8.783,
+    "inflammatory_response": 8.161,
+    "lactate_clearance": -12.111,
+    "septic_shock_mortality": 9.693
+  },
+  {
+    "infection_source": 10.237,
+    "antibiotic_timing_hours": 9.004,
+    "inflammatory_response": 7.989,
+    "lactate_clearance": -12.479,
+    "septic_shock_mortality": 10.05
+  },
+  {
+    "infection_source": 6.805,
+    "antibiotic_timing_hours": 7.063,
+    "inflammatory_response": 5.487,
+    "lactate_clearance": -9.32,
+    "septic_shock_mortality": 7.543
+  },
+  {
+    "infection_source": 12.105,
+    "antibiotic_timing_hours": 12.364,
+    "inflammatory_response": 9.584,
+    "lactate_clearance": -16.222,
+    "septic_shock_mortality": 12.846
+  },
+  {
+    "infection_source": 15.063,
+    "antibiotic_timing_hours": 6.897,
+    "inflammatory_response": 12.116,
+    "lactate_clearance": -13.332,
+    "septic_shock_mortality": 10.602
+  },
+  {
+    "infection_source": 7.833,
+    "antibiotic_timing_hours": 9.683,
+    "inflammatory_response": 6.174,
+    "lactate_clearance": -11.686,
+    "septic_shock_mortality": 9.367
+  },
+  {
+    "infection_source": 12.749,
+    "antibiotic_timing_hours": 10.452,
+    "inflammatory_response": 10.426,
+    "lactate_clearance": -15.176,
+    "septic_shock_mortality": 11.986
+  },
+  {
+    "infection_source": 7.899,
+    "antibiotic_timing_hours": 10.275,
+    "inflammatory_response": 6.485,
+    "lactate_clearance": -12.439,
+    "septic_shock_mortality": 9.779
+  },
+  {
+    "infection_source": 12.205,
+    "antibiotic_timing_hours": 10.717,
+    "inflammatory_response": 9.473,
+    "lactate_clearance": -14.74,
+    "septic_shock_mortality": 12.104
+  },
+  {
+    "infection_source": 12.925,
+    "antibiotic_timing_hours": 6.7,
+    "inflammatory_response": 10.272,
+    "lactate_clearance": -12.226,
+    "septic_shock_mortality": 9.621
+  },
+  {
+    "infection_source": 10.631,
+    "antibiotic_timing_hours": 11.507,
+    "inflammatory_response": 8.507,
+    "lactate_clearance": -14.733,
+    "septic_shock_mortality": 12.065
+  },
+  {
+    "infection_source": 9.011,
+    "antibiotic_timing_hours": 8.603,
+    "inflammatory_response": 7.066,
+    "lactate_clearance": -11.738,
+    "septic_shock_mortality": 9.437
+  },
+  {
+    "infection_source": 6.043,
+    "antibiotic_timing_hours": 10.364,
+    "inflammatory_response": 5.088,
+    "lactate_clearance": -11.365,
+    "septic_shock_mortality": 9.163
+  },
+  {
+    "infection_source": 9.013,
+    "antibiotic_timing_hours": 11.162,
+    "inflammatory_response": 7.361,
+    "lactate_clearance": -13.457,
+    "septic_shock_mortality": 10.724
+  },
+  {
+    "infection_source": 9.212,
+    "antibiotic_timing_hours": 14.033,
+    "inflammatory_response": 7.406,
+    "lactate_clearance": -15.618,
+    "septic_shock_mortality": 12.486
+  },
+  {
+    "infection_source": 11.792,
+    "antibiotic_timing_hours": 7.503,
+    "inflammatory_response": 9.403,
+    "lactate_clearance": -12.533,
+    "septic_shock_mortality": 10.413
+  },
+  {
+    "infection_source": 9.081,
+    "antibiotic_timing_hours": 6.521,
+    "inflammatory_response": 7.269,
+    "lactate_clearance": -10.228,
+    "septic_shock_mortality": 8.197
+  },
+  {
+    "infection_source": 6.57,
+    "antibiotic_timing_hours": 13.19,
+    "inflammatory_response": 5.095,
+    "lactate_clearance": -13.548,
+    "septic_shock_mortality": 10.279
+  },
+  {
+    "infection_source": 8.876,
+    "antibiotic_timing_hours": 9.632,
+    "inflammatory_response": 7.099,
+    "lactate_clearance": -11.675,
+    "septic_shock_mortality": 9.506
+  },
+  {
+    "infection_source": 13.09,
+    "antibiotic_timing_hours": 8.918,
+    "inflammatory_response": 10.649,
+    "lactate_clearance": -13.897,
+    "septic_shock_mortality": 11.148
+  },
+  {
+    "infection_source": 11.851,
+    "antibiotic_timing_hours": 7.15,
+    "inflammatory_response": 9.764,
+    "lactate_clearance": -12.165,
+    "septic_shock_mortality": 9.789
+  },
+  {
+    "infection_source": 8.419,
+    "antibiotic_timing_hours": 10.817,
+    "inflammatory_response": 6.819,
+    "lactate_clearance": -13.01,
+    "septic_shock_mortality": 10.338
+  },
+  {
+    "infection_source": 6.173,
+    "antibiotic_timing_hours": 13.542,
+    "inflammatory_response": 4.741,
+    "lactate_clearance": -13.619,
+    "septic_shock_mortality": 10.893
+  },
+  {
+    "infection_source": 12.819,
+    "antibiotic_timing_hours": 10.257,
+    "inflammatory_response": 10.044,
+    "lactate_clearance": -14.69,
+    "septic_shock_mortality": 11.705
+  },
+  {
+    "infection_source": 11.244,
+    "antibiotic_timing_hours": 12.573,
+    "inflammatory_response": 9.263,
+    "lactate_clearance": -15.583,
+    "septic_shock_mortality": 12.313
+  },
+  {
+    "infection_source": 13.817,
+    "antibiotic_timing_hours": 11.334,
+    "inflammatory_response": 11.069,
+    "lactate_clearance": -16.264,
+    "septic_shock_mortality": 12.799
+  },
+  {
+    "infection_source": 9.213,
+    "antibiotic_timing_hours": 9.001,
+    "inflammatory_response": 7.057,
+    "lactate_clearance": -11.993,
+    "septic_shock_mortality": 9.84
+  },
+  {
+    "infection_source": 13.192,
+    "antibiotic_timing_hours": 13.291,
+    "inflammatory_response": 10.542,
+    "lactate_clearance": -17.276,
+    "septic_shock_mortality": 13.593
+  },
+  {
+    "infection_source": 12.022,
+    "antibiotic_timing_hours": 7.694,
+    "inflammatory_response": 9.572,
+    "lactate_clearance": -12.151,
+    "septic_shock_mortality": 9.356
+  },
+  {
+    "infection_source": 10.033,
+    "antibiotic_timing_hours": 7.283,
+    "inflammatory_response": 7.736,
+    "lactate_clearance": -10.573,
+    "septic_shock_mortality": 8.548
+  },
+  {
+    "infection_source": 10.06,
+    "antibiotic_timing_hours": 10.066,
+    "inflammatory_response": 7.853,
+    "lactate_clearance": -13.115,
+    "septic_shock_mortality": 10.641
+  },
+  {
+    "infection_source": 12.251,
+    "antibiotic_timing_hours": 12.25,
+    "inflammatory_response": 9.645,
+    "lactate_clearance": -15.739,
+    "septic_shock_mortality": 12.788
+  },
+  {
+    "infection_source": 10.965,
+    "antibiotic_timing_hours": 9.825,
+    "inflammatory_response": 8.93,
+    "lactate_clearance": -13.61,
+    "septic_shock_mortality": 10.886
+  },
+  {
+    "infection_source": 10.618,
+    "antibiotic_timing_hours": 9.06,
+    "inflammatory_response": 8.613,
+    "lactate_clearance": -12.597,
+    "septic_shock_mortality": 10.283
+  },
+  {
+    "infection_source": 8.165,
+    "antibiotic_timing_hours": 11.959,
+    "inflammatory_response": 6.851,
+    "lactate_clearance": -13.706,
+    "septic_shock_mortality": 10.796
+  },
+  {
+    "infection_source": 7.058,
+    "antibiotic_timing_hours": 13.414,
+    "inflammatory_response": 5.299,
+    "lactate_clearance": -13.882,
+    "septic_shock_mortality": 11.626
+  },
+  {
+    "infection_source": 12.026,
+    "antibiotic_timing_hours": 9.997,
+    "inflammatory_response": 9.852,
+    "lactate_clearance": -14.442,
+    "septic_shock_mortality": 11.448
+  },
+  {
+    "infection_source": 10.363,
+    "antibiotic_timing_hours": 9.778,
+    "inflammatory_response": 8.644,
+    "lactate_clearance": -13.334,
+    "septic_shock_mortality": 10.666
+  },
+  {
+    "infection_source": 8.941,
+    "antibiotic_timing_hours": 13.117,
+    "inflammatory_response": 7.16,
+    "lactate_clearance": -14.618,
+    "septic_shock_mortality": 11.73
+  },
+  {
+    "infection_source": 7.753,
+    "antibiotic_timing_hours": 10.802,
+    "inflammatory_response": 6.095,
+    "lactate_clearance": -12.892,
+    "septic_shock_mortality": 10.297
+  },
+  {
+    "infection_source": 10.327,
+    "antibiotic_timing_hours": 13.478,
+    "inflammatory_response": 8.168,
+    "lactate_clearance": -16.094,
+    "septic_shock_mortality": 12.739
+  },
+  {
+    "infection_source": 9.079,
+    "antibiotic_timing_hours": 11.858,
+    "inflammatory_response": 6.837,
+    "lactate_clearance": -13.607,
+    "septic_shock_mortality": 10.576
+  },
+  {
+    "infection_source": 11.513,
+    "antibiotic_timing_hours": 11.582,
+    "inflammatory_response": 9.032,
+    "lactate_clearance": -14.983,
+    "septic_shock_mortality": 11.976
+  },
+  {
+    "infection_source": 8.446,
+    "antibiotic_timing_hours": 7.903,
+    "inflammatory_response": 6.877,
+    "lactate_clearance": -10.618,
+    "septic_shock_mortality": 8.581
+  },
+  {
+    "infection_source": 12.816,
+    "antibiotic_timing_hours": 10.505,
+    "inflammatory_response": 10.537,
+    "lactate_clearance": -15.409,
+    "septic_shock_mortality": 12.659
+  },
+  {
+    "infection_source": 9.751,
+    "antibiotic_timing_hours": 6.729,
+    "inflammatory_response": 7.855,
+    "lactate_clearance": -10.618,
+    "septic_shock_mortality": 8.227
+  },
+  {
+    "infection_source": 14.214,
+    "antibiotic_timing_hours": 7.631,
+    "inflammatory_response": 11.697,
+    "lactate_clearance": -14.102,
+    "septic_shock_mortality": 11.404
+  },
+  {
+    "infection_source": 8.924,
+    "antibiotic_timing_hours": 11.548,
+    "inflammatory_response": 6.96,
+    "lactate_clearance": -13.67,
+    "septic_shock_mortality": 11.163
+  },
+  {
+    "infection_source": 11.113,
+    "antibiotic_timing_hours": 10.244,
+    "inflammatory_response": 9.076,
+    "lactate_clearance": -14.193,
+    "septic_shock_mortality": 11.764
+  },
+  {
+    "infection_source": 10.452,
+    "antibiotic_timing_hours": 10.729,
+    "inflammatory_response": 8.26,
+    "lactate_clearance": -14.169,
+    "septic_shock_mortality": 11.536
+  },
+  {
+    "infection_source": 11.562,
+    "antibiotic_timing_hours": 10.79,
+    "inflammatory_response": 9.203,
+    "lactate_clearance": -14.821,
+    "septic_shock_mortality": 12.263
+  },
+  {
+    "infection_source": 7.408,
+    "antibiotic_timing_hours": 9.431,
+    "inflammatory_response": 6.148,
+    "lactate_clearance": -11.314,
+    "septic_shock_mortality": 9.319
+  },
+  {
+    "infection_source": 8.478,
+    "antibiotic_timing_hours": 10.569,
+    "inflammatory_response": 6.777,
+    "lactate_clearance": -12.633,
+    "septic_shock_mortality": 10.333
+  },
+  {
+    "infection_source": 11.184,
+    "antibiotic_timing_hours": 12.04,
+    "inflammatory_response": 8.849,
+    "lactate_clearance": -15.243,
+    "septic_shock_mortality": 12.287
+  },
+  {
+    "infection_source": 12.566,
+    "antibiotic_timing_hours": 11.483,
+    "inflammatory_response": 10.238,
+    "lactate_clearance": -15.815,
+    "septic_shock_mortality": 12.803
+  },
+  {
+    "infection_source": 9.503,
+    "antibiotic_timing_hours": 9.985,
+    "inflammatory_response": 7.297,
+    "lactate_clearance": -12.505,
+    "septic_shock_mortality": 9.831
+  },
+  {
+    "infection_source": 11.672,
+    "antibiotic_timing_hours": 10.892,
+    "inflammatory_response": 9.18,
+    "lactate_clearance": -14.472,
+    "septic_shock_mortality": 11.814
+  },
+  {
+    "infection_source": 8.875,
+    "antibiotic_timing_hours": 9.44,
+    "inflammatory_response": 7.419,
+    "lactate_clearance": -12.336,
+    "septic_shock_mortality": 10.018
+  },
+  {
+    "infection_source": 10.63,
+    "antibiotic_timing_hours": 7.166,
+    "inflammatory_response": 8.511,
+    "lactate_clearance": -11.501,
+    "septic_shock_mortality": 9.002
+  },
+  {
+    "infection_source": 9.617,
+    "antibiotic_timing_hours": 11.295,
+    "inflammatory_response": 7.627,
+    "lactate_clearance": -13.703,
+    "septic_shock_mortality": 10.951
+  },
+  {
+    "infection_source": 7.186,
+    "antibiotic_timing_hours": 11.842,
+    "inflammatory_response": 5.595,
+    "lactate_clearance": -12.956,
+    "septic_shock_mortality": 10.465
+  },
+  {
+    "infection_source": 8.229,
+    "antibiotic_timing_hours": 5.931,
+    "inflammatory_response": 6.56,
+    "lactate_clearance": -9.224,
+    "septic_shock_mortality": 7.415
+  },
+  {
+    "infection_source": 11.291,
+    "antibiotic_timing_hours": 8.803,
+    "inflammatory_response": 9.247,
+    "lactate_clearance": -13.114,
+    "septic_shock_mortality": 10.466
+  },
+  {
+    "infection_source": 8.545,
+    "antibiotic_timing_hours": 10.766,
+    "inflammatory_response": 7.042,
+    "lactate_clearance": -12.816,
+    "septic_shock_mortality": 10.115
+  },
+  {
+    "infection_source": 10.602,
+    "antibiotic_timing_hours": 10.516,
+    "inflammatory_response": 8.252,
+    "lactate_clearance": -13.806,
+    "septic_shock_mortality": 11.005
+  },
+  {
+    "infection_source": 13.066,
+    "antibiotic_timing_hours": 7.637,
+    "inflammatory_response": 10.504,
+    "lactate_clearance": -13.314,
+    "septic_shock_mortality": 10.855
+  },
+  {
+    "infection_source": 11.361,
+    "antibiotic_timing_hours": 7.903,
+    "inflammatory_response": 9.016,
+    "lactate_clearance": -11.993,
+    "septic_shock_mortality": 9.633
+  },
+  {
+    "infection_source": 10.957,
+    "antibiotic_timing_hours": 7.914,
+    "inflammatory_response": 8.506,
+    "lactate_clearance": -11.916,
+    "septic_shock_mortality": 9.624
+  },
+  {
+    "infection_source": 11.92,
+    "antibiotic_timing_hours": 7.426,
+    "inflammatory_response": 9.445,
+    "lactate_clearance": -12.028,
+    "septic_shock_mortality": 9.258
+  },
+  {
+    "infection_source": 10.113,
+    "antibiotic_timing_hours": 10.827,
+    "inflammatory_response": 7.989,
+    "lactate_clearance": -13.672,
+    "septic_shock_mortality": 10.711
+  },
+  {
+    "infection_source": 9.474,
+    "antibiotic_timing_hours": 11.561,
+    "inflammatory_response": 7.519,
+    "lactate_clearance": -14.154,
+    "septic_shock_mortality": 11.333
+  },
+  {
+    "infection_source": 9.94,
+    "antibiotic_timing_hours": 10.977,
+    "inflammatory_response": 7.872,
+    "lactate_clearance": -13.467,
+    "septic_shock_mortality": 11.115
+  },
+  {
+    "infection_source": 9.866,
+    "antibiotic_timing_hours": 8.899,
+    "inflammatory_response": 7.195,
+    "lactate_clearance": -11.81,
+    "septic_shock_mortality": 9.965
+  },
+  {
+    "infection_source": 9.932,
+    "antibiotic_timing_hours": 8.655,
+    "inflammatory_response": 8.037,
+    "lactate_clearance": -11.896,
+    "septic_shock_mortality": 9.75
+  },
+  {
+    "infection_source": 11.62,
+    "antibiotic_timing_hours": 9.95,
+    "inflammatory_response": 9.479,
+    "lactate_clearance": -14.12,
+    "septic_shock_mortality": 11.591
+  },
+  {
+    "infection_source": 10.952,
+    "antibiotic_timing_hours": 8.862,
+    "inflammatory_response": 8.904,
+    "lactate_clearance": -12.87,
+    "septic_shock_mortality": 10.459
+  },
+  {
+    "infection_source": 7.32,
+    "antibiotic_timing_hours": 10.662,
+    "inflammatory_response": 5.677,
+    "lactate_clearance": -11.97,
+    "septic_shock_mortality": 9.595
+  },
+  {
+    "infection_source": 10.765,
+    "antibiotic_timing_hours": 9.41,
+    "inflammatory_response": 8.861,
+    "lactate_clearance": -13.029,
+    "septic_shock_mortality": 10.424
+  },
+  {
+    "infection_source": 7.747,
+    "antibiotic_timing_hours": 10.621,
+    "inflammatory_response": 5.941,
+    "lactate_clearance": -12.313,
+    "septic_shock_mortality": 9.444
+  },
+  {
+    "infection_source": 8.421,
+    "antibiotic_timing_hours": 8.557,
+    "inflammatory_response": 6.498,
+    "lactate_clearance": -11.176,
+    "septic_shock_mortality": 8.772
+  },
+  {
+    "infection_source": 7.576,
+    "antibiotic_timing_hours": 13.707,
+    "inflammatory_response": 6.302,
+    "lactate_clearance": -14.829,
+    "septic_shock_mortality": 11.785
+  },
+  {
+    "infection_source": 11.424,
+    "antibiotic_timing_hours": 10.675,
+    "inflammatory_response": 9.048,
+    "lactate_clearance": -14.352,
+    "septic_shock_mortality": 11.358
+  },
+  {
+    "infection_source": 12.8,
+    "antibiotic_timing_hours": 10.67,
+    "inflammatory_response": 10.257,
+    "lactate_clearance": -15.058,
+    "septic_shock_mortality": 12.092
+  },
+  {
+    "infection_source": 9.666,
+    "antibiotic_timing_hours": 10.101,
+    "inflammatory_response": 7.557,
+    "lactate_clearance": -13.27,
+    "septic_shock_mortality": 10.822
+  },
+  {
+    "infection_source": 13.206,
+    "antibiotic_timing_hours": 8.626,
+    "inflammatory_response": 10.65,
+    "lactate_clearance": -13.723,
+    "septic_shock_mortality": 11.018
+  },
+  {
+    "infection_source": 16.748,
+    "antibiotic_timing_hours": 10.819,
+    "inflammatory_response": 13.165,
+    "lactate_clearance": -17.024,
+    "septic_shock_mortality": 14.019
+  },
+  {
+    "infection_source": 7.449,
+    "antibiotic_timing_hours": 13.44,
+    "inflammatory_response": 6.029,
+    "lactate_clearance": -14.344,
+    "septic_shock_mortality": 11.566
+  },
+  {
+    "infection_source": 12.267,
+    "antibiotic_timing_hours": 11.177,
+    "inflammatory_response": 9.996,
+    "lactate_clearance": -15.422,
+    "septic_shock_mortality": 12.39
+  },
+  {
+    "infection_source": 9.733,
+    "antibiotic_timing_hours": 8.872,
+    "inflammatory_response": 8.061,
+    "lactate_clearance": -12.126,
+    "septic_shock_mortality": 9.686
+  },
+  {
+    "infection_source": 8.334,
+    "antibiotic_timing_hours": 11.663,
+    "inflammatory_response": 6.53,
+    "lactate_clearance": -13.406,
+    "septic_shock_mortality": 10.822
+  },
+  {
+    "infection_source": 11.544,
+    "antibiotic_timing_hours": 10.379,
+    "inflammatory_response": 8.869,
+    "lactate_clearance": -14.722,
+    "septic_shock_mortality": 11.714
+  },
+  {
+    "infection_source": 9.081,
+    "antibiotic_timing_hours": 10.535,
+    "inflammatory_response": 7.406,
+    "lactate_clearance": -13.095,
+    "septic_shock_mortality": 9.938
+  },
+  {
+    "infection_source": 10.497,
+    "antibiotic_timing_hours": 10.595,
+    "inflammatory_response": 8.783,
+    "lactate_clearance": -13.724,
+    "septic_shock_mortality": 10.869
+  },
+  {
+    "infection_source": 10.426,
+    "antibiotic_timing_hours": 8.704,
+    "inflammatory_response": 8.351,
+    "lactate_clearance": -12.294,
+    "septic_shock_mortality": 9.85
+  },
+  {
+    "infection_source": 8.627,
+    "antibiotic_timing_hours": 9.587,
+    "inflammatory_response": 7.086,
+    "lactate_clearance": -12.205,
+    "septic_shock_mortality": 9.928
+  },
+  {
+    "infection_source": 9.138,
+    "antibiotic_timing_hours": 10.879,
+    "inflammatory_response": 7.392,
+    "lactate_clearance": -13.249,
+    "septic_shock_mortality": 10.551
+  },
+  {
+    "infection_source": 5.964,
+    "antibiotic_timing_hours": 10.003,
+    "inflammatory_response": 4.637,
+    "lactate_clearance": -10.681,
+    "septic_shock_mortality": 8.317
+  },
+  {
+    "infection_source": 7.632,
+    "antibiotic_timing_hours": 9.317,
+    "inflammatory_response": 6.25,
+    "lactate_clearance": -11.577,
+    "septic_shock_mortality": 9.283
+  },
+  {
+    "infection_source": 11.542,
+    "antibiotic_timing_hours": 8.475,
+    "inflammatory_response": 9.587,
+    "lactate_clearance": -12.963,
+    "septic_shock_mortality": 10.133
+  },
+  {
+    "infection_source": 10.923,
+    "antibiotic_timing_hours": 11.825,
+    "inflammatory_response": 8.88,
+    "lactate_clearance": -15.105,
+    "septic_shock_mortality": 12.321
+  },
+  {
+    "infection_source": 9.849,
+    "antibiotic_timing_hours": 7.19,
+    "inflammatory_response": 8.064,
+    "lactate_clearance": -11.064,
+    "septic_shock_mortality": 8.964
+  },
+  {
+    "infection_source": 11.559,
+    "antibiotic_timing_hours": 10.125,
+    "inflammatory_response": 9.16,
+    "lactate_clearance": -14.114,
+    "septic_shock_mortality": 11.404
+  },
+  {
+    "infection_source": 13.163,
+    "antibiotic_timing_hours": 11.52,
+    "inflammatory_response": 10.31,
+    "lactate_clearance": -15.729,
+    "septic_shock_mortality": 12.555
+  },
+  {
+    "infection_source": 13.485,
+    "antibiotic_timing_hours": 7.892,
+    "inflammatory_response": 10.738,
+    "lactate_clearance": -13.836,
+    "septic_shock_mortality": 11.422
+  },
+  {
+    "infection_source": 9.035,
+    "antibiotic_timing_hours": 9.364,
+    "inflammatory_response": 7.167,
+    "lactate_clearance": -11.839,
+    "septic_shock_mortality": 9.894
+  },
+  {
+    "infection_source": 11.817,
+    "antibiotic_timing_hours": 12.395,
+    "inflammatory_response": 9.75,
+    "lactate_clearance": -15.828,
+    "septic_shock_mortality": 12.878
+  },
+  {
+    "infection_source": 12.792,
+    "antibiotic_timing_hours": 12.968,
+    "inflammatory_response": 9.964,
+    "lactate_clearance": -16.523,
+    "septic_shock_mortality": 12.988
+  },
+  {
+    "infection_source": 9.402,
+    "antibiotic_timing_hours": 10.468,
+    "inflammatory_response": 7.993,
+    "lactate_clearance": -13.427,
+    "septic_shock_mortality": 10.558
+  },
+  {
+    "infection_source": 11.221,
+    "antibiotic_timing_hours": 12.724,
+    "inflammatory_response": 8.736,
+    "lactate_clearance": -15.67,
+    "septic_shock_mortality": 12.213
+  },
+  {
+    "infection_source": 9.662,
+    "antibiotic_timing_hours": 9.204,
+    "inflammatory_response": 7.689,
+    "lactate_clearance": -12.215,
+    "septic_shock_mortality": 9.631
+  },
+  {
+    "infection_source": 7.31,
+    "antibiotic_timing_hours": 9.327,
+    "inflammatory_response": 5.661,
+    "lactate_clearance": -10.93,
+    "septic_shock_mortality": 8.79
+  },
+  {
+    "infection_source": 9.433,
+    "antibiotic_timing_hours": 6.746,
+    "inflammatory_response": 7.666,
+    "lactate_clearance": -10.173,
+    "septic_shock_mortality": 7.814
+  },
+  {
+    "infection_source": 9.512,
+    "antibiotic_timing_hours": 7.707,
+    "inflammatory_response": 7.466,
+    "lactate_clearance": -11.058,
+    "septic_shock_mortality": 9.12
+  },
+  {
+    "infection_source": 10.115,
+    "antibiotic_timing_hours": 10.097,
+    "inflammatory_response": 7.864,
+    "lactate_clearance": -12.992,
+    "septic_shock_mortality": 10.34
+  },
+  {
+    "infection_source": 12.554,
+    "antibiotic_timing_hours": 11.801,
+    "inflammatory_response": 10.091,
+    "lactate_clearance": -15.86,
+    "septic_shock_mortality": 12.622
+  },
+  {
+    "infection_source": 10.144,
+    "antibiotic_timing_hours": 6.464,
+    "inflammatory_response": 8.031,
+    "lactate_clearance": -10.558,
+    "septic_shock_mortality": 8.377
+  },
+  {
+    "infection_source": 8.791,
+    "antibiotic_timing_hours": 13.042,
+    "inflammatory_response": 6.84,
+    "lactate_clearance": -14.391,
+    "septic_shock_mortality": 11.334
+  },
+  {
+    "infection_source": 9.871,
+    "antibiotic_timing_hours": 12.83,
+    "inflammatory_response": 7.38,
+    "lactate_clearance": -15.158,
+    "septic_shock_mortality": 12.129
+  },
+  {
+    "infection_source": 10.111,
+    "antibiotic_timing_hours": 10.238,
+    "inflammatory_response": 8.062,
+    "lactate_clearance": -12.993,
+    "septic_shock_mortality": 10.793
+  },
+  {
+    "infection_source": 10.77,
+    "antibiotic_timing_hours": 9.95,
+    "inflammatory_response": 8.519,
+    "lactate_clearance": -13.529,
+    "septic_shock_mortality": 10.665
+  },
+  {
+    "infection_source": 11.641,
+    "antibiotic_timing_hours": 13.072,
+    "inflammatory_response": 8.99,
+    "lactate_clearance": -16.374,
+    "septic_shock_mortality": 12.991
+  },
+  {
+    "infection_source": 11.022,
+    "antibiotic_timing_hours": 12.098,
+    "inflammatory_response": 8.768,
+    "lactate_clearance": -15.16,
+    "septic_shock_mortality": 12.171
+  },
+  {
+    "infection_source": 13.491,
+    "antibiotic_timing_hours": 9.177,
+    "inflammatory_response": 10.791,
+    "lactate_clearance": -14.499,
+    "septic_shock_mortality": 11.76
+  },
+  {
+    "infection_source": 8.667,
+    "antibiotic_timing_hours": 10.011,
+    "inflammatory_response": 6.844,
+    "lactate_clearance": -12.54,
+    "septic_shock_mortality": 9.832
+  },
+  {
+    "infection_source": 9.813,
+    "antibiotic_timing_hours": 7.439,
+    "inflammatory_response": 7.948,
+    "lactate_clearance": -10.98,
+    "septic_shock_mortality": 8.77
+  },
+  {
+    "infection_source": 9.895,
+    "antibiotic_timing_hours": 8.981,
+    "inflammatory_response": 8.082,
+    "lactate_clearance": -12.394,
+    "septic_shock_mortality": 10.01
+  },
+  {
+    "infection_source": 8.99,
+    "antibiotic_timing_hours": 11.547,
+    "inflammatory_response": 7.271,
+    "lactate_clearance": -14.031,
+    "septic_shock_mortality": 11.006
+  },
+  {
+    "infection_source": 12.589,
+    "antibiotic_timing_hours": 5.031,
+    "inflammatory_response": 10.084,
+    "lactate_clearance": -10.92,
+    "septic_shock_mortality": 8.899
+  },
+  {
+    "infection_source": 8.377,
+    "antibiotic_timing_hours": 8.057,
+    "inflammatory_response": 6.578,
+    "lactate_clearance": -10.453,
+    "septic_shock_mortality": 8.67
+  },
+  {
+    "infection_source": 11.361,
+    "antibiotic_timing_hours": 10.833,
+    "inflammatory_response": 9.147,
+    "lactate_clearance": -14.341,
+    "septic_shock_mortality": 11.541
+  },
+  {
+    "infection_source": 7.841,
+    "antibiotic_timing_hours": 14.293,
+    "inflammatory_response": 6.246,
+    "lactate_clearance": -14.968,
+    "septic_shock_mortality": 11.992
+  },
+  {
+    "infection_source": 9.121,
+    "antibiotic_timing_hours": 7.79,
+    "inflammatory_response": 7.356,
+    "lactate_clearance": -11.352,
+    "septic_shock_mortality": 8.716
+  },
+  {
+    "infection_source": 9.923,
+    "antibiotic_timing_hours": 6.852,
+    "inflammatory_response": 7.983,
+    "lactate_clearance": -10.905,
+    "septic_shock_mortality": 8.76
+  },
+  {
+    "infection_source": 11.662,
+    "antibiotic_timing_hours": 9.554,
+    "inflammatory_response": 9.634,
+    "lactate_clearance": -13.841,
+    "septic_shock_mortality": 11.025
+  },
+  {
+    "infection_source": 9.971,
+    "antibiotic_timing_hours": 8.164,
+    "inflammatory_response": 7.864,
+    "lactate_clearance": -11.606,
+    "septic_shock_mortality": 8.946
+  },
+  {
+    "infection_source": 9.386,
+    "antibiotic_timing_hours": 11.085,
+    "inflammatory_response": 7.465,
+    "lactate_clearance": -13.801,
+    "septic_shock_mortality": 10.836
+  },
+  {
+    "infection_source": 12.706,
+    "antibiotic_timing_hours": 3.503,
+    "inflammatory_response": 10.527,
+    "lactate_clearance": -10.107,
+    "septic_shock_mortality": 7.969
+  },
+  {
+    "infection_source": 8.136,
+    "antibiotic_timing_hours": 12.685,
+    "inflammatory_response": 6.686,
+    "lactate_clearance": -14.091,
+    "septic_shock_mortality": 11.394
+  },
+  {
+    "infection_source": 9.547,
+    "antibiotic_timing_hours": 5.818,
+    "inflammatory_response": 7.305,
+    "lactate_clearance": -9.533,
+    "septic_shock_mortality": 7.404
+  },
+  {
+    "infection_source": 7.288,
+    "antibiotic_timing_hours": 12.106,
+    "inflammatory_response": 5.79,
+    "lactate_clearance": -13.108,
+    "septic_shock_mortality": 10.29
+  },
+  {
+    "infection_source": 7.752,
+    "antibiotic_timing_hours": 11.241,
+    "inflammatory_response": 6.175,
+    "lactate_clearance": -12.801,
+    "septic_shock_mortality": 10.245
+  },
+  {
+    "infection_source": 11.456,
+    "antibiotic_timing_hours": 8.806,
+    "inflammatory_response": 9.097,
+    "lactate_clearance": -12.937,
+    "septic_shock_mortality": 10.595
+  },
+  {
+    "infection_source": 8.196,
+    "antibiotic_timing_hours": 8.311,
+    "inflammatory_response": 6.825,
+    "lactate_clearance": -11.01,
+    "septic_shock_mortality": 8.539
+  },
+  {
+    "infection_source": 12.104,
+    "antibiotic_timing_hours": 8.991,
+    "inflammatory_response": 9.577,
+    "lactate_clearance": -13.395,
+    "septic_shock_mortality": 10.901
+  },
+  {
+    "infection_source": 12.258,
+    "antibiotic_timing_hours": 7.33,
+    "inflammatory_response": 9.878,
+    "lactate_clearance": -12.291,
+    "septic_shock_mortality": 10.048
+  },
+  {
+    "infection_source": 12.713,
+    "antibiotic_timing_hours": 8.524,
+    "inflammatory_response": 10.338,
+    "lactate_clearance": -13.487,
+    "septic_shock_mortality": 10.543
+  },
+  {
+    "infection_source": 8.89,
+    "antibiotic_timing_hours": 10.438,
+    "inflammatory_response": 6.929,
+    "lactate_clearance": -12.274,
+    "septic_shock_mortality": 9.921
+  },
+  {
+    "infection_source": 10.048,
+    "antibiotic_timing_hours": 9.258,
+    "inflammatory_response": 8.179,
+    "lactate_clearance": -12.769,
+    "septic_shock_mortality": 9.957
+  },
+  {
+    "infection_source": 8.49,
+    "antibiotic_timing_hours": 14.952,
+    "inflammatory_response": 6.971,
+    "lactate_clearance": -16.105,
+    "septic_shock_mortality": 12.649
+  },
+  {
+    "infection_source": 9.313,
+    "antibiotic_timing_hours": 4.99,
+    "inflammatory_response": 7.566,
+    "lactate_clearance": -9.313,
+    "septic_shock_mortality": 7.618
+  },
+  {
+    "infection_source": 13.064,
+    "antibiotic_timing_hours": 8.534,
+    "inflammatory_response": 10.623,
+    "lactate_clearance": -13.603,
+    "septic_shock_mortality": 10.606
+  },
+  {
+    "infection_source": 11.122,
+    "antibiotic_timing_hours": 10.644,
+    "inflammatory_response": 8.866,
+    "lactate_clearance": -13.848,
+    "septic_shock_mortality": 11.079
+  },
+  {
+    "infection_source": 10.011,
+    "antibiotic_timing_hours": 10.652,
+    "inflammatory_response": 8.169,
+    "lactate_clearance": -13.618,
+    "septic_shock_mortality": 11.022
+  },
+  {
+    "infection_source": 9.472,
+    "antibiotic_timing_hours": 8.235,
+    "inflammatory_response": 7.667,
+    "lactate_clearance": -11.732,
+    "septic_shock_mortality": 9.217
+  },
+  {
+    "infection_source": 7.363,
+    "antibiotic_timing_hours": 7.455,
+    "inflammatory_response": 5.944,
+    "lactate_clearance": -9.77,
+    "septic_shock_mortality": 7.734
+  },
+  {
+    "infection_source": 8.607,
+    "antibiotic_timing_hours": 10.13,
+    "inflammatory_response": 7.1,
+    "lactate_clearance": -12.579,
+    "septic_shock_mortality": 10.254
+  },
+  {
+    "infection_source": 12.475,
+    "antibiotic_timing_hours": 13.743,
+    "inflammatory_response": 9.95,
+    "lactate_clearance": -17.345,
+    "septic_shock_mortality": 13.928
+  },
+  {
+    "infection_source": 8.163,
+    "antibiotic_timing_hours": 7.21,
+    "inflammatory_response": 6.087,
+    "lactate_clearance": -9.633,
+    "septic_shock_mortality": 7.463
+  },
+  {
+    "infection_source": 10.779,
+    "antibiotic_timing_hours": 12.233,
+    "inflammatory_response": 8.766,
+    "lactate_clearance": -15.383,
+    "septic_shock_mortality": 12.637
+  },
+  {
+    "infection_source": 13.737,
+    "antibiotic_timing_hours": 11.133,
+    "inflammatory_response": 11.297,
+    "lactate_clearance": -16.151,
+    "septic_shock_mortality": 13.237
+  },
+  {
+    "infection_source": 10.568,
+    "antibiotic_timing_hours": 14.371,
+    "inflammatory_response": 8.398,
+    "lactate_clearance": -16.534,
+    "septic_shock_mortality": 13.227
+  },
+  {
+    "infection_source": 11.198,
+    "antibiotic_timing_hours": 6.971,
+    "inflammatory_response": 8.895,
+    "lactate_clearance": -11.809,
+    "septic_shock_mortality": 9.048
+  },
+  {
+    "infection_source": 9.429,
+    "antibiotic_timing_hours": 6.93,
+    "inflammatory_response": 7.469,
+    "lactate_clearance": -10.891,
+    "septic_shock_mortality": 8.963
+  },
+  {
+    "infection_source": 8.227,
+    "antibiotic_timing_hours": 6.321,
+    "inflammatory_response": 6.916,
+    "lactate_clearance": -9.676,
+    "septic_shock_mortality": 7.729
+  },
+  {
+    "infection_source": 8.454,
+    "antibiotic_timing_hours": 9.096,
+    "inflammatory_response": 6.459,
+    "lactate_clearance": -11.657,
+    "septic_shock_mortality": 9.331
+  },
+  {
+    "infection_source": 9.646,
+    "antibiotic_timing_hours": 7.744,
+    "inflammatory_response": 7.534,
+    "lactate_clearance": -10.868,
+    "septic_shock_mortality": 8.569
+  },
+  {
+    "infection_source": 8.128,
+    "antibiotic_timing_hours": 12.965,
+    "inflammatory_response": 6.566,
+    "lactate_clearance": -13.999,
+    "septic_shock_mortality": 11.042
+  },
+  {
+    "infection_source": 8.795,
+    "antibiotic_timing_hours": 9.477,
+    "inflammatory_response": 6.725,
+    "lactate_clearance": -11.887,
+    "septic_shock_mortality": 9.522
+  },
+  {
+    "infection_source": 11.292,
+    "antibiotic_timing_hours": 12.54,
+    "inflammatory_response": 8.612,
+    "lactate_clearance": -15.507,
+    "septic_shock_mortality": 12.354
+  },
+  {
+    "infection_source": 4.312,
+    "antibiotic_timing_hours": 9.902,
+    "inflammatory_response": 3.543,
+    "lactate_clearance": -9.603,
+    "septic_shock_mortality": 8.036
+  },
+  {
+    "infection_source": 10.319,
+    "antibiotic_timing_hours": 12.404,
+    "inflammatory_response": 8.512,
+    "lactate_clearance": -15.393,
+    "septic_shock_mortality": 12.25
+  },
+  {
+    "infection_source": 8.052,
+    "antibiotic_timing_hours": 13.367,
+    "inflammatory_response": 6.47,
+    "lactate_clearance": -14.392,
+    "septic_shock_mortality": 11.483
+  },
+  {
+    "infection_source": 12.827,
+    "antibiotic_timing_hours": 9.848,
+    "inflammatory_response": 10.35,
+    "lactate_clearance": -14.342,
+    "septic_shock_mortality": 11.374
+  },
+  {
+    "infection_source": 11.061,
+    "antibiotic_timing_hours": 13.517,
+    "inflammatory_response": 8.398,
+    "lactate_clearance": -16.009,
+    "septic_shock_mortality": 13.162
+  },
+  {
+    "infection_source": 11.195,
+    "antibiotic_timing_hours": 9.199,
+    "inflammatory_response": 9.055,
+    "lactate_clearance": -13.275,
+    "septic_shock_mortality": 10.474
+  },
+  {
+    "infection_source": 10.095,
+    "antibiotic_timing_hours": 8.516,
+    "inflammatory_response": 7.835,
+    "lactate_clearance": -11.389,
+    "septic_shock_mortality": 9.093
+  },
+  {
+    "infection_source": 8.513,
+    "antibiotic_timing_hours": 8.634,
+    "inflammatory_response": 6.826,
+    "lactate_clearance": -11.094,
+    "septic_shock_mortality": 8.829
+  },
+  {
+    "infection_source": 7.704,
+    "antibiotic_timing_hours": 13.214,
+    "inflammatory_response": 6.348,
+    "lactate_clearance": -14.116,
+    "septic_shock_mortality": 10.942
+  },
+  {
+    "infection_source": 13.442,
+    "antibiotic_timing_hours": 13.099,
+    "inflammatory_response": 10.894,
+    "lactate_clearance": -17.451,
+    "septic_shock_mortality": 13.937
+  },
+  {
+    "infection_source": 8.114,
+    "antibiotic_timing_hours": 10.374,
+    "inflammatory_response": 6.354,
+    "lactate_clearance": -12.33,
+    "septic_shock_mortality": 9.838
+  },
+  {
+    "infection_source": 8.704,
+    "antibiotic_timing_hours": 3.503,
+    "inflammatory_response": 6.811,
+    "lactate_clearance": -7.749,
+    "septic_shock_mortality": 6.239
+  },
+  {
+    "infection_source": 11.89,
+    "antibiotic_timing_hours": 14.339,
+    "inflammatory_response": 9.559,
+    "lactate_clearance": -17.884,
+    "septic_shock_mortality": 14.552
+  },
+  {
+    "infection_source": 8.169,
+    "antibiotic_timing_hours": 8.957,
+    "inflammatory_response": 6.766,
+    "lactate_clearance": -11.869,
+    "septic_shock_mortality": 9.28
+  },
+  {
+    "infection_source": 12.556,
+    "antibiotic_timing_hours": 11.201,
+    "inflammatory_response": 10.067,
+    "lactate_clearance": -15.667,
+    "septic_shock_mortality": 11.917
+  },
+  {
+    "infection_source": 11.484,
+    "antibiotic_timing_hours": 5.343,
+    "inflammatory_response": 9.479,
+    "lactate_clearance": -10.69,
+    "septic_shock_mortality": 8.545
+  },
+  {
+    "infection_source": 11.539,
+    "antibiotic_timing_hours": 10.077,
+    "inflammatory_response": 9.348,
+    "lactate_clearance": -14.175,
+    "septic_shock_mortality": 11.714
+  },
+  {
+    "infection_source": 7.982,
+    "antibiotic_timing_hours": 10.489,
+    "inflammatory_response": 6.031,
+    "lactate_clearance": -12.146,
+    "septic_shock_mortality": 9.544
+  },
+  {
+    "infection_source": 8.396,
+    "antibiotic_timing_hours": 10.355,
+    "inflammatory_response": 6.847,
+    "lactate_clearance": -12.779,
+    "septic_shock_mortality": 10.146
+  },
+  {
+    "infection_source": 10.29,
+    "antibiotic_timing_hours": 7.28,
+    "inflammatory_response": 7.95,
+    "lactate_clearance": -11.038,
+    "septic_shock_mortality": 8.526
+  },
+  {
+    "infection_source": 10.542,
+    "antibiotic_timing_hours": 8.551,
+    "inflammatory_response": 8.46,
+    "lactate_clearance": -11.719,
+    "septic_shock_mortality": 9.563
+  },
+  {
+    "infection_source": 10.062,
+    "antibiotic_timing_hours": 13.94,
+    "inflammatory_response": 7.93,
+    "lactate_clearance": -16.042,
+    "septic_shock_mortality": 12.402
+  },
+  {
+    "infection_source": 11.869,
+    "antibiotic_timing_hours": 6.887,
+    "inflammatory_response": 9.042,
+    "lactate_clearance": -11.619,
+    "septic_shock_mortality": 9.09
+  },
+  {
+    "infection_source": 14.244,
+    "antibiotic_timing_hours": 6.871,
+    "inflammatory_response": 11.224,
+    "lactate_clearance": -13.045,
+    "septic_shock_mortality": 10.599
+  },
+  {
+    "infection_source": 4.976,
+    "antibiotic_timing_hours": 9.547,
+    "inflammatory_response": 3.943,
+    "lactate_clearance": -9.777,
+    "septic_shock_mortality": 7.984
+  },
+  {
+    "infection_source": 9.835,
+    "antibiotic_timing_hours": 12.306,
+    "inflammatory_response": 7.951,
+    "lactate_clearance": -14.763,
+    "septic_shock_mortality": 11.799
+  },
+  {
+    "infection_source": 9.301,
+    "antibiotic_timing_hours": 12.743,
+    "inflammatory_response": 7.46,
+    "lactate_clearance": -14.763,
+    "septic_shock_mortality": 11.921
+  },
+  {
+    "infection_source": 10.419,
+    "antibiotic_timing_hours": 10.308,
+    "inflammatory_response": 8.356,
+    "lactate_clearance": -13.566,
+    "septic_shock_mortality": 11.117
+  },
+  {
+    "infection_source": 11.765,
+    "antibiotic_timing_hours": 8.203,
+    "inflammatory_response": 9.641,
+    "lactate_clearance": -12.881,
+    "septic_shock_mortality": 10.35
+  },
+  {
+    "infection_source": 7.401,
+    "antibiotic_timing_hours": 11.25,
+    "inflammatory_response": 5.756,
+    "lactate_clearance": -12.584,
+    "septic_shock_mortality": 9.942
+  },
+  {
+    "infection_source": 12.557,
+    "antibiotic_timing_hours": 12.582,
+    "inflammatory_response": 10.03,
+    "lactate_clearance": -16.565,
+    "septic_shock_mortality": 13.164
+  },
+  {
+    "infection_source": 8.291,
+    "antibiotic_timing_hours": 10.294,
+    "inflammatory_response": 6.558,
+    "lactate_clearance": -12.567,
+    "septic_shock_mortality": 9.575
+  },
+  {
+    "infection_source": 13.743,
+    "antibiotic_timing_hours": 11.09,
+    "inflammatory_response": 11.184,
+    "lactate_clearance": -16.214,
+    "septic_shock_mortality": 12.86
+  },
+  {
+    "infection_source": 9.249,
+    "antibiotic_timing_hours": 10.236,
+    "inflammatory_response": 7.309,
+    "lactate_clearance": -12.663,
+    "septic_shock_mortality": 10.297
+  },
+  {
+    "infection_source": 10.327,
+    "antibiotic_timing_hours": 9.794,
+    "inflammatory_response": 8.242,
+    "lactate_clearance": -13.208,
+    "septic_shock_mortality": 10.543
+  },
+  {
+    "infection_source": 11.374,
+    "antibiotic_timing_hours": 8.56,
+    "inflammatory_response": 9.114,
+    "lactate_clearance": -12.868,
+    "septic_shock_mortality": 10.305
+  },
+  {
+    "infection_source": 11.247,
+    "antibiotic_timing_hours": 12.115,
+    "inflammatory_response": 8.986,
+    "lactate_clearance": -15.297,
+    "septic_shock_mortality": 12.608
+  },
+  {
+    "infection_source": 9.047,
+    "antibiotic_timing_hours": 12.793,
+    "inflammatory_response": 7.149,
+    "lactate_clearance": -14.205,
+    "septic_shock_mortality": 11.406
+  },
+  {
+    "infection_source": 10.483,
+    "antibiotic_timing_hours": 13.87,
+    "inflammatory_response": 8.655,
+    "lactate_clearance": -16.266,
+    "septic_shock_mortality": 12.594
+  },
+  {
+    "infection_source": 6.908,
+    "antibiotic_timing_hours": 10.966,
+    "inflammatory_response": 5.301,
+    "lactate_clearance": -12.264,
+    "septic_shock_mortality": 10.07
+  },
+  {
+    "infection_source": 8.027,
+    "antibiotic_timing_hours": 10.272,
+    "inflammatory_response": 6.564,
+    "lactate_clearance": -12.097,
+    "septic_shock_mortality": 9.868
+  },
+  {
+    "infection_source": 7.886,
+    "antibiotic_timing_hours": 11.575,
+    "inflammatory_response": 6.371,
+    "lactate_clearance": -12.894,
+    "septic_shock_mortality": 10.102
+  },
+  {
+    "infection_source": 9.584,
+    "antibiotic_timing_hours": 10.063,
+    "inflammatory_response": 7.648,
+    "lactate_clearance": -12.796,
+    "septic_shock_mortality": 10.297
+  },
+  {
+    "infection_source": 12.213,
+    "antibiotic_timing_hours": 10.093,
+    "inflammatory_response": 9.753,
+    "lactate_clearance": -14.396,
+    "septic_shock_mortality": 11.445
+  },
+  {
+    "infection_source": 10.141,
+    "antibiotic_timing_hours": 9.712,
+    "inflammatory_response": 8.25,
+    "lactate_clearance": -12.733,
+    "septic_shock_mortality": 9.943
+  },
+  {
+    "infection_source": 11.005,
+    "antibiotic_timing_hours": 7.6,
+    "inflammatory_response": 9.104,
+    "lactate_clearance": -12.035,
+    "septic_shock_mortality": 9.769
+  },
+  {
+    "infection_source": 10.24,
+    "antibiotic_timing_hours": 5.682,
+    "inflammatory_response": 8.134,
+    "lactate_clearance": -9.894,
+    "septic_shock_mortality": 7.771
+  },
+  {
+    "infection_source": 9.471,
+    "antibiotic_timing_hours": 8.532,
+    "inflammatory_response": 7.386,
+    "lactate_clearance": -11.458,
+    "septic_shock_mortality": 8.921
+  },
+  {
+    "infection_source": 9.027,
+    "antibiotic_timing_hours": 7.583,
+    "inflammatory_response": 7.432,
+    "lactate_clearance": -10.775,
+    "septic_shock_mortality": 8.58
+  },
+  {
+    "infection_source": 9.603,
+    "antibiotic_timing_hours": 9.244,
+    "inflammatory_response": 7.413,
+    "lactate_clearance": -12.334,
+    "septic_shock_mortality": 9.769
+  },
+  {
+    "infection_source": 15.6,
+    "antibiotic_timing_hours": 12.666,
+    "inflammatory_response": 12.51,
+    "lactate_clearance": -18.196,
+    "septic_shock_mortality": 14.393
+  },
+  {
+    "infection_source": 9.354,
+    "antibiotic_timing_hours": 9.467,
+    "inflammatory_response": 7.477,
+    "lactate_clearance": -12.449,
+    "septic_shock_mortality": 10.149
+  },
+  {
+    "infection_source": 5.511,
+    "antibiotic_timing_hours": 9.284,
+    "inflammatory_response": 4.554,
+    "lactate_clearance": -10.502,
+    "septic_shock_mortality": 8.248
+  },
+  {
+    "infection_source": 6.221,
+    "antibiotic_timing_hours": 10.877,
+    "inflammatory_response": 4.714,
+    "lactate_clearance": -11.703,
+    "septic_shock_mortality": 9.405
+  },
+  {
+    "infection_source": 12.483,
+    "antibiotic_timing_hours": 9.866,
+    "inflammatory_response": 10.276,
+    "lactate_clearance": -14.72,
+    "septic_shock_mortality": 11.785
+  },
+  {
+    "infection_source": 10.974,
+    "antibiotic_timing_hours": 7.925,
+    "inflammatory_response": 8.596,
+    "lactate_clearance": -12.216,
+    "septic_shock_mortality": 9.686
+  },
+  {
+    "infection_source": 9.477,
+    "antibiotic_timing_hours": 10.847,
+    "inflammatory_response": 7.505,
+    "lactate_clearance": -13.132,
+    "septic_shock_mortality": 10.958
+  },
+  {
+    "infection_source": 9.968,
+    "antibiotic_timing_hours": 8.885,
+    "inflammatory_response": 8.229,
+    "lactate_clearance": -12.455,
+    "septic_shock_mortality": 9.95
+  },
+  {
+    "infection_source": 8.247,
+    "antibiotic_timing_hours": 10.751,
+    "inflammatory_response": 6.528,
+    "lactate_clearance": -12.844,
+    "septic_shock_mortality": 10.398
+  },
+  {
+    "infection_source": 9.329,
+    "antibiotic_timing_hours": 12.219,
+    "inflammatory_response": 7.27,
+    "lactate_clearance": -14.13,
+    "septic_shock_mortality": 11.436
+  },
+  {
+    "infection_source": 12.377,
+    "antibiotic_timing_hours": 5.729,
+    "inflammatory_response": 9.864,
+    "lactate_clearance": -11.67,
+    "septic_shock_mortality": 9.6
+  },
+  {
+    "infection_source": 12.919,
+    "antibiotic_timing_hours": 9.3,
+    "inflammatory_response": 10.592,
+    "lactate_clearance": -14.458,
+    "septic_shock_mortality": 11.736
+  },
+  {
+    "infection_source": 7.852,
+    "antibiotic_timing_hours": 10.505,
+    "inflammatory_response": 6.309,
+    "lactate_clearance": -12.577,
+    "septic_shock_mortality": 9.962
+  },
+  {
+    "infection_source": 8.48,
+    "antibiotic_timing_hours": 8.486,
+    "inflammatory_response": 7.068,
+    "lactate_clearance": -11.141,
+    "septic_shock_mortality": 8.834
+  },
+  {
+    "infection_source": 11.703,
+    "antibiotic_timing_hours": 8.036,
+    "inflammatory_response": 9.336,
+    "lactate_clearance": -12.478,
+    "septic_shock_mortality": 10.168
+  },
+  {
+    "infection_source": 9.34,
+    "antibiotic_timing_hours": 9.521,
+    "inflammatory_response": 7.747,
+    "lactate_clearance": -12.111,
+    "septic_shock_mortality": 9.479
+  },
+  {
+    "infection_source": 10.563,
+    "antibiotic_timing_hours": 10.704,
+    "inflammatory_response": 8.332,
+    "lactate_clearance": -14.063,
+    "septic_shock_mortality": 11.349
+  },
+  {
+    "infection_source": 10.245,
+    "antibiotic_timing_hours": 11.81,
+    "inflammatory_response": 8.217,
+    "lactate_clearance": -14.238,
+    "septic_shock_mortality": 11.503
+  },
+  {
+    "infection_source": 8.248,
+    "antibiotic_timing_hours": 5.66,
+    "inflammatory_response": 6.919,
+    "lactate_clearance": -9.132,
+    "septic_shock_mortality": 7.352
+  },
+  {
+    "infection_source": 7.32,
+    "antibiotic_timing_hours": 8.383,
+    "inflammatory_response": 6.141,
+    "lactate_clearance": -10.547,
+    "septic_shock_mortality": 8.639
+  },
+  {
+    "infection_source": 10.446,
+    "antibiotic_timing_hours": 11.878,
+    "inflammatory_response": 8.446,
+    "lactate_clearance": -14.566,
+    "septic_shock_mortality": 11.708
+  },
+  {
+    "infection_source": 10.321,
+    "antibiotic_timing_hours": 14.309,
+    "inflammatory_response": 8.238,
+    "lactate_clearance": -16.525,
+    "septic_shock_mortality": 12.917
+  },
+  {
+    "infection_source": 8.53,
+    "antibiotic_timing_hours": 10.582,
+    "inflammatory_response": 6.698,
+    "lactate_clearance": -12.283,
+    "septic_shock_mortality": 9.599
+  },
+  {
+    "infection_source": 10.387,
+    "antibiotic_timing_hours": 9.955,
+    "inflammatory_response": 8.452,
+    "lactate_clearance": -13.147,
+    "septic_shock_mortality": 10.594
+  },
+  {
+    "infection_source": 7.356,
+    "antibiotic_timing_hours": 7.669,
+    "inflammatory_response": 5.95,
+    "lactate_clearance": -9.755,
+    "septic_shock_mortality": 7.996
+  },
+  {
+    "infection_source": 10.43,
+    "antibiotic_timing_hours": 12.268,
+    "inflammatory_response": 8.134,
+    "lactate_clearance": -14.746,
+    "septic_shock_mortality": 11.552
+  },
+  {
+    "infection_source": 13.324,
+    "antibiotic_timing_hours": 12.794,
+    "inflammatory_response": 10.688,
+    "lactate_clearance": -17.16,
+    "septic_shock_mortality": 13.499
+  },
+  {
+    "infection_source": 11.607,
+    "antibiotic_timing_hours": 3.234,
+    "inflammatory_response": 9.294,
+    "lactate_clearance": -9.007,
+    "septic_shock_mortality": 6.919
+  },
+  {
+    "infection_source": 10.665,
+    "antibiotic_timing_hours": 11.816,
+    "inflammatory_response": 8.705,
+    "lactate_clearance": -14.678,
+    "septic_shock_mortality": 11.764
+  },
+  {
+    "infection_source": 7.705,
+    "antibiotic_timing_hours": 11.535,
+    "inflammatory_response": 6.41,
+    "lactate_clearance": -13.051,
+    "septic_shock_mortality": 10.547
+  },
+  {
+    "infection_source": 7.123,
+    "antibiotic_timing_hours": 9.661,
+    "inflammatory_response": 5.706,
+    "lactate_clearance": -11.059,
+    "septic_shock_mortality": 8.801
+  },
+  {
+    "infection_source": 10.328,
+    "antibiotic_timing_hours": 12.142,
+    "inflammatory_response": 8.152,
+    "lactate_clearance": -14.73,
+    "septic_shock_mortality": 11.599
+  },
+  {
+    "infection_source": 7.4,
+    "antibiotic_timing_hours": 11.151,
+    "inflammatory_response": 6.072,
+    "lactate_clearance": -12.757,
+    "septic_shock_mortality": 10.036
+  },
+  {
+    "infection_source": 10.504,
+    "antibiotic_timing_hours": 10.331,
+    "inflammatory_response": 8.381,
+    "lactate_clearance": -13.749,
+    "septic_shock_mortality": 11.11
+  },
+  {
+    "infection_source": 10.406,
+    "antibiotic_timing_hours": 4.134,
+    "inflammatory_response": 8.432,
+    "lactate_clearance": -9.227,
+    "septic_shock_mortality": 6.852
+  },
+  {
+    "infection_source": 9.024,
+    "antibiotic_timing_hours": 11.549,
+    "inflammatory_response": 7.361,
+    "lactate_clearance": -13.942,
+    "septic_shock_mortality": 11.12
+  },
+  {
+    "infection_source": 10.361,
+    "antibiotic_timing_hours": 10.942,
+    "inflammatory_response": 8.361,
+    "lactate_clearance": -14.125,
+    "septic_shock_mortality": 11.161
+  },
+  {
+    "infection_source": 9.12,
+    "antibiotic_timing_hours": 8.732,
+    "inflammatory_response": 7.298,
+    "lactate_clearance": -11.482,
+    "septic_shock_mortality": 9.033
+  },
+  {
+    "infection_source": 8.468,
+    "antibiotic_timing_hours": 12.523,
+    "inflammatory_response": 7.047,
+    "lactate_clearance": -14.144,
+    "septic_shock_mortality": 11.223
+  },
+  {
+    "infection_source": 7.117,
+    "antibiotic_timing_hours": 10.853,
+    "inflammatory_response": 5.679,
+    "lactate_clearance": -12.317,
+    "septic_shock_mortality": 9.519
+  },
+  {
+    "infection_source": 9.91,
+    "antibiotic_timing_hours": 10.678,
+    "inflammatory_response": 7.673,
+    "lactate_clearance": -13.012,
+    "septic_shock_mortality": 10.267
+  },
+  {
+    "infection_source": 11.931,
+    "antibiotic_timing_hours": 9.425,
+    "inflammatory_response": 9.227,
+    "lactate_clearance": -13.187,
+    "septic_shock_mortality": 10.711
+  },
+  {
+    "infection_source": 9.62,
+    "antibiotic_timing_hours": 6.168,
+    "inflammatory_response": 8.074,
+    "lactate_clearance": -10.38,
+    "septic_shock_mortality": 8.118
+  },
+  {
+    "infection_source": 11.562,
+    "antibiotic_timing_hours": 12.362,
+    "inflammatory_response": 9.313,
+    "lactate_clearance": -15.917,
+    "septic_shock_mortality": 12.473
+  },
+  {
+    "infection_source": 12.012,
+    "antibiotic_timing_hours": 10.149,
+    "inflammatory_response": 9.469,
+    "lactate_clearance": -14.155,
+    "septic_shock_mortality": 11.592
+  },
+  {
+    "infection_source": 10.694,
+    "antibiotic_timing_hours": 8.469,
+    "inflammatory_response": 8.466,
+    "lactate_clearance": -12.531,
+    "septic_shock_mortality": 9.96
+  },
+  {
+    "infection_source": 10.683,
+    "antibiotic_timing_hours": 8.455,
+    "inflammatory_response": 8.481,
+    "lactate_clearance": -12.521,
+    "septic_shock_mortality": 10.137
+  },
+  {
+    "infection_source": 8.666,
+    "antibiotic_timing_hours": 10.237,
+    "inflammatory_response": 7.129,
+    "lactate_clearance": -12.868,
+    "septic_shock_mortality": 10.579
+  },
+  {
+    "infection_source": 7.781,
+    "antibiotic_timing_hours": 12.875,
+    "inflammatory_response": 6.099,
+    "lactate_clearance": -13.995,
+    "septic_shock_mortality": 11.242
+  },
+  {
+    "infection_source": 9.754,
+    "antibiotic_timing_hours": 7.93,
+    "inflammatory_response": 7.723,
+    "lactate_clearance": -11.378,
+    "septic_shock_mortality": 9.256
+  },
+  {
+    "infection_source": 12.673,
+    "antibiotic_timing_hours": 12.003,
+    "inflammatory_response": 10.032,
+    "lactate_clearance": -15.563,
+    "septic_shock_mortality": 12.74
+  },
+  {
+    "infection_source": 6.77,
+    "antibiotic_timing_hours": 8.599,
+    "inflammatory_response": 5.611,
+    "lactate_clearance": -10.452,
+    "septic_shock_mortality": 8.576
+  },
+  {
+    "infection_source": 8.284,
+    "antibiotic_timing_hours": 11.759,
+    "inflammatory_response": 6.654,
+    "lactate_clearance": -13.859,
+    "septic_shock_mortality": 10.919
+  },
+  {
+    "infection_source": 10.482,
+    "antibiotic_timing_hours": 10.43,
+    "inflammatory_response": 8.562,
+    "lactate_clearance": -14.031,
+    "septic_shock_mortality": 11.345
+  },
+  {
+    "infection_source": 6.88,
+    "antibiotic_timing_hours": 12.355,
+    "inflammatory_response": 5.429,
+    "lactate_clearance": -12.979,
+    "septic_shock_mortality": 10.27
+  },
+  {
+    "infection_source": 8.966,
+    "antibiotic_timing_hours": 10.275,
+    "inflammatory_response": 7.015,
+    "lactate_clearance": -12.591,
+    "septic_shock_mortality": 10.172
+  },
+  {
+    "infection_source": 6.582,
+    "antibiotic_timing_hours": 9.923,
+    "inflammatory_response": 5.297,
+    "lactate_clearance": -11.101,
+    "septic_shock_mortality": 8.806
+  },
+  {
+    "infection_source": 9.208,
+    "antibiotic_timing_hours": 6.728,
+    "inflammatory_response": 7.584,
+    "lactate_clearance": -10.187,
+    "septic_shock_mortality": 7.884
+  },
+  {
+    "infection_source": 9.535,
+    "antibiotic_timing_hours": 6.687,
+    "inflammatory_response": 7.362,
+    "lactate_clearance": -10.26,
+    "septic_shock_mortality": 8.282
+  },
+  {
+    "infection_source": 8.024,
+    "antibiotic_timing_hours": 7.721,
+    "inflammatory_response": 6.48,
+    "lactate_clearance": -10.26,
+    "septic_shock_mortality": 8.207
+  },
+  {
+    "infection_source": 9.848,
+    "antibiotic_timing_hours": 8.999,
+    "inflammatory_response": 8.188,
+    "lactate_clearance": -12.431,
+    "septic_shock_mortality": 9.66
+  },
+  {
+    "infection_source": 7.346,
+    "antibiotic_timing_hours": 10.466,
+    "inflammatory_response": 6.053,
+    "lactate_clearance": -12.497,
+    "septic_shock_mortality": 9.682
+  },
+  {
+    "infection_source": 10.141,
+    "antibiotic_timing_hours": 13.626,
+    "inflammatory_response": 8.202,
+    "lactate_clearance": -15.971,
+    "septic_shock_mortality": 12.715
+  },
+  {
+    "infection_source": 11.638,
+    "antibiotic_timing_hours": 11.287,
+    "inflammatory_response": 9.623,
+    "lactate_clearance": -15.06,
+    "septic_shock_mortality": 11.978
+  },
+  {
+    "infection_source": 13.326,
+    "antibiotic_timing_hours": 11.375,
+    "inflammatory_response": 10.62,
+    "lactate_clearance": -16.046,
+    "septic_shock_mortality": 12.901
+  },
+  {
+    "infection_source": 11.323,
+    "antibiotic_timing_hours": 10.642,
+    "inflammatory_response": 9.245,
+    "lactate_clearance": -14.725,
+    "septic_shock_mortality": 12.285
+  },
+  {
+    "infection_source": 7.61,
+    "antibiotic_timing_hours": 7.411,
+    "inflammatory_response": 5.938,
+    "lactate_clearance": -9.629,
+    "septic_shock_mortality": 7.616
+  },
+  {
+    "infection_source": 10.254,
+    "antibiotic_timing_hours": 11.401,
+    "inflammatory_response": 8.077,
+    "lactate_clearance": -14.67,
+    "septic_shock_mortality": 11.573
+  },
+  {
+    "infection_source": 9.285,
+    "antibiotic_timing_hours": 10.675,
+    "inflammatory_response": 7.464,
+    "lactate_clearance": -13.198,
+    "septic_shock_mortality": 10.8
+  },
+  {
+    "infection_source": 11.29,
+    "antibiotic_timing_hours": 8.317,
+    "inflammatory_response": 9.491,
+    "lactate_clearance": -12.589,
+    "septic_shock_mortality": 10.061
+  },
+  {
+    "infection_source": 9.384,
+    "antibiotic_timing_hours": 7.716,
+    "inflammatory_response": 7.57,
+    "lactate_clearance": -11.04,
+    "septic_shock_mortality": 8.923
+  },
+  {
+    "infection_source": 9.615,
+    "antibiotic_timing_hours": 9.35,
+    "inflammatory_response": 7.825,
+    "lactate_clearance": -13.0,
+    "septic_shock_mortality": 10.318
+  },
+  {
+    "infection_source": 9.386,
+    "antibiotic_timing_hours": 8.333,
+    "inflammatory_response": 7.191,
+    "lactate_clearance": -11.324,
+    "septic_shock_mortality": 9.464
+  },
+  {
+    "infection_source": 12.44,
+    "antibiotic_timing_hours": 8.049,
+    "inflammatory_response": 9.718,
+    "lactate_clearance": -12.508,
+    "septic_shock_mortality": 9.822
+  },
+  {
+    "infection_source": 9.859,
+    "antibiotic_timing_hours": 9.805,
+    "inflammatory_response": 8.256,
+    "lactate_clearance": -13.197,
+    "septic_shock_mortality": 10.52
+  },
+  {
+    "infection_source": 11.658,
+    "antibiotic_timing_hours": 8.748,
+    "inflammatory_response": 8.976,
+    "lactate_clearance": -12.725,
+    "septic_shock_mortality": 10.115
+  },
+  {
+    "infection_source": 12.633,
+    "antibiotic_timing_hours": 9.461,
+    "inflammatory_response": 10.093,
+    "lactate_clearance": -14.243,
+    "septic_shock_mortality": 11.502
+  },
+  {
+    "infection_source": 10.656,
+    "antibiotic_timing_hours": 10.931,
+    "inflammatory_response": 8.508,
+    "lactate_clearance": -13.966,
+    "septic_shock_mortality": 11.409
+  },
+  {
+    "infection_source": 11.614,
+    "antibiotic_timing_hours": 5.063,
+    "inflammatory_response": 9.115,
+    "lactate_clearance": -10.011,
+    "septic_shock_mortality": 7.775
+  },
+  {
+    "infection_source": 9.092,
+    "antibiotic_timing_hours": 9.189,
+    "inflammatory_response": 7.541,
+    "lactate_clearance": -12.524,
+    "septic_shock_mortality": 10.017
+  },
+  {
+    "infection_source": 10.386,
+    "antibiotic_timing_hours": 12.005,
+    "inflammatory_response": 8.592,
+    "lactate_clearance": -15.126,
+    "septic_shock_mortality": 12.128
+  },
+  {
+    "infection_source": 10.459,
+    "antibiotic_timing_hours": 9.928,
+    "inflammatory_response": 8.582,
+    "lactate_clearance": -13.305,
+    "septic_shock_mortality": 10.744
+  },
+  {
+    "infection_source": 10.585,
+    "antibiotic_timing_hours": 9.818,
+    "inflammatory_response": 8.584,
+    "lactate_clearance": -13.347,
+    "septic_shock_mortality": 11.062
+  },
+  {
+    "infection_source": 11.89,
+    "antibiotic_timing_hours": 8.235,
+    "inflammatory_response": 9.702,
+    "lactate_clearance": -12.955,
+    "septic_shock_mortality": 10.226
+  },
+  {
+    "infection_source": 11.187,
+    "antibiotic_timing_hours": 8.853,
+    "inflammatory_response": 8.875,
+    "lactate_clearance": -12.674,
+    "septic_shock_mortality": 10.323
+  },
+  {
+    "infection_source": 12.247,
+    "antibiotic_timing_hours": 11.67,
+    "inflammatory_response": 9.714,
+    "lactate_clearance": -15.239,
+    "septic_shock_mortality": 12.033
+  },
+  {
+    "infection_source": 11.737,
+    "antibiotic_timing_hours": 11.495,
+    "inflammatory_response": 9.155,
+    "lactate_clearance": -14.919,
+    "septic_shock_mortality": 12.417
+  },
+  {
+    "infection_source": 10.602,
+    "antibiotic_timing_hours": 8.847,
+    "inflammatory_response": 8.536,
+    "lactate_clearance": -12.658,
+    "septic_shock_mortality": 10.202
+  },
+  {
+    "infection_source": 10.468,
+    "antibiotic_timing_hours": 13.524,
+    "inflammatory_response": 8.109,
+    "lactate_clearance": -15.971,
+    "septic_shock_mortality": 12.677
+  },
+  {
+    "infection_source": 13.083,
+    "antibiotic_timing_hours": 10.186,
+    "inflammatory_response": 10.14,
+    "lactate_clearance": -14.649,
+    "septic_shock_mortality": 12.204
+  },
+  {
+    "infection_source": 8.413,
+    "antibiotic_timing_hours": 12.552,
+    "inflammatory_response": 6.776,
+    "lactate_clearance": -13.885,
+    "septic_shock_mortality": 11.048
+  },
+  {
+    "infection_source": 10.032,
+    "antibiotic_timing_hours": 8.685,
+    "inflammatory_response": 7.808,
+    "lactate_clearance": -11.839,
+    "septic_shock_mortality": 9.467
+  },
+  {
+    "infection_source": 7.081,
+    "antibiotic_timing_hours": 7.417,
+    "inflammatory_response": 5.718,
+    "lactate_clearance": -9.149,
+    "septic_shock_mortality": 7.505
+  },
+  {
+    "infection_source": 11.189,
+    "antibiotic_timing_hours": 15.688,
+    "inflammatory_response": 8.937,
+    "lactate_clearance": -17.933,
+    "septic_shock_mortality": 14.213
+  },
+  {
+    "infection_source": 10.103,
+    "antibiotic_timing_hours": 7.519,
+    "inflammatory_response": 8.366,
+    "lactate_clearance": -11.496,
+    "septic_shock_mortality": 9.326
+  },
+  {
+    "infection_source": 9.285,
+    "antibiotic_timing_hours": 9.586,
+    "inflammatory_response": 7.558,
+    "lactate_clearance": -12.59,
+    "septic_shock_mortality": 10.273
+  },
+  {
+    "infection_source": 10.224,
+    "antibiotic_timing_hours": 10.616,
+    "inflammatory_response": 8.229,
+    "lactate_clearance": -13.664,
+    "septic_shock_mortality": 10.862
+  },
+  {
+    "infection_source": 7.586,
+    "antibiotic_timing_hours": 8.452,
+    "inflammatory_response": 5.98,
+    "lactate_clearance": -10.615,
+    "septic_shock_mortality": 8.363
+  },
+  {
+    "infection_source": 10.689,
+    "antibiotic_timing_hours": 9.53,
+    "inflammatory_response": 8.19,
+    "lactate_clearance": -12.884,
+    "septic_shock_mortality": 10.14
+  },
+  {
+    "infection_source": 12.74,
+    "antibiotic_timing_hours": 10.679,
+    "inflammatory_response": 10.349,
+    "lactate_clearance": -15.195,
+    "septic_shock_mortality": 11.863
+  },
+  {
+    "infection_source": 10.754,
+    "antibiotic_timing_hours": 9.483,
+    "inflammatory_response": 8.521,
+    "lactate_clearance": -13.242,
+    "septic_shock_mortality": 10.669
+  },
+  {
+    "infection_source": 9.068,
+    "antibiotic_timing_hours": 8.201,
+    "inflammatory_response": 7.268,
+    "lactate_clearance": -11.435,
+    "septic_shock_mortality": 9.367
+  },
+  {
+    "infection_source": 10.628,
+    "antibiotic_timing_hours": 3.297,
+    "inflammatory_response": 8.168,
+    "lactate_clearance": -8.479,
+    "septic_shock_mortality": 6.425
+  },
+  {
+    "infection_source": 8.712,
+    "antibiotic_timing_hours": 11.655,
+    "inflammatory_response": 7.124,
+    "lactate_clearance": -13.598,
+    "septic_shock_mortality": 10.597
+  },
+  {
+    "infection_source": 9.804,
+    "antibiotic_timing_hours": 8.754,
+    "inflammatory_response": 7.861,
+    "lactate_clearance": -12.11,
+    "septic_shock_mortality": 9.558
+  },
+  {
+    "infection_source": 10.144,
+    "antibiotic_timing_hours": 8.304,
+    "inflammatory_response": 8.094,
+    "lactate_clearance": -11.858,
+    "septic_shock_mortality": 9.376
+  },
+  {
+    "infection_source": 9.68,
+    "antibiotic_timing_hours": 10.358,
+    "inflammatory_response": 7.408,
+    "lactate_clearance": -12.989,
+    "septic_shock_mortality": 10.101
+  },
+  {
+    "infection_source": 10.553,
+    "antibiotic_timing_hours": 9.579,
+    "inflammatory_response": 8.534,
+    "lactate_clearance": -13.199,
+    "septic_shock_mortality": 10.478
+  },
+  {
+    "infection_source": 8.608,
+    "antibiotic_timing_hours": 8.634,
+    "inflammatory_response": 7.015,
+    "lactate_clearance": -11.661,
+    "septic_shock_mortality": 9.471
+  },
+  {
+    "infection_source": 10.886,
+    "antibiotic_timing_hours": 9.401,
+    "inflammatory_response": 8.547,
+    "lactate_clearance": -13.173,
+    "septic_shock_mortality": 10.39
+  },
+  {
+    "infection_source": 10.969,
+    "antibiotic_timing_hours": 10.64,
+    "inflammatory_response": 8.918,
+    "lactate_clearance": -14.127,
+    "septic_shock_mortality": 11.179
+  },
+  {
+    "infection_source": 7.309,
+    "antibiotic_timing_hours": 8.221,
+    "inflammatory_response": 6.05,
+    "lactate_clearance": -10.231,
+    "septic_shock_mortality": 8.389
+  },
+  {
+    "infection_source": 11.582,
+    "antibiotic_timing_hours": 11.586,
+    "inflammatory_response": 9.682,
+    "lactate_clearance": -15.499,
+    "septic_shock_mortality": 12.583
+  },
+  {
+    "infection_source": 11.642,
+    "antibiotic_timing_hours": 8.18,
+    "inflammatory_response": 9.393,
+    "lactate_clearance": -12.803,
+    "septic_shock_mortality": 10.391
+  },
+  {
+    "infection_source": 9.035,
+    "antibiotic_timing_hours": 7.504,
+    "inflammatory_response": 7.092,
+    "lactate_clearance": -10.965,
+    "septic_shock_mortality": 8.683
+  },
+  {
+    "infection_source": 8.157,
+    "antibiotic_timing_hours": 10.75,
+    "inflammatory_response": 6.857,
+    "lactate_clearance": -13.283,
+    "septic_shock_mortality": 10.939
+  },
+  {
+    "infection_source": 7.536,
+    "antibiotic_timing_hours": 6.571,
+    "inflammatory_response": 6.362,
+    "lactate_clearance": -9.377,
+    "septic_shock_mortality": 7.687
+  },
+  {
+    "infection_source": 7.576,
+    "antibiotic_timing_hours": 11.575,
+    "inflammatory_response": 6.269,
+    "lactate_clearance": -13.07,
+    "septic_shock_mortality": 10.47
+  },
+  {
+    "infection_source": 6.552,
+    "antibiotic_timing_hours": 9.894,
+    "inflammatory_response": 5.761,
+    "lactate_clearance": -11.778,
+    "septic_shock_mortality": 9.198
+  },
+  {
+    "infection_source": 10.981,
+    "antibiotic_timing_hours": 10.215,
+    "inflammatory_response": 8.822,
+    "lactate_clearance": -13.624,
+    "septic_shock_mortality": 10.684
+  },
+  {
+    "infection_source": 13.106,
+    "antibiotic_timing_hours": 11.118,
+    "inflammatory_response": 10.213,
+    "lactate_clearance": -15.574,
+    "septic_shock_mortality": 12.566
+  },
+  {
+    "infection_source": 10.17,
+    "antibiotic_timing_hours": 7.45,
+    "inflammatory_response": 8.218,
+    "lactate_clearance": -11.198,
+    "septic_shock_mortality": 9.021
+  },
+  {
+    "infection_source": 12.583,
+    "antibiotic_timing_hours": 13.448,
+    "inflammatory_response": 9.847,
+    "lactate_clearance": -17.068,
+    "septic_shock_mortality": 13.54
+  },
+  {
+    "infection_source": 8.897,
+    "antibiotic_timing_hours": 7.938,
+    "inflammatory_response": 6.971,
+    "lactate_clearance": -11.107,
+    "septic_shock_mortality": 8.895
+  },
+  {
+    "infection_source": 13.272,
+    "antibiotic_timing_hours": 9.225,
+    "inflammatory_response": 10.571,
+    "lactate_clearance": -14.411,
+    "septic_shock_mortality": 11.747
+  },
+  {
+    "infection_source": 10.051,
+    "antibiotic_timing_hours": 10.82,
+    "inflammatory_response": 8.243,
+    "lactate_clearance": -13.58,
+    "septic_shock_mortality": 10.8
+  },
+  {
+    "infection_source": 9.421,
+    "antibiotic_timing_hours": 12.399,
+    "inflammatory_response": 7.502,
+    "lactate_clearance": -14.389,
+    "septic_shock_mortality": 11.236
+  },
+  {
+    "infection_source": 11.811,
+    "antibiotic_timing_hours": 12.506,
+    "inflammatory_response": 9.584,
+    "lactate_clearance": -16.532,
+    "septic_shock_mortality": 13.412
+  },
+  {
+    "infection_source": 7.991,
+    "antibiotic_timing_hours": 7.489,
+    "inflammatory_response": 6.631,
+    "lactate_clearance": -10.351,
+    "septic_shock_mortality": 8.165
+  },
+  {
+    "infection_source": 8.002,
+    "antibiotic_timing_hours": 10.813,
+    "inflammatory_response": 6.403,
+    "lactate_clearance": -12.838,
+    "septic_shock_mortality": 10.499
+  },
+  {
+    "infection_source": 12.81,
+    "antibiotic_timing_hours": 10.045,
+    "inflammatory_response": 10.192,
+    "lactate_clearance": -14.638,
+    "septic_shock_mortality": 11.67
+  },
+  {
+    "infection_source": 9.624,
+    "antibiotic_timing_hours": 9.319,
+    "inflammatory_response": 7.523,
+    "lactate_clearance": -12.068,
+    "septic_shock_mortality": 9.856
+  },
+  {
+    "infection_source": 9.64,
+    "antibiotic_timing_hours": 11.551,
+    "inflammatory_response": 8.247,
+    "lactate_clearance": -14.435,
+    "septic_shock_mortality": 11.771
+  },
+  {
+    "infection_source": 7.505,
+    "antibiotic_timing_hours": 10.663,
+    "inflammatory_response": 5.967,
+    "lactate_clearance": -12.006,
+    "septic_shock_mortality": 9.522
+  },
+  {
+    "infection_source": 8.978,
+    "antibiotic_timing_hours": 8.848,
+    "inflammatory_response": 7.187,
+    "lactate_clearance": -11.732,
+    "septic_shock_mortality": 9.29
+  },
+  {
+    "infection_source": 11.965,
+    "antibiotic_timing_hours": 12.704,
+    "inflammatory_response": 9.806,
+    "lactate_clearance": -16.644,
+    "septic_shock_mortality": 13.515
+  },
+  {
+    "infection_source": 11.039,
+    "antibiotic_timing_hours": 6.548,
+    "inflammatory_response": 8.618,
+    "lactate_clearance": -11.128,
+    "septic_shock_mortality": 8.86
+  },
+  {
+    "infection_source": 10.607,
+    "antibiotic_timing_hours": 9.924,
+    "inflammatory_response": 8.236,
+    "lactate_clearance": -13.103,
+    "septic_shock_mortality": 10.734
+  },
+  {
+    "infection_source": 9.55,
+    "antibiotic_timing_hours": 10.42,
+    "inflammatory_response": 7.578,
+    "lactate_clearance": -13.202,
+    "septic_shock_mortality": 10.631
+  },
+  {
+    "infection_source": 8.921,
+    "antibiotic_timing_hours": 9.859,
+    "inflammatory_response": 7.188,
+    "lactate_clearance": -12.04,
+    "septic_shock_mortality": 10.097
+  },
+  {
+    "infection_source": 8.209,
+    "antibiotic_timing_hours": 10.401,
+    "inflammatory_response": 6.512,
+    "lactate_clearance": -12.295,
+    "septic_shock_mortality": 10.086
+  },
+  {
+    "infection_source": 9.097,
+    "antibiotic_timing_hours": 7.769,
+    "inflammatory_response": 7.165,
+    "lactate_clearance": -10.891,
+    "septic_shock_mortality": 9.123
+  },
+  {
+    "infection_source": 10.325,
+    "antibiotic_timing_hours": 7.02,
+    "inflammatory_response": 8.439,
+    "lactate_clearance": -11.136,
+    "septic_shock_mortality": 8.99
+  },
+  {
+    "infection_source": 7.699,
+    "antibiotic_timing_hours": 11.337,
+    "inflammatory_response": 6.244,
+    "lactate_clearance": -12.784,
+    "septic_shock_mortality": 10.165
+  },
+  {
+    "infection_source": 12.063,
+    "antibiotic_timing_hours": 10.293,
+    "inflammatory_response": 9.355,
+    "lactate_clearance": -14.325,
+    "septic_shock_mortality": 11.504
+  },
+  {
+    "infection_source": 8.709,
+    "antibiotic_timing_hours": 11.165,
+    "inflammatory_response": 6.956,
+    "lactate_clearance": -13.495,
+    "septic_shock_mortality": 10.966
+  },
+  {
+    "infection_source": 11.303,
+    "antibiotic_timing_hours": 10.16,
+    "inflammatory_response": 9.335,
+    "lactate_clearance": -14.051,
+    "septic_shock_mortality": 11.402
+  },
+  {
+    "infection_source": 9.82,
+    "antibiotic_timing_hours": 11.219,
+    "inflammatory_response": 7.832,
+    "lactate_clearance": -13.426,
+    "septic_shock_mortality": 11.192
+  },
+  {
+    "infection_source": 11.693,
+    "antibiotic_timing_hours": 10.696,
+    "inflammatory_response": 9.225,
+    "lactate_clearance": -14.184,
+    "septic_shock_mortality": 11.921
+  },
+  {
+    "infection_source": 10.878,
+    "antibiotic_timing_hours": 12.754,
+    "inflammatory_response": 8.496,
+    "lactate_clearance": -15.619,
+    "septic_shock_mortality": 12.44
+  },
+  {
+    "infection_source": 7.091,
+    "antibiotic_timing_hours": 10.285,
+    "inflammatory_response": 5.786,
+    "lactate_clearance": -11.853,
+    "septic_shock_mortality": 9.875
+  },
+  {
+    "infection_source": 11.908,
+    "antibiotic_timing_hours": 11.037,
+    "inflammatory_response": 9.941,
+    "lactate_clearance": -15.504,
+    "septic_shock_mortality": 12.226
+  },
+  {
+    "infection_source": 11.691,
+    "antibiotic_timing_hours": 8.796,
+    "inflammatory_response": 9.256,
+    "lactate_clearance": -13.164,
+    "septic_shock_mortality": 10.466
+  },
+  {
+    "infection_source": 11.513,
+    "antibiotic_timing_hours": 7.913,
+    "inflammatory_response": 9.612,
+    "lactate_clearance": -12.703,
+    "septic_shock_mortality": 10.375
+  },
+  {
+    "infection_source": 8.93,
+    "antibiotic_timing_hours": 10.273,
+    "inflammatory_response": 6.941,
+    "lactate_clearance": -12.778,
+    "septic_shock_mortality": 10.142
+  },
+  {
+    "infection_source": 9.912,
+    "antibiotic_timing_hours": 9.832,
+    "inflammatory_response": 8.087,
+    "lactate_clearance": -12.625,
+    "septic_shock_mortality": 10.075
+  },
+  {
+    "infection_source": 10.507,
+    "antibiotic_timing_hours": 11.198,
+    "inflammatory_response": 8.266,
+    "lactate_clearance": -14.134,
+    "septic_shock_mortality": 11.298
+  },
+  {
+    "infection_source": 7.772,
+    "antibiotic_timing_hours": 6.123,
+    "inflammatory_response": 5.995,
+    "lactate_clearance": -8.597,
+    "septic_shock_mortality": 6.373
+  },
+  {
+    "infection_source": 9.213,
+    "antibiotic_timing_hours": 9.199,
+    "inflammatory_response": 7.428,
+    "lactate_clearance": -11.694,
+    "septic_shock_mortality": 9.257
+  },
+  {
+    "infection_source": 10.523,
+    "antibiotic_timing_hours": 8.154,
+    "inflammatory_response": 8.314,
+    "lactate_clearance": -12.021,
+    "septic_shock_mortality": 9.651
+  },
+  {
+    "infection_source": 13.244,
+    "antibiotic_timing_hours": 11.689,
+    "inflammatory_response": 10.441,
+    "lactate_clearance": -16.137,
+    "septic_shock_mortality": 12.799
+  },
+  {
+    "infection_source": 9.917,
+    "antibiotic_timing_hours": 9.679,
+    "inflammatory_response": 8.325,
+    "lactate_clearance": -13.299,
+    "septic_shock_mortality": 10.592
+  },
+  {
+    "infection_source": 8.138,
+    "antibiotic_timing_hours": 11.248,
+    "inflammatory_response": 6.712,
+    "lactate_clearance": -13.297,
+    "septic_shock_mortality": 10.296
+  },
+  {
+    "infection_source": 14.001,
+    "antibiotic_timing_hours": 6.636,
+    "inflammatory_response": 11.308,
+    "lactate_clearance": -13.192,
+    "septic_shock_mortality": 10.613
+  },
+  {
+    "infection_source": 9.486,
+    "antibiotic_timing_hours": 13.585,
+    "inflammatory_response": 7.442,
+    "lactate_clearance": -14.96,
+    "septic_shock_mortality": 11.998
+  },
+  {
+    "infection_source": 11.805,
+    "antibiotic_timing_hours": 8.757,
+    "inflammatory_response": 9.736,
+    "lactate_clearance": -13.789,
+    "septic_shock_mortality": 10.933
+  },
+  {
+    "infection_source": 11.46,
+    "antibiotic_timing_hours": 9.902,
+    "inflammatory_response": 8.843,
+    "lactate_clearance": -13.817,
+    "septic_shock_mortality": 11.287
+  },
+  {
+    "infection_source": 7.27,
+    "antibiotic_timing_hours": 10.627,
+    "inflammatory_response": 5.879,
+    "lactate_clearance": -12.049,
+    "septic_shock_mortality": 9.399
+  },
+  {
+    "infection_source": 9.858,
+    "antibiotic_timing_hours": 12.44,
+    "inflammatory_response": 7.794,
+    "lactate_clearance": -15.229,
+    "septic_shock_mortality": 12.351
+  },
+  {
+    "infection_source": 6.07,
+    "antibiotic_timing_hours": 11.925,
+    "inflammatory_response": 4.698,
+    "lactate_clearance": -12.374,
+    "septic_shock_mortality": 10.085
+  },
+  {
+    "infection_source": 9.232,
+    "antibiotic_timing_hours": 5.413,
+    "inflammatory_response": 7.369,
+    "lactate_clearance": -9.482,
+    "septic_shock_mortality": 7.436
+  },
+  {
+    "infection_source": 11.793,
+    "antibiotic_timing_hours": 9.889,
+    "inflammatory_response": 9.156,
+    "lactate_clearance": -14.126,
+    "septic_shock_mortality": 11.201
+  },
+  {
+    "infection_source": 7.502,
+    "antibiotic_timing_hours": 9.632,
+    "inflammatory_response": 6.106,
+    "lactate_clearance": -11.599,
+    "septic_shock_mortality": 9.558
+  },
+  {
+    "infection_source": 7.743,
+    "antibiotic_timing_hours": 9.151,
+    "inflammatory_response": 5.994,
+    "lactate_clearance": -10.9,
+    "septic_shock_mortality": 8.787
+  },
+  {
+    "infection_source": 9.985,
+    "antibiotic_timing_hours": 7.359,
+    "inflammatory_response": 7.807,
+    "lactate_clearance": -10.748,
+    "septic_shock_mortality": 8.93
+  },
+  {
+    "infection_source": 10.761,
+    "antibiotic_timing_hours": 9.206,
+    "inflammatory_response": 8.819,
+    "lactate_clearance": -13.096,
+    "septic_shock_mortality": 10.468
+  },
+  {
+    "infection_source": 9.156,
+    "antibiotic_timing_hours": 14.688,
+    "inflammatory_response": 7.003,
+    "lactate_clearance": -16.129,
+    "septic_shock_mortality": 12.878
+  },
+  {
+    "infection_source": 9.704,
+    "antibiotic_timing_hours": 13.0,
+    "inflammatory_response": 7.709,
+    "lactate_clearance": -15.209,
+    "septic_shock_mortality": 12.047
+  },
+  {
+    "infection_source": 9.605,
+    "antibiotic_timing_hours": 9.216,
+    "inflammatory_response": 7.635,
+    "lactate_clearance": -12.326,
+    "septic_shock_mortality": 9.63
+  },
+  {
+    "infection_source": 12.515,
+    "antibiotic_timing_hours": 8.729,
+    "inflammatory_response": 10.021,
+    "lactate_clearance": -13.46,
+    "septic_shock_mortality": 10.525
+  },
+  {
+    "infection_source": 9.252,
+    "antibiotic_timing_hours": 12.119,
+    "inflammatory_response": 7.168,
+    "lactate_clearance": -14.049,
+    "septic_shock_mortality": 11.239
+  },
+  {
+    "infection_source": 14.276,
+    "antibiotic_timing_hours": 9.236,
+    "inflammatory_response": 11.24,
+    "lactate_clearance": -15.27,
+    "septic_shock_mortality": 12.333
+  },
+  {
+    "infection_source": 8.258,
+    "antibiotic_timing_hours": 12.668,
+    "inflammatory_response": 6.381,
+    "lactate_clearance": -13.902,
+    "septic_shock_mortality": 11.184
+  },
+  {
+    "infection_source": 9.756,
+    "antibiotic_timing_hours": 13.925,
+    "inflammatory_response": 8.095,
+    "lactate_clearance": -15.887,
+    "septic_shock_mortality": 12.585
+  },
+  {
+    "infection_source": 8.274,
+    "antibiotic_timing_hours": 10.899,
+    "inflammatory_response": 6.633,
+    "lactate_clearance": -12.847,
+    "septic_shock_mortality": 10.426
+  },
+  {
+    "infection_source": 10.044,
+    "antibiotic_timing_hours": 11.437,
+    "inflammatory_response": 8.225,
+    "lactate_clearance": -14.188,
+    "septic_shock_mortality": 11.304
+  },
+  {
+    "infection_source": 8.472,
+    "antibiotic_timing_hours": 10.506,
+    "inflammatory_response": 6.704,
+    "lactate_clearance": -12.721,
+    "septic_shock_mortality": 10.229
+  },
+  {
+    "infection_source": 10.848,
+    "antibiotic_timing_hours": 8.254,
+    "inflammatory_response": 8.561,
+    "lactate_clearance": -11.737,
+    "septic_shock_mortality": 9.399
+  },
+  {
+    "infection_source": 7.742,
+    "antibiotic_timing_hours": 11.519,
+    "inflammatory_response": 6.435,
+    "lactate_clearance": -13.462,
+    "septic_shock_mortality": 10.847
+  },
+  {
+    "infection_source": 8.545,
+    "antibiotic_timing_hours": 11.999,
+    "inflammatory_response": 6.528,
+    "lactate_clearance": -14.019,
+    "septic_shock_mortality": 11.375
+  },
+  {
+    "infection_source": 10.991,
+    "antibiotic_timing_hours": 9.452,
+    "inflammatory_response": 9.015,
+    "lactate_clearance": -13.386,
+    "septic_shock_mortality": 10.472
+  },
+  {
+    "infection_source": 10.299,
+    "antibiotic_timing_hours": 7.551,
+    "inflammatory_response": 8.117,
+    "lactate_clearance": -11.363,
+    "septic_shock_mortality": 9.567
+  },
+  {
+    "infection_source": 9.479,
+    "antibiotic_timing_hours": 12.231,
+    "inflammatory_response": 7.551,
+    "lactate_clearance": -13.959,
+    "septic_shock_mortality": 11.24
+  },
+  {
+    "infection_source": 10.338,
+    "antibiotic_timing_hours": 10.781,
+    "inflammatory_response": 8.419,
+    "lactate_clearance": -14.172,
+    "septic_shock_mortality": 11.355
+  },
+  {
+    "infection_source": 8.122,
+    "antibiotic_timing_hours": 11.636,
+    "inflammatory_response": 6.478,
+    "lactate_clearance": -13.034,
+    "septic_shock_mortality": 10.588
+  },
+  {
+    "infection_source": 10.764,
+    "antibiotic_timing_hours": 13.235,
+    "inflammatory_response": 8.79,
+    "lactate_clearance": -16.277,
+    "septic_shock_mortality": 13.073
+  },
+  {
+    "infection_source": 12.382,
+    "antibiotic_timing_hours": 10.612,
+    "inflammatory_response": 9.866,
+    "lactate_clearance": -14.865,
+    "septic_shock_mortality": 12.145
+  },
+  {
+    "infection_source": 7.534,
+    "antibiotic_timing_hours": 9.896,
+    "inflammatory_response": 6.078,
+    "lactate_clearance": -11.417,
+    "septic_shock_mortality": 9.324
+  },
+  {
+    "infection_source": 11.57,
+    "antibiotic_timing_hours": 6.223,
+    "inflammatory_response": 9.072,
+    "lactate_clearance": -10.755,
+    "septic_shock_mortality": 8.551
+  },
+  {
+    "infection_source": 9.831,
+    "antibiotic_timing_hours": 7.115,
+    "inflammatory_response": 7.969,
+    "lactate_clearance": -10.789,
+    "septic_shock_mortality": 8.796
+  },
+  {
+    "infection_source": 8.946,
+    "antibiotic_timing_hours": 9.434,
+    "inflammatory_response": 7.4,
+    "lactate_clearance": -12.206,
+    "septic_shock_mortality": 9.622
+  },
+  {
+    "infection_source": 8.372,
+    "antibiotic_timing_hours": 8.548,
+    "inflammatory_response": 6.862,
+    "lactate_clearance": -11.383,
+    "septic_shock_mortality": 9.193
+  },
+  {
+    "infection_source": 10.802,
+    "antibiotic_timing_hours": 9.786,
+    "inflammatory_response": 8.744,
+    "lactate_clearance": -13.395,
+    "septic_shock_mortality": 10.839
+  },
+  {
+    "infection_source": 8.69,
+    "antibiotic_timing_hours": 6.159,
+    "inflammatory_response": 6.84,
+    "lactate_clearance": -9.512,
+    "septic_shock_mortality": 7.48
+  },
+  {
+    "infection_source": 10.796,
+    "antibiotic_timing_hours": 10.648,
+    "inflammatory_response": 8.522,
+    "lactate_clearance": -14.068,
+    "septic_shock_mortality": 11.54
+  },
+  {
+    "infection_source": 8.554,
+    "antibiotic_timing_hours": 10.567,
+    "inflammatory_response": 6.584,
+    "lactate_clearance": -12.134,
+    "septic_shock_mortality": 10.076
+  },
+  {
+    "infection_source": 9.653,
+    "antibiotic_timing_hours": 12.673,
+    "inflammatory_response": 7.554,
+    "lactate_clearance": -14.65,
+    "septic_shock_mortality": 11.474
+  },
+  {
+    "infection_source": 11.374,
+    "antibiotic_timing_hours": 7.689,
+    "inflammatory_response": 9.291,
+    "lactate_clearance": -12.406,
+    "septic_shock_mortality": 10.034
+  },
+  {
+    "infection_source": 8.439,
+    "antibiotic_timing_hours": 10.877,
+    "inflammatory_response": 6.538,
+    "lactate_clearance": -12.879,
+    "septic_shock_mortality": 10.896
+  },
+  {
+    "infection_source": 13.07,
+    "antibiotic_timing_hours": 9.87,
+    "inflammatory_response": 10.619,
+    "lactate_clearance": -15.111,
+    "septic_shock_mortality": 11.956
+  },
+  {
+    "infection_source": 7.328,
+    "antibiotic_timing_hours": 8.241,
+    "inflammatory_response": 5.889,
+    "lactate_clearance": -10.165,
+    "septic_shock_mortality": 8.297
+  },
+  {
+    "infection_source": 7.573,
+    "antibiotic_timing_hours": 9.37,
+    "inflammatory_response": 6.219,
+    "lactate_clearance": -11.488,
+    "septic_shock_mortality": 9.355
+  },
+  {
+    "infection_source": 8.583,
+    "antibiotic_timing_hours": 11.67,
+    "inflammatory_response": 7.01,
+    "lactate_clearance": -14.128,
+    "septic_shock_mortality": 11.117
+  },
+  {
+    "infection_source": 10.159,
+    "antibiotic_timing_hours": 9.35,
+    "inflammatory_response": 8.203,
+    "lactate_clearance": -12.926,
+    "septic_shock_mortality": 10.346
+  },
+  {
+    "infection_source": 11.421,
+    "antibiotic_timing_hours": 7.228,
+    "inflammatory_response": 9.013,
+    "lactate_clearance": -12.238,
+    "septic_shock_mortality": 9.905
+  },
+  {
+    "infection_source": 9.424,
+    "antibiotic_timing_hours": 9.786,
+    "inflammatory_response": 7.996,
+    "lactate_clearance": -12.423,
+    "septic_shock_mortality": 9.83
+  },
+  {
+    "infection_source": 9.952,
+    "antibiotic_timing_hours": 10.485,
+    "inflammatory_response": 7.995,
+    "lactate_clearance": -13.646,
+    "septic_shock_mortality": 10.961
+  },
+  {
+    "infection_source": 11.586,
+    "antibiotic_timing_hours": 10.944,
+    "inflammatory_response": 8.858,
+    "lactate_clearance": -14.572,
+    "septic_shock_mortality": 11.954
+  },
+  {
+    "infection_source": 12.232,
+    "antibiotic_timing_hours": 9.837,
+    "inflammatory_response": 9.806,
+    "lactate_clearance": -14.453,
+    "septic_shock_mortality": 11.386
+  },
+  {
+    "infection_source": 8.883,
+    "antibiotic_timing_hours": 13.807,
+    "inflammatory_response": 7.187,
+    "lactate_clearance": -15.378,
+    "septic_shock_mortality": 12.692
+  },
+  {
+    "infection_source": 6.99,
+    "antibiotic_timing_hours": 9.558,
+    "inflammatory_response": 5.519,
+    "lactate_clearance": -11.135,
+    "septic_shock_mortality": 9.263
+  },
+  {
+    "infection_source": 10.355,
+    "antibiotic_timing_hours": 9.594,
+    "inflammatory_response": 8.323,
+    "lactate_clearance": -13.183,
+    "septic_shock_mortality": 10.831
+  },
+  {
+    "infection_source": 10.011,
+    "antibiotic_timing_hours": 9.991,
+    "inflammatory_response": 7.822,
+    "lactate_clearance": -12.968,
+    "septic_shock_mortality": 10.366
+  },
+  {
+    "infection_source": 11.8,
+    "antibiotic_timing_hours": 12.079,
+    "inflammatory_response": 9.482,
+    "lactate_clearance": -15.6,
+    "septic_shock_mortality": 12.317
+  },
+  {
+    "infection_source": 11.059,
+    "antibiotic_timing_hours": 6.485,
+    "inflammatory_response": 8.732,
+    "lactate_clearance": -10.898,
+    "septic_shock_mortality": 8.401
+  },
+  {
+    "infection_source": 11.601,
+    "antibiotic_timing_hours": 11.84,
+    "inflammatory_response": 8.971,
+    "lactate_clearance": -14.981,
+    "septic_shock_mortality": 11.981
+  },
+  {
+    "infection_source": 9.985,
+    "antibiotic_timing_hours": 6.951,
+    "inflammatory_response": 7.904,
+    "lactate_clearance": -11.083,
+    "septic_shock_mortality": 8.813
+  },
+  {
+    "infection_source": 12.803,
+    "antibiotic_timing_hours": 7.598,
+    "inflammatory_response": 10.309,
+    "lactate_clearance": -13.461,
+    "septic_shock_mortality": 10.469
+  },
+  {
+    "infection_source": 13.856,
+    "antibiotic_timing_hours": 11.512,
+    "inflammatory_response": 10.877,
+    "lactate_clearance": -15.992,
+    "septic_shock_mortality": 12.901
+  },
+  {
+    "infection_source": 10.027,
+    "antibiotic_timing_hours": 10.46,
+    "inflammatory_response": 8.267,
+    "lactate_clearance": -13.697,
+    "septic_shock_mortality": 10.937
+  },
+  {
+    "infection_source": 12.447,
+    "antibiotic_timing_hours": 11.088,
+    "inflammatory_response": 9.891,
+    "lactate_clearance": -15.51,
+    "septic_shock_mortality": 12.349
+  },
+  {
+    "infection_source": 10.463,
+    "antibiotic_timing_hours": 10.447,
+    "inflammatory_response": 8.764,
+    "lactate_clearance": -14.018,
+    "septic_shock_mortality": 10.999
+  },
+  {
+    "infection_source": 9.754,
+    "antibiotic_timing_hours": 8.7,
+    "inflammatory_response": 7.488,
+    "lactate_clearance": -11.779,
+    "septic_shock_mortality": 9.029
+  },
+  {
+    "infection_source": 10.127,
+    "antibiotic_timing_hours": 13.73,
+    "inflammatory_response": 8.305,
+    "lactate_clearance": -16.193,
+    "septic_shock_mortality": 12.871
+  },
+  {
+    "infection_source": 11.221,
+    "antibiotic_timing_hours": 9.531,
+    "inflammatory_response": 9.085,
+    "lactate_clearance": -13.405,
+    "septic_shock_mortality": 11.083
+  },
+  {
+    "infection_source": 11.623,
+    "antibiotic_timing_hours": 10.654,
+    "inflammatory_response": 9.514,
+    "lactate_clearance": -14.122,
+    "septic_shock_mortality": 11.288
+  },
+  {
+    "infection_source": 9.303,
+    "antibiotic_timing_hours": 8.915,
+    "inflammatory_response": 7.355,
+    "lactate_clearance": -12.019,
+    "septic_shock_mortality": 9.909
+  },
+  {
+    "infection_source": 11.257,
+    "antibiotic_timing_hours": 10.332,
+    "inflammatory_response": 9.211,
+    "lactate_clearance": -14.441,
+    "septic_shock_mortality": 11.634
+  },
+  {
+    "infection_source": 8.614,
+    "antibiotic_timing_hours": 10.844,
+    "inflammatory_response": 7.148,
+    "lactate_clearance": -13.129,
+    "septic_shock_mortality": 10.382
+  },
+  {
+    "infection_source": 10.543,
+    "antibiotic_timing_hours": 12.021,
+    "inflammatory_response": 8.628,
+    "lactate_clearance": -15.031,
+    "septic_shock_mortality": 11.512
+  },
+  {
+    "infection_source": 11.519,
+    "antibiotic_timing_hours": 11.537,
+    "inflammatory_response": 9.234,
+    "lactate_clearance": -15.269,
+    "septic_shock_mortality": 12.517
+  },
+  {
+    "infection_source": 7.686,
+    "antibiotic_timing_hours": 3.488,
+    "inflammatory_response": 6.403,
+    "lactate_clearance": -7.196,
+    "septic_shock_mortality": 6.064
+  },
+  {
+    "infection_source": 10.166,
+    "antibiotic_timing_hours": 11.062,
+    "inflammatory_response": 8.238,
+    "lactate_clearance": -13.788,
+    "septic_shock_mortality": 10.829
+  },
+  {
+    "infection_source": 8.218,
+    "antibiotic_timing_hours": 10.512,
+    "inflammatory_response": 6.311,
+    "lactate_clearance": -12.517,
+    "septic_shock_mortality": 9.855
+  },
+  {
+    "infection_source": 13.311,
+    "antibiotic_timing_hours": 8.196,
+    "inflammatory_response": 10.609,
+    "lactate_clearance": -13.647,
+    "septic_shock_mortality": 10.612
+  },
+  {
+    "infection_source": 7.557,
+    "antibiotic_timing_hours": 10.813,
+    "inflammatory_response": 6.14,
+    "lactate_clearance": -12.434,
+    "septic_shock_mortality": 10.046
+  },
+  {
+    "infection_source": 8.292,
+    "antibiotic_timing_hours": 9.586,
+    "inflammatory_response": 6.047,
+    "lactate_clearance": -11.479,
+    "septic_shock_mortality": 9.551
+  },
+  {
+    "infection_source": 10.736,
+    "antibiotic_timing_hours": 8.989,
+    "inflammatory_response": 8.671,
+    "lactate_clearance": -12.882,
+    "septic_shock_mortality": 10.289
+  },
+  {
+    "infection_source": 10.063,
+    "antibiotic_timing_hours": 12.51,
+    "inflammatory_response": 8.235,
+    "lactate_clearance": -15.194,
+    "septic_shock_mortality": 12.316
+  }
+]

@@ -14,23 +14,32 @@ class InMemoryVectorIndex(VectorIndexPort):
     def __init__(self) -> None:
         self.vectors: dict[str, np.ndarray] = {}
         self.metadata_store: dict[str, dict[str, Any]] = {}
+        self.tenant_store: dict[str, str] = {}
 
-    def upsert(self, item_id: str, vector: list[float], metadata: dict[str, Any]) -> None:
-        """Index a vector representation alongside metadata."""
+    def upsert(
+        self,
+        item_id: str,
+        vector: list[float],
+        metadata: dict[str, Any],
+        tenant_id: str = "default_tenant",
+    ) -> None:
+        """Index a vector representation alongside metadata and tenant ownership."""
         arr = np.array(vector, dtype=np.float32)
         norm = np.linalg.norm(arr)
         if norm > 0:
             arr = arr / norm
         self.vectors[item_id] = arr
         self.metadata_store[item_id] = metadata
+        self.tenant_store[item_id] = tenant_id
 
     def search(
         self,
         query_vector: list[float],
         top_k: int = 5,
         filter_metadata: dict[str, Any] | None = None,
+        tenant_id: str = "default_tenant",
     ) -> list[dict[str, Any]]:
-        """Find nearest vectors satisfying metadata constraints."""
+        """Find nearest vectors satisfying metadata constraints scoped by tenant."""
         if not self.vectors:
             return []
 
@@ -42,6 +51,11 @@ class InMemoryVectorIndex(VectorIndexPort):
         results: list[dict[str, Any]] = []
 
         for item_id, v_arr in self.vectors.items():
+            # Check tenant isolation
+            item_tenant = self.tenant_store.get(item_id, "default_tenant")
+            if item_tenant != tenant_id:
+                continue
+
             meta = self.metadata_store.get(item_id, {})
 
             # Check metadata filters if specified
@@ -60,6 +74,7 @@ class InMemoryVectorIndex(VectorIndexPort):
                 "item_id": item_id,
                 "score": score,
                 "metadata": meta,
+                "tenant_id": item_tenant,
             })
 
         results.sort(key=lambda x: x["score"], reverse=True)
@@ -69,3 +84,4 @@ class InMemoryVectorIndex(VectorIndexPort):
         """Remove a vector from the index."""
         self.vectors.pop(item_id, None)
         self.metadata_store.pop(item_id, None)
+        self.tenant_store.pop(item_id, None)

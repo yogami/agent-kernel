@@ -1,0 +1,33 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="description" for="node" attr.name="description" attr.type="string" />
+  <key id="node_type" for="node" attr.name="node_type" attr.type="string" />
+  <key id="baseline_value" for="node" attr.name="baseline_value" attr.type="string" />
+  <key id="formula" for="node" attr.name="formula" attr.type="string" />
+  <key id="mechanism_description" for="edge" attr.name="mechanism_description" attr.type="string" />
+  <key id="weight" for="edge" attr.name="weight" attr.type="double" />
+  <key id="inhibitor_nodes" for="edge" attr.name="inhibitor_nodes" attr.type="string" />
+  <key id="is_confounded" for="edge" attr.name="is_confounded" attr.type="boolean" />
+  <graph id="glucose_insulin_dynamics" edgedefault="directed">
+    <node id="carbohydrate_intake">
+      <data key="node_type">exogenous</data>
+    </node>
+    <node id="plasma_glucose">
+      <data key="node_type">endogenous</data>
+    </node>
+    <node id="insulin_infusion_units">
+      <data key="node_type">intervention</data>
+    </node>
+    <node id="target_glucose">
+      <data key="node_type">outcome</data>
+    </node>
+    <edge source="carbohydrate_intake" target="plasma_glucose">
+      <data key="weight">0.8</data>
+    </edge>
+    <edge source="plasma_glucose" target="target_glucose">
+      <data key="weight">0.6</data>
+    </edge>
+    <edge source="insulin_infusion_units" target="target_glucose">
+      <data key="weight">-0.8</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,3502 @@
+[
+  {
+    "transaction_volume": 7.178,
+    "auto_reconcile_tolerance": 1.512,
+    "ledger_mismatch": -1.06,
+    "break_amount": -1.683,
+    "dispute_flag": -1.356
+  },
+  {
+    "transaction_volume": 6.789,
+    "auto_reconcile_tolerance": 9.772,
+    "ledger_mismatch": 3.458,
+    "break_amount": -3.743,
+    "dispute_flag": -2.212
+  },
+  {
+    "transaction_volume": 8.445,
+    "auto_reconcile_tolerance": 9.887,
+    "ledger_mismatch": 4.891,
+    "break_amount": -3.146,
+    "dispute_flag": -2.194
+  },
+  {
+    "transaction_volume": 11.081,
+    "auto_reconcile_tolerance": 7.37,
+    "ledger_mismatch": 6.888,
+    "break_amount": 0.229,
+    "dispute_flag": 0.439
+  },
+  {
+    "transaction_volume": 9.924,
+    "auto_reconcile_tolerance": 11.016,
+    "ledger_mismatch": 7.211,
+    "break_amount": -2.033,
+    "dispute_flag": -1.71
+  },
+  {
+    "transaction_volume": 10.56,
+    "auto_reconcile_tolerance": 8.122,
+    "ledger_mismatch": 3.555,
+    "break_amount": -3.195,
+    "dispute_flag": -2.275
+  },
+  {
+    "transaction_volume": 11.824,
+    "auto_reconcile_tolerance": 11.769,
+    "ledger_mismatch": 7.437,
+    "break_amount": -2.257,
+    "dispute_flag": -1.653
+  },
+  {
+    "transaction_volume": 6.725,
+    "auto_reconcile_tolerance": 9.119,
+    "ledger_mismatch": 1.065,
+    "break_amount": -5.673,
+    "dispute_flag": -4.147
+  },
+  {
+    "transaction_volume": 11.961,
+    "auto_reconcile_tolerance": 13.177,
+    "ledger_mismatch": 7.854,
+    "break_amount": -2.863,
+    "dispute_flag": -1.912
+  },
+  {
+    "transaction_volume": 7.735,
+    "auto_reconcile_tolerance": 4.352,
+    "ledger_mismatch": 1.435,
+    "break_amount": -1.785,
+    "dispute_flag": -1.387
+  },
+  {
+    "transaction_volume": 11.615,
+    "auto_reconcile_tolerance": 10.778,
+    "ledger_mismatch": 7.666,
+    "break_amount": -1.474,
+    "dispute_flag": -1.054
+  },
+  {
+    "transaction_volume": 12.069,
+    "auto_reconcile_tolerance": 13.86,
+    "ledger_mismatch": 11.028,
+    "break_amount": -0.866,
+    "dispute_flag": -0.477
+  },
+  {
+    "transaction_volume": 14.075,
+    "auto_reconcile_tolerance": 11.109,
+    "ledger_mismatch": 11.036,
+    "break_amount": 1.103,
+    "dispute_flag": 1.205
+  },
+  {
+    "transaction_volume": 9.596,
+    "auto_reconcile_tolerance": 10.33,
+    "ledger_mismatch": 4.464,
+    "break_amount": -3.75,
+    "dispute_flag": -2.627
+  },
+  {
+    "transaction_volume": 12.314,
+    "auto_reconcile_tolerance": 15.926,
+    "ledger_mismatch": 13.5,
+    "break_amount": -0.39,
+    "dispute_flag": -0.538
+  },
+  {
+    "transaction_volume": 11.092,
+    "auto_reconcile_tolerance": 7.533,
+    "ledger_mismatch": 4.578,
+    "break_amount": -1.985,
+    "dispute_flag": -1.824
+  },
+  {
+    "transaction_volume": 8.61,
+    "auto_reconcile_tolerance": 13.653,
+    "ledger_mismatch": 9.72,
+    "break_amount": -1.611,
+    "dispute_flag": -1.613
+  },
+  {
+    "transaction_volume": 10.589,
+    "auto_reconcile_tolerance": 7.204,
+    "ledger_mismatch": 5.597,
+    "break_amount": -0.369,
+    "dispute_flag": -0.548
+  },
+  {
+    "transaction_volume": 11.029,
+    "auto_reconcile_tolerance": 3.161,
+    "ledger_mismatch": 2.735,
+    "break_amount": -0.212,
+    "dispute_flag": -0.385
+  },
+  {
+    "transaction_volume": 13.537,
+    "auto_reconcile_tolerance": 12.74,
+    "ledger_mismatch": 9.439,
+    "break_amount": -1.409,
+    "dispute_flag": -1.072
+  },
+  {
+    "transaction_volume": 8.942,
+    "auto_reconcile_tolerance": 7.111,
+    "ledger_mismatch": 2.971,
+    "break_amount": -2.792,
+    "dispute_flag": -1.914
+  },
+  {
+    "transaction_volume": 11.144,
+    "auto_reconcile_tolerance": 18.762,
+    "ledger_mismatch": 13.009,
+    "break_amount": -3.076,
+    "dispute_flag": -2.426
+  },
+  {
+    "transaction_volume": 7.568,
+    "auto_reconcile_tolerance": 4.65,
+    "ledger_mismatch": 1.625,
+    "break_amount": -2.017,
+    "dispute_flag": -1.442
+  },
+  {
+    "transaction_volume": 7.085,
+    "auto_reconcile_tolerance": 14.38,
+    "ledger_mismatch": 5.17,
+    "break_amount": -5.726,
+    "dispute_flag": -4.313
+  },
+  {
+    "transaction_volume": 9.315,
+    "auto_reconcile_tolerance": 9.716,
+    "ledger_mismatch": 7.456,
+    "break_amount": -0.974,
+    "dispute_flag": -0.638
+  },
+  {
+    "transaction_volume": 11.891,
+    "auto_reconcile_tolerance": 12.093,
+    "ledger_mismatch": 10.234,
+    "break_amount": -0.387,
+    "dispute_flag": -0.387
+  },
+  {
+    "transaction_volume": 10.322,
+    "auto_reconcile_tolerance": 7.47,
+    "ledger_mismatch": 5.069,
+    "break_amount": -1.211,
+    "dispute_flag": -0.776
+  },
+  {
+    "transaction_volume": 8.346,
+    "auto_reconcile_tolerance": 8.823,
+    "ledger_mismatch": 2.171,
+    "break_amount": -4.641,
+    "dispute_flag": -3.418
+  },
+  {
+    "transaction_volume": 8.689,
+    "auto_reconcile_tolerance": 3.38,
+    "ledger_mismatch": 1.113,
+    "break_amount": -1.687,
+    "dispute_flag": -1.043
+  },
+  {
+    "transaction_volume": 10.095,
+    "auto_reconcile_tolerance": 6.948,
+    "ledger_mismatch": 4.068,
+    "break_amount": -1.749,
+    "dispute_flag": -1.087
+  },
+  {
+    "transaction_volume": 8.527,
+    "auto_reconcile_tolerance": 10.115,
+    "ledger_mismatch": 7.727,
+    "break_amount": -0.687,
+    "dispute_flag": -0.805
+  },
+  {
+    "transaction_volume": 9.948,
+    "auto_reconcile_tolerance": 9.386,
+    "ledger_mismatch": 7.183,
+    "break_amount": -0.938,
+    "dispute_flag": -0.574
+  },
+  {
+    "transaction_volume": 8.158,
+    "auto_reconcile_tolerance": 4.631,
+    "ledger_mismatch": -0.112,
+    "break_amount": -3.698,
+    "dispute_flag": -2.695
+  },
+  {
+    "transaction_volume": 11.057,
+    "auto_reconcile_tolerance": 6.155,
+    "ledger_mismatch": 4.716,
+    "break_amount": -0.576,
+    "dispute_flag": -0.315
+  },
+  {
+    "transaction_volume": 10.081,
+    "auto_reconcile_tolerance": 11.53,
+    "ledger_mismatch": 7.828,
+    "break_amount": -1.885,
+    "dispute_flag": -1.272
+  },
+  {
+    "transaction_volume": 6.517,
+    "auto_reconcile_tolerance": 13.536,
+    "ledger_mismatch": 6.422,
+    "break_amount": -4.341,
+    "dispute_flag": -3.14
+  },
+  {
+    "transaction_volume": 10.634,
+    "auto_reconcile_tolerance": -0.765,
+    "ledger_mismatch": -1.742,
+    "break_amount": -1.309,
+    "dispute_flag": -1.007
+  },
+  {
+    "transaction_volume": 11.843,
+    "auto_reconcile_tolerance": 7.401,
+    "ledger_mismatch": 3.214,
+    "break_amount": -2.376,
+    "dispute_flag": -1.729
+  },
+  {
+    "transaction_volume": 9.021,
+    "auto_reconcile_tolerance": 5.475,
+    "ledger_mismatch": 3.93,
+    "break_amount": -0.898,
+    "dispute_flag": -0.258
+  },
+  {
+    "transaction_volume": 10.858,
+    "auto_reconcile_tolerance": 18.175,
+    "ledger_mismatch": 9.386,
+    "break_amount": -5.338,
+    "dispute_flag": -4.0
+  },
+  {
+    "transaction_volume": 11.774,
+    "auto_reconcile_tolerance": 6.9,
+    "ledger_mismatch": 5.473,
+    "break_amount": -0.716,
+    "dispute_flag": -0.214
+  },
+  {
+    "transaction_volume": 10.931,
+    "auto_reconcile_tolerance": 12.596,
+    "ledger_mismatch": 13.533,
+    "break_amount": 2.363,
+    "dispute_flag": 1.511
+  },
+  {
+    "transaction_volume": 9.299,
+    "auto_reconcile_tolerance": 4.411,
+    "ledger_mismatch": -1.042,
+    "break_amount": -3.88,
+    "dispute_flag": -2.865
+  },
+  {
+    "transaction_volume": 9.112,
+    "auto_reconcile_tolerance": 13.759,
+    "ledger_mismatch": 8.885,
+    "break_amount": -2.424,
+    "dispute_flag": -2.075
+  },
+  {
+    "transaction_volume": 10.942,
+    "auto_reconcile_tolerance": 11.439,
+    "ledger_mismatch": 6.265,
+    "break_amount": -2.75,
+    "dispute_flag": -2.21
+  },
+  {
+    "transaction_volume": 11.182,
+    "auto_reconcile_tolerance": 11.691,
+    "ledger_mismatch": 6.338,
+    "break_amount": -3.379,
+    "dispute_flag": -2.519
+  },
+  {
+    "transaction_volume": 10.359,
+    "auto_reconcile_tolerance": 12.291,
+    "ledger_mismatch": 8.005,
+    "break_amount": -2.158,
+    "dispute_flag": -1.733
+  },
+  {
+    "transaction_volume": 8.854,
+    "auto_reconcile_tolerance": 12.223,
+    "ledger_mismatch": 5.297,
+    "break_amount": -4.097,
+    "dispute_flag": -3.163
+  },
+  {
+    "transaction_volume": 8.305,
+    "auto_reconcile_tolerance": 15.963,
+    "ledger_mismatch": 9.11,
+    "break_amount": -3.662,
+    "dispute_flag": -2.946
+  },
+  {
+    "transaction_volume": 11.134,
+    "auto_reconcile_tolerance": 7.393,
+    "ledger_mismatch": 3.646,
+    "break_amount": -2.352,
+    "dispute_flag": -1.751
+  },
+  {
+    "transaction_volume": 7.871,
+    "auto_reconcile_tolerance": 13.276,
+    "ledger_mismatch": 6.905,
+    "break_amount": -4.003,
+    "dispute_flag": -2.91
+  },
+  {
+    "transaction_volume": 9.089,
+    "auto_reconcile_tolerance": 10.235,
+    "ledger_mismatch": 3.538,
+    "break_amount": -4.149,
+    "dispute_flag": -2.965
+  },
+  {
+    "transaction_volume": 12.092,
+    "auto_reconcile_tolerance": 11.954,
+    "ledger_mismatch": 10.345,
+    "break_amount": -0.016,
+    "dispute_flag": -0.225
+  },
+  {
+    "transaction_volume": 9.305,
+    "auto_reconcile_tolerance": 10.748,
+    "ledger_mismatch": 8.326,
+    "break_amount": -0.913,
+    "dispute_flag": -0.861
+  },
+  {
+    "transaction_volume": 8.983,
+    "auto_reconcile_tolerance": 7.962,
+    "ledger_mismatch": 2.363,
+    "break_amount": -3.86,
+    "dispute_flag": -2.508
+  },
+  {
+    "transaction_volume": 8.792,
+    "auto_reconcile_tolerance": 5.795,
+    "ledger_mismatch": 2.3,
+    "break_amount": -2.098,
+    "dispute_flag": -1.451
+  },
+  {
+    "transaction_volume": 9.567,
+    "auto_reconcile_tolerance": 9.677,
+    "ledger_mismatch": 7.674,
+    "break_amount": -0.655,
+    "dispute_flag": -0.453
+  },
+  {
+    "transaction_volume": 7.59,
+    "auto_reconcile_tolerance": 8.06,
+    "ledger_mismatch": 4.278,
+    "break_amount": -2.017,
+    "dispute_flag": -1.648
+  },
+  {
+    "transaction_volume": 8.693,
+    "auto_reconcile_tolerance": 6.69,
+    "ledger_mismatch": 4.371,
+    "break_amount": -0.883,
+    "dispute_flag": -0.817
+  },
+  {
+    "transaction_volume": 7.943,
+    "auto_reconcile_tolerance": 11.988,
+    "ledger_mismatch": 6.134,
+    "break_amount": -3.455,
+    "dispute_flag": -2.701
+  },
+  {
+    "transaction_volume": 4.888,
+    "auto_reconcile_tolerance": 10.795,
+    "ledger_mismatch": 2.823,
+    "break_amount": -5.114,
+    "dispute_flag": -3.821
+  },
+  {
+    "transaction_volume": 10.956,
+    "auto_reconcile_tolerance": 11.697,
+    "ledger_mismatch": 11.456,
+    "break_amount": 1.178,
+    "dispute_flag": 1.02
+  },
+  {
+    "transaction_volume": 9.444,
+    "auto_reconcile_tolerance": 18.344,
+    "ledger_mismatch": 12.697,
+    "break_amount": -2.502,
+    "dispute_flag": -1.886
+  },
+  {
+    "transaction_volume": 9.7,
+    "auto_reconcile_tolerance": 12.038,
+    "ledger_mismatch": 3.86,
+    "break_amount": -5.421,
+    "dispute_flag": -4.021
+  },
+  {
+    "transaction_volume": 12.218,
+    "auto_reconcile_tolerance": 8.86,
+    "ledger_mismatch": 4.031,
+    "break_amount": -3.075,
+    "dispute_flag": -2.239
+  },
+  {
+    "transaction_volume": 11.541,
+    "auto_reconcile_tolerance": 9.367,
+    "ledger_mismatch": 5.126,
+    "break_amount": -2.437,
+    "dispute_flag": -1.95
+  },
+  {
+    "transaction_volume": 10.501,
+    "auto_reconcile_tolerance": 14.581,
+    "ledger_mismatch": 8.596,
+    "break_amount": -3.503,
+    "dispute_flag": -2.595
+  },
+  {
+    "transaction_volume": 10.61,
+    "auto_reconcile_tolerance": 11.442,
+    "ledger_mismatch": 8.444,
+    "break_amount": -1.415,
+    "dispute_flag": -1.123
+  },
+  {
+    "transaction_volume": 8.351,
+    "auto_reconcile_tolerance": 11.582,
+    "ledger_mismatch": 6.462,
+    "break_amount": -2.713,
+    "dispute_flag": -2.127
+  },
+  {
+    "transaction_volume": 6.002,
+    "auto_reconcile_tolerance": 16.196,
+    "ledger_mismatch": 9.463,
+    "break_amount": -3.779,
+    "dispute_flag": -2.709
+  },
+  {
+    "transaction_volume": 7.58,
+    "auto_reconcile_tolerance": 4.831,
+    "ledger_mismatch": 3.136,
+    "break_amount": -0.982,
+    "dispute_flag": -0.471
+  },
+  {
+    "transaction_volume": 12.72,
+    "auto_reconcile_tolerance": 10.837,
+    "ledger_mismatch": 7.657,
+    "break_amount": -1.832,
+    "dispute_flag": -1.713
+  },
+  {
+    "transaction_volume": 8.71,
+    "auto_reconcile_tolerance": 10.765,
+    "ledger_mismatch": 6.224,
+    "break_amount": -2.594,
+    "dispute_flag": -1.948
+  },
+  {
+    "transaction_volume": 7.79,
+    "auto_reconcile_tolerance": 7.903,
+    "ledger_mismatch": 2.81,
+    "break_amount": -2.951,
+    "dispute_flag": -2.038
+  },
+  {
+    "transaction_volume": 10.896,
+    "auto_reconcile_tolerance": 9.03,
+    "ledger_mismatch": 4.377,
+    "break_amount": -2.867,
+    "dispute_flag": -2.104
+  },
+  {
+    "transaction_volume": 12.066,
+    "auto_reconcile_tolerance": 12.427,
+    "ledger_mismatch": 8.997,
+    "break_amount": -1.417,
+    "dispute_flag": -0.714
+  },
+  {
+    "transaction_volume": 10.285,
+    "auto_reconcile_tolerance": 6.137,
+    "ledger_mismatch": 0.167,
+    "break_amount": -3.909,
+    "dispute_flag": -3.111
+  },
+  {
+    "transaction_volume": 11.101,
+    "auto_reconcile_tolerance": 7.31,
+    "ledger_mismatch": 8.926,
+    "break_amount": 1.743,
+    "dispute_flag": 1.002
+  },
+  {
+    "transaction_volume": 12.541,
+    "auto_reconcile_tolerance": 23.298,
+    "ledger_mismatch": 16.932,
+    "break_amount": -2.884,
+    "dispute_flag": -2.031
+  },
+  {
+    "transaction_volume": 8.995,
+    "auto_reconcile_tolerance": 6.861,
+    "ledger_mismatch": -0.219,
+    "break_amount": -4.629,
+    "dispute_flag": -3.811
+  },
+  {
+    "transaction_volume": 10.044,
+    "auto_reconcile_tolerance": 10.102,
+    "ledger_mismatch": 5.135,
+    "break_amount": -3.09,
+    "dispute_flag": -2.413
+  },
+  {
+    "transaction_volume": 7.232,
+    "auto_reconcile_tolerance": 12.505,
+    "ledger_mismatch": 3.792,
+    "break_amount": -5.526,
+    "dispute_flag": -4.179
+  },
+  {
+    "transaction_volume": 9.799,
+    "auto_reconcile_tolerance": 11.525,
+    "ledger_mismatch": 3.294,
+    "break_amount": -5.447,
+    "dispute_flag": -4.21
+  },
+  {
+    "transaction_volume": 9.647,
+    "auto_reconcile_tolerance": 14.91,
+    "ledger_mismatch": 10.523,
+    "break_amount": -2.122,
+    "dispute_flag": -1.497
+  },
+  {
+    "transaction_volume": 12.011,
+    "auto_reconcile_tolerance": 5.691,
+    "ledger_mismatch": 2.45,
+    "break_amount": -2.033,
+    "dispute_flag": -1.353
+  },
+  {
+    "transaction_volume": 7.186,
+    "auto_reconcile_tolerance": 17.903,
+    "ledger_mismatch": 11.48,
+    "break_amount": -2.873,
+    "dispute_flag": -2.008
+  },
+  {
+    "transaction_volume": 6.682,
+    "auto_reconcile_tolerance": 2.684,
+    "ledger_mismatch": -3.469,
+    "break_amount": -4.701,
+    "dispute_flag": -3.59
+  },
+  {
+    "transaction_volume": 11.19,
+    "auto_reconcile_tolerance": 13.131,
+    "ledger_mismatch": 10.356,
+    "break_amount": -0.721,
+    "dispute_flag": -0.723
+  },
+  {
+    "transaction_volume": 10.369,
+    "auto_reconcile_tolerance": 13.235,
+    "ledger_mismatch": 6.79,
+    "break_amount": -3.751,
+    "dispute_flag": -2.979
+  },
+  {
+    "transaction_volume": 9.873,
+    "auto_reconcile_tolerance": 7.495,
+    "ledger_mismatch": 1.911,
+    "break_amount": -3.623,
+    "dispute_flag": -2.624
+  },
+  {
+    "transaction_volume": 11.604,
+    "auto_reconcile_tolerance": 1.048,
+    "ledger_mismatch": 0.752,
+    "break_amount": 0.165,
+    "dispute_flag": 0.38
+  },
+  {
+    "transaction_volume": 8.216,
+    "auto_reconcile_tolerance": 9.066,
+    "ledger_mismatch": 5.496,
+    "break_amount": -1.611,
+    "dispute_flag": -0.978
+  },
+  {
+    "transaction_volume": 9.505,
+    "auto_reconcile_tolerance": 7.2,
+    "ledger_mismatch": 5.511,
+    "break_amount": -0.583,
+    "dispute_flag": -0.787
+  },
+  {
+    "transaction_volume": 12.298,
+    "auto_reconcile_tolerance": 12.6,
+    "ledger_mismatch": 6.595,
+    "break_amount": -3.8,
+    "dispute_flag": -2.595
+  },
+  {
+    "transaction_volume": 11.778,
+    "auto_reconcile_tolerance": 12.525,
+    "ledger_mismatch": 9.482,
+    "break_amount": -1.494,
+    "dispute_flag": -1.106
+  },
+  {
+    "transaction_volume": 14.421,
+    "auto_reconcile_tolerance": 17.474,
+    "ledger_mismatch": 14.466,
+    "break_amount": -0.54,
+    "dispute_flag": -0.746
+  },
+  {
+    "transaction_volume": 10.96,
+    "auto_reconcile_tolerance": 10.837,
+    "ledger_mismatch": 5.538,
+    "break_amount": -3.628,
+    "dispute_flag": -2.612
+  },
+  {
+    "transaction_volume": 12.299,
+    "auto_reconcile_tolerance": 11.413,
+    "ledger_mismatch": 6.391,
+    "break_amount": -3.167,
+    "dispute_flag": -2.172
+  },
+  {
+    "transaction_volume": 11.716,
+    "auto_reconcile_tolerance": 11.391,
+    "ledger_mismatch": 10.134,
+    "break_amount": 0.052,
+    "dispute_flag": 0.067
+  },
+  {
+    "transaction_volume": 8.904,
+    "auto_reconcile_tolerance": 19.759,
+    "ledger_mismatch": 11.342,
+    "break_amount": -4.867,
+    "dispute_flag": -3.829
+  },
+  {
+    "transaction_volume": 9.823,
+    "auto_reconcile_tolerance": 9.531,
+    "ledger_mismatch": 7.569,
+    "break_amount": -0.315,
+    "dispute_flag": -0.584
+  },
+  {
+    "transaction_volume": 11.137,
+    "auto_reconcile_tolerance": 17.891,
+    "ledger_mismatch": 13.804,
+    "break_amount": -1.226,
+    "dispute_flag": -0.855
+  },
+  {
+    "transaction_volume": 9.53,
+    "auto_reconcile_tolerance": 13.002,
+    "ledger_mismatch": 9.504,
+    "break_amount": -1.406,
+    "dispute_flag": -1.281
+  },
+  {
+    "transaction_volume": 9.936,
+    "auto_reconcile_tolerance": 2.389,
+    "ledger_mismatch": 2.398,
+    "break_amount": 0.209,
+    "dispute_flag": 0.084
+  },
+  {
+    "transaction_volume": 10.307,
+    "auto_reconcile_tolerance": 14.092,
+    "ledger_mismatch": 8.725,
+    "break_amount": -3.215,
+    "dispute_flag": -2.696
+  },
+  {
+    "transaction_volume": 8.452,
+    "auto_reconcile_tolerance": 12.921,
+    "ledger_mismatch": 7.276,
+    "break_amount": -3.127,
+    "dispute_flag": -2.201
+  },
+  {
+    "transaction_volume": 9.432,
+    "auto_reconcile_tolerance": 5.001,
+    "ledger_mismatch": 2.11,
+    "break_amount": -2.018,
+    "dispute_flag": -1.472
+  },
+  {
+    "transaction_volume": 7.226,
+    "auto_reconcile_tolerance": 7.388,
+    "ledger_mismatch": 1.738,
+    "break_amount": -3.635,
+    "dispute_flag": -2.948
+  },
+  {
+    "transaction_volume": 8.723,
+    "auto_reconcile_tolerance": 8.335,
+    "ledger_mismatch": 0.944,
+    "break_amount": -5.378,
+    "dispute_flag": -4.068
+  },
+  {
+    "transaction_volume": 10.211,
+    "auto_reconcile_tolerance": 3.444,
+    "ledger_mismatch": 2.14,
+    "break_amount": -0.647,
+    "dispute_flag": -0.448
+  },
+  {
+    "transaction_volume": 10.824,
+    "auto_reconcile_tolerance": 12.167,
+    "ledger_mismatch": 11.329,
+    "break_amount": 0.576,
+    "dispute_flag": 0.338
+  },
+  {
+    "transaction_volume": 8.354,
+    "auto_reconcile_tolerance": 11.323,
+    "ledger_mismatch": 3.213,
+    "break_amount": -5.581,
+    "dispute_flag": -4.203
+  },
+  {
+    "transaction_volume": 8.584,
+    "auto_reconcile_tolerance": 3.47,
+    "ledger_mismatch": 1.119,
+    "break_amount": -1.319,
+    "dispute_flag": -0.872
+  },
+  {
+    "transaction_volume": 10.07,
+    "auto_reconcile_tolerance": 7.027,
+    "ledger_mismatch": 4.297,
+    "break_amount": -1.15,
+    "dispute_flag": -0.994
+  },
+  {
+    "transaction_volume": 13.583,
+    "auto_reconcile_tolerance": 9.543,
+    "ledger_mismatch": 5.119,
+    "break_amount": -2.58,
+    "dispute_flag": -1.861
+  },
+  {
+    "transaction_volume": 8.573,
+    "auto_reconcile_tolerance": 9.063,
+    "ledger_mismatch": 4.651,
+    "break_amount": -2.784,
+    "dispute_flag": -1.872
+  },
+  {
+    "transaction_volume": 9.162,
+    "auto_reconcile_tolerance": 13.588,
+    "ledger_mismatch": 11.077,
+    "break_amount": -0.879,
+    "dispute_flag": -0.423
+  },
+  {
+    "transaction_volume": 12.6,
+    "auto_reconcile_tolerance": 7.646,
+    "ledger_mismatch": 6.262,
+    "break_amount": -0.44,
+    "dispute_flag": -0.337
+  },
+  {
+    "transaction_volume": 9.087,
+    "auto_reconcile_tolerance": 12.752,
+    "ledger_mismatch": 5.565,
+    "break_amount": -4.561,
+    "dispute_flag": -3.217
+  },
+  {
+    "transaction_volume": 7.315,
+    "auto_reconcile_tolerance": 7.06,
+    "ledger_mismatch": 2.137,
+    "break_amount": -2.895,
+    "dispute_flag": -2.385
+  },
+  {
+    "transaction_volume": 10.333,
+    "auto_reconcile_tolerance": 8.673,
+    "ledger_mismatch": 1.762,
+    "break_amount": -4.506,
+    "dispute_flag": -3.494
+  },
+  {
+    "transaction_volume": 8.867,
+    "auto_reconcile_tolerance": 8.678,
+    "ledger_mismatch": 2.248,
+    "break_amount": -4.167,
+    "dispute_flag": -3.081
+  },
+  {
+    "transaction_volume": 7.71,
+    "auto_reconcile_tolerance": 19.028,
+    "ledger_mismatch": 9.196,
+    "break_amount": -6.107,
+    "dispute_flag": -4.768
+  },
+  {
+    "transaction_volume": 9.501,
+    "auto_reconcile_tolerance": 8.387,
+    "ledger_mismatch": 5.763,
+    "break_amount": -1.084,
+    "dispute_flag": -0.91
+  },
+  {
+    "transaction_volume": 14.511,
+    "auto_reconcile_tolerance": 7.824,
+    "ledger_mismatch": 5.901,
+    "break_amount": -0.692,
+    "dispute_flag": -0.463
+  },
+  {
+    "transaction_volume": 8.694,
+    "auto_reconcile_tolerance": 14.047,
+    "ledger_mismatch": 6.728,
+    "break_amount": -4.812,
+    "dispute_flag": -3.693
+  },
+  {
+    "transaction_volume": 10.633,
+    "auto_reconcile_tolerance": 11.822,
+    "ledger_mismatch": 6.327,
+    "break_amount": -3.267,
+    "dispute_flag": -2.546
+  },
+  {
+    "transaction_volume": 8.355,
+    "auto_reconcile_tolerance": 13.007,
+    "ledger_mismatch": 8.52,
+    "break_amount": -2.206,
+    "dispute_flag": -1.699
+  },
+  {
+    "transaction_volume": 13.78,
+    "auto_reconcile_tolerance": 8.872,
+    "ledger_mismatch": 4.792,
+    "break_amount": -2.01,
+    "dispute_flag": -1.83
+  },
+  {
+    "transaction_volume": 10.622,
+    "auto_reconcile_tolerance": 6.573,
+    "ledger_mismatch": -0.31,
+    "break_amount": -4.523,
+    "dispute_flag": -3.063
+  },
+  {
+    "transaction_volume": 9.154,
+    "auto_reconcile_tolerance": 1.929,
+    "ledger_mismatch": 0.335,
+    "break_amount": -1.173,
+    "dispute_flag": -0.448
+  },
+  {
+    "transaction_volume": 9.649,
+    "auto_reconcile_tolerance": 13.42,
+    "ledger_mismatch": 9.092,
+    "break_amount": -2.081,
+    "dispute_flag": -1.726
+  },
+  {
+    "transaction_volume": 10.986,
+    "auto_reconcile_tolerance": 11.356,
+    "ledger_mismatch": 6.603,
+    "break_amount": -2.814,
+    "dispute_flag": -2.47
+  },
+  {
+    "transaction_volume": 5.839,
+    "auto_reconcile_tolerance": 9.759,
+    "ledger_mismatch": 2.803,
+    "break_amount": -4.613,
+    "dispute_flag": -3.117
+  },
+  {
+    "transaction_volume": 8.376,
+    "auto_reconcile_tolerance": 6.557,
+    "ledger_mismatch": 0.611,
+    "break_amount": -4.048,
+    "dispute_flag": -3.287
+  },
+  {
+    "transaction_volume": 10.837,
+    "auto_reconcile_tolerance": 2.679,
+    "ledger_mismatch": -1.495,
+    "break_amount": -2.729,
+    "dispute_flag": -1.892
+  },
+  {
+    "transaction_volume": 9.288,
+    "auto_reconcile_tolerance": 11.292,
+    "ledger_mismatch": 5.701,
+    "break_amount": -3.285,
+    "dispute_flag": -2.331
+  },
+  {
+    "transaction_volume": 10.247,
+    "auto_reconcile_tolerance": 4.064,
+    "ledger_mismatch": 2.396,
+    "break_amount": -1.074,
+    "dispute_flag": -1.011
+  },
+  {
+    "transaction_volume": 12.719,
+    "auto_reconcile_tolerance": 15.466,
+    "ledger_mismatch": 12.966,
+    "break_amount": -0.405,
+    "dispute_flag": -0.545
+  },
+  {
+    "transaction_volume": 8.743,
+    "auto_reconcile_tolerance": 8.889,
+    "ledger_mismatch": 3.354,
+    "break_amount": -3.356,
+    "dispute_flag": -2.58
+  },
+  {
+    "transaction_volume": 9.106,
+    "auto_reconcile_tolerance": 14.547,
+    "ledger_mismatch": 12.349,
+    "break_amount": -0.423,
+    "dispute_flag": -0.254
+  },
+  {
+    "transaction_volume": 9.267,
+    "auto_reconcile_tolerance": 11.219,
+    "ledger_mismatch": 4.803,
+    "break_amount": -3.838,
+    "dispute_flag": -3.0
+  },
+  {
+    "transaction_volume": 10.002,
+    "auto_reconcile_tolerance": 11.134,
+    "ledger_mismatch": 6.99,
+    "break_amount": -1.805,
+    "dispute_flag": -1.339
+  },
+  {
+    "transaction_volume": 8.102,
+    "auto_reconcile_tolerance": 7.268,
+    "ledger_mismatch": 5.357,
+    "break_amount": -0.944,
+    "dispute_flag": -0.731
+  },
+  {
+    "transaction_volume": 8.214,
+    "auto_reconcile_tolerance": 2.354,
+    "ledger_mismatch": -0.793,
+    "break_amount": -2.255,
+    "dispute_flag": -1.191
+  },
+  {
+    "transaction_volume": 10.687,
+    "auto_reconcile_tolerance": 7.075,
+    "ledger_mismatch": 3.142,
+    "break_amount": -2.277,
+    "dispute_flag": -1.491
+  },
+  {
+    "transaction_volume": 11.675,
+    "auto_reconcile_tolerance": 12.464,
+    "ledger_mismatch": 7.733,
+    "break_amount": -2.365,
+    "dispute_flag": -1.793
+  },
+  {
+    "transaction_volume": 7.353,
+    "auto_reconcile_tolerance": 5.248,
+    "ledger_mismatch": 0.569,
+    "break_amount": -2.64,
+    "dispute_flag": -1.891
+  },
+  {
+    "transaction_volume": 11.6,
+    "auto_reconcile_tolerance": 7.541,
+    "ledger_mismatch": 6.271,
+    "break_amount": -0.035,
+    "dispute_flag": -0.224
+  },
+  {
+    "transaction_volume": 10.126,
+    "auto_reconcile_tolerance": 11.39,
+    "ledger_mismatch": 6.792,
+    "break_amount": -2.479,
+    "dispute_flag": -1.396
+  },
+  {
+    "transaction_volume": 13.303,
+    "auto_reconcile_tolerance": 3.448,
+    "ledger_mismatch": 2.304,
+    "break_amount": -0.696,
+    "dispute_flag": -0.222
+  },
+  {
+    "transaction_volume": 10.137,
+    "auto_reconcile_tolerance": 9.493,
+    "ledger_mismatch": 6.947,
+    "break_amount": -1.332,
+    "dispute_flag": -1.05
+  },
+  {
+    "transaction_volume": 12.044,
+    "auto_reconcile_tolerance": 8.331,
+    "ledger_mismatch": 7.368,
+    "break_amount": -0.11,
+    "dispute_flag": -0.305
+  },
+  {
+    "transaction_volume": 10.193,
+    "auto_reconcile_tolerance": 13.763,
+    "ledger_mismatch": 8.835,
+    "break_amount": -2.432,
+    "dispute_flag": -1.914
+  },
+  {
+    "transaction_volume": 9.364,
+    "auto_reconcile_tolerance": 13.5,
+    "ledger_mismatch": 9.246,
+    "break_amount": -2.248,
+    "dispute_flag": -1.97
+  },
+  {
+    "transaction_volume": 8.852,
+    "auto_reconcile_tolerance": 16.231,
+    "ledger_mismatch": 11.954,
+    "break_amount": -1.862,
+    "dispute_flag": -1.366
+  },
+  {
+    "transaction_volume": 13.572,
+    "auto_reconcile_tolerance": 4.296,
+    "ledger_mismatch": 5.125,
+    "break_amount": 1.098,
+    "dispute_flag": 1.258
+  },
+  {
+    "transaction_volume": 10.218,
+    "auto_reconcile_tolerance": 5.581,
+    "ledger_mismatch": 3.427,
+    "break_amount": -1.165,
+    "dispute_flag": -0.936
+  },
+  {
+    "transaction_volume": 8.56,
+    "auto_reconcile_tolerance": 10.523,
+    "ledger_mismatch": 6.481,
+    "break_amount": -2.471,
+    "dispute_flag": -1.622
+  },
+  {
+    "transaction_volume": 13.723,
+    "auto_reconcile_tolerance": 8.115,
+    "ledger_mismatch": 5.797,
+    "break_amount": -0.728,
+    "dispute_flag": -0.467
+  },
+  {
+    "transaction_volume": 12.705,
+    "auto_reconcile_tolerance": 8.724,
+    "ledger_mismatch": 8.124,
+    "break_amount": 0.218,
+    "dispute_flag": 0.477
+  },
+  {
+    "transaction_volume": 10.441,
+    "auto_reconcile_tolerance": 3.915,
+    "ledger_mismatch": 1.181,
+    "break_amount": -1.544,
+    "dispute_flag": -1.069
+  },
+  {
+    "transaction_volume": 12.016,
+    "auto_reconcile_tolerance": 7.79,
+    "ledger_mismatch": 5.971,
+    "break_amount": -0.822,
+    "dispute_flag": -0.392
+  },
+  {
+    "transaction_volume": 7.812,
+    "auto_reconcile_tolerance": 9.333,
+    "ledger_mismatch": 3.359,
+    "break_amount": -3.886,
+    "dispute_flag": -2.986
+  },
+  {
+    "transaction_volume": 12.693,
+    "auto_reconcile_tolerance": 7.223,
+    "ledger_mismatch": 6.56,
+    "break_amount": 0.005,
+    "dispute_flag": 0.348
+  },
+  {
+    "transaction_volume": 10.784,
+    "auto_reconcile_tolerance": 12.705,
+    "ledger_mismatch": 9.497,
+    "break_amount": -1.149,
+    "dispute_flag": -1.081
+  },
+  {
+    "transaction_volume": 14.013,
+    "auto_reconcile_tolerance": 6.039,
+    "ledger_mismatch": 3.219,
+    "break_amount": -1.74,
+    "dispute_flag": -1.112
+  },
+  {
+    "transaction_volume": 12.002,
+    "auto_reconcile_tolerance": 6.705,
+    "ledger_mismatch": 8.747,
+    "break_amount": 2.297,
+    "dispute_flag": 1.619
+  },
+  {
+    "transaction_volume": 9.182,
+    "auto_reconcile_tolerance": 8.554,
+    "ledger_mismatch": 5.678,
+    "break_amount": -1.759,
+    "dispute_flag": -1.188
+  },
+  {
+    "transaction_volume": 10.482,
+    "auto_reconcile_tolerance": 12.601,
+    "ledger_mismatch": 5.33,
+    "break_amount": -5.073,
+    "dispute_flag": -3.595
+  },
+  {
+    "transaction_volume": 7.372,
+    "auto_reconcile_tolerance": 8.739,
+    "ledger_mismatch": 5.468,
+    "break_amount": -1.604,
+    "dispute_flag": -1.544
+  },
+  {
+    "transaction_volume": 9.076,
+    "auto_reconcile_tolerance": 7.144,
+    "ledger_mismatch": 1.07,
+    "break_amount": -3.97,
+    "dispute_flag": -3.002
+  },
+  {
+    "transaction_volume": 9.711,
+    "auto_reconcile_tolerance": 18.382,
+    "ledger_mismatch": 16.331,
+    "break_amount": 0.526,
+    "dispute_flag": 0.593
+  },
+  {
+    "transaction_volume": 6.039,
+    "auto_reconcile_tolerance": 12.812,
+    "ledger_mismatch": 4.569,
+    "break_amount": -5.537,
+    "dispute_flag": -3.907
+  },
+  {
+    "transaction_volume": 8.114,
+    "auto_reconcile_tolerance": 2.594,
+    "ledger_mismatch": 0.022,
+    "break_amount": -2.096,
+    "dispute_flag": -1.612
+  },
+  {
+    "transaction_volume": 7.322,
+    "auto_reconcile_tolerance": 3.007,
+    "ledger_mismatch": -1.843,
+    "break_amount": -3.643,
+    "dispute_flag": -2.646
+  },
+  {
+    "transaction_volume": 13.662,
+    "auto_reconcile_tolerance": 10.994,
+    "ledger_mismatch": 8.387,
+    "break_amount": -1.011,
+    "dispute_flag": -0.455
+  },
+  {
+    "transaction_volume": 7.772,
+    "auto_reconcile_tolerance": 7.564,
+    "ledger_mismatch": 2.31,
+    "break_amount": -3.644,
+    "dispute_flag": -2.629
+  },
+  {
+    "transaction_volume": 9.523,
+    "auto_reconcile_tolerance": 14.553,
+    "ledger_mismatch": 9.265,
+    "break_amount": -3.014,
+    "dispute_flag": -2.492
+  },
+  {
+    "transaction_volume": 9.931,
+    "auto_reconcile_tolerance": 7.533,
+    "ledger_mismatch": 4.557,
+    "break_amount": -1.91,
+    "dispute_flag": -1.408
+  },
+  {
+    "transaction_volume": 10.121,
+    "auto_reconcile_tolerance": 5.936,
+    "ledger_mismatch": 2.088,
+    "break_amount": -2.343,
+    "dispute_flag": -1.382
+  },
+  {
+    "transaction_volume": 11.901,
+    "auto_reconcile_tolerance": 7.179,
+    "ledger_mismatch": 3.927,
+    "break_amount": -1.774,
+    "dispute_flag": -1.08
+  },
+  {
+    "transaction_volume": 8.476,
+    "auto_reconcile_tolerance": 7.94,
+    "ledger_mismatch": 2.753,
+    "break_amount": -3.392,
+    "dispute_flag": -2.826
+  },
+  {
+    "transaction_volume": 12.664,
+    "auto_reconcile_tolerance": 15.412,
+    "ledger_mismatch": 13.592,
+    "break_amount": 0.371,
+    "dispute_flag": 0.03
+  },
+  {
+    "transaction_volume": 6.623,
+    "auto_reconcile_tolerance": 13.425,
+    "ledger_mismatch": 8.22,
+    "break_amount": -2.65,
+    "dispute_flag": -2.018
+  },
+  {
+    "transaction_volume": 12.947,
+    "auto_reconcile_tolerance": 11.282,
+    "ledger_mismatch": 5.577,
+    "break_amount": -3.519,
+    "dispute_flag": -2.822
+  },
+  {
+    "transaction_volume": 10.432,
+    "auto_reconcile_tolerance": 12.491,
+    "ledger_mismatch": 4.981,
+    "break_amount": -5.064,
+    "dispute_flag": -3.851
+  },
+  {
+    "transaction_volume": 6.317,
+    "auto_reconcile_tolerance": 11.883,
+    "ledger_mismatch": 4.344,
+    "break_amount": -5.193,
+    "dispute_flag": -3.764
+  },
+  {
+    "transaction_volume": 12.381,
+    "auto_reconcile_tolerance": 10.366,
+    "ledger_mismatch": 10.619,
+    "break_amount": 1.156,
+    "dispute_flag": 0.79
+  },
+  {
+    "transaction_volume": 7.497,
+    "auto_reconcile_tolerance": 8.381,
+    "ledger_mismatch": 3.179,
+    "break_amount": -3.336,
+    "dispute_flag": -2.567
+  },
+  {
+    "transaction_volume": 11.353,
+    "auto_reconcile_tolerance": 12.204,
+    "ledger_mismatch": 6.328,
+    "break_amount": -3.465,
+    "dispute_flag": -2.171
+  },
+  {
+    "transaction_volume": 15.297,
+    "auto_reconcile_tolerance": 10.636,
+    "ledger_mismatch": 10.714,
+    "break_amount": 1.372,
+    "dispute_flag": 0.93
+  },
+  {
+    "transaction_volume": 11.686,
+    "auto_reconcile_tolerance": 6.739,
+    "ledger_mismatch": 4.783,
+    "break_amount": -0.547,
+    "dispute_flag": -0.191
+  },
+  {
+    "transaction_volume": 11.372,
+    "auto_reconcile_tolerance": 13.849,
+    "ledger_mismatch": 9.464,
+    "break_amount": -2.106,
+    "dispute_flag": -1.889
+  },
+  {
+    "transaction_volume": 15.273,
+    "auto_reconcile_tolerance": 11.367,
+    "ledger_mismatch": 6.479,
+    "break_amount": -2.787,
+    "dispute_flag": -2.026
+  },
+  {
+    "transaction_volume": 8.502,
+    "auto_reconcile_tolerance": 20.283,
+    "ledger_mismatch": 14.1,
+    "break_amount": -3.025,
+    "dispute_flag": -2.259
+  },
+  {
+    "transaction_volume": 10.928,
+    "auto_reconcile_tolerance": 14.918,
+    "ledger_mismatch": 9.319,
+    "break_amount": -2.866,
+    "dispute_flag": -2.183
+  },
+  {
+    "transaction_volume": 11.938,
+    "auto_reconcile_tolerance": 9.468,
+    "ledger_mismatch": 6.992,
+    "break_amount": -0.905,
+    "dispute_flag": -0.505
+  },
+  {
+    "transaction_volume": 10.2,
+    "auto_reconcile_tolerance": 5.292,
+    "ledger_mismatch": -1.186,
+    "break_amount": -4.569,
+    "dispute_flag": -3.468
+  },
+  {
+    "transaction_volume": 11.895,
+    "auto_reconcile_tolerance": 3.964,
+    "ledger_mismatch": 6.113,
+    "break_amount": 2.425,
+    "dispute_flag": 1.841
+  },
+  {
+    "transaction_volume": 10.672,
+    "auto_reconcile_tolerance": 17.29,
+    "ledger_mismatch": 11.445,
+    "break_amount": -2.694,
+    "dispute_flag": -1.955
+  },
+  {
+    "transaction_volume": 11.139,
+    "auto_reconcile_tolerance": 12.965,
+    "ledger_mismatch": 9.545,
+    "break_amount": -1.389,
+    "dispute_flag": -1.366
+  },
+  {
+    "transaction_volume": 10.582,
+    "auto_reconcile_tolerance": 9.182,
+    "ledger_mismatch": 6.133,
+    "break_amount": -1.402,
+    "dispute_flag": -1.246
+  },
+  {
+    "transaction_volume": 9.886,
+    "auto_reconcile_tolerance": 11.666,
+    "ledger_mismatch": 7.89,
+    "break_amount": -2.036,
+    "dispute_flag": -1.635
+  },
+  {
+    "transaction_volume": 10.172,
+    "auto_reconcile_tolerance": 12.168,
+    "ledger_mismatch": 5.499,
+    "break_amount": -4.234,
+    "dispute_flag": -3.156
+  },
+  {
+    "transaction_volume": 6.493,
+    "auto_reconcile_tolerance": 3.944,
+    "ledger_mismatch": 3.291,
+    "break_amount": 0.09,
+    "dispute_flag": 0.219
+  },
+  {
+    "transaction_volume": 6.834,
+    "auto_reconcile_tolerance": 9.967,
+    "ledger_mismatch": 5.899,
+    "break_amount": -2.318,
+    "dispute_flag": -2.051
+  },
+  {
+    "transaction_volume": 7.058,
+    "auto_reconcile_tolerance": 10.713,
+    "ledger_mismatch": 3.195,
+    "break_amount": -5.141,
+    "dispute_flag": -4.073
+  },
+  {
+    "transaction_volume": 8.773,
+    "auto_reconcile_tolerance": 9.761,
+    "ledger_mismatch": 5.611,
+    "break_amount": -2.222,
+    "dispute_flag": -1.726
+  },
+  {
+    "transaction_volume": 11.343,
+    "auto_reconcile_tolerance": 11.522,
+    "ledger_mismatch": 7.988,
+    "break_amount": -1.334,
+    "dispute_flag": -1.117
+  },
+  {
+    "transaction_volume": 7.715,
+    "auto_reconcile_tolerance": 11.8,
+    "ledger_mismatch": 7.71,
+    "break_amount": -2.062,
+    "dispute_flag": -1.61
+  },
+  {
+    "transaction_volume": 10.266,
+    "auto_reconcile_tolerance": 5.682,
+    "ledger_mismatch": 3.265,
+    "break_amount": -1.236,
+    "dispute_flag": -0.734
+  },
+  {
+    "transaction_volume": 11.703,
+    "auto_reconcile_tolerance": 3.86,
+    "ledger_mismatch": 1.163,
+    "break_amount": -1.641,
+    "dispute_flag": -0.974
+  },
+  {
+    "transaction_volume": 10.513,
+    "auto_reconcile_tolerance": 5.123,
+    "ledger_mismatch": 5.484,
+    "break_amount": 0.469,
+    "dispute_flag": 0.14
+  },
+  {
+    "transaction_volume": 10.002,
+    "auto_reconcile_tolerance": 4.009,
+    "ledger_mismatch": 1.658,
+    "break_amount": -1.593,
+    "dispute_flag": -1.502
+  },
+  {
+    "transaction_volume": 9.614,
+    "auto_reconcile_tolerance": 11.761,
+    "ledger_mismatch": 5.505,
+    "break_amount": -3.755,
+    "dispute_flag": -2.886
+  },
+  {
+    "transaction_volume": 11.697,
+    "auto_reconcile_tolerance": 9.225,
+    "ledger_mismatch": 7.343,
+    "break_amount": -0.744,
+    "dispute_flag": -0.417
+  },
+  {
+    "transaction_volume": 5.868,
+    "auto_reconcile_tolerance": 12.268,
+    "ledger_mismatch": 4.208,
+    "break_amount": -5.464,
+    "dispute_flag": -4.135
+  },
+  {
+    "transaction_volume": 9.222,
+    "auto_reconcile_tolerance": 15.131,
+    "ledger_mismatch": 4.893,
+    "break_amount": -6.619,
+    "dispute_flag": -4.769
+  },
+  {
+    "transaction_volume": 9.542,
+    "auto_reconcile_tolerance": 7.251,
+    "ledger_mismatch": 5.583,
+    "break_amount": -0.566,
+    "dispute_flag": -0.192
+  },
+  {
+    "transaction_volume": 11.248,
+    "auto_reconcile_tolerance": 13.308,
+    "ledger_mismatch": 11.143,
+    "break_amount": -0.119,
+    "dispute_flag": -0.21
+  },
+  {
+    "transaction_volume": 12.762,
+    "auto_reconcile_tolerance": 9.554,
+    "ledger_mismatch": 4.339,
+    "break_amount": -3.311,
+    "dispute_flag": -2.308
+  },
+  {
+    "transaction_volume": 9.963,
+    "auto_reconcile_tolerance": 11.609,
+    "ledger_mismatch": 10.313,
+    "break_amount": 0.439,
+    "dispute_flag": 0.193
+  },
+  {
+    "transaction_volume": 8.801,
+    "auto_reconcile_tolerance": 9.089,
+    "ledger_mismatch": 4.683,
+    "break_amount": -2.32,
+    "dispute_flag": -2.01
+  },
+  {
+    "transaction_volume": 10.597,
+    "auto_reconcile_tolerance": -1.651,
+    "ledger_mismatch": -2.756,
+    "break_amount": -0.924,
+    "dispute_flag": -0.974
+  },
+  {
+    "transaction_volume": 11.9,
+    "auto_reconcile_tolerance": 12.094,
+    "ledger_mismatch": 6.107,
+    "break_amount": -3.603,
+    "dispute_flag": -2.956
+  },
+  {
+    "transaction_volume": 13.41,
+    "auto_reconcile_tolerance": 14.943,
+    "ledger_mismatch": 13.88,
+    "break_amount": 0.695,
+    "dispute_flag": 0.598
+  },
+  {
+    "transaction_volume": 8.644,
+    "auto_reconcile_tolerance": 10.949,
+    "ledger_mismatch": 7.156,
+    "break_amount": -2.238,
+    "dispute_flag": -1.701
+  },
+  {
+    "transaction_volume": 11.384,
+    "auto_reconcile_tolerance": 10.125,
+    "ledger_mismatch": 7.15,
+    "break_amount": -1.647,
+    "dispute_flag": -1.124
+  },
+  {
+    "transaction_volume": 6.491,
+    "auto_reconcile_tolerance": 11.734,
+    "ledger_mismatch": 1.562,
+    "break_amount": -7.131,
+    "dispute_flag": -5.136
+  },
+  {
+    "transaction_volume": 9.409,
+    "auto_reconcile_tolerance": 20.249,
+    "ledger_mismatch": 16.29,
+    "break_amount": -1.054,
+    "dispute_flag": -0.548
+  },
+  {
+    "transaction_volume": 9.61,
+    "auto_reconcile_tolerance": 11.879,
+    "ledger_mismatch": 6.889,
+    "break_amount": -2.593,
+    "dispute_flag": -2.097
+  },
+  {
+    "transaction_volume": 9.134,
+    "auto_reconcile_tolerance": 8.754,
+    "ledger_mismatch": 3.827,
+    "break_amount": -3.454,
+    "dispute_flag": -2.269
+  },
+  {
+    "transaction_volume": 11.517,
+    "auto_reconcile_tolerance": 15.197,
+    "ledger_mismatch": 10.304,
+    "break_amount": -2.56,
+    "dispute_flag": -2.219
+  },
+  {
+    "transaction_volume": 8.875,
+    "auto_reconcile_tolerance": 3.995,
+    "ledger_mismatch": 1.05,
+    "break_amount": -1.986,
+    "dispute_flag": -1.718
+  },
+  {
+    "transaction_volume": 13.237,
+    "auto_reconcile_tolerance": 7.043,
+    "ledger_mismatch": 5.528,
+    "break_amount": -0.786,
+    "dispute_flag": -0.685
+  },
+  {
+    "transaction_volume": 9.608,
+    "auto_reconcile_tolerance": 14.255,
+    "ledger_mismatch": 7.658,
+    "break_amount": -3.471,
+    "dispute_flag": -2.674
+  },
+  {
+    "transaction_volume": 6.435,
+    "auto_reconcile_tolerance": 17.283,
+    "ledger_mismatch": 9.945,
+    "break_amount": -4.543,
+    "dispute_flag": -3.501
+  },
+  {
+    "transaction_volume": 10.256,
+    "auto_reconcile_tolerance": 5.889,
+    "ledger_mismatch": 4.429,
+    "break_amount": -0.915,
+    "dispute_flag": -0.73
+  },
+  {
+    "transaction_volume": 9.627,
+    "auto_reconcile_tolerance": 8.24,
+    "ledger_mismatch": 4.365,
+    "break_amount": -2.658,
+    "dispute_flag": -2.317
+  },
+  {
+    "transaction_volume": 8.87,
+    "auto_reconcile_tolerance": 11.181,
+    "ledger_mismatch": 10.833,
+    "break_amount": 0.999,
+    "dispute_flag": 0.758
+  },
+  {
+    "transaction_volume": 13.958,
+    "auto_reconcile_tolerance": 6.826,
+    "ledger_mismatch": 7.484,
+    "break_amount": 1.118,
+    "dispute_flag": 0.557
+  },
+  {
+    "transaction_volume": 8.946,
+    "auto_reconcile_tolerance": 10.168,
+    "ledger_mismatch": 4.142,
+    "break_amount": -4.009,
+    "dispute_flag": -3.072
+  },
+  {
+    "transaction_volume": 7.979,
+    "auto_reconcile_tolerance": 13.207,
+    "ledger_mismatch": 8.524,
+    "break_amount": -2.477,
+    "dispute_flag": -1.819
+  },
+  {
+    "transaction_volume": 9.075,
+    "auto_reconcile_tolerance": 4.334,
+    "ledger_mismatch": 0.233,
+    "break_amount": -3.16,
+    "dispute_flag": -2.237
+  },
+  {
+    "transaction_volume": 7.301,
+    "auto_reconcile_tolerance": -0.693,
+    "ledger_mismatch": -2.75,
+    "break_amount": -1.757,
+    "dispute_flag": -1.103
+  },
+  {
+    "transaction_volume": 8.759,
+    "auto_reconcile_tolerance": 12.878,
+    "ledger_mismatch": 7.793,
+    "break_amount": -2.546,
+    "dispute_flag": -1.937
+  },
+  {
+    "transaction_volume": 8.806,
+    "auto_reconcile_tolerance": 10.812,
+    "ledger_mismatch": 4.581,
+    "break_amount": -3.815,
+    "dispute_flag": -2.934
+  },
+  {
+    "transaction_volume": 7.281,
+    "auto_reconcile_tolerance": 6.079,
+    "ledger_mismatch": -0.785,
+    "break_amount": -4.869,
+    "dispute_flag": -3.406
+  },
+  {
+    "transaction_volume": 13.107,
+    "auto_reconcile_tolerance": 13.015,
+    "ledger_mismatch": 7.714,
+    "break_amount": -3.068,
+    "dispute_flag": -2.139
+  },
+  {
+    "transaction_volume": 7.724,
+    "auto_reconcile_tolerance": 14.756,
+    "ledger_mismatch": 8.531,
+    "break_amount": -3.622,
+    "dispute_flag": -2.716
+  },
+  {
+    "transaction_volume": 10.711,
+    "auto_reconcile_tolerance": 9.031,
+    "ledger_mismatch": 5.476,
+    "break_amount": -2.086,
+    "dispute_flag": -1.569
+  },
+  {
+    "transaction_volume": 10.135,
+    "auto_reconcile_tolerance": 8.661,
+    "ledger_mismatch": 4.958,
+    "break_amount": -2.151,
+    "dispute_flag": -1.968
+  },
+  {
+    "transaction_volume": 12.627,
+    "auto_reconcile_tolerance": 4.203,
+    "ledger_mismatch": 1.777,
+    "break_amount": -1.06,
+    "dispute_flag": -0.635
+  },
+  {
+    "transaction_volume": 8.481,
+    "auto_reconcile_tolerance": 9.462,
+    "ledger_mismatch": 2.412,
+    "break_amount": -4.434,
+    "dispute_flag": -3.577
+  },
+  {
+    "transaction_volume": 10.0,
+    "auto_reconcile_tolerance": 15.584,
+    "ledger_mismatch": 14.145,
+    "break_amount": 0.415,
+    "dispute_flag": 0.019
+  },
+  {
+    "transaction_volume": 10.659,
+    "auto_reconcile_tolerance": 7.208,
+    "ledger_mismatch": 5.592,
+    "break_amount": -0.798,
+    "dispute_flag": -0.507
+  },
+  {
+    "transaction_volume": 10.883,
+    "auto_reconcile_tolerance": 11.807,
+    "ledger_mismatch": 5.012,
+    "break_amount": -4.12,
+    "dispute_flag": -3.144
+  },
+  {
+    "transaction_volume": 11.238,
+    "auto_reconcile_tolerance": 7.239,
+    "ledger_mismatch": 4.849,
+    "break_amount": -1.256,
+    "dispute_flag": -0.633
+  },
+  {
+    "transaction_volume": 11.115,
+    "auto_reconcile_tolerance": 9.64,
+    "ledger_mismatch": 5.551,
+    "break_amount": -2.237,
+    "dispute_flag": -1.489
+  },
+  {
+    "transaction_volume": 7.155,
+    "auto_reconcile_tolerance": 11.005,
+    "ledger_mismatch": 6.434,
+    "break_amount": -2.791,
+    "dispute_flag": -1.743
+  },
+  {
+    "transaction_volume": 9.364,
+    "auto_reconcile_tolerance": 19.068,
+    "ledger_mismatch": 12.961,
+    "break_amount": -2.824,
+    "dispute_flag": -1.943
+  },
+  {
+    "transaction_volume": 11.555,
+    "auto_reconcile_tolerance": 7.753,
+    "ledger_mismatch": 1.668,
+    "break_amount": -4.315,
+    "dispute_flag": -3.253
+  },
+  {
+    "transaction_volume": 9.309,
+    "auto_reconcile_tolerance": 9.518,
+    "ledger_mismatch": 2.452,
+    "break_amount": -4.768,
+    "dispute_flag": -3.834
+  },
+  {
+    "transaction_volume": 11.53,
+    "auto_reconcile_tolerance": 9.239,
+    "ledger_mismatch": 4.461,
+    "break_amount": -2.935,
+    "dispute_flag": -2.153
+  },
+  {
+    "transaction_volume": 7.33,
+    "auto_reconcile_tolerance": 6.797,
+    "ledger_mismatch": 6.861,
+    "break_amount": 0.357,
+    "dispute_flag": 0.151
+  },
+  {
+    "transaction_volume": 9.651,
+    "auto_reconcile_tolerance": 11.458,
+    "ledger_mismatch": 6.178,
+    "break_amount": -3.013,
+    "dispute_flag": -2.687
+  },
+  {
+    "transaction_volume": 13.833,
+    "auto_reconcile_tolerance": 12.917,
+    "ledger_mismatch": 9.835,
+    "break_amount": -0.89,
+    "dispute_flag": -0.709
+  },
+  {
+    "transaction_volume": 10.885,
+    "auto_reconcile_tolerance": 15.58,
+    "ledger_mismatch": 11.76,
+    "break_amount": -1.585,
+    "dispute_flag": -0.788
+  },
+  {
+    "transaction_volume": 7.771,
+    "auto_reconcile_tolerance": 19.154,
+    "ledger_mismatch": 12.685,
+    "break_amount": -3.658,
+    "dispute_flag": -2.689
+  },
+  {
+    "transaction_volume": 10.35,
+    "auto_reconcile_tolerance": 6.691,
+    "ledger_mismatch": -0.348,
+    "break_amount": -5.113,
+    "dispute_flag": -4.058
+  },
+  {
+    "transaction_volume": 10.362,
+    "auto_reconcile_tolerance": 11.432,
+    "ledger_mismatch": 6.156,
+    "break_amount": -3.412,
+    "dispute_flag": -2.464
+  },
+  {
+    "transaction_volume": 9.818,
+    "auto_reconcile_tolerance": 9.802,
+    "ledger_mismatch": 5.118,
+    "break_amount": -3.065,
+    "dispute_flag": -2.171
+  },
+  {
+    "transaction_volume": 10.02,
+    "auto_reconcile_tolerance": 3.769,
+    "ledger_mismatch": 1.96,
+    "break_amount": -0.919,
+    "dispute_flag": -0.539
+  },
+  {
+    "transaction_volume": 5.921,
+    "auto_reconcile_tolerance": 7.954,
+    "ledger_mismatch": 2.173,
+    "break_amount": -3.817,
+    "dispute_flag": -2.745
+  },
+  {
+    "transaction_volume": 6.703,
+    "auto_reconcile_tolerance": 3.484,
+    "ledger_mismatch": 1.396,
+    "break_amount": -1.546,
+    "dispute_flag": -1.444
+  },
+  {
+    "transaction_volume": 8.831,
+    "auto_reconcile_tolerance": 4.375,
+    "ledger_mismatch": -0.912,
+    "break_amount": -4.394,
+    "dispute_flag": -3.572
+  },
+  {
+    "transaction_volume": 7.564,
+    "auto_reconcile_tolerance": 9.689,
+    "ledger_mismatch": 1.644,
+    "break_amount": -5.627,
+    "dispute_flag": -4.126
+  },
+  {
+    "transaction_volume": 12.066,
+    "auto_reconcile_tolerance": 15.477,
+    "ledger_mismatch": 7.374,
+    "break_amount": -5.12,
+    "dispute_flag": -3.789
+  },
+  {
+    "transaction_volume": 14.156,
+    "auto_reconcile_tolerance": 8.274,
+    "ledger_mismatch": 5.498,
+    "break_amount": -1.124,
+    "dispute_flag": -0.918
+  },
+  {
+    "transaction_volume": 11.203,
+    "auto_reconcile_tolerance": 5.329,
+    "ledger_mismatch": 3.269,
+    "break_amount": -1.177,
+    "dispute_flag": -1.277
+  },
+  {
+    "transaction_volume": 12.066,
+    "auto_reconcile_tolerance": 12.248,
+    "ledger_mismatch": 9.671,
+    "break_amount": -0.803,
+    "dispute_flag": -0.595
+  },
+  {
+    "transaction_volume": 11.489,
+    "auto_reconcile_tolerance": 9.312,
+    "ledger_mismatch": 5.343,
+    "break_amount": -2.218,
+    "dispute_flag": -1.419
+  },
+  {
+    "transaction_volume": 9.613,
+    "auto_reconcile_tolerance": 9.513,
+    "ledger_mismatch": 5.091,
+    "break_amount": -2.525,
+    "dispute_flag": -2.121
+  },
+  {
+    "transaction_volume": 9.992,
+    "auto_reconcile_tolerance": 8.321,
+    "ledger_mismatch": 1.873,
+    "break_amount": -4.125,
+    "dispute_flag": -3.207
+  },
+  {
+    "transaction_volume": 8.686,
+    "auto_reconcile_tolerance": 10.849,
+    "ledger_mismatch": 2.312,
+    "break_amount": -5.815,
+    "dispute_flag": -4.363
+  },
+  {
+    "transaction_volume": 12.873,
+    "auto_reconcile_tolerance": 10.248,
+    "ledger_mismatch": 7.832,
+    "break_amount": -0.587,
+    "dispute_flag": -0.156
+  },
+  {
+    "transaction_volume": 9.965,
+    "auto_reconcile_tolerance": 6.368,
+    "ledger_mismatch": 2.766,
+    "break_amount": -1.747,
+    "dispute_flag": -1.595
+  },
+  {
+    "transaction_volume": 7.777,
+    "auto_reconcile_tolerance": 5.089,
+    "ledger_mismatch": -1.172,
+    "break_amount": -4.555,
+    "dispute_flag": -3.282
+  },
+  {
+    "transaction_volume": 9.687,
+    "auto_reconcile_tolerance": 9.519,
+    "ledger_mismatch": 6.576,
+    "break_amount": -1.245,
+    "dispute_flag": -1.039
+  },
+  {
+    "transaction_volume": 8.478,
+    "auto_reconcile_tolerance": 8.038,
+    "ledger_mismatch": 3.737,
+    "break_amount": -2.859,
+    "dispute_flag": -1.743
+  },
+  {
+    "transaction_volume": 11.089,
+    "auto_reconcile_tolerance": 17.697,
+    "ledger_mismatch": 16.892,
+    "break_amount": 1.208,
+    "dispute_flag": 0.811
+  },
+  {
+    "transaction_volume": 11.563,
+    "auto_reconcile_tolerance": 6.642,
+    "ledger_mismatch": 4.958,
+    "break_amount": -0.474,
+    "dispute_flag": -0.129
+  },
+  {
+    "transaction_volume": 10.542,
+    "auto_reconcile_tolerance": 8.389,
+    "ledger_mismatch": 6.455,
+    "break_amount": -0.597,
+    "dispute_flag": -0.148
+  },
+  {
+    "transaction_volume": 9.588,
+    "auto_reconcile_tolerance": 2.014,
+    "ledger_mismatch": -1.188,
+    "break_amount": -2.489,
+    "dispute_flag": -1.536
+  },
+  {
+    "transaction_volume": 13.77,
+    "auto_reconcile_tolerance": 14.852,
+    "ledger_mismatch": 13.564,
+    "break_amount": 0.445,
+    "dispute_flag": 0.31
+  },
+  {
+    "transaction_volume": 8.101,
+    "auto_reconcile_tolerance": 9.618,
+    "ledger_mismatch": 4.522,
+    "break_amount": -3.366,
+    "dispute_flag": -2.409
+  },
+  {
+    "transaction_volume": 10.353,
+    "auto_reconcile_tolerance": 12.155,
+    "ledger_mismatch": 7.806,
+    "break_amount": -2.463,
+    "dispute_flag": -1.94
+  },
+  {
+    "transaction_volume": 11.379,
+    "auto_reconcile_tolerance": 10.427,
+    "ledger_mismatch": 5.067,
+    "break_amount": -3.174,
+    "dispute_flag": -2.907
+  },
+  {
+    "transaction_volume": 10.126,
+    "auto_reconcile_tolerance": 9.481,
+    "ledger_mismatch": 7.924,
+    "break_amount": -0.358,
+    "dispute_flag": -0.688
+  },
+  {
+    "transaction_volume": 11.0,
+    "auto_reconcile_tolerance": 11.397,
+    "ledger_mismatch": 8.885,
+    "break_amount": -0.81,
+    "dispute_flag": -0.496
+  },
+  {
+    "transaction_volume": 7.588,
+    "auto_reconcile_tolerance": 7.176,
+    "ledger_mismatch": 1.69,
+    "break_amount": -3.528,
+    "dispute_flag": -2.616
+  },
+  {
+    "transaction_volume": 9.578,
+    "auto_reconcile_tolerance": 17.672,
+    "ledger_mismatch": 12.929,
+    "break_amount": -2.27,
+    "dispute_flag": -1.574
+  },
+  {
+    "transaction_volume": 9.036,
+    "auto_reconcile_tolerance": 10.689,
+    "ledger_mismatch": 6.025,
+    "break_amount": -2.635,
+    "dispute_flag": -1.762
+  },
+  {
+    "transaction_volume": 9.133,
+    "auto_reconcile_tolerance": 8.951,
+    "ledger_mismatch": 3.63,
+    "break_amount": -3.219,
+    "dispute_flag": -2.183
+  },
+  {
+    "transaction_volume": 10.755,
+    "auto_reconcile_tolerance": 12.077,
+    "ledger_mismatch": 8.664,
+    "break_amount": -1.434,
+    "dispute_flag": -0.676
+  },
+  {
+    "transaction_volume": 9.453,
+    "auto_reconcile_tolerance": 13.512,
+    "ledger_mismatch": 9.744,
+    "break_amount": -1.469,
+    "dispute_flag": -1.651
+  },
+  {
+    "transaction_volume": 9.815,
+    "auto_reconcile_tolerance": 9.344,
+    "ledger_mismatch": 4.599,
+    "break_amount": -2.792,
+    "dispute_flag": -2.388
+  },
+  {
+    "transaction_volume": 11.541,
+    "auto_reconcile_tolerance": 9.457,
+    "ledger_mismatch": 3.877,
+    "break_amount": -3.661,
+    "dispute_flag": -2.607
+  },
+  {
+    "transaction_volume": 9.295,
+    "auto_reconcile_tolerance": 14.789,
+    "ledger_mismatch": 9.096,
+    "break_amount": -3.418,
+    "dispute_flag": -2.435
+  },
+  {
+    "transaction_volume": 12.563,
+    "auto_reconcile_tolerance": 12.727,
+    "ledger_mismatch": 10.824,
+    "break_amount": -0.386,
+    "dispute_flag": -0.38
+  },
+  {
+    "transaction_volume": 10.438,
+    "auto_reconcile_tolerance": 13.306,
+    "ledger_mismatch": 8.129,
+    "break_amount": -3.127,
+    "dispute_flag": -2.114
+  },
+  {
+    "transaction_volume": 10.902,
+    "auto_reconcile_tolerance": 12.732,
+    "ledger_mismatch": 9.098,
+    "break_amount": -1.692,
+    "dispute_flag": -1.106
+  },
+  {
+    "transaction_volume": 11.609,
+    "auto_reconcile_tolerance": 11.807,
+    "ledger_mismatch": 8.519,
+    "break_amount": -1.685,
+    "dispute_flag": -1.559
+  },
+  {
+    "transaction_volume": 10.388,
+    "auto_reconcile_tolerance": 10.995,
+    "ledger_mismatch": 7.959,
+    "break_amount": -1.5,
+    "dispute_flag": -1.08
+  },
+  {
+    "transaction_volume": 9.074,
+    "auto_reconcile_tolerance": 3.479,
+    "ledger_mismatch": 2.415,
+    "break_amount": -0.258,
+    "dispute_flag": -0.416
+  },
+  {
+    "transaction_volume": 10.512,
+    "auto_reconcile_tolerance": 8.925,
+    "ledger_mismatch": 5.524,
+    "break_amount": -2.104,
+    "dispute_flag": -1.4
+  },
+  {
+    "transaction_volume": 10.876,
+    "auto_reconcile_tolerance": 4.156,
+    "ledger_mismatch": 4.993,
+    "break_amount": 0.999,
+    "dispute_flag": 0.612
+  },
+  {
+    "transaction_volume": 8.731,
+    "auto_reconcile_tolerance": 4.59,
+    "ledger_mismatch": 1.377,
+    "break_amount": -1.908,
+    "dispute_flag": -1.508
+  },
+  {
+    "transaction_volume": 10.732,
+    "auto_reconcile_tolerance": 14.091,
+    "ledger_mismatch": 9.106,
+    "break_amount": -2.909,
+    "dispute_flag": -2.082
+  },
+  {
+    "transaction_volume": 9.76,
+    "auto_reconcile_tolerance": 9.459,
+    "ledger_mismatch": 4.455,
+    "break_amount": -2.976,
+    "dispute_flag": -2.265
+  },
+  {
+    "transaction_volume": 12.829,
+    "auto_reconcile_tolerance": 11.387,
+    "ledger_mismatch": 8.763,
+    "break_amount": -1.074,
+    "dispute_flag": -0.625
+  },
+  {
+    "transaction_volume": 10.131,
+    "auto_reconcile_tolerance": 6.601,
+    "ledger_mismatch": 3.903,
+    "break_amount": -1.566,
+    "dispute_flag": -1.209
+  },
+  {
+    "transaction_volume": 13.853,
+    "auto_reconcile_tolerance": 5.406,
+    "ledger_mismatch": 5.528,
+    "break_amount": 0.856,
+    "dispute_flag": 0.917
+  },
+  {
+    "transaction_volume": 10.306,
+    "auto_reconcile_tolerance": 14.822,
+    "ledger_mismatch": 11.217,
+    "break_amount": -1.577,
+    "dispute_flag": -0.987
+  },
+  {
+    "transaction_volume": 8.684,
+    "auto_reconcile_tolerance": 9.029,
+    "ledger_mismatch": 5.061,
+    "break_amount": -2.178,
+    "dispute_flag": -1.448
+  },
+  {
+    "transaction_volume": 11.833,
+    "auto_reconcile_tolerance": 5.546,
+    "ledger_mismatch": 2.298,
+    "break_amount": -2.112,
+    "dispute_flag": -1.824
+  },
+  {
+    "transaction_volume": 10.599,
+    "auto_reconcile_tolerance": 9.073,
+    "ledger_mismatch": 2.943,
+    "break_amount": -3.829,
+    "dispute_flag": -2.732
+  },
+  {
+    "transaction_volume": 12.406,
+    "auto_reconcile_tolerance": 12.003,
+    "ledger_mismatch": 9.12,
+    "break_amount": -1.247,
+    "dispute_flag": -0.856
+  },
+  {
+    "transaction_volume": 8.209,
+    "auto_reconcile_tolerance": 13.583,
+    "ledger_mismatch": 8.129,
+    "break_amount": -3.206,
+    "dispute_flag": -2.556
+  },
+  {
+    "transaction_volume": 10.329,
+    "auto_reconcile_tolerance": 5.804,
+    "ledger_mismatch": 3.847,
+    "break_amount": -0.782,
+    "dispute_flag": -0.595
+  },
+  {
+    "transaction_volume": 9.299,
+    "auto_reconcile_tolerance": 9.775,
+    "ledger_mismatch": 3.603,
+    "break_amount": -3.775,
+    "dispute_flag": -2.907
+  },
+  {
+    "transaction_volume": 13.614,
+    "auto_reconcile_tolerance": 13.098,
+    "ledger_mismatch": 11.171,
+    "break_amount": -0.235,
+    "dispute_flag": -0.624
+  },
+  {
+    "transaction_volume": 12.628,
+    "auto_reconcile_tolerance": 11.248,
+    "ledger_mismatch": 5.983,
+    "break_amount": -3.024,
+    "dispute_flag": -2.25
+  },
+  {
+    "transaction_volume": 10.1,
+    "auto_reconcile_tolerance": 14.381,
+    "ledger_mismatch": 9.337,
+    "break_amount": -2.616,
+    "dispute_flag": -2.314
+  },
+  {
+    "transaction_volume": 12.047,
+    "auto_reconcile_tolerance": 9.887,
+    "ledger_mismatch": 5.592,
+    "break_amount": -2.636,
+    "dispute_flag": -1.983
+  },
+  {
+    "transaction_volume": 9.13,
+    "auto_reconcile_tolerance": 9.899,
+    "ledger_mismatch": 7.25,
+    "break_amount": -1.16,
+    "dispute_flag": -0.847
+  },
+  {
+    "transaction_volume": 11.48,
+    "auto_reconcile_tolerance": 7.135,
+    "ledger_mismatch": 5.093,
+    "break_amount": -0.955,
+    "dispute_flag": -0.522
+  },
+  {
+    "transaction_volume": 7.411,
+    "auto_reconcile_tolerance": 3.748,
+    "ledger_mismatch": -2.148,
+    "break_amount": -4.246,
+    "dispute_flag": -3.271
+  },
+  {
+    "transaction_volume": 10.477,
+    "auto_reconcile_tolerance": 10.858,
+    "ledger_mismatch": 7.655,
+    "break_amount": -1.534,
+    "dispute_flag": -0.918
+  },
+  {
+    "transaction_volume": 10.825,
+    "auto_reconcile_tolerance": 0.292,
+    "ledger_mismatch": -3.025,
+    "break_amount": -2.717,
+    "dispute_flag": -1.902
+  },
+  {
+    "transaction_volume": 11.428,
+    "auto_reconcile_tolerance": 17.696,
+    "ledger_mismatch": 13.046,
+    "break_amount": -1.925,
+    "dispute_flag": -1.952
+  },
+  {
+    "transaction_volume": 11.267,
+    "auto_reconcile_tolerance": 10.15,
+    "ledger_mismatch": 3.255,
+    "break_amount": -4.467,
+    "dispute_flag": -3.208
+  },
+  {
+    "transaction_volume": 9.382,
+    "auto_reconcile_tolerance": 10.472,
+    "ledger_mismatch": 6.224,
+    "break_amount": -2.401,
+    "dispute_flag": -1.765
+  },
+  {
+    "transaction_volume": 12.238,
+    "auto_reconcile_tolerance": 9.52,
+    "ledger_mismatch": 5.44,
+    "break_amount": -2.306,
+    "dispute_flag": -1.582
+  },
+  {
+    "transaction_volume": 9.919,
+    "auto_reconcile_tolerance": 9.793,
+    "ledger_mismatch": 6.042,
+    "break_amount": -2.041,
+    "dispute_flag": -1.703
+  },
+  {
+    "transaction_volume": 7.466,
+    "auto_reconcile_tolerance": 6.974,
+    "ledger_mismatch": 1.613,
+    "break_amount": -3.341,
+    "dispute_flag": -2.867
+  },
+  {
+    "transaction_volume": 6.545,
+    "auto_reconcile_tolerance": 5.381,
+    "ledger_mismatch": -0.397,
+    "break_amount": -3.988,
+    "dispute_flag": -2.847
+  },
+  {
+    "transaction_volume": 7.592,
+    "auto_reconcile_tolerance": 5.707,
+    "ledger_mismatch": 0.436,
+    "break_amount": -3.544,
+    "dispute_flag": -2.574
+  },
+  {
+    "transaction_volume": 6.848,
+    "auto_reconcile_tolerance": 6.656,
+    "ledger_mismatch": -0.702,
+    "break_amount": -5.236,
+    "dispute_flag": -3.78
+  },
+  {
+    "transaction_volume": 8.893,
+    "auto_reconcile_tolerance": 10.058,
+    "ledger_mismatch": 4.732,
+    "break_amount": -3.307,
+    "dispute_flag": -2.708
+  },
+  {
+    "transaction_volume": 10.863,
+    "auto_reconcile_tolerance": 6.945,
+    "ledger_mismatch": 2.49,
+    "break_amount": -3.131,
+    "dispute_flag": -2.635
+  },
+  {
+    "transaction_volume": 8.586,
+    "auto_reconcile_tolerance": 16.685,
+    "ledger_mismatch": 7.241,
+    "break_amount": -5.858,
+    "dispute_flag": -4.701
+  },
+  {
+    "transaction_volume": 10.531,
+    "auto_reconcile_tolerance": 12.328,
+    "ledger_mismatch": 8.256,
+    "break_amount": -1.908,
+    "dispute_flag": -1.339
+  },
+  {
+    "transaction_volume": 9.592,
+    "auto_reconcile_tolerance": 5.137,
+    "ledger_mismatch": 1.946,
+    "break_amount": -2.031,
+    "dispute_flag": -1.586
+  },
+  {
+    "transaction_volume": 11.424,
+    "auto_reconcile_tolerance": 14.792,
+    "ledger_mismatch": 7.626,
+    "break_amount": -4.325,
+    "dispute_flag": -3.28
+  },
+  {
+    "transaction_volume": 11.584,
+    "auto_reconcile_tolerance": 9.002,
+    "ledger_mismatch": 6.054,
+    "break_amount": -1.277,
+    "dispute_flag": -0.884
+  },
+  {
+    "transaction_volume": 9.26,
+    "auto_reconcile_tolerance": 3.98,
+    "ledger_mismatch": 1.578,
+    "break_amount": -1.492,
+    "dispute_flag": -1.04
+  },
+  {
+    "transaction_volume": 5.731,
+    "auto_reconcile_tolerance": 8.481,
+    "ledger_mismatch": -1.377,
+    "break_amount": -7.205,
+    "dispute_flag": -5.8
+  },
+  {
+    "transaction_volume": 10.35,
+    "auto_reconcile_tolerance": 12.848,
+    "ledger_mismatch": 5.85,
+    "break_amount": -4.367,
+    "dispute_flag": -3.402
+  },
+  {
+    "transaction_volume": 11.769,
+    "auto_reconcile_tolerance": 11.822,
+    "ledger_mismatch": 7.103,
+    "break_amount": -2.667,
+    "dispute_flag": -2.165
+  },
+  {
+    "transaction_volume": 11.8,
+    "auto_reconcile_tolerance": 7.076,
+    "ledger_mismatch": 1.128,
+    "break_amount": -4.049,
+    "dispute_flag": -3.236
+  },
+  {
+    "transaction_volume": 15.208,
+    "auto_reconcile_tolerance": 7.834,
+    "ledger_mismatch": 7.758,
+    "break_amount": 0.842,
+    "dispute_flag": 0.784
+  },
+  {
+    "transaction_volume": 9.241,
+    "auto_reconcile_tolerance": 14.866,
+    "ledger_mismatch": 11.086,
+    "break_amount": -1.351,
+    "dispute_flag": -0.768
+  },
+  {
+    "transaction_volume": 9.684,
+    "auto_reconcile_tolerance": 15.627,
+    "ledger_mismatch": 9.717,
+    "break_amount": -3.304,
+    "dispute_flag": -2.336
+  },
+  {
+    "transaction_volume": 12.533,
+    "auto_reconcile_tolerance": 8.536,
+    "ledger_mismatch": 8.681,
+    "break_amount": 0.871,
+    "dispute_flag": 0.463
+  },
+  {
+    "transaction_volume": 9.344,
+    "auto_reconcile_tolerance": 7.202,
+    "ledger_mismatch": 3.311,
+    "break_amount": -2.912,
+    "dispute_flag": -2.254
+  },
+  {
+    "transaction_volume": 9.445,
+    "auto_reconcile_tolerance": 9.968,
+    "ledger_mismatch": 2.105,
+    "break_amount": -5.308,
+    "dispute_flag": -3.696
+  },
+  {
+    "transaction_volume": 9.838,
+    "auto_reconcile_tolerance": 7.727,
+    "ledger_mismatch": 4.871,
+    "break_amount": -1.603,
+    "dispute_flag": -0.946
+  },
+  {
+    "transaction_volume": 8.779,
+    "auto_reconcile_tolerance": 12.835,
+    "ledger_mismatch": 6.995,
+    "break_amount": -3.568,
+    "dispute_flag": -1.98
+  },
+  {
+    "transaction_volume": 6.456,
+    "auto_reconcile_tolerance": 16.183,
+    "ledger_mismatch": 10.208,
+    "break_amount": -2.907,
+    "dispute_flag": -2.463
+  },
+  {
+    "transaction_volume": 9.857,
+    "auto_reconcile_tolerance": 14.734,
+    "ledger_mismatch": 8.871,
+    "break_amount": -3.393,
+    "dispute_flag": -2.381
+  },
+  {
+    "transaction_volume": 8.766,
+    "auto_reconcile_tolerance": 13.294,
+    "ledger_mismatch": 8.61,
+    "break_amount": -2.538,
+    "dispute_flag": -2.075
+  },
+  {
+    "transaction_volume": 8.901,
+    "auto_reconcile_tolerance": 11.072,
+    "ledger_mismatch": 3.432,
+    "break_amount": -4.774,
+    "dispute_flag": -3.475
+  },
+  {
+    "transaction_volume": 7.885,
+    "auto_reconcile_tolerance": 16.406,
+    "ledger_mismatch": 10.098,
+    "break_amount": -3.557,
+    "dispute_flag": -2.728
+  },
+  {
+    "transaction_volume": 11.611,
+    "auto_reconcile_tolerance": 6.579,
+    "ledger_mismatch": 1.03,
+    "break_amount": -3.731,
+    "dispute_flag": -3.032
+  },
+  {
+    "transaction_volume": 8.582,
+    "auto_reconcile_tolerance": 16.467,
+    "ledger_mismatch": 7.662,
+    "break_amount": -5.162,
+    "dispute_flag": -4.058
+  },
+  {
+    "transaction_volume": 4.74,
+    "auto_reconcile_tolerance": 10.508,
+    "ledger_mismatch": 2.841,
+    "break_amount": -5.354,
+    "dispute_flag": -3.928
+  },
+  {
+    "transaction_volume": 8.747,
+    "auto_reconcile_tolerance": 8.776,
+    "ledger_mismatch": 4.208,
+    "break_amount": -2.945,
+    "dispute_flag": -2.284
+  },
+  {
+    "transaction_volume": 8.743,
+    "auto_reconcile_tolerance": 5.366,
+    "ledger_mismatch": -0.411,
+    "break_amount": -4.159,
+    "dispute_flag": -3.446
+  },
+  {
+    "transaction_volume": 7.08,
+    "auto_reconcile_tolerance": 9.748,
+    "ledger_mismatch": 2.198,
+    "break_amount": -4.808,
+    "dispute_flag": -3.687
+  },
+  {
+    "transaction_volume": 9.986,
+    "auto_reconcile_tolerance": 11.818,
+    "ledger_mismatch": 6.743,
+    "break_amount": -2.719,
+    "dispute_flag": -2.245
+  },
+  {
+    "transaction_volume": 6.566,
+    "auto_reconcile_tolerance": 3.062,
+    "ledger_mismatch": -0.903,
+    "break_amount": -2.846,
+    "dispute_flag": -2.254
+  },
+  {
+    "transaction_volume": 11.337,
+    "auto_reconcile_tolerance": 14.464,
+    "ledger_mismatch": 11.467,
+    "break_amount": -1.131,
+    "dispute_flag": -0.764
+  },
+  {
+    "transaction_volume": 10.879,
+    "auto_reconcile_tolerance": 8.74,
+    "ledger_mismatch": 5.6,
+    "break_amount": -1.286,
+    "dispute_flag": -1.176
+  },
+  {
+    "transaction_volume": 11.594,
+    "auto_reconcile_tolerance": 12.401,
+    "ledger_mismatch": 7.596,
+    "break_amount": -2.42,
+    "dispute_flag": -1.725
+  },
+  {
+    "transaction_volume": 12.544,
+    "auto_reconcile_tolerance": 13.88,
+    "ledger_mismatch": 8.372,
+    "break_amount": -3.056,
+    "dispute_flag": -2.149
+  },
+  {
+    "transaction_volume": 13.541,
+    "auto_reconcile_tolerance": 7.942,
+    "ledger_mismatch": 3.544,
+    "break_amount": -2.886,
+    "dispute_flag": -1.954
+  },
+  {
+    "transaction_volume": 8.0,
+    "auto_reconcile_tolerance": 8.087,
+    "ledger_mismatch": 2.78,
+    "break_amount": -3.176,
+    "dispute_flag": -2.107
+  },
+  {
+    "transaction_volume": 10.274,
+    "auto_reconcile_tolerance": 8.711,
+    "ledger_mismatch": 5.227,
+    "break_amount": -1.997,
+    "dispute_flag": -1.767
+  },
+  {
+    "transaction_volume": 10.042,
+    "auto_reconcile_tolerance": 8.821,
+    "ledger_mismatch": 6.765,
+    "break_amount": -0.901,
+    "dispute_flag": -0.719
+  },
+  {
+    "transaction_volume": 11.267,
+    "auto_reconcile_tolerance": 8.245,
+    "ledger_mismatch": 5.031,
+    "break_amount": -1.826,
+    "dispute_flag": -0.973
+  },
+  {
+    "transaction_volume": 8.797,
+    "auto_reconcile_tolerance": 14.126,
+    "ledger_mismatch": 9.151,
+    "break_amount": -2.348,
+    "dispute_flag": -1.963
+  },
+  {
+    "transaction_volume": 9.623,
+    "auto_reconcile_tolerance": 13.807,
+    "ledger_mismatch": 10.086,
+    "break_amount": -1.303,
+    "dispute_flag": -1.066
+  },
+  {
+    "transaction_volume": 6.539,
+    "auto_reconcile_tolerance": 9.214,
+    "ledger_mismatch": 4.54,
+    "break_amount": -2.718,
+    "dispute_flag": -2.117
+  },
+  {
+    "transaction_volume": 12.409,
+    "auto_reconcile_tolerance": 13.594,
+    "ledger_mismatch": 8.876,
+    "break_amount": -2.628,
+    "dispute_flag": -1.922
+  },
+  {
+    "transaction_volume": 9.218,
+    "auto_reconcile_tolerance": 11.525,
+    "ledger_mismatch": 9.297,
+    "break_amount": -0.298,
+    "dispute_flag": -0.267
+  },
+  {
+    "transaction_volume": 12.15,
+    "auto_reconcile_tolerance": 14.893,
+    "ledger_mismatch": 9.325,
+    "break_amount": -3.149,
+    "dispute_flag": -2.041
+  },
+  {
+    "transaction_volume": 6.042,
+    "auto_reconcile_tolerance": 16.008,
+    "ledger_mismatch": 6.992,
+    "break_amount": -5.912,
+    "dispute_flag": -4.605
+  },
+  {
+    "transaction_volume": 13.699,
+    "auto_reconcile_tolerance": 9.297,
+    "ledger_mismatch": 6.406,
+    "break_amount": -1.582,
+    "dispute_flag": -1.131
+  },
+  {
+    "transaction_volume": 12.558,
+    "auto_reconcile_tolerance": 13.379,
+    "ledger_mismatch": 10.65,
+    "break_amount": -0.903,
+    "dispute_flag": -0.659
+  },
+  {
+    "transaction_volume": 10.039,
+    "auto_reconcile_tolerance": 9.884,
+    "ledger_mismatch": 7.203,
+    "break_amount": -1.309,
+    "dispute_flag": -0.911
+  },
+  {
+    "transaction_volume": 10.083,
+    "auto_reconcile_tolerance": 10.315,
+    "ledger_mismatch": 7.172,
+    "break_amount": -1.822,
+    "dispute_flag": -1.618
+  },
+  {
+    "transaction_volume": 11.303,
+    "auto_reconcile_tolerance": 2.941,
+    "ledger_mismatch": 3.703,
+    "break_amount": 0.762,
+    "dispute_flag": 0.479
+  },
+  {
+    "transaction_volume": 10.267,
+    "auto_reconcile_tolerance": 2.898,
+    "ledger_mismatch": 1.137,
+    "break_amount": -0.751,
+    "dispute_flag": -0.64
+  },
+  {
+    "transaction_volume": 6.961,
+    "auto_reconcile_tolerance": 9.1,
+    "ledger_mismatch": 1.65,
+    "break_amount": -5.189,
+    "dispute_flag": -3.745
+  },
+  {
+    "transaction_volume": 12.17,
+    "auto_reconcile_tolerance": 5.417,
+    "ledger_mismatch": 1.403,
+    "break_amount": -2.821,
+    "dispute_flag": -1.962
+  },
+  {
+    "transaction_volume": 9.236,
+    "auto_reconcile_tolerance": 6.162,
+    "ledger_mismatch": 3.765,
+    "break_amount": -1.191,
+    "dispute_flag": -0.989
+  },
+  {
+    "transaction_volume": 13.744,
+    "auto_reconcile_tolerance": 16.739,
+    "ledger_mismatch": 11.779,
+    "break_amount": -2.175,
+    "dispute_flag": -1.334
+  },
+  {
+    "transaction_volume": 9.001,
+    "auto_reconcile_tolerance": 8.199,
+    "ledger_mismatch": 0.151,
+    "break_amount": -5.774,
+    "dispute_flag": -4.482
+  },
+  {
+    "transaction_volume": 11.247,
+    "auto_reconcile_tolerance": 2.446,
+    "ledger_mismatch": 3.492,
+    "break_amount": 1.227,
+    "dispute_flag": 1.121
+  },
+  {
+    "transaction_volume": 9.66,
+    "auto_reconcile_tolerance": 16.089,
+    "ledger_mismatch": 7.586,
+    "break_amount": -5.044,
+    "dispute_flag": -3.456
+  },
+  {
+    "transaction_volume": 10.397,
+    "auto_reconcile_tolerance": 7.961,
+    "ledger_mismatch": 3.869,
+    "break_amount": -2.509,
+    "dispute_flag": -2.055
+  },
+  {
+    "transaction_volume": 5.545,
+    "auto_reconcile_tolerance": 9.651,
+    "ledger_mismatch": -0.535,
+    "break_amount": -7.189,
+    "dispute_flag": -5.661
+  },
+  {
+    "transaction_volume": 8.637,
+    "auto_reconcile_tolerance": 7.035,
+    "ledger_mismatch": 2.334,
+    "break_amount": -2.505,
+    "dispute_flag": -1.812
+  },
+  {
+    "transaction_volume": 11.287,
+    "auto_reconcile_tolerance": 8.106,
+    "ledger_mismatch": 6.382,
+    "break_amount": -0.213,
+    "dispute_flag": -0.12
+  },
+  {
+    "transaction_volume": 10.493,
+    "auto_reconcile_tolerance": 13.195,
+    "ledger_mismatch": 6.154,
+    "break_amount": -4.222,
+    "dispute_flag": -2.987
+  },
+  {
+    "transaction_volume": 10.454,
+    "auto_reconcile_tolerance": 14.011,
+    "ledger_mismatch": 12.262,
+    "break_amount": -0.041,
+    "dispute_flag": 0.103
+  },
+  {
+    "transaction_volume": 10.93,
+    "auto_reconcile_tolerance": 10.508,
+    "ledger_mismatch": 6.825,
+    "break_amount": -1.779,
+    "dispute_flag": -1.418
+  },
+  {
+    "transaction_volume": 9.723,
+    "auto_reconcile_tolerance": 2.291,
+    "ledger_mismatch": -0.17,
+    "break_amount": -1.704,
+    "dispute_flag": -1.001
+  },
+  {
+    "transaction_volume": 10.894,
+    "auto_reconcile_tolerance": 7.216,
+    "ledger_mismatch": 4.263,
+    "break_amount": -1.367,
+    "dispute_flag": -0.894
+  },
+  {
+    "transaction_volume": 6.95,
+    "auto_reconcile_tolerance": 10.969,
+    "ledger_mismatch": 6.412,
+    "break_amount": -2.665,
+    "dispute_flag": -1.843
+  },
+  {
+    "transaction_volume": 15.409,
+    "auto_reconcile_tolerance": 9.364,
+    "ledger_mismatch": 5.749,
+    "break_amount": -1.991,
+    "dispute_flag": -1.716
+  },
+  {
+    "transaction_volume": 9.249,
+    "auto_reconcile_tolerance": 7.392,
+    "ledger_mismatch": 3.818,
+    "break_amount": -2.27,
+    "dispute_flag": -1.562
+  },
+  {
+    "transaction_volume": 7.785,
+    "auto_reconcile_tolerance": 17.469,
+    "ledger_mismatch": 6.86,
+    "break_amount": -6.8,
+    "dispute_flag": -4.743
+  },
+  {
+    "transaction_volume": 11.449,
+    "auto_reconcile_tolerance": 12.129,
+    "ledger_mismatch": 7.652,
+    "break_amount": -1.944,
+    "dispute_flag": -1.443
+  },
+  {
+    "transaction_volume": 8.977,
+    "auto_reconcile_tolerance": 13.182,
+    "ledger_mismatch": 6.216,
+    "break_amount": -4.181,
+    "dispute_flag": -3.323
+  },
+  {
+    "transaction_volume": 10.173,
+    "auto_reconcile_tolerance": 6.43,
+    "ledger_mismatch": 0.563,
+    "break_amount": -4.056,
+    "dispute_flag": -3.079
+  },
+  {
+    "transaction_volume": 8.791,
+    "auto_reconcile_tolerance": 13.139,
+    "ledger_mismatch": 7.702,
+    "break_amount": -2.802,
+    "dispute_flag": -2.148
+  },
+  {
+    "transaction_volume": 9.835,
+    "auto_reconcile_tolerance": 15.098,
+    "ledger_mismatch": 10.433,
+    "break_amount": -2.292,
+    "dispute_flag": -1.627
+  },
+  {
+    "transaction_volume": 9.948,
+    "auto_reconcile_tolerance": 8.074,
+    "ledger_mismatch": 5.85,
+    "break_amount": -1.187,
+    "dispute_flag": -0.575
+  },
+  {
+    "transaction_volume": 10.064,
+    "auto_reconcile_tolerance": 18.264,
+    "ledger_mismatch": 13.213,
+    "break_amount": -2.523,
+    "dispute_flag": -2.052
+  },
+  {
+    "transaction_volume": 12.629,
+    "auto_reconcile_tolerance": 8.86,
+    "ledger_mismatch": 9.197,
+    "break_amount": 1.05,
+    "dispute_flag": 0.338
+  },
+  {
+    "transaction_volume": 8.937,
+    "auto_reconcile_tolerance": 9.461,
+    "ledger_mismatch": 5.644,
+    "break_amount": -1.746,
+    "dispute_flag": -1.519
+  },
+  {
+    "transaction_volume": 4.912,
+    "auto_reconcile_tolerance": 14.975,
+    "ledger_mismatch": 6.521,
+    "break_amount": -5.554,
+    "dispute_flag": -3.961
+  },
+  {
+    "transaction_volume": 10.352,
+    "auto_reconcile_tolerance": 9.178,
+    "ledger_mismatch": 7.01,
+    "break_amount": -1.03,
+    "dispute_flag": -0.787
+  },
+  {
+    "transaction_volume": 12.002,
+    "auto_reconcile_tolerance": 5.325,
+    "ledger_mismatch": 3.965,
+    "break_amount": -0.771,
+    "dispute_flag": -0.495
+  },
+  {
+    "transaction_volume": 15.487,
+    "auto_reconcile_tolerance": 2.796,
+    "ledger_mismatch": 4.902,
+    "break_amount": 1.656,
+    "dispute_flag": 1.293
+  },
+  {
+    "transaction_volume": 7.564,
+    "auto_reconcile_tolerance": 12.849,
+    "ledger_mismatch": 6.74,
+    "break_amount": -3.885,
+    "dispute_flag": -2.89
+  },
+  {
+    "transaction_volume": 13.076,
+    "auto_reconcile_tolerance": 5.737,
+    "ledger_mismatch": 6.417,
+    "break_amount": 1.175,
+    "dispute_flag": 0.62
+  },
+  {
+    "transaction_volume": 15.952,
+    "auto_reconcile_tolerance": 12.996,
+    "ledger_mismatch": 12.278,
+    "break_amount": 0.781,
+    "dispute_flag": 0.823
+  },
+  {
+    "transaction_volume": 8.906,
+    "auto_reconcile_tolerance": 11.421,
+    "ledger_mismatch": 3.528,
+    "break_amount": -5.105,
+    "dispute_flag": -3.666
+  },
+  {
+    "transaction_volume": 8.109,
+    "auto_reconcile_tolerance": 13.994,
+    "ledger_mismatch": 9.566,
+    "break_amount": -2.095,
+    "dispute_flag": -1.873
+  },
+  {
+    "transaction_volume": 8.847,
+    "auto_reconcile_tolerance": -3.337,
+    "ledger_mismatch": -4.797,
+    "break_amount": -1.616,
+    "dispute_flag": -1.034
+  },
+  {
+    "transaction_volume": 8.583,
+    "auto_reconcile_tolerance": 15.218,
+    "ledger_mismatch": 8.234,
+    "break_amount": -4.021,
+    "dispute_flag": -2.866
+  },
+  {
+    "transaction_volume": 10.234,
+    "auto_reconcile_tolerance": 12.052,
+    "ledger_mismatch": 3.36,
+    "break_amount": -5.915,
+    "dispute_flag": -4.272
+  },
+  {
+    "transaction_volume": 8.433,
+    "auto_reconcile_tolerance": 11.615,
+    "ledger_mismatch": 5.382,
+    "break_amount": -3.981,
+    "dispute_flag": -2.974
+  },
+  {
+    "transaction_volume": 12.746,
+    "auto_reconcile_tolerance": 9.852,
+    "ledger_mismatch": 6.65,
+    "break_amount": -1.581,
+    "dispute_flag": -1.139
+  },
+  {
+    "transaction_volume": 10.658,
+    "auto_reconcile_tolerance": 12.663,
+    "ledger_mismatch": 8.934,
+    "break_amount": -1.524,
+    "dispute_flag": -1.192
+  },
+  {
+    "transaction_volume": 11.987,
+    "auto_reconcile_tolerance": 7.755,
+    "ledger_mismatch": 6.052,
+    "break_amount": -0.776,
+    "dispute_flag": -0.385
+  },
+  {
+    "transaction_volume": 11.972,
+    "auto_reconcile_tolerance": 13.726,
+    "ledger_mismatch": 11.13,
+    "break_amount": -0.423,
+    "dispute_flag": -0.565
+  },
+  {
+    "transaction_volume": 12.736,
+    "auto_reconcile_tolerance": 9.452,
+    "ledger_mismatch": 6.111,
+    "break_amount": -2.037,
+    "dispute_flag": -1.763
+  },
+  {
+    "transaction_volume": 10.685,
+    "auto_reconcile_tolerance": 7.542,
+    "ledger_mismatch": 3.927,
+    "break_amount": -2.436,
+    "dispute_flag": -1.33
+  },
+  {
+    "transaction_volume": 14.199,
+    "auto_reconcile_tolerance": 12.571,
+    "ledger_mismatch": 10.284,
+    "break_amount": -0.939,
+    "dispute_flag": -0.901
+  },
+  {
+    "transaction_volume": 13.244,
+    "auto_reconcile_tolerance": 5.718,
+    "ledger_mismatch": 7.125,
+    "break_amount": 1.852,
+    "dispute_flag": 1.513
+  },
+  {
+    "transaction_volume": 8.776,
+    "auto_reconcile_tolerance": 14.208,
+    "ledger_mismatch": 9.014,
+    "break_amount": -2.734,
+    "dispute_flag": -2.025
+  },
+  {
+    "transaction_volume": 8.968,
+    "auto_reconcile_tolerance": 9.102,
+    "ledger_mismatch": 5.922,
+    "break_amount": -1.812,
+    "dispute_flag": -1.624
+  },
+  {
+    "transaction_volume": 9.279,
+    "auto_reconcile_tolerance": 11.433,
+    "ledger_mismatch": 5.168,
+    "break_amount": -3.663,
+    "dispute_flag": -2.763
+  },
+  {
+    "transaction_volume": 9.65,
+    "auto_reconcile_tolerance": 12.931,
+    "ledger_mismatch": 11.118,
+    "break_amount": -0.266,
+    "dispute_flag": -0.227
+  },
+  {
+    "transaction_volume": 8.492,
+    "auto_reconcile_tolerance": 5.145,
+    "ledger_mismatch": 2.263,
+    "break_amount": -1.488,
+    "dispute_flag": -1.163
+  },
+  {
+    "transaction_volume": 4.661,
+    "auto_reconcile_tolerance": 8.007,
+    "ledger_mismatch": -1.263,
+    "break_amount": -6.412,
+    "dispute_flag": -4.788
+  },
+  {
+    "transaction_volume": 11.272,
+    "auto_reconcile_tolerance": 13.337,
+    "ledger_mismatch": 9.198,
+    "break_amount": -2.175,
+    "dispute_flag": -1.666
+  },
+  {
+    "transaction_volume": 11.127,
+    "auto_reconcile_tolerance": 13.767,
+    "ledger_mismatch": 7.413,
+    "break_amount": -4.093,
+    "dispute_flag": -2.786
+  },
+  {
+    "transaction_volume": 10.543,
+    "auto_reconcile_tolerance": 15.158,
+    "ledger_mismatch": 8.749,
+    "break_amount": -4.051,
+    "dispute_flag": -2.911
+  },
+  {
+    "transaction_volume": 8.457,
+    "auto_reconcile_tolerance": 11.974,
+    "ledger_mismatch": 7.56,
+    "break_amount": -2.919,
+    "dispute_flag": -2.072
+  },
+  {
+    "transaction_volume": 9.019,
+    "auto_reconcile_tolerance": 10.994,
+    "ledger_mismatch": 5.571,
+    "break_amount": -3.328,
+    "dispute_flag": -2.512
+  },
+  {
+    "transaction_volume": 10.579,
+    "auto_reconcile_tolerance": 13.445,
+    "ledger_mismatch": 3.401,
+    "break_amount": -6.674,
+    "dispute_flag": -4.645
+  },
+  {
+    "transaction_volume": 6.338,
+    "auto_reconcile_tolerance": 2.559,
+    "ledger_mismatch": -2.651,
+    "break_amount": -3.773,
+    "dispute_flag": -2.637
+  },
+  {
+    "transaction_volume": 8.154,
+    "auto_reconcile_tolerance": 5.359,
+    "ledger_mismatch": -1.959,
+    "break_amount": -5.629,
+    "dispute_flag": -4.088
+  },
+  {
+    "transaction_volume": 10.698,
+    "auto_reconcile_tolerance": 6.861,
+    "ledger_mismatch": 6.612,
+    "break_amount": 0.294,
+    "dispute_flag": 0.299
+  },
+  {
+    "transaction_volume": 9.402,
+    "auto_reconcile_tolerance": 4.878,
+    "ledger_mismatch": 1.614,
+    "break_amount": -2.18,
+    "dispute_flag": -1.448
+  },
+  {
+    "transaction_volume": 10.852,
+    "auto_reconcile_tolerance": 14.995,
+    "ledger_mismatch": 10.896,
+    "break_amount": -2.054,
+    "dispute_flag": -1.381
+  },
+  {
+    "transaction_volume": 8.42,
+    "auto_reconcile_tolerance": 20.53,
+    "ledger_mismatch": 14.022,
+    "break_amount": -3.124,
+    "dispute_flag": -2.331
+  },
+  {
+    "transaction_volume": 12.458,
+    "auto_reconcile_tolerance": 5.745,
+    "ledger_mismatch": 5.676,
+    "break_amount": 0.102,
+    "dispute_flag": 0.198
+  },
+  {
+    "transaction_volume": 7.965,
+    "auto_reconcile_tolerance": 7.236,
+    "ledger_mismatch": 0.821,
+    "break_amount": -4.04,
+    "dispute_flag": -2.931
+  },
+  {
+    "transaction_volume": 8.358,
+    "auto_reconcile_tolerance": 14.685,
+    "ledger_mismatch": 11.423,
+    "break_amount": -1.14,
+    "dispute_flag": -0.972
+  },
+  {
+    "transaction_volume": 14.343,
+    "auto_reconcile_tolerance": 7.533,
+    "ledger_mismatch": 6.605,
+    "break_amount": -0.311,
+    "dispute_flag": -0.037
+  },
+  {
+    "transaction_volume": 15.34,
+    "auto_reconcile_tolerance": 11.438,
+    "ledger_mismatch": 10.012,
+    "break_amount": -0.016,
+    "dispute_flag": 0.144
+  },
+  {
+    "transaction_volume": 11.33,
+    "auto_reconcile_tolerance": 12.788,
+    "ledger_mismatch": 10.984,
+    "break_amount": -0.455,
+    "dispute_flag": -0.461
+  },
+  {
+    "transaction_volume": 9.992,
+    "auto_reconcile_tolerance": 9.52,
+    "ledger_mismatch": 6.082,
+    "break_amount": -1.964,
+    "dispute_flag": -1.888
+  },
+  {
+    "transaction_volume": 10.451,
+    "auto_reconcile_tolerance": 11.282,
+    "ledger_mismatch": 7.911,
+    "break_amount": -1.42,
+    "dispute_flag": -1.084
+  },
+  {
+    "transaction_volume": 10.467,
+    "auto_reconcile_tolerance": 8.144,
+    "ledger_mismatch": 5.601,
+    "break_amount": -1.249,
+    "dispute_flag": -1.016
+  },
+  {
+    "transaction_volume": 7.708,
+    "auto_reconcile_tolerance": 6.102,
+    "ledger_mismatch": 0.016,
+    "break_amount": -4.131,
+    "dispute_flag": -2.627
+  },
+  {
+    "transaction_volume": 9.707,
+    "auto_reconcile_tolerance": 8.988,
+    "ledger_mismatch": 1.583,
+    "break_amount": -5.088,
+    "dispute_flag": -3.471
+  },
+  {
+    "transaction_volume": 8.318,
+    "auto_reconcile_tolerance": 6.849,
+    "ledger_mismatch": 4.167,
+    "break_amount": -1.298,
+    "dispute_flag": -0.95
+  },
+  {
+    "transaction_volume": 10.159,
+    "auto_reconcile_tolerance": 9.3,
+    "ledger_mismatch": 4.643,
+    "break_amount": -3.008,
+    "dispute_flag": -1.986
+  },
+  {
+    "transaction_volume": 4.844,
+    "auto_reconcile_tolerance": 11.464,
+    "ledger_mismatch": 4.064,
+    "break_amount": -4.84,
+    "dispute_flag": -3.685
+  },
+  {
+    "transaction_volume": 10.516,
+    "auto_reconcile_tolerance": 5.979,
+    "ledger_mismatch": 0.825,
+    "break_amount": -3.772,
+    "dispute_flag": -2.655
+  },
+  {
+    "transaction_volume": 12.881,
+    "auto_reconcile_tolerance": 13.567,
+    "ledger_mismatch": 8.865,
+    "break_amount": -2.389,
+    "dispute_flag": -1.58
+  },
+  {
+    "transaction_volume": 11.914,
+    "auto_reconcile_tolerance": 13.131,
+    "ledger_mismatch": 8.204,
+    "break_amount": -2.661,
+    "dispute_flag": -2.002
+  },
+  {
+    "transaction_volume": 12.951,
+    "auto_reconcile_tolerance": 10.165,
+    "ledger_mismatch": 8.303,
+    "break_amount": -0.654,
+    "dispute_flag": -0.079
+  },
+  {
+    "transaction_volume": 9.6,
+    "auto_reconcile_tolerance": 1.838,
+    "ledger_mismatch": -1.247,
+    "break_amount": -2.243,
+    "dispute_flag": -1.347
+  },
+  {
+    "transaction_volume": 11.871,
+    "auto_reconcile_tolerance": 6.643,
+    "ledger_mismatch": 4.551,
+    "break_amount": -1.075,
+    "dispute_flag": -0.818
+  },
+  {
+    "transaction_volume": 7.004,
+    "auto_reconcile_tolerance": 14.497,
+    "ledger_mismatch": 7.135,
+    "break_amount": -4.349,
+    "dispute_flag": -3.267
+  },
+  {
+    "transaction_volume": 11.149,
+    "auto_reconcile_tolerance": 10.979,
+    "ledger_mismatch": 7.919,
+    "break_amount": -1.241,
+    "dispute_flag": -1.291
+  },
+  {
+    "transaction_volume": 8.763,
+    "auto_reconcile_tolerance": 7.899,
+    "ledger_mismatch": -0.987,
+    "break_amount": -6.198,
+    "dispute_flag": -4.646
+  },
+  {
+    "transaction_volume": 14.283,
+    "auto_reconcile_tolerance": 12.633,
+    "ledger_mismatch": 11.058,
+    "break_amount": -0.079,
+    "dispute_flag": -0.319
+  },
+  {
+    "transaction_volume": 7.957,
+    "auto_reconcile_tolerance": 12.864,
+    "ledger_mismatch": 8.687,
+    "break_amount": -2.377,
+    "dispute_flag": -1.632
+  },
+  {
+    "transaction_volume": 12.837,
+    "auto_reconcile_tolerance": 9.937,
+    "ledger_mismatch": 7.306,
+    "break_amount": -1.309,
+    "dispute_flag": -0.842
+  },
+  {
+    "transaction_volume": 12.579,
+    "auto_reconcile_tolerance": 10.158,
+    "ledger_mismatch": 11.35,
+    "break_amount": 2.28,
+    "dispute_flag": 1.77
+  }
+]

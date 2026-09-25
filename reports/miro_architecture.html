@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agent Kernel Architecture</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+        
+        body {
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            background-image: radial-gradient(#d1d1d1 1px, transparent 0);
+            background-size: 20px 20px;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            overflow: hidden;
+        }
+
+        .board {
+            background: rgba(255, 255, 255, 0.98);
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 12px 32px rgba(0,0,0,0.08);
+            border: 1px solid #e0e0e0;
+            max-width: 95vw;
+            max-height: 95vh;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-top: 0;
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .mermaid {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-grow: 1;
+        }
+        
+        .mermaid svg {
+            max-width: 100%;
+            max-height: 80vh;
+            height: auto;
+        }
+    </style>
+    <!-- Use Mermaid v9 which fully supports local file:// execution without ES modules -->
+    <script src="https://cdn.jsdelivr.net/npm/mermaid@9.4.3/dist/mermaid.min.js"></script>
+    <script>
+        mermaid.initialize({ 
+            startOnLoad: true,
+            theme: 'base',
+            themeVariables: {
+                fontFamily: 'Inter',
+                primaryColor: '#ffffff',
+                primaryTextColor: '#333333',
+                primaryBorderColor: '#e0e0e0',
+                lineColor: '#666666',
+                clusterBkg: 'rgba(240, 240, 240, 0.4)',
+                clusterBorder: '#cccccc'
+            },
+            flowchart: {
+                curve: 'basis',
+                nodeSpacing: 40,
+                rankSpacing: 50,
+                htmlLabels: true
+            }
+        });
+    </script>
+</head>
+<body>
+    <div class="board">
+        <h2>System Architecture: Legacy vs. Agent Kernel</h2>
+        <div class="mermaid">
+            flowchart LR
+                classDef default fill:#ffffff,stroke:#cccccc,stroke-width:2px,color:#333333,rx:8,ry:8;
+                classDef legacy fill:#fff5f5,stroke:#ffcdd2,stroke-width:2px,color:#c62828,rx:8,ry:8;
+                classDef kernel fill:#f6ffed,stroke:#b7eb8f,stroke-width:2px,color:#237804,rx:8,ry:8;
+                classDef compute fill:#e6f7ff,stroke:#91d5ff,stroke-width:2px,color:#0050b3,rx:8,ry:8;
+                classDef gate fill:#fffbe6,stroke:#ffe58f,stroke-width:2px,color:#d46b08,rx:8,ry:8;
+                classDef sticky fill:#fff9c4,stroke:#fbc02d,stroke-width:1px,color:#333333,rx:0,ry:0;
+                classDef error fill:#ffebee,stroke:#ef5350,stroke-width:2px,color:#c62828,rx:8,ry:8;
+                
+                subgraph Legacy ["Legacy Pattern (The Trap)"]
+                    direction LR
+                    L_In([User Input]) --> L_LLM[LLM Prompt]
+                    L_LLM -. "Guesses Constraints" .-> L_Out[Output / Action]
+                    L_Out -. "Fails" .-> L_Reflect[/LLM Reflection / Apology/]
+                end
+                
+                subgraph Kernel ["Agent Kernel (Current Architecture)"]
+                    direction LR
+                    K_In([User Input]) --> FSM[State Machine Controller]
+                    FSM --> Compute[LLM as Basic Compute Node]
+                    
+                    Compute --> |Generates Intent| AG{Assertion Gate}
+                    AG -- "Hard Rule: Fail" --> Block([Fail Closed / Veto])
+                    
+                    AG -- "Hard Rule: Pass" --> CR{Causal Engine do-Calculus}
+                    CR -- "Risk > Threshold" --> Block
+                    
+                    CR -- "Risk OK" --> MQ{Tri-State Memory Gate}
+                    MQ -- "Conflict" --> Quarantine[(Memory Quarantine)]
+                    MQ -- "Clean" --> DB[(Fact Store)]
+                    
+                    DB --> DeID[Deterministic Scrubber]
+                    DeID --> SafeOut([Sanitized Output])
+                end
+
+                class Legacy legacy
+                class Kernel kernel
+                class L_LLM,Compute compute
+                class AG,CR,MQ,DeID gate
+                class L_Reflect sticky
+                class Block error
+        </div>
+    </div>
+</body>
+</html>

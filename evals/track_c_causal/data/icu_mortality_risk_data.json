@@ -1,0 +1,3502 @@
+[
+  {
+    "sofa_score": 10.705,
+    "ventilator_peep_setting": 12.385,
+    "multiorgan_failure": 13.099,
+    "arterial_po2": 13.339,
+    "icu_mortality": 1.13
+  },
+  {
+    "sofa_score": 9.541,
+    "ventilator_peep_setting": 10.297,
+    "multiorgan_failure": 12.517,
+    "arterial_po2": 12.097,
+    "icu_mortality": 1.284
+  },
+  {
+    "sofa_score": 8.812,
+    "ventilator_peep_setting": 12.888,
+    "multiorgan_failure": 4.304,
+    "arterial_po2": 6.272,
+    "icu_mortality": -1.148
+  },
+  {
+    "sofa_score": 8.947,
+    "ventilator_peep_setting": 8.077,
+    "multiorgan_failure": 0.842,
+    "arterial_po2": -0.326,
+    "icu_mortality": 1.039
+  },
+  {
+    "sofa_score": 12.193,
+    "ventilator_peep_setting": 6.964,
+    "multiorgan_failure": 12.532,
+    "arterial_po2": 7.34,
+    "icu_mortality": 4.526
+  },
+  {
+    "sofa_score": 9.84,
+    "ventilator_peep_setting": 13.907,
+    "multiorgan_failure": 5.377,
+    "arterial_po2": 7.174,
+    "icu_mortality": -0.545
+  },
+  {
+    "sofa_score": 10.946,
+    "ventilator_peep_setting": 5.513,
+    "multiorgan_failure": 4.207,
+    "arterial_po2": -0.676,
+    "icu_mortality": 3.652
+  },
+  {
+    "sofa_score": 9.936,
+    "ventilator_peep_setting": 7.451,
+    "multiorgan_failure": 6.94,
+    "arterial_po2": 3.94,
+    "icu_mortality": 3.246
+  },
+  {
+    "sofa_score": 11.555,
+    "ventilator_peep_setting": 8.702,
+    "multiorgan_failure": 7.198,
+    "arterial_po2": 4.019,
+    "icu_mortality": 2.807
+  },
+  {
+    "sofa_score": 11.046,
+    "ventilator_peep_setting": 9.79,
+    "multiorgan_failure": 13.948,
+    "arterial_po2": 11.837,
+    "icu_mortality": 2.974
+  },
+  {
+    "sofa_score": 12.457,
+    "ventilator_peep_setting": 9.079,
+    "multiorgan_failure": 12.7,
+    "arterial_po2": 9.78,
+    "icu_mortality": 3.214
+  },
+  {
+    "sofa_score": 6.58,
+    "ventilator_peep_setting": 10.065,
+    "multiorgan_failure": 2.518,
+    "arterial_po2": 4.141,
+    "icu_mortality": -0.737
+  },
+  {
+    "sofa_score": 10.177,
+    "ventilator_peep_setting": 9.525,
+    "multiorgan_failure": 9.964,
+    "arterial_po2": 9.102,
+    "icu_mortality": 1.305
+  },
+  {
+    "sofa_score": 10.815,
+    "ventilator_peep_setting": 9.128,
+    "multiorgan_failure": 4.659,
+    "arterial_po2": 2.002,
+    "icu_mortality": 2.368
+  },
+  {
+    "sofa_score": 11.9,
+    "ventilator_peep_setting": 10.631,
+    "multiorgan_failure": 4.217,
+    "arterial_po2": 2.212,
+    "icu_mortality": 1.707
+  },
+  {
+    "sofa_score": 13.259,
+    "ventilator_peep_setting": 10.133,
+    "multiorgan_failure": 14.741,
+    "arterial_po2": 11.707,
+    "icu_mortality": 3.37
+  },
+  {
+    "sofa_score": 8.705,
+    "ventilator_peep_setting": 9.744,
+    "multiorgan_failure": 2.751,
+    "arterial_po2": 2.23,
+    "icu_mortality": 0.753
+  },
+  {
+    "sofa_score": 11.555,
+    "ventilator_peep_setting": 11.323,
+    "multiorgan_failure": 6.023,
+    "arterial_po2": 4.269,
+    "icu_mortality": 1.89
+  },
+  {
+    "sofa_score": 11.296,
+    "ventilator_peep_setting": 14.062,
+    "multiorgan_failure": 5.031,
+    "arterial_po2": 5.83,
+    "icu_mortality": -0.028
+  },
+  {
+    "sofa_score": 11.752,
+    "ventilator_peep_setting": 11.584,
+    "multiorgan_failure": 15.476,
+    "arterial_po2": 14.152,
+    "icu_mortality": 2.407
+  },
+  {
+    "sofa_score": 6.782,
+    "ventilator_peep_setting": 8.388,
+    "multiorgan_failure": 0.458,
+    "arterial_po2": 1.132,
+    "icu_mortality": -0.673
+  },
+  {
+    "sofa_score": 10.038,
+    "ventilator_peep_setting": 10.188,
+    "multiorgan_failure": 8.613,
+    "arterial_po2": 8.204,
+    "icu_mortality": 0.84
+  },
+  {
+    "sofa_score": 10.42,
+    "ventilator_peep_setting": 9.441,
+    "multiorgan_failure": 8.379,
+    "arterial_po2": 6.581,
+    "icu_mortality": 1.859
+  },
+  {
+    "sofa_score": 6.898,
+    "ventilator_peep_setting": 12.263,
+    "multiorgan_failure": 3.33,
+    "arterial_po2": 6.355,
+    "icu_mortality": -1.616
+  },
+  {
+    "sofa_score": 10.619,
+    "ventilator_peep_setting": 11.112,
+    "multiorgan_failure": 8.454,
+    "arterial_po2": 7.762,
+    "icu_mortality": 1.256
+  },
+  {
+    "sofa_score": 10.314,
+    "ventilator_peep_setting": 10.042,
+    "multiorgan_failure": 5.971,
+    "arterial_po2": 4.875,
+    "icu_mortality": 0.951
+  },
+  {
+    "sofa_score": 9.276,
+    "ventilator_peep_setting": 7.105,
+    "multiorgan_failure": 3.365,
+    "arterial_po2": 0.427,
+    "icu_mortality": 2.381
+  },
+  {
+    "sofa_score": 10.911,
+    "ventilator_peep_setting": 8.905,
+    "multiorgan_failure": 9.39,
+    "arterial_po2": 7.06,
+    "icu_mortality": 2.718
+  },
+  {
+    "sofa_score": 9.851,
+    "ventilator_peep_setting": 9.86,
+    "multiorgan_failure": 9.921,
+    "arterial_po2": 8.631,
+    "icu_mortality": 2.067
+  },
+  {
+    "sofa_score": 9.611,
+    "ventilator_peep_setting": 11.057,
+    "multiorgan_failure": 5.231,
+    "arterial_po2": 5.179,
+    "icu_mortality": 0.928
+  },
+  {
+    "sofa_score": 6.947,
+    "ventilator_peep_setting": 10.182,
+    "multiorgan_failure": 5.494,
+    "arterial_po2": 6.86,
+    "icu_mortality": -0.491
+  },
+  {
+    "sofa_score": 12.36,
+    "ventilator_peep_setting": 8.033,
+    "multiorgan_failure": 11.053,
+    "arterial_po2": 6.895,
+    "icu_mortality": 3.691
+  },
+  {
+    "sofa_score": 9.541,
+    "ventilator_peep_setting": 11.946,
+    "multiorgan_failure": 10.837,
+    "arterial_po2": 11.536,
+    "icu_mortality": 0.725
+  },
+  {
+    "sofa_score": 11.761,
+    "ventilator_peep_setting": 9.846,
+    "multiorgan_failure": 7.994,
+    "arterial_po2": 5.255,
+    "icu_mortality": 2.572
+  },
+  {
+    "sofa_score": 11.406,
+    "ventilator_peep_setting": 11.193,
+    "multiorgan_failure": 10.971,
+    "arterial_po2": 9.807,
+    "icu_mortality": 1.688
+  },
+  {
+    "sofa_score": 10.732,
+    "ventilator_peep_setting": 11.71,
+    "multiorgan_failure": 9.031,
+    "arterial_po2": 8.366,
+    "icu_mortality": 1.05
+  },
+  {
+    "sofa_score": 11.05,
+    "ventilator_peep_setting": 9.54,
+    "multiorgan_failure": 10.205,
+    "arterial_po2": 8.327,
+    "icu_mortality": 2.139
+  },
+  {
+    "sofa_score": 5.173,
+    "ventilator_peep_setting": 12.603,
+    "multiorgan_failure": 3.595,
+    "arterial_po2": 8.376,
+    "icu_mortality": -2.434
+  },
+  {
+    "sofa_score": 7.269,
+    "ventilator_peep_setting": 11.275,
+    "multiorgan_failure": 5.352,
+    "arterial_po2": 7.901,
+    "icu_mortality": -1.171
+  },
+  {
+    "sofa_score": 10.832,
+    "ventilator_peep_setting": 10.579,
+    "multiorgan_failure": 11.859,
+    "arterial_po2": 10.414,
+    "icu_mortality": 2.279
+  },
+  {
+    "sofa_score": 10.203,
+    "ventilator_peep_setting": 7.817,
+    "multiorgan_failure": 17.32,
+    "arterial_po2": 14.8,
+    "icu_mortality": 3.078
+  },
+  {
+    "sofa_score": 10.363,
+    "ventilator_peep_setting": 9.658,
+    "multiorgan_failure": 11.014,
+    "arterial_po2": 9.231,
+    "icu_mortality": 2.384
+  },
+  {
+    "sofa_score": 12.203,
+    "ventilator_peep_setting": 10.945,
+    "multiorgan_failure": 9.605,
+    "arterial_po2": 7.643,
+    "icu_mortality": 2.102
+  },
+  {
+    "sofa_score": 11.941,
+    "ventilator_peep_setting": 8.49,
+    "multiorgan_failure": 14.496,
+    "arterial_po2": 11.098,
+    "icu_mortality": 4.039
+  },
+  {
+    "sofa_score": 9.25,
+    "ventilator_peep_setting": 8.438,
+    "multiorgan_failure": 10.624,
+    "arterial_po2": 9.134,
+    "icu_mortality": 1.948
+  },
+  {
+    "sofa_score": 10.05,
+    "ventilator_peep_setting": 10.199,
+    "multiorgan_failure": 9.554,
+    "arterial_po2": 8.821,
+    "icu_mortality": 1.592
+  },
+  {
+    "sofa_score": 13.733,
+    "ventilator_peep_setting": 8.4,
+    "multiorgan_failure": 14.329,
+    "arterial_po2": 9.121,
+    "icu_mortality": 4.807
+  },
+  {
+    "sofa_score": 6.414,
+    "ventilator_peep_setting": 6.428,
+    "multiorgan_failure": 2.796,
+    "arterial_po2": 2.078,
+    "icu_mortality": 0.442
+  },
+  {
+    "sofa_score": 8.283,
+    "ventilator_peep_setting": 13.067,
+    "multiorgan_failure": 11.028,
+    "arterial_po2": 13.348,
+    "icu_mortality": -0.513
+  },
+  {
+    "sofa_score": 10.835,
+    "ventilator_peep_setting": 10.89,
+    "multiorgan_failure": 4.69,
+    "arterial_po2": 3.681,
+    "icu_mortality": 0.943
+  },
+  {
+    "sofa_score": 9.621,
+    "ventilator_peep_setting": 9.076,
+    "multiorgan_failure": 10.057,
+    "arterial_po2": 8.496,
+    "icu_mortality": 2.126
+  },
+  {
+    "sofa_score": 9.429,
+    "ventilator_peep_setting": 10.784,
+    "multiorgan_failure": 9.283,
+    "arterial_po2": 9.077,
+    "icu_mortality": 0.972
+  },
+  {
+    "sofa_score": 9.653,
+    "ventilator_peep_setting": 7.296,
+    "multiorgan_failure": 11.288,
+    "arterial_po2": 8.397,
+    "icu_mortality": 3.045
+  },
+  {
+    "sofa_score": 8.796,
+    "ventilator_peep_setting": 8.267,
+    "multiorgan_failure": 7.235,
+    "arterial_po2": 5.822,
+    "icu_mortality": 1.83
+  },
+  {
+    "sofa_score": 14.158,
+    "ventilator_peep_setting": 11.103,
+    "multiorgan_failure": 9.036,
+    "arterial_po2": 5.458,
+    "icu_mortality": 3.326
+  },
+  {
+    "sofa_score": 7.839,
+    "ventilator_peep_setting": 10.707,
+    "multiorgan_failure": 16.869,
+    "arterial_po2": 18.477,
+    "icu_mortality": 0.316
+  },
+  {
+    "sofa_score": 5.502,
+    "ventilator_peep_setting": 7.518,
+    "multiorgan_failure": 4.848,
+    "arterial_po2": 5.69,
+    "icu_mortality": -0.263
+  },
+  {
+    "sofa_score": 10.443,
+    "ventilator_peep_setting": 12.13,
+    "multiorgan_failure": 11.051,
+    "arterial_po2": 10.91,
+    "icu_mortality": 1.483
+  },
+  {
+    "sofa_score": 7.765,
+    "ventilator_peep_setting": 13.06,
+    "multiorgan_failure": 6.499,
+    "arterial_po2": 9.632,
+    "icu_mortality": -1.428
+  },
+  {
+    "sofa_score": 7.247,
+    "ventilator_peep_setting": 10.178,
+    "multiorgan_failure": 7.89,
+    "arterial_po2": 9.517,
+    "icu_mortality": -0.447
+  },
+  {
+    "sofa_score": 10.13,
+    "ventilator_peep_setting": 11.12,
+    "multiorgan_failure": 5.855,
+    "arterial_po2": 5.554,
+    "icu_mortality": 0.547
+  },
+  {
+    "sofa_score": 10.136,
+    "ventilator_peep_setting": 11.922,
+    "multiorgan_failure": 12.257,
+    "arterial_po2": 12.136,
+    "icu_mortality": 1.354
+  },
+  {
+    "sofa_score": 12.093,
+    "ventilator_peep_setting": 13.156,
+    "multiorgan_failure": 9.234,
+    "arterial_po2": 8.944,
+    "icu_mortality": 0.842
+  },
+  {
+    "sofa_score": 10.778,
+    "ventilator_peep_setting": 12.29,
+    "multiorgan_failure": 6.501,
+    "arterial_po2": 6.612,
+    "icu_mortality": 0.269
+  },
+  {
+    "sofa_score": 10.911,
+    "ventilator_peep_setting": 10.23,
+    "multiorgan_failure": 10.618,
+    "arterial_po2": 8.861,
+    "icu_mortality": 2.095
+  },
+  {
+    "sofa_score": 11.983,
+    "ventilator_peep_setting": 12.636,
+    "multiorgan_failure": 8.89,
+    "arterial_po2": 8.416,
+    "icu_mortality": 1.515
+  },
+  {
+    "sofa_score": 14.174,
+    "ventilator_peep_setting": 13.691,
+    "multiorgan_failure": 7.858,
+    "arterial_po2": 6.712,
+    "icu_mortality": 1.538
+  },
+  {
+    "sofa_score": 8.59,
+    "ventilator_peep_setting": 11.539,
+    "multiorgan_failure": 5.538,
+    "arterial_po2": 6.648,
+    "icu_mortality": -0.465
+  },
+  {
+    "sofa_score": 8.185,
+    "ventilator_peep_setting": 11.235,
+    "multiorgan_failure": 4.064,
+    "arterial_po2": 5.832,
+    "icu_mortality": -0.779
+  },
+  {
+    "sofa_score": 11.251,
+    "ventilator_peep_setting": 14.357,
+    "multiorgan_failure": 12.193,
+    "arterial_po2": 13.402,
+    "icu_mortality": 0.338
+  },
+  {
+    "sofa_score": 11.011,
+    "ventilator_peep_setting": 8.371,
+    "multiorgan_failure": 11.853,
+    "arterial_po2": 8.786,
+    "icu_mortality": 3.154
+  },
+  {
+    "sofa_score": 10.782,
+    "ventilator_peep_setting": 10.225,
+    "multiorgan_failure": 11.248,
+    "arterial_po2": 8.989,
+    "icu_mortality": 2.575
+  },
+  {
+    "sofa_score": 9.012,
+    "ventilator_peep_setting": 13.463,
+    "multiorgan_failure": 4.808,
+    "arterial_po2": 6.524,
+    "icu_mortality": -0.564
+  },
+  {
+    "sofa_score": 12.919,
+    "ventilator_peep_setting": 10.302,
+    "multiorgan_failure": 11.311,
+    "arterial_po2": 8.443,
+    "icu_mortality": 2.87
+  },
+  {
+    "sofa_score": 11.783,
+    "ventilator_peep_setting": 11.942,
+    "multiorgan_failure": 11.257,
+    "arterial_po2": 10.635,
+    "icu_mortality": 1.552
+  },
+  {
+    "sofa_score": 9.029,
+    "ventilator_peep_setting": 13.805,
+    "multiorgan_failure": 7.015,
+    "arterial_po2": 9.351,
+    "icu_mortality": -0.942
+  },
+  {
+    "sofa_score": 11.755,
+    "ventilator_peep_setting": 8.959,
+    "multiorgan_failure": 10.069,
+    "arterial_po2": 6.93,
+    "icu_mortality": 3.004
+  },
+  {
+    "sofa_score": 10.57,
+    "ventilator_peep_setting": 8.017,
+    "multiorgan_failure": 10.646,
+    "arterial_po2": 7.747,
+    "icu_mortality": 2.794
+  },
+  {
+    "sofa_score": 7.085,
+    "ventilator_peep_setting": 9.191,
+    "multiorgan_failure": 0.057,
+    "arterial_po2": 0.986,
+    "icu_mortality": -0.689
+  },
+  {
+    "sofa_score": 13.313,
+    "ventilator_peep_setting": 9.584,
+    "multiorgan_failure": 7.745,
+    "arterial_po2": 3.915,
+    "icu_mortality": 3.424
+  },
+  {
+    "sofa_score": 9.379,
+    "ventilator_peep_setting": 11.355,
+    "multiorgan_failure": 9.086,
+    "arterial_po2": 9.96,
+    "icu_mortality": 0.304
+  },
+  {
+    "sofa_score": 9.325,
+    "ventilator_peep_setting": 9.292,
+    "multiorgan_failure": 10.1,
+    "arterial_po2": 9.654,
+    "icu_mortality": 1.218
+  },
+  {
+    "sofa_score": 12.701,
+    "ventilator_peep_setting": 11.605,
+    "multiorgan_failure": 10.08,
+    "arterial_po2": 7.665,
+    "icu_mortality": 2.649
+  },
+  {
+    "sofa_score": 9.369,
+    "ventilator_peep_setting": 11.385,
+    "multiorgan_failure": 8.495,
+    "arterial_po2": 8.883,
+    "icu_mortality": 0.547
+  },
+  {
+    "sofa_score": 9.415,
+    "ventilator_peep_setting": 11.36,
+    "multiorgan_failure": 1.921,
+    "arterial_po2": 2.482,
+    "icu_mortality": -0.353
+  },
+  {
+    "sofa_score": 10.816,
+    "ventilator_peep_setting": 10.559,
+    "multiorgan_failure": 2.293,
+    "arterial_po2": 1.432,
+    "icu_mortality": 0.431
+  },
+  {
+    "sofa_score": 14.496,
+    "ventilator_peep_setting": 8.421,
+    "multiorgan_failure": 15.381,
+    "arterial_po2": 9.725,
+    "icu_mortality": 4.906
+  },
+  {
+    "sofa_score": 7.797,
+    "ventilator_peep_setting": 11.568,
+    "multiorgan_failure": 7.045,
+    "arterial_po2": 8.914,
+    "icu_mortality": -0.31
+  },
+  {
+    "sofa_score": 11.427,
+    "ventilator_peep_setting": 8.906,
+    "multiorgan_failure": 10.358,
+    "arterial_po2": 7.2,
+    "icu_mortality": 3.055
+  },
+  {
+    "sofa_score": 12.826,
+    "ventilator_peep_setting": 9.789,
+    "multiorgan_failure": 12.033,
+    "arterial_po2": 8.666,
+    "icu_mortality": 3.463
+  },
+  {
+    "sofa_score": 13.815,
+    "ventilator_peep_setting": 12.249,
+    "multiorgan_failure": 12.536,
+    "arterial_po2": 9.73,
+    "icu_mortality": 3.267
+  },
+  {
+    "sofa_score": 10.603,
+    "ventilator_peep_setting": 6.12,
+    "multiorgan_failure": 4.83,
+    "arterial_po2": 0.944,
+    "icu_mortality": 3.11
+  },
+  {
+    "sofa_score": 12.235,
+    "ventilator_peep_setting": 9.2,
+    "multiorgan_failure": 8.752,
+    "arterial_po2": 5.322,
+    "icu_mortality": 3.201
+  },
+  {
+    "sofa_score": 8.351,
+    "ventilator_peep_setting": 9.352,
+    "multiorgan_failure": -0.33,
+    "arterial_po2": -0.905,
+    "icu_mortality": 0.388
+  },
+  {
+    "sofa_score": 10.098,
+    "ventilator_peep_setting": 11.664,
+    "multiorgan_failure": 8.91,
+    "arterial_po2": 9.04,
+    "icu_mortality": 1.085
+  },
+  {
+    "sofa_score": 10.361,
+    "ventilator_peep_setting": 9.387,
+    "multiorgan_failure": 8.637,
+    "arterial_po2": 6.493,
+    "icu_mortality": 2.136
+  },
+  {
+    "sofa_score": 11.703,
+    "ventilator_peep_setting": 9.21,
+    "multiorgan_failure": 7.861,
+    "arterial_po2": 4.953,
+    "icu_mortality": 3.082
+  },
+  {
+    "sofa_score": 10.846,
+    "ventilator_peep_setting": 11.271,
+    "multiorgan_failure": 4.889,
+    "arterial_po2": 4.313,
+    "icu_mortality": 0.778
+  },
+  {
+    "sofa_score": 11.785,
+    "ventilator_peep_setting": 9.551,
+    "multiorgan_failure": 14.484,
+    "arterial_po2": 11.346,
+    "icu_mortality": 3.658
+  },
+  {
+    "sofa_score": 13.928,
+    "ventilator_peep_setting": 6.055,
+    "multiorgan_failure": 8.054,
+    "arterial_po2": 1.268,
+    "icu_mortality": 5.482
+  },
+  {
+    "sofa_score": 10.967,
+    "ventilator_peep_setting": 8.62,
+    "multiorgan_failure": 14.473,
+    "arterial_po2": 11.984,
+    "icu_mortality": 2.724
+  },
+  {
+    "sofa_score": 8.852,
+    "ventilator_peep_setting": 9.348,
+    "multiorgan_failure": 10.033,
+    "arterial_po2": 9.235,
+    "icu_mortality": 1.482
+  },
+  {
+    "sofa_score": 11.565,
+    "ventilator_peep_setting": 7.569,
+    "multiorgan_failure": 9.306,
+    "arterial_po2": 5.691,
+    "icu_mortality": 3.59
+  },
+  {
+    "sofa_score": 10.586,
+    "ventilator_peep_setting": 11.963,
+    "multiorgan_failure": 3.881,
+    "arterial_po2": 4.024,
+    "icu_mortality": 0.428
+  },
+  {
+    "sofa_score": 10.747,
+    "ventilator_peep_setting": 6.405,
+    "multiorgan_failure": 3.477,
+    "arterial_po2": -0.51,
+    "icu_mortality": 3.253
+  },
+  {
+    "sofa_score": 5.0,
+    "ventilator_peep_setting": 11.459,
+    "multiorgan_failure": 1.162,
+    "arterial_po2": 5.034,
+    "icu_mortality": -2.772
+  },
+  {
+    "sofa_score": 10.615,
+    "ventilator_peep_setting": 9.113,
+    "multiorgan_failure": 7.393,
+    "arterial_po2": 5.6,
+    "icu_mortality": 1.823
+  },
+  {
+    "sofa_score": 11.102,
+    "ventilator_peep_setting": 12.977,
+    "multiorgan_failure": 3.185,
+    "arterial_po2": 2.94,
+    "icu_mortality": 0.176
+  },
+  {
+    "sofa_score": 7.722,
+    "ventilator_peep_setting": 9.329,
+    "multiorgan_failure": 9.823,
+    "arterial_po2": 10.412,
+    "icu_mortality": 0.649
+  },
+  {
+    "sofa_score": 11.764,
+    "ventilator_peep_setting": 11.223,
+    "multiorgan_failure": 9.245,
+    "arterial_po2": 7.501,
+    "icu_mortality": 2.196
+  },
+  {
+    "sofa_score": 11.238,
+    "ventilator_peep_setting": 7.392,
+    "multiorgan_failure": 10.073,
+    "arterial_po2": 6.296,
+    "icu_mortality": 3.379
+  },
+  {
+    "sofa_score": 8.412,
+    "ventilator_peep_setting": 7.891,
+    "multiorgan_failure": 10.148,
+    "arterial_po2": 8.7,
+    "icu_mortality": 1.787
+  },
+  {
+    "sofa_score": 11.305,
+    "ventilator_peep_setting": 13.142,
+    "multiorgan_failure": 9.147,
+    "arterial_po2": 9.623,
+    "icu_mortality": 0.343
+  },
+  {
+    "sofa_score": 9.711,
+    "ventilator_peep_setting": 9.41,
+    "multiorgan_failure": 11.869,
+    "arterial_po2": 11.026,
+    "icu_mortality": 1.405
+  },
+  {
+    "sofa_score": 9.798,
+    "ventilator_peep_setting": 9.122,
+    "multiorgan_failure": 7.181,
+    "arterial_po2": 5.572,
+    "icu_mortality": 1.627
+  },
+  {
+    "sofa_score": 9.991,
+    "ventilator_peep_setting": 9.608,
+    "multiorgan_failure": 5.734,
+    "arterial_po2": 4.1,
+    "icu_mortality": 1.49
+  },
+  {
+    "sofa_score": 9.802,
+    "ventilator_peep_setting": 8.857,
+    "multiorgan_failure": 3.22,
+    "arterial_po2": 0.993,
+    "icu_mortality": 1.551
+  },
+  {
+    "sofa_score": 10.89,
+    "ventilator_peep_setting": 12.393,
+    "multiorgan_failure": 3.369,
+    "arterial_po2": 2.955,
+    "icu_mortality": 0.405
+  },
+  {
+    "sofa_score": 12.017,
+    "ventilator_peep_setting": 12.517,
+    "multiorgan_failure": 17.348,
+    "arterial_po2": 17.071,
+    "icu_mortality": 1.598
+  },
+  {
+    "sofa_score": 13.706,
+    "ventilator_peep_setting": 11.322,
+    "multiorgan_failure": 15.253,
+    "arterial_po2": 12.206,
+    "icu_mortality": 3.341
+  },
+  {
+    "sofa_score": 8.778,
+    "ventilator_peep_setting": 9.247,
+    "multiorgan_failure": 4.217,
+    "arterial_po2": 4.06,
+    "icu_mortality": 0.48
+  },
+  {
+    "sofa_score": 15.542,
+    "ventilator_peep_setting": 9.711,
+    "multiorgan_failure": 16.525,
+    "arterial_po2": 10.338,
+    "icu_mortality": 5.772
+  },
+  {
+    "sofa_score": 6.05,
+    "ventilator_peep_setting": 10.968,
+    "multiorgan_failure": 1.57,
+    "arterial_po2": 4.302,
+    "icu_mortality": -1.816
+  },
+  {
+    "sofa_score": 5.245,
+    "ventilator_peep_setting": 10.12,
+    "multiorgan_failure": 4.758,
+    "arterial_po2": 7.598,
+    "icu_mortality": -1.484
+  },
+  {
+    "sofa_score": 10.882,
+    "ventilator_peep_setting": 8.989,
+    "multiorgan_failure": 8.666,
+    "arterial_po2": 6.465,
+    "icu_mortality": 2.217
+  },
+  {
+    "sofa_score": 10.565,
+    "ventilator_peep_setting": 9.557,
+    "multiorgan_failure": 7.317,
+    "arterial_po2": 5.712,
+    "icu_mortality": 1.672
+  },
+  {
+    "sofa_score": 11.924,
+    "ventilator_peep_setting": 10.288,
+    "multiorgan_failure": 8.335,
+    "arterial_po2": 6.157,
+    "icu_mortality": 2.387
+  },
+  {
+    "sofa_score": 12.184,
+    "ventilator_peep_setting": 10.12,
+    "multiorgan_failure": 14.201,
+    "arterial_po2": 12.244,
+    "icu_mortality": 2.424
+  },
+  {
+    "sofa_score": 7.776,
+    "ventilator_peep_setting": 6.267,
+    "multiorgan_failure": 2.905,
+    "arterial_po2": 0.955,
+    "icu_mortality": 1.688
+  },
+  {
+    "sofa_score": 7.031,
+    "ventilator_peep_setting": 10.937,
+    "multiorgan_failure": 1.158,
+    "arterial_po2": 3.202,
+    "icu_mortality": -0.935
+  },
+  {
+    "sofa_score": 10.373,
+    "ventilator_peep_setting": 9.433,
+    "multiorgan_failure": 7.291,
+    "arterial_po2": 5.821,
+    "icu_mortality": 1.835
+  },
+  {
+    "sofa_score": 8.75,
+    "ventilator_peep_setting": 7.254,
+    "multiorgan_failure": 8.654,
+    "arterial_po2": 6.995,
+    "icu_mortality": 1.854
+  },
+  {
+    "sofa_score": 10.103,
+    "ventilator_peep_setting": 8.639,
+    "multiorgan_failure": 6.163,
+    "arterial_po2": 4.486,
+    "icu_mortality": 1.924
+  },
+  {
+    "sofa_score": 5.249,
+    "ventilator_peep_setting": 7.347,
+    "multiorgan_failure": 0.617,
+    "arterial_po2": 1.813,
+    "icu_mortality": -0.338
+  },
+  {
+    "sofa_score": 10.102,
+    "ventilator_peep_setting": 8.688,
+    "multiorgan_failure": 7.76,
+    "arterial_po2": 5.672,
+    "icu_mortality": 2.171
+  },
+  {
+    "sofa_score": 8.463,
+    "ventilator_peep_setting": 12.259,
+    "multiorgan_failure": 3.415,
+    "arterial_po2": 5.169,
+    "icu_mortality": -0.833
+  },
+  {
+    "sofa_score": 7.542,
+    "ventilator_peep_setting": 11.837,
+    "multiorgan_failure": 5.192,
+    "arterial_po2": 7.331,
+    "icu_mortality": -1.328
+  },
+  {
+    "sofa_score": 8.369,
+    "ventilator_peep_setting": 11.611,
+    "multiorgan_failure": 4.115,
+    "arterial_po2": 5.646,
+    "icu_mortality": -0.339
+  },
+  {
+    "sofa_score": 7.694,
+    "ventilator_peep_setting": 12.803,
+    "multiorgan_failure": 3.66,
+    "arterial_po2": 6.669,
+    "icu_mortality": -1.516
+  },
+  {
+    "sofa_score": 10.665,
+    "ventilator_peep_setting": 10.171,
+    "multiorgan_failure": 8.774,
+    "arterial_po2": 7.477,
+    "icu_mortality": 1.705
+  },
+  {
+    "sofa_score": 14.205,
+    "ventilator_peep_setting": 9.219,
+    "multiorgan_failure": 13.456,
+    "arterial_po2": 8.694,
+    "icu_mortality": 4.006
+  },
+  {
+    "sofa_score": 7.996,
+    "ventilator_peep_setting": 12.91,
+    "multiorgan_failure": 9.616,
+    "arterial_po2": 12.694,
+    "icu_mortality": -1.028
+  },
+  {
+    "sofa_score": 7.023,
+    "ventilator_peep_setting": 10.431,
+    "multiorgan_failure": 4.251,
+    "arterial_po2": 5.979,
+    "icu_mortality": -0.972
+  },
+  {
+    "sofa_score": 7.194,
+    "ventilator_peep_setting": 12.054,
+    "multiorgan_failure": 10.596,
+    "arterial_po2": 13.252,
+    "icu_mortality": -0.413
+  },
+  {
+    "sofa_score": 9.858,
+    "ventilator_peep_setting": 10.464,
+    "multiorgan_failure": 14.627,
+    "arterial_po2": 14.144,
+    "icu_mortality": 1.979
+  },
+  {
+    "sofa_score": 7.692,
+    "ventilator_peep_setting": 12.496,
+    "multiorgan_failure": -4.735,
+    "arterial_po2": -1.991,
+    "icu_mortality": -2.313
+  },
+  {
+    "sofa_score": 9.725,
+    "ventilator_peep_setting": 11.624,
+    "multiorgan_failure": 7.928,
+    "arterial_po2": 8.053,
+    "icu_mortality": 0.835
+  },
+  {
+    "sofa_score": 14.517,
+    "ventilator_peep_setting": 11.575,
+    "multiorgan_failure": 9.004,
+    "arterial_po2": 5.162,
+    "icu_mortality": 3.327
+  },
+  {
+    "sofa_score": 10.883,
+    "ventilator_peep_setting": 13.29,
+    "multiorgan_failure": 10.299,
+    "arterial_po2": 10.993,
+    "icu_mortality": 0.802
+  },
+  {
+    "sofa_score": 9.314,
+    "ventilator_peep_setting": 10.721,
+    "multiorgan_failure": 5.641,
+    "arterial_po2": 5.86,
+    "icu_mortality": 0.402
+  },
+  {
+    "sofa_score": 12.95,
+    "ventilator_peep_setting": 11.065,
+    "multiorgan_failure": 8.617,
+    "arterial_po2": 6.159,
+    "icu_mortality": 2.029
+  },
+  {
+    "sofa_score": 13.414,
+    "ventilator_peep_setting": 6.388,
+    "multiorgan_failure": 14.105,
+    "arterial_po2": 7.332,
+    "icu_mortality": 5.579
+  },
+  {
+    "sofa_score": 12.49,
+    "ventilator_peep_setting": 12.062,
+    "multiorgan_failure": 12.901,
+    "arterial_po2": 11.086,
+    "icu_mortality": 2.588
+  },
+  {
+    "sofa_score": 11.826,
+    "ventilator_peep_setting": 6.806,
+    "multiorgan_failure": 9.169,
+    "arterial_po2": 4.731,
+    "icu_mortality": 3.946
+  },
+  {
+    "sofa_score": 7.366,
+    "ventilator_peep_setting": 9.829,
+    "multiorgan_failure": -2.014,
+    "arterial_po2": -1.215,
+    "icu_mortality": -0.924
+  },
+  {
+    "sofa_score": 7.139,
+    "ventilator_peep_setting": 6.634,
+    "multiorgan_failure": 3.119,
+    "arterial_po2": 1.757,
+    "icu_mortality": 1.036
+  },
+  {
+    "sofa_score": 9.916,
+    "ventilator_peep_setting": 9.612,
+    "multiorgan_failure": 5.44,
+    "arterial_po2": 3.953,
+    "icu_mortality": 1.316
+  },
+  {
+    "sofa_score": 11.56,
+    "ventilator_peep_setting": 7.28,
+    "multiorgan_failure": 13.951,
+    "arterial_po2": 9.997,
+    "icu_mortality": 4.032
+  },
+  {
+    "sofa_score": 7.509,
+    "ventilator_peep_setting": 7.129,
+    "multiorgan_failure": 8.228,
+    "arterial_po2": 7.103,
+    "icu_mortality": 1.522
+  },
+  {
+    "sofa_score": 9.961,
+    "ventilator_peep_setting": 10.83,
+    "multiorgan_failure": 3.769,
+    "arterial_po2": 2.712,
+    "icu_mortality": 1.199
+  },
+  {
+    "sofa_score": 10.001,
+    "ventilator_peep_setting": 12.037,
+    "multiorgan_failure": 3.235,
+    "arterial_po2": 4.075,
+    "icu_mortality": -0.291
+  },
+  {
+    "sofa_score": 13.059,
+    "ventilator_peep_setting": 7.621,
+    "multiorgan_failure": 17.862,
+    "arterial_po2": 12.4,
+    "icu_mortality": 5.324
+  },
+  {
+    "sofa_score": 9.422,
+    "ventilator_peep_setting": 5.039,
+    "multiorgan_failure": 8.569,
+    "arterial_po2": 4.824,
+    "icu_mortality": 3.493
+  },
+  {
+    "sofa_score": 6.611,
+    "ventilator_peep_setting": 10.961,
+    "multiorgan_failure": 5.606,
+    "arterial_po2": 8.1,
+    "icu_mortality": -1.074
+  },
+  {
+    "sofa_score": 6.443,
+    "ventilator_peep_setting": 11.711,
+    "multiorgan_failure": 5.172,
+    "arterial_po2": 8.256,
+    "icu_mortality": -1.107
+  },
+  {
+    "sofa_score": 7.746,
+    "ventilator_peep_setting": 14.83,
+    "multiorgan_failure": 9.028,
+    "arterial_po2": 12.767,
+    "icu_mortality": -1.74
+  },
+  {
+    "sofa_score": 9.199,
+    "ventilator_peep_setting": 10.2,
+    "multiorgan_failure": 7.78,
+    "arterial_po2": 7.813,
+    "icu_mortality": 0.803
+  },
+  {
+    "sofa_score": 8.133,
+    "ventilator_peep_setting": 9.292,
+    "multiorgan_failure": 10.027,
+    "arterial_po2": 10.194,
+    "icu_mortality": 0.775
+  },
+  {
+    "sofa_score": 6.741,
+    "ventilator_peep_setting": 9.901,
+    "multiorgan_failure": 5.325,
+    "arterial_po2": 6.504,
+    "icu_mortality": -0.492
+  },
+  {
+    "sofa_score": 11.514,
+    "ventilator_peep_setting": 10.307,
+    "multiorgan_failure": 11.29,
+    "arterial_po2": 9.417,
+    "icu_mortality": 2.724
+  },
+  {
+    "sofa_score": 11.552,
+    "ventilator_peep_setting": 9.616,
+    "multiorgan_failure": 6.319,
+    "arterial_po2": 3.948,
+    "icu_mortality": 2.117
+  },
+  {
+    "sofa_score": 9.413,
+    "ventilator_peep_setting": 4.583,
+    "multiorgan_failure": 2.698,
+    "arterial_po2": -1.52,
+    "icu_mortality": 3.164
+  },
+  {
+    "sofa_score": 13.278,
+    "ventilator_peep_setting": 11.344,
+    "multiorgan_failure": 5.213,
+    "arterial_po2": 2.437,
+    "icu_mortality": 2.259
+  },
+  {
+    "sofa_score": 12.526,
+    "ventilator_peep_setting": 11.711,
+    "multiorgan_failure": 8.358,
+    "arterial_po2": 6.138,
+    "icu_mortality": 2.297
+  },
+  {
+    "sofa_score": 10.142,
+    "ventilator_peep_setting": 8.281,
+    "multiorgan_failure": 4.998,
+    "arterial_po2": 2.71,
+    "icu_mortality": 1.989
+  },
+  {
+    "sofa_score": 4.959,
+    "ventilator_peep_setting": 10.786,
+    "multiorgan_failure": 6.424,
+    "arterial_po2": 10.05,
+    "icu_mortality": -1.911
+  },
+  {
+    "sofa_score": 10.386,
+    "ventilator_peep_setting": 8.145,
+    "multiorgan_failure": 3.337,
+    "arterial_po2": 0.899,
+    "icu_mortality": 2.052
+  },
+  {
+    "sofa_score": 10.188,
+    "ventilator_peep_setting": 14.951,
+    "multiorgan_failure": -0.387,
+    "arterial_po2": 2.166,
+    "icu_mortality": -1.712
+  },
+  {
+    "sofa_score": 12.118,
+    "ventilator_peep_setting": 10.178,
+    "multiorgan_failure": 13.171,
+    "arterial_po2": 10.502,
+    "icu_mortality": 2.999
+  },
+  {
+    "sofa_score": 7.025,
+    "ventilator_peep_setting": 9.399,
+    "multiorgan_failure": 6.644,
+    "arterial_po2": 7.998,
+    "icu_mortality": -0.083
+  },
+  {
+    "sofa_score": 10.839,
+    "ventilator_peep_setting": 9.596,
+    "multiorgan_failure": 7.067,
+    "arterial_po2": 5.393,
+    "icu_mortality": 1.732
+  },
+  {
+    "sofa_score": 9.019,
+    "ventilator_peep_setting": 7.989,
+    "multiorgan_failure": 9.664,
+    "arterial_po2": 8.172,
+    "icu_mortality": 2.275
+  },
+  {
+    "sofa_score": 8.304,
+    "ventilator_peep_setting": 10.214,
+    "multiorgan_failure": 3.893,
+    "arterial_po2": 4.706,
+    "icu_mortality": -0.061
+  },
+  {
+    "sofa_score": 9.027,
+    "ventilator_peep_setting": 6.329,
+    "multiorgan_failure": 7.455,
+    "arterial_po2": 4.6,
+    "icu_mortality": 2.32
+  },
+  {
+    "sofa_score": 10.36,
+    "ventilator_peep_setting": 9.497,
+    "multiorgan_failure": 6.055,
+    "arterial_po2": 4.173,
+    "icu_mortality": 2.004
+  },
+  {
+    "sofa_score": 8.185,
+    "ventilator_peep_setting": 4.63,
+    "multiorgan_failure": 7.348,
+    "arterial_po2": 4.161,
+    "icu_mortality": 2.718
+  },
+  {
+    "sofa_score": 9.052,
+    "ventilator_peep_setting": 11.99,
+    "multiorgan_failure": 1.222,
+    "arterial_po2": 2.455,
+    "icu_mortality": -0.601
+  },
+  {
+    "sofa_score": 10.538,
+    "ventilator_peep_setting": 9.356,
+    "multiorgan_failure": 9.122,
+    "arterial_po2": 7.61,
+    "icu_mortality": 1.541
+  },
+  {
+    "sofa_score": 14.025,
+    "ventilator_peep_setting": 11.274,
+    "multiorgan_failure": 11.849,
+    "arterial_po2": 8.838,
+    "icu_mortality": 3.059
+  },
+  {
+    "sofa_score": 9.141,
+    "ventilator_peep_setting": 12.953,
+    "multiorgan_failure": 10.533,
+    "arterial_po2": 12.377,
+    "icu_mortality": -0.398
+  },
+  {
+    "sofa_score": 9.798,
+    "ventilator_peep_setting": 9.484,
+    "multiorgan_failure": 8.194,
+    "arterial_po2": 7.116,
+    "icu_mortality": 1.526
+  },
+  {
+    "sofa_score": 13.635,
+    "ventilator_peep_setting": 11.8,
+    "multiorgan_failure": 11.778,
+    "arterial_po2": 8.806,
+    "icu_mortality": 3.138
+  },
+  {
+    "sofa_score": 10.954,
+    "ventilator_peep_setting": 10.144,
+    "multiorgan_failure": 5.599,
+    "arterial_po2": 3.675,
+    "icu_mortality": 1.846
+  },
+  {
+    "sofa_score": 12.175,
+    "ventilator_peep_setting": 11.376,
+    "multiorgan_failure": 11.614,
+    "arterial_po2": 9.535,
+    "icu_mortality": 2.511
+  },
+  {
+    "sofa_score": 12.521,
+    "ventilator_peep_setting": 10.491,
+    "multiorgan_failure": 7.864,
+    "arterial_po2": 5.494,
+    "icu_mortality": 2.271
+  },
+  {
+    "sofa_score": 9.11,
+    "ventilator_peep_setting": 7.953,
+    "multiorgan_failure": 11.223,
+    "arterial_po2": 9.4,
+    "icu_mortality": 2.317
+  },
+  {
+    "sofa_score": 9.471,
+    "ventilator_peep_setting": 6.816,
+    "multiorgan_failure": 9.083,
+    "arterial_po2": 5.991,
+    "icu_mortality": 2.447
+  },
+  {
+    "sofa_score": 10.61,
+    "ventilator_peep_setting": 10.831,
+    "multiorgan_failure": 11.7,
+    "arterial_po2": 11.16,
+    "icu_mortality": 1.546
+  },
+  {
+    "sofa_score": 12.229,
+    "ventilator_peep_setting": 8.592,
+    "multiorgan_failure": 9.012,
+    "arterial_po2": 4.965,
+    "icu_mortality": 3.817
+  },
+  {
+    "sofa_score": 8.073,
+    "ventilator_peep_setting": 11.354,
+    "multiorgan_failure": 5.48,
+    "arterial_po2": 6.87,
+    "icu_mortality": -0.912
+  },
+  {
+    "sofa_score": 10.066,
+    "ventilator_peep_setting": 10.018,
+    "multiorgan_failure": 11.727,
+    "arterial_po2": 10.377,
+    "icu_mortality": 1.64
+  },
+  {
+    "sofa_score": 10.89,
+    "ventilator_peep_setting": 9.695,
+    "multiorgan_failure": 3.0,
+    "arterial_po2": 1.201,
+    "icu_mortality": 1.213
+  },
+  {
+    "sofa_score": 8.327,
+    "ventilator_peep_setting": 9.551,
+    "multiorgan_failure": 9.947,
+    "arterial_po2": 10.117,
+    "icu_mortality": 0.593
+  },
+  {
+    "sofa_score": 9.353,
+    "ventilator_peep_setting": 14.799,
+    "multiorgan_failure": 1.991,
+    "arterial_po2": 4.81,
+    "icu_mortality": -1.673
+  },
+  {
+    "sofa_score": 8.155,
+    "ventilator_peep_setting": 12.03,
+    "multiorgan_failure": 8.151,
+    "arterial_po2": 10.246,
+    "icu_mortality": -0.893
+  },
+  {
+    "sofa_score": 9.735,
+    "ventilator_peep_setting": 10.537,
+    "multiorgan_failure": 8.808,
+    "arterial_po2": 7.956,
+    "icu_mortality": 1.076
+  },
+  {
+    "sofa_score": 8.943,
+    "ventilator_peep_setting": 9.652,
+    "multiorgan_failure": 7.575,
+    "arterial_po2": 7.079,
+    "icu_mortality": 1.545
+  },
+  {
+    "sofa_score": 7.51,
+    "ventilator_peep_setting": 9.741,
+    "multiorgan_failure": 11.022,
+    "arterial_po2": 12.015,
+    "icu_mortality": 0.617
+  },
+  {
+    "sofa_score": 9.224,
+    "ventilator_peep_setting": 9.081,
+    "multiorgan_failure": 6.127,
+    "arterial_po2": 4.575,
+    "icu_mortality": 1.816
+  },
+  {
+    "sofa_score": 10.898,
+    "ventilator_peep_setting": 5.901,
+    "multiorgan_failure": 7.533,
+    "arterial_po2": 2.431,
+    "icu_mortality": 4.182
+  },
+  {
+    "sofa_score": 6.52,
+    "ventilator_peep_setting": 7.4,
+    "multiorgan_failure": 11.136,
+    "arterial_po2": 11.2,
+    "icu_mortality": 1.229
+  },
+  {
+    "sofa_score": 7.728,
+    "ventilator_peep_setting": 12.943,
+    "multiorgan_failure": 6.342,
+    "arterial_po2": 9.024,
+    "icu_mortality": -1.055
+  },
+  {
+    "sofa_score": 9.412,
+    "ventilator_peep_setting": 12.136,
+    "multiorgan_failure": 11.235,
+    "arterial_po2": 12.499,
+    "icu_mortality": 0.336
+  },
+  {
+    "sofa_score": 9.366,
+    "ventilator_peep_setting": 11.199,
+    "multiorgan_failure": 16.498,
+    "arterial_po2": 16.808,
+    "icu_mortality": 1.449
+  },
+  {
+    "sofa_score": 8.926,
+    "ventilator_peep_setting": 14.617,
+    "multiorgan_failure": 4.084,
+    "arterial_po2": 7.098,
+    "icu_mortality": -1.87
+  },
+  {
+    "sofa_score": 9.498,
+    "ventilator_peep_setting": 15.313,
+    "multiorgan_failure": 7.683,
+    "arterial_po2": 10.746,
+    "icu_mortality": -0.986
+  },
+  {
+    "sofa_score": 10.026,
+    "ventilator_peep_setting": 10.857,
+    "multiorgan_failure": 2.34,
+    "arterial_po2": 1.929,
+    "icu_mortality": 0.39
+  },
+  {
+    "sofa_score": 11.538,
+    "ventilator_peep_setting": 8.02,
+    "multiorgan_failure": 2.827,
+    "arterial_po2": -0.634,
+    "icu_mortality": 2.563
+  },
+  {
+    "sofa_score": 9.252,
+    "ventilator_peep_setting": 9.613,
+    "multiorgan_failure": 8.997,
+    "arterial_po2": 7.82,
+    "icu_mortality": 1.701
+  },
+  {
+    "sofa_score": 13.019,
+    "ventilator_peep_setting": 11.342,
+    "multiorgan_failure": 4.859,
+    "arterial_po2": 2.902,
+    "icu_mortality": 1.386
+  },
+  {
+    "sofa_score": 15.067,
+    "ventilator_peep_setting": 10.733,
+    "multiorgan_failure": 12.653,
+    "arterial_po2": 7.729,
+    "icu_mortality": 4.034
+  },
+  {
+    "sofa_score": 8.79,
+    "ventilator_peep_setting": 10.325,
+    "multiorgan_failure": 6.168,
+    "arterial_po2": 6.322,
+    "icu_mortality": 0.928
+  },
+  {
+    "sofa_score": 8.693,
+    "ventilator_peep_setting": 9.406,
+    "multiorgan_failure": 6.925,
+    "arterial_po2": 6.442,
+    "icu_mortality": 1.189
+  },
+  {
+    "sofa_score": 11.216,
+    "ventilator_peep_setting": 10.065,
+    "multiorgan_failure": 6.925,
+    "arterial_po2": 5.005,
+    "icu_mortality": 1.978
+  },
+  {
+    "sofa_score": 9.529,
+    "ventilator_peep_setting": 10.551,
+    "multiorgan_failure": 4.867,
+    "arterial_po2": 5.11,
+    "icu_mortality": 0.284
+  },
+  {
+    "sofa_score": 10.51,
+    "ventilator_peep_setting": 8.553,
+    "multiorgan_failure": 8.236,
+    "arterial_po2": 6.024,
+    "icu_mortality": 2.023
+  },
+  {
+    "sofa_score": 9.522,
+    "ventilator_peep_setting": 9.801,
+    "multiorgan_failure": 8.634,
+    "arterial_po2": 7.845,
+    "icu_mortality": 1.514
+  },
+  {
+    "sofa_score": 10.049,
+    "ventilator_peep_setting": 9.252,
+    "multiorgan_failure": 6.442,
+    "arterial_po2": 4.137,
+    "icu_mortality": 2.115
+  },
+  {
+    "sofa_score": 9.428,
+    "ventilator_peep_setting": 7.892,
+    "multiorgan_failure": 9.532,
+    "arterial_po2": 7.511,
+    "icu_mortality": 2.409
+  },
+  {
+    "sofa_score": 14.102,
+    "ventilator_peep_setting": 7.33,
+    "multiorgan_failure": 10.555,
+    "arterial_po2": 4.09,
+    "icu_mortality": 5.293
+  },
+  {
+    "sofa_score": 10.966,
+    "ventilator_peep_setting": 12.302,
+    "multiorgan_failure": 12.543,
+    "arterial_po2": 12.051,
+    "icu_mortality": 1.446
+  },
+  {
+    "sofa_score": 7.898,
+    "ventilator_peep_setting": 10.428,
+    "multiorgan_failure": 4.996,
+    "arterial_po2": 6.026,
+    "icu_mortality": -0.267
+  },
+  {
+    "sofa_score": 11.506,
+    "ventilator_peep_setting": 9.069,
+    "multiorgan_failure": 8.169,
+    "arterial_po2": 4.809,
+    "icu_mortality": 3.369
+  },
+  {
+    "sofa_score": 9.047,
+    "ventilator_peep_setting": 9.553,
+    "multiorgan_failure": 9.41,
+    "arterial_po2": 8.435,
+    "icu_mortality": 1.445
+  },
+  {
+    "sofa_score": 9.044,
+    "ventilator_peep_setting": 9.713,
+    "multiorgan_failure": 7.652,
+    "arterial_po2": 6.79,
+    "icu_mortality": 1.362
+  },
+  {
+    "sofa_score": 13.615,
+    "ventilator_peep_setting": 8.721,
+    "multiorgan_failure": 10.139,
+    "arterial_po2": 5.443,
+    "icu_mortality": 3.834
+  },
+  {
+    "sofa_score": 11.291,
+    "ventilator_peep_setting": 12.435,
+    "multiorgan_failure": 7.655,
+    "arterial_po2": 7.074,
+    "icu_mortality": 1.401
+  },
+  {
+    "sofa_score": 12.772,
+    "ventilator_peep_setting": 9.054,
+    "multiorgan_failure": 9.859,
+    "arterial_po2": 5.464,
+    "icu_mortality": 3.782
+  },
+  {
+    "sofa_score": 9.707,
+    "ventilator_peep_setting": 8.853,
+    "multiorgan_failure": 7.851,
+    "arterial_po2": 6.393,
+    "icu_mortality": 1.46
+  },
+  {
+    "sofa_score": 10.162,
+    "ventilator_peep_setting": 7.377,
+    "multiorgan_failure": 8.959,
+    "arterial_po2": 6.427,
+    "icu_mortality": 2.695
+  },
+  {
+    "sofa_score": 7.365,
+    "ventilator_peep_setting": 7.802,
+    "multiorgan_failure": 9.537,
+    "arterial_po2": 9.065,
+    "icu_mortality": 1.316
+  },
+  {
+    "sofa_score": 9.322,
+    "ventilator_peep_setting": 11.35,
+    "multiorgan_failure": 11.858,
+    "arterial_po2": 12.027,
+    "icu_mortality": 1.0
+  },
+  {
+    "sofa_score": 9.604,
+    "ventilator_peep_setting": 14.294,
+    "multiorgan_failure": 4.456,
+    "arterial_po2": 6.821,
+    "icu_mortality": -0.885
+  },
+  {
+    "sofa_score": 13.966,
+    "ventilator_peep_setting": 10.779,
+    "multiorgan_failure": 11.569,
+    "arterial_po2": 8.013,
+    "icu_mortality": 3.609
+  },
+  {
+    "sofa_score": 8.56,
+    "ventilator_peep_setting": 5.701,
+    "multiorgan_failure": 4.098,
+    "arterial_po2": 1.213,
+    "icu_mortality": 1.949
+  },
+  {
+    "sofa_score": 11.98,
+    "ventilator_peep_setting": 10.006,
+    "multiorgan_failure": 8.846,
+    "arterial_po2": 6.207,
+    "icu_mortality": 2.48
+  },
+  {
+    "sofa_score": 7.779,
+    "ventilator_peep_setting": 3.997,
+    "multiorgan_failure": 8.692,
+    "arterial_po2": 5.913,
+    "icu_mortality": 2.471
+  },
+  {
+    "sofa_score": 10.42,
+    "ventilator_peep_setting": 13.564,
+    "multiorgan_failure": 10.025,
+    "arterial_po2": 10.961,
+    "icu_mortality": 0.556
+  },
+  {
+    "sofa_score": 9.021,
+    "ventilator_peep_setting": 9.864,
+    "multiorgan_failure": 6.45,
+    "arterial_po2": 5.931,
+    "icu_mortality": 1.25
+  },
+  {
+    "sofa_score": 10.496,
+    "ventilator_peep_setting": 12.321,
+    "multiorgan_failure": 8.833,
+    "arterial_po2": 8.58,
+    "icu_mortality": 0.995
+  },
+  {
+    "sofa_score": 11.146,
+    "ventilator_peep_setting": 7.46,
+    "multiorgan_failure": 6.905,
+    "arterial_po2": 2.855,
+    "icu_mortality": 3.333
+  },
+  {
+    "sofa_score": 8.174,
+    "ventilator_peep_setting": 11.627,
+    "multiorgan_failure": 0.03,
+    "arterial_po2": 1.362,
+    "icu_mortality": -0.876
+  },
+  {
+    "sofa_score": 8.19,
+    "ventilator_peep_setting": 8.646,
+    "multiorgan_failure": 5.566,
+    "arterial_po2": 4.808,
+    "icu_mortality": 0.74
+  },
+  {
+    "sofa_score": 10.229,
+    "ventilator_peep_setting": 8.728,
+    "multiorgan_failure": 14.915,
+    "arterial_po2": 12.535,
+    "icu_mortality": 3.073
+  },
+  {
+    "sofa_score": 9.937,
+    "ventilator_peep_setting": 10.846,
+    "multiorgan_failure": 6.077,
+    "arterial_po2": 5.82,
+    "icu_mortality": 1.042
+  },
+  {
+    "sofa_score": 8.774,
+    "ventilator_peep_setting": 13.116,
+    "multiorgan_failure": 9.006,
+    "arterial_po2": 11.13,
+    "icu_mortality": -0.497
+  },
+  {
+    "sofa_score": 10.749,
+    "ventilator_peep_setting": 13.259,
+    "multiorgan_failure": 10.784,
+    "arterial_po2": 11.778,
+    "icu_mortality": 0.495
+  },
+  {
+    "sofa_score": 11.283,
+    "ventilator_peep_setting": 9.584,
+    "multiorgan_failure": 10.265,
+    "arterial_po2": 7.52,
+    "icu_mortality": 2.848
+  },
+  {
+    "sofa_score": 12.684,
+    "ventilator_peep_setting": 8.365,
+    "multiorgan_failure": 6.625,
+    "arterial_po2": 2.522,
+    "icu_mortality": 3.275
+  },
+  {
+    "sofa_score": 9.456,
+    "ventilator_peep_setting": 10.358,
+    "multiorgan_failure": 8.325,
+    "arterial_po2": 8.035,
+    "icu_mortality": 0.993
+  },
+  {
+    "sofa_score": 6.897,
+    "ventilator_peep_setting": 9.719,
+    "multiorgan_failure": 15.226,
+    "arterial_po2": 17.248,
+    "icu_mortality": 0.408
+  },
+  {
+    "sofa_score": 8.814,
+    "ventilator_peep_setting": 7.523,
+    "multiorgan_failure": 8.686,
+    "arterial_po2": 6.941,
+    "icu_mortality": 2.122
+  },
+  {
+    "sofa_score": 9.489,
+    "ventilator_peep_setting": 8.364,
+    "multiorgan_failure": 4.695,
+    "arterial_po2": 3.432,
+    "icu_mortality": 1.254
+  },
+  {
+    "sofa_score": 9.963,
+    "ventilator_peep_setting": 10.397,
+    "multiorgan_failure": 10.506,
+    "arterial_po2": 9.687,
+    "icu_mortality": 1.517
+  },
+  {
+    "sofa_score": 11.428,
+    "ventilator_peep_setting": 8.506,
+    "multiorgan_failure": 5.921,
+    "arterial_po2": 2.748,
+    "icu_mortality": 2.784
+  },
+  {
+    "sofa_score": 10.256,
+    "ventilator_peep_setting": 9.052,
+    "multiorgan_failure": 15.089,
+    "arterial_po2": 13.313,
+    "icu_mortality": 2.509
+  },
+  {
+    "sofa_score": 10.278,
+    "ventilator_peep_setting": 11.499,
+    "multiorgan_failure": 2.646,
+    "arterial_po2": 2.187,
+    "icu_mortality": 0.306
+  },
+  {
+    "sofa_score": 10.946,
+    "ventilator_peep_setting": 10.956,
+    "multiorgan_failure": 10.628,
+    "arterial_po2": 9.305,
+    "icu_mortality": 2.004
+  },
+  {
+    "sofa_score": 9.79,
+    "ventilator_peep_setting": 9.014,
+    "multiorgan_failure": 4.152,
+    "arterial_po2": 2.861,
+    "icu_mortality": 1.239
+  },
+  {
+    "sofa_score": 12.702,
+    "ventilator_peep_setting": 8.707,
+    "multiorgan_failure": 9.36,
+    "arterial_po2": 5.355,
+    "icu_mortality": 3.365
+  },
+  {
+    "sofa_score": 7.699,
+    "ventilator_peep_setting": 11.035,
+    "multiorgan_failure": 7.112,
+    "arterial_po2": 8.779,
+    "icu_mortality": -0.505
+  },
+  {
+    "sofa_score": 9.991,
+    "ventilator_peep_setting": 11.279,
+    "multiorgan_failure": 11.727,
+    "arterial_po2": 11.814,
+    "icu_mortality": 0.983
+  },
+  {
+    "sofa_score": 6.35,
+    "ventilator_peep_setting": 12.143,
+    "multiorgan_failure": 5.895,
+    "arterial_po2": 9.323,
+    "icu_mortality": -1.68
+  },
+  {
+    "sofa_score": 15.776,
+    "ventilator_peep_setting": 5.684,
+    "multiorgan_failure": 9.732,
+    "arterial_po2": 0.862,
+    "icu_mortality": 6.487
+  },
+  {
+    "sofa_score": 7.048,
+    "ventilator_peep_setting": 10.468,
+    "multiorgan_failure": 3.131,
+    "arterial_po2": 4.72,
+    "icu_mortality": -0.904
+  },
+  {
+    "sofa_score": 6.996,
+    "ventilator_peep_setting": 10.332,
+    "multiorgan_failure": -0.112,
+    "arterial_po2": 1.751,
+    "icu_mortality": -0.78
+  },
+  {
+    "sofa_score": 11.102,
+    "ventilator_peep_setting": 8.272,
+    "multiorgan_failure": 8.052,
+    "arterial_po2": 5.039,
+    "icu_mortality": 2.581
+  },
+  {
+    "sofa_score": 10.216,
+    "ventilator_peep_setting": 10.872,
+    "multiorgan_failure": 4.725,
+    "arterial_po2": 3.609,
+    "icu_mortality": 1.024
+  },
+  {
+    "sofa_score": 9.438,
+    "ventilator_peep_setting": 11.842,
+    "multiorgan_failure": 12.659,
+    "arterial_po2": 13.105,
+    "icu_mortality": 0.696
+  },
+  {
+    "sofa_score": 9.116,
+    "ventilator_peep_setting": 10.735,
+    "multiorgan_failure": 3.813,
+    "arterial_po2": 4.564,
+    "icu_mortality": 0.227
+  },
+  {
+    "sofa_score": 6.04,
+    "ventilator_peep_setting": 9.195,
+    "multiorgan_failure": -1.259,
+    "arterial_po2": 0.233,
+    "icu_mortality": -1.254
+  },
+  {
+    "sofa_score": 6.414,
+    "ventilator_peep_setting": 11.823,
+    "multiorgan_failure": 4.322,
+    "arterial_po2": 7.891,
+    "icu_mortality": -1.943
+  },
+  {
+    "sofa_score": 13.035,
+    "ventilator_peep_setting": 12.138,
+    "multiorgan_failure": 8.423,
+    "arterial_po2": 6.89,
+    "icu_mortality": 1.845
+  },
+  {
+    "sofa_score": 8.145,
+    "ventilator_peep_setting": 11.167,
+    "multiorgan_failure": 11.169,
+    "arterial_po2": 12.472,
+    "icu_mortality": -0.085
+  },
+  {
+    "sofa_score": 8.606,
+    "ventilator_peep_setting": 9.999,
+    "multiorgan_failure": 4.329,
+    "arterial_po2": 4.014,
+    "icu_mortality": 1.24
+  },
+  {
+    "sofa_score": 9.735,
+    "ventilator_peep_setting": 8.989,
+    "multiorgan_failure": 11.722,
+    "arterial_po2": 10.536,
+    "icu_mortality": 1.824
+  },
+  {
+    "sofa_score": 12.327,
+    "ventilator_peep_setting": 9.295,
+    "multiorgan_failure": 4.337,
+    "arterial_po2": 0.669,
+    "icu_mortality": 2.619
+  },
+  {
+    "sofa_score": 7.31,
+    "ventilator_peep_setting": 11.578,
+    "multiorgan_failure": 1.514,
+    "arterial_po2": 3.899,
+    "icu_mortality": -1.554
+  },
+  {
+    "sofa_score": 13.73,
+    "ventilator_peep_setting": 9.996,
+    "multiorgan_failure": 9.518,
+    "arterial_po2": 5.399,
+    "icu_mortality": 3.226
+  },
+  {
+    "sofa_score": 7.247,
+    "ventilator_peep_setting": 8.015,
+    "multiorgan_failure": 9.939,
+    "arterial_po2": 10.229,
+    "icu_mortality": 0.897
+  },
+  {
+    "sofa_score": 14.007,
+    "ventilator_peep_setting": 5.452,
+    "multiorgan_failure": 8.053,
+    "arterial_po2": 0.816,
+    "icu_mortality": 5.57
+  },
+  {
+    "sofa_score": 9.389,
+    "ventilator_peep_setting": 9.501,
+    "multiorgan_failure": 5.303,
+    "arterial_po2": 4.058,
+    "icu_mortality": 1.429
+  },
+  {
+    "sofa_score": 9.484,
+    "ventilator_peep_setting": 8.497,
+    "multiorgan_failure": 12.387,
+    "arterial_po2": 10.284,
+    "icu_mortality": 2.733
+  },
+  {
+    "sofa_score": 8.076,
+    "ventilator_peep_setting": 12.666,
+    "multiorgan_failure": 8.828,
+    "arterial_po2": 11.206,
+    "icu_mortality": -0.454
+  },
+  {
+    "sofa_score": 10.046,
+    "ventilator_peep_setting": 12.612,
+    "multiorgan_failure": 4.816,
+    "arterial_po2": 5.813,
+    "icu_mortality": -0.23
+  },
+  {
+    "sofa_score": 7.473,
+    "ventilator_peep_setting": 10.92,
+    "multiorgan_failure": 8.691,
+    "arterial_po2": 10.462,
+    "icu_mortality": -0.091
+  },
+  {
+    "sofa_score": 13.14,
+    "ventilator_peep_setting": 7.004,
+    "multiorgan_failure": 14.018,
+    "arterial_po2": 8.358,
+    "icu_mortality": 5.11
+  },
+  {
+    "sofa_score": 9.645,
+    "ventilator_peep_setting": 9.154,
+    "multiorgan_failure": 9.568,
+    "arterial_po2": 7.979,
+    "icu_mortality": 1.717
+  },
+  {
+    "sofa_score": 12.772,
+    "ventilator_peep_setting": 10.377,
+    "multiorgan_failure": 8.334,
+    "arterial_po2": 5.136,
+    "icu_mortality": 2.742
+  },
+  {
+    "sofa_score": 13.071,
+    "ventilator_peep_setting": 9.888,
+    "multiorgan_failure": 13.137,
+    "arterial_po2": 9.548,
+    "icu_mortality": 3.387
+  },
+  {
+    "sofa_score": 12.891,
+    "ventilator_peep_setting": 8.234,
+    "multiorgan_failure": 3.618,
+    "arterial_po2": -0.609,
+    "icu_mortality": 3.194
+  },
+  {
+    "sofa_score": 7.238,
+    "ventilator_peep_setting": 9.69,
+    "multiorgan_failure": 1.896,
+    "arterial_po2": 2.922,
+    "icu_mortality": -0.701
+  },
+  {
+    "sofa_score": 8.461,
+    "ventilator_peep_setting": 8.699,
+    "multiorgan_failure": 5.509,
+    "arterial_po2": 4.674,
+    "icu_mortality": 1.176
+  },
+  {
+    "sofa_score": 11.092,
+    "ventilator_peep_setting": 11.581,
+    "multiorgan_failure": 13.848,
+    "arterial_po2": 13.087,
+    "icu_mortality": 1.84
+  },
+  {
+    "sofa_score": 9.16,
+    "ventilator_peep_setting": 7.151,
+    "multiorgan_failure": 7.499,
+    "arterial_po2": 5.487,
+    "icu_mortality": 2.241
+  },
+  {
+    "sofa_score": 9.597,
+    "ventilator_peep_setting": 10.507,
+    "multiorgan_failure": 7.148,
+    "arterial_po2": 6.742,
+    "icu_mortality": 1.179
+  },
+  {
+    "sofa_score": 12.167,
+    "ventilator_peep_setting": 9.229,
+    "multiorgan_failure": 14.808,
+    "arterial_po2": 11.477,
+    "icu_mortality": 3.588
+  },
+  {
+    "sofa_score": 13.171,
+    "ventilator_peep_setting": 8.278,
+    "multiorgan_failure": 4.521,
+    "arterial_po2": -0.091,
+    "icu_mortality": 3.193
+  },
+  {
+    "sofa_score": 6.535,
+    "ventilator_peep_setting": 9.584,
+    "multiorgan_failure": 8.121,
+    "arterial_po2": 9.637,
+    "icu_mortality": -0.277
+  },
+  {
+    "sofa_score": 6.727,
+    "ventilator_peep_setting": 10.352,
+    "multiorgan_failure": 8.537,
+    "arterial_po2": 10.476,
+    "icu_mortality": -0.372
+  },
+  {
+    "sofa_score": 10.425,
+    "ventilator_peep_setting": 12.237,
+    "multiorgan_failure": 8.936,
+    "arterial_po2": 9.264,
+    "icu_mortality": 0.658
+  },
+  {
+    "sofa_score": 12.391,
+    "ventilator_peep_setting": 9.12,
+    "multiorgan_failure": 6.45,
+    "arterial_po2": 3.284,
+    "icu_mortality": 2.987
+  },
+  {
+    "sofa_score": 9.915,
+    "ventilator_peep_setting": 11.716,
+    "multiorgan_failure": 10.087,
+    "arterial_po2": 10.769,
+    "icu_mortality": 0.558
+  },
+  {
+    "sofa_score": 8.494,
+    "ventilator_peep_setting": 10.828,
+    "multiorgan_failure": 7.543,
+    "arterial_po2": 8.201,
+    "icu_mortality": 0.347
+  },
+  {
+    "sofa_score": 12.877,
+    "ventilator_peep_setting": 8.105,
+    "multiorgan_failure": 10.637,
+    "arterial_po2": 5.551,
+    "icu_mortality": 4.021
+  },
+  {
+    "sofa_score": 8.828,
+    "ventilator_peep_setting": 9.739,
+    "multiorgan_failure": 7.794,
+    "arterial_po2": 7.627,
+    "icu_mortality": 0.99
+  },
+  {
+    "sofa_score": 9.909,
+    "ventilator_peep_setting": 13.768,
+    "multiorgan_failure": 13.893,
+    "arterial_po2": 15.266,
+    "icu_mortality": 0.736
+  },
+  {
+    "sofa_score": 9.477,
+    "ventilator_peep_setting": 9.258,
+    "multiorgan_failure": 4.981,
+    "arterial_po2": 4.003,
+    "icu_mortality": 1.068
+  },
+  {
+    "sofa_score": 8.726,
+    "ventilator_peep_setting": 8.031,
+    "multiorgan_failure": 11.19,
+    "arterial_po2": 10.141,
+    "icu_mortality": 2.121
+  },
+  {
+    "sofa_score": 12.088,
+    "ventilator_peep_setting": 10.82,
+    "multiorgan_failure": 6.498,
+    "arterial_po2": 4.089,
+    "icu_mortality": 2.333
+  },
+  {
+    "sofa_score": 11.762,
+    "ventilator_peep_setting": 8.646,
+    "multiorgan_failure": 5.752,
+    "arterial_po2": 2.366,
+    "icu_mortality": 2.821
+  },
+  {
+    "sofa_score": 10.858,
+    "ventilator_peep_setting": 9.899,
+    "multiorgan_failure": 15.297,
+    "arterial_po2": 13.469,
+    "icu_mortality": 2.656
+  },
+  {
+    "sofa_score": 9.472,
+    "ventilator_peep_setting": 9.763,
+    "multiorgan_failure": 8.142,
+    "arterial_po2": 6.766,
+    "icu_mortality": 1.904
+  },
+  {
+    "sofa_score": 11.163,
+    "ventilator_peep_setting": 10.417,
+    "multiorgan_failure": 10.487,
+    "arterial_po2": 9.198,
+    "icu_mortality": 2.057
+  },
+  {
+    "sofa_score": 8.543,
+    "ventilator_peep_setting": 9.485,
+    "multiorgan_failure": 3.377,
+    "arterial_po2": 3.069,
+    "icu_mortality": 0.517
+  },
+  {
+    "sofa_score": 10.371,
+    "ventilator_peep_setting": 10.51,
+    "multiorgan_failure": 17.463,
+    "arterial_po2": 16.781,
+    "icu_mortality": 1.891
+  },
+  {
+    "sofa_score": 8.484,
+    "ventilator_peep_setting": 4.973,
+    "multiorgan_failure": 7.975,
+    "arterial_po2": 4.374,
+    "icu_mortality": 3.051
+  },
+  {
+    "sofa_score": 14.931,
+    "ventilator_peep_setting": 10.561,
+    "multiorgan_failure": 10.426,
+    "arterial_po2": 6.505,
+    "icu_mortality": 3.613
+  },
+  {
+    "sofa_score": 7.426,
+    "ventilator_peep_setting": 7.512,
+    "multiorgan_failure": 4.539,
+    "arterial_po2": 3.933,
+    "icu_mortality": 0.775
+  },
+  {
+    "sofa_score": 8.994,
+    "ventilator_peep_setting": 8.43,
+    "multiorgan_failure": 2.796,
+    "arterial_po2": 1.847,
+    "icu_mortality": 1.001
+  },
+  {
+    "sofa_score": 9.57,
+    "ventilator_peep_setting": 11.666,
+    "multiorgan_failure": 8.333,
+    "arterial_po2": 8.543,
+    "icu_mortality": 0.17
+  },
+  {
+    "sofa_score": 10.083,
+    "ventilator_peep_setting": 9.761,
+    "multiorgan_failure": 5.7,
+    "arterial_po2": 4.096,
+    "icu_mortality": 1.51
+  },
+  {
+    "sofa_score": 8.499,
+    "ventilator_peep_setting": 8.333,
+    "multiorgan_failure": -1.186,
+    "arterial_po2": -2.128,
+    "icu_mortality": 0.269
+  },
+  {
+    "sofa_score": 11.932,
+    "ventilator_peep_setting": 10.208,
+    "multiorgan_failure": 7.86,
+    "arterial_po2": 5.751,
+    "icu_mortality": 1.952
+  },
+  {
+    "sofa_score": 11.095,
+    "ventilator_peep_setting": 9.755,
+    "multiorgan_failure": 6.624,
+    "arterial_po2": 4.79,
+    "icu_mortality": 2.009
+  },
+  {
+    "sofa_score": 10.373,
+    "ventilator_peep_setting": 10.978,
+    "multiorgan_failure": 0.274,
+    "arterial_po2": -0.108,
+    "icu_mortality": 0.167
+  },
+  {
+    "sofa_score": 8.781,
+    "ventilator_peep_setting": 10.625,
+    "multiorgan_failure": 11.398,
+    "arterial_po2": 12.236,
+    "icu_mortality": 0.803
+  },
+  {
+    "sofa_score": 12.538,
+    "ventilator_peep_setting": 5.88,
+    "multiorgan_failure": 14.615,
+    "arterial_po2": 8.794,
+    "icu_mortality": 5.33
+  },
+  {
+    "sofa_score": 8.399,
+    "ventilator_peep_setting": 9.735,
+    "multiorgan_failure": 1.369,
+    "arterial_po2": 1.767,
+    "icu_mortality": -0.141
+  },
+  {
+    "sofa_score": 9.197,
+    "ventilator_peep_setting": 11.749,
+    "multiorgan_failure": 10.627,
+    "arterial_po2": 11.575,
+    "icu_mortality": 0.47
+  },
+  {
+    "sofa_score": 8.706,
+    "ventilator_peep_setting": 9.46,
+    "multiorgan_failure": 3.902,
+    "arterial_po2": 3.582,
+    "icu_mortality": 0.481
+  },
+  {
+    "sofa_score": 7.382,
+    "ventilator_peep_setting": 7.393,
+    "multiorgan_failure": 2.231,
+    "arterial_po2": 1.415,
+    "icu_mortality": 0.794
+  },
+  {
+    "sofa_score": 8.658,
+    "ventilator_peep_setting": 8.121,
+    "multiorgan_failure": -4.349,
+    "arterial_po2": -5.576,
+    "icu_mortality": 0.366
+  },
+  {
+    "sofa_score": 11.308,
+    "ventilator_peep_setting": 8.849,
+    "multiorgan_failure": 4.155,
+    "arterial_po2": 1.259,
+    "icu_mortality": 2.169
+  },
+  {
+    "sofa_score": 7.779,
+    "ventilator_peep_setting": 9.921,
+    "multiorgan_failure": 9.887,
+    "arterial_po2": 10.456,
+    "icu_mortality": 0.471
+  },
+  {
+    "sofa_score": 11.124,
+    "ventilator_peep_setting": 8.346,
+    "multiorgan_failure": 9.834,
+    "arterial_po2": 6.441,
+    "icu_mortality": 3.041
+  },
+  {
+    "sofa_score": 11.123,
+    "ventilator_peep_setting": 10.239,
+    "multiorgan_failure": 8.354,
+    "arterial_po2": 7.033,
+    "icu_mortality": 1.734
+  },
+  {
+    "sofa_score": 9.96,
+    "ventilator_peep_setting": 7.209,
+    "multiorgan_failure": 7.413,
+    "arterial_po2": 4.643,
+    "icu_mortality": 2.518
+  },
+  {
+    "sofa_score": 9.049,
+    "ventilator_peep_setting": 8.321,
+    "multiorgan_failure": 8.102,
+    "arterial_po2": 7.019,
+    "icu_mortality": 1.696
+  },
+  {
+    "sofa_score": 8.976,
+    "ventilator_peep_setting": 12.995,
+    "multiorgan_failure": 4.572,
+    "arterial_po2": 6.75,
+    "icu_mortality": -0.867
+  },
+  {
+    "sofa_score": 10.528,
+    "ventilator_peep_setting": 15.948,
+    "multiorgan_failure": 7.946,
+    "arterial_po2": 10.717,
+    "icu_mortality": -1.091
+  },
+  {
+    "sofa_score": 10.246,
+    "ventilator_peep_setting": 7.954,
+    "multiorgan_failure": 10.545,
+    "arterial_po2": 7.807,
+    "icu_mortality": 2.662
+  },
+  {
+    "sofa_score": 11.981,
+    "ventilator_peep_setting": 10.738,
+    "multiorgan_failure": 9.596,
+    "arterial_po2": 6.922,
+    "icu_mortality": 2.693
+  },
+  {
+    "sofa_score": 8.596,
+    "ventilator_peep_setting": 11.61,
+    "multiorgan_failure": 4.43,
+    "arterial_po2": 6.354,
+    "icu_mortality": -0.636
+  },
+  {
+    "sofa_score": 12.683,
+    "ventilator_peep_setting": 8.328,
+    "multiorgan_failure": 8.18,
+    "arterial_po2": 3.726,
+    "icu_mortality": 3.82
+  },
+  {
+    "sofa_score": 9.107,
+    "ventilator_peep_setting": 11.265,
+    "multiorgan_failure": 6.426,
+    "arterial_po2": 7.191,
+    "icu_mortality": -0.242
+  },
+  {
+    "sofa_score": 7.765,
+    "ventilator_peep_setting": 10.955,
+    "multiorgan_failure": 11.86,
+    "arterial_po2": 13.069,
+    "icu_mortality": 0.664
+  },
+  {
+    "sofa_score": 6.564,
+    "ventilator_peep_setting": 5.535,
+    "multiorgan_failure": 3.682,
+    "arterial_po2": 1.781,
+    "icu_mortality": 1.371
+  },
+  {
+    "sofa_score": 10.485,
+    "ventilator_peep_setting": 7.114,
+    "multiorgan_failure": 9.183,
+    "arterial_po2": 6.473,
+    "icu_mortality": 2.496
+  },
+  {
+    "sofa_score": 9.618,
+    "ventilator_peep_setting": 9.284,
+    "multiorgan_failure": 11.166,
+    "arterial_po2": 9.947,
+    "icu_mortality": 2.208
+  },
+  {
+    "sofa_score": 9.531,
+    "ventilator_peep_setting": 9.527,
+    "multiorgan_failure": 3.02,
+    "arterial_po2": 2.122,
+    "icu_mortality": 1.028
+  },
+  {
+    "sofa_score": 10.007,
+    "ventilator_peep_setting": 10.587,
+    "multiorgan_failure": 3.649,
+    "arterial_po2": 3.017,
+    "icu_mortality": 0.55
+  },
+  {
+    "sofa_score": 9.278,
+    "ventilator_peep_setting": 9.074,
+    "multiorgan_failure": 10.082,
+    "arterial_po2": 8.659,
+    "icu_mortality": 1.782
+  },
+  {
+    "sofa_score": 12.329,
+    "ventilator_peep_setting": 8.308,
+    "multiorgan_failure": 3.449,
+    "arterial_po2": -0.443,
+    "icu_mortality": 2.793
+  },
+  {
+    "sofa_score": 11.793,
+    "ventilator_peep_setting": 8.405,
+    "multiorgan_failure": 4.269,
+    "arterial_po2": 1.095,
+    "icu_mortality": 2.521
+  },
+  {
+    "sofa_score": 10.759,
+    "ventilator_peep_setting": 7.777,
+    "multiorgan_failure": 11.836,
+    "arterial_po2": 8.6,
+    "icu_mortality": 3.394
+  },
+  {
+    "sofa_score": 11.027,
+    "ventilator_peep_setting": 10.587,
+    "multiorgan_failure": 11.679,
+    "arterial_po2": 10.191,
+    "icu_mortality": 2.142
+  },
+  {
+    "sofa_score": 11.342,
+    "ventilator_peep_setting": 11.944,
+    "multiorgan_failure": 18.637,
+    "arterial_po2": 17.773,
+    "icu_mortality": 2.595
+  },
+  {
+    "sofa_score": 10.416,
+    "ventilator_peep_setting": 9.783,
+    "multiorgan_failure": 12.681,
+    "arterial_po2": 11.285,
+    "icu_mortality": 1.851
+  },
+  {
+    "sofa_score": 11.394,
+    "ventilator_peep_setting": 12.144,
+    "multiorgan_failure": 14.731,
+    "arterial_po2": 13.821,
+    "icu_mortality": 1.974
+  },
+  {
+    "sofa_score": 8.824,
+    "ventilator_peep_setting": 10.28,
+    "multiorgan_failure": 9.347,
+    "arterial_po2": 9.606,
+    "icu_mortality": 1.057
+  },
+  {
+    "sofa_score": 9.527,
+    "ventilator_peep_setting": 10.773,
+    "multiorgan_failure": 12.501,
+    "arterial_po2": 12.899,
+    "icu_mortality": 0.81
+  },
+  {
+    "sofa_score": 9.19,
+    "ventilator_peep_setting": 11.276,
+    "multiorgan_failure": 7.857,
+    "arterial_po2": 8.426,
+    "icu_mortality": 0.485
+  },
+  {
+    "sofa_score": 12.888,
+    "ventilator_peep_setting": 11.14,
+    "multiorgan_failure": 14.456,
+    "arterial_po2": 12.116,
+    "icu_mortality": 3.004
+  },
+  {
+    "sofa_score": 9.737,
+    "ventilator_peep_setting": 6.015,
+    "multiorgan_failure": 14.062,
+    "arterial_po2": 10.102,
+    "icu_mortality": 3.898
+  },
+  {
+    "sofa_score": 12.645,
+    "ventilator_peep_setting": 9.053,
+    "multiorgan_failure": 11.97,
+    "arterial_po2": 7.647,
+    "icu_mortality": 4.202
+  },
+  {
+    "sofa_score": 11.477,
+    "ventilator_peep_setting": 12.217,
+    "multiorgan_failure": 9.285,
+    "arterial_po2": 8.413,
+    "icu_mortality": 1.321
+  },
+  {
+    "sofa_score": 10.304,
+    "ventilator_peep_setting": 12.843,
+    "multiorgan_failure": 10.162,
+    "arterial_po2": 11.058,
+    "icu_mortality": 0.567
+  },
+  {
+    "sofa_score": 8.302,
+    "ventilator_peep_setting": 8.861,
+    "multiorgan_failure": 5.907,
+    "arterial_po2": 5.598,
+    "icu_mortality": 0.741
+  },
+  {
+    "sofa_score": 9.197,
+    "ventilator_peep_setting": 10.285,
+    "multiorgan_failure": 8.306,
+    "arterial_po2": 8.218,
+    "icu_mortality": 0.911
+  },
+  {
+    "sofa_score": 5.182,
+    "ventilator_peep_setting": 10.425,
+    "multiorgan_failure": 4.323,
+    "arterial_po2": 7.705,
+    "icu_mortality": -2.066
+  },
+  {
+    "sofa_score": 10.716,
+    "ventilator_peep_setting": 6.921,
+    "multiorgan_failure": 6.919,
+    "arterial_po2": 2.993,
+    "icu_mortality": 3.31
+  },
+  {
+    "sofa_score": 12.071,
+    "ventilator_peep_setting": 9.895,
+    "multiorgan_failure": 9.163,
+    "arterial_po2": 6.781,
+    "icu_mortality": 2.477
+  },
+  {
+    "sofa_score": 8.821,
+    "ventilator_peep_setting": 6.955,
+    "multiorgan_failure": 7.698,
+    "arterial_po2": 5.764,
+    "icu_mortality": 2.268
+  },
+  {
+    "sofa_score": 8.939,
+    "ventilator_peep_setting": 8.451,
+    "multiorgan_failure": 2.37,
+    "arterial_po2": 0.724,
+    "icu_mortality": 1.548
+  },
+  {
+    "sofa_score": 7.942,
+    "ventilator_peep_setting": 13.992,
+    "multiorgan_failure": 2.675,
+    "arterial_po2": 6.354,
+    "icu_mortality": -1.97
+  },
+  {
+    "sofa_score": 11.637,
+    "ventilator_peep_setting": 9.212,
+    "multiorgan_failure": 11.218,
+    "arterial_po2": 7.998,
+    "icu_mortality": 3.165
+  },
+  {
+    "sofa_score": 7.313,
+    "ventilator_peep_setting": 11.285,
+    "multiorgan_failure": 6.61,
+    "arterial_po2": 8.656,
+    "icu_mortality": -0.484
+  },
+  {
+    "sofa_score": 8.997,
+    "ventilator_peep_setting": 9.333,
+    "multiorgan_failure": 10.68,
+    "arterial_po2": 10.22,
+    "icu_mortality": 1.215
+  },
+  {
+    "sofa_score": 9.137,
+    "ventilator_peep_setting": 10.349,
+    "multiorgan_failure": 6.698,
+    "arterial_po2": 6.431,
+    "icu_mortality": 0.765
+  },
+  {
+    "sofa_score": 12.914,
+    "ventilator_peep_setting": 9.127,
+    "multiorgan_failure": 10.487,
+    "arterial_po2": 6.359,
+    "icu_mortality": 3.669
+  },
+  {
+    "sofa_score": 7.812,
+    "ventilator_peep_setting": 11.222,
+    "multiorgan_failure": 6.281,
+    "arterial_po2": 7.515,
+    "icu_mortality": -0.439
+  },
+  {
+    "sofa_score": 9.617,
+    "ventilator_peep_setting": 10.132,
+    "multiorgan_failure": 6.867,
+    "arterial_po2": 6.142,
+    "icu_mortality": 1.018
+  },
+  {
+    "sofa_score": 9.932,
+    "ventilator_peep_setting": 8.896,
+    "multiorgan_failure": 15.559,
+    "arterial_po2": 13.577,
+    "icu_mortality": 2.579
+  },
+  {
+    "sofa_score": 10.124,
+    "ventilator_peep_setting": 7.618,
+    "multiorgan_failure": 5.055,
+    "arterial_po2": 2.119,
+    "icu_mortality": 2.52
+  },
+  {
+    "sofa_score": 13.204,
+    "ventilator_peep_setting": 11.465,
+    "multiorgan_failure": 10.824,
+    "arterial_po2": 8.32,
+    "icu_mortality": 2.955
+  },
+  {
+    "sofa_score": 10.125,
+    "ventilator_peep_setting": 10.591,
+    "multiorgan_failure": 2.594,
+    "arterial_po2": 1.906,
+    "icu_mortality": 0.881
+  },
+  {
+    "sofa_score": 11.943,
+    "ventilator_peep_setting": 13.444,
+    "multiorgan_failure": 7.049,
+    "arterial_po2": 7.234,
+    "icu_mortality": 0.226
+  },
+  {
+    "sofa_score": 8.92,
+    "ventilator_peep_setting": 10.894,
+    "multiorgan_failure": 1.712,
+    "arterial_po2": 1.774,
+    "icu_mortality": -0.035
+  },
+  {
+    "sofa_score": 9.638,
+    "ventilator_peep_setting": 7.961,
+    "multiorgan_failure": 10.784,
+    "arterial_po2": 8.871,
+    "icu_mortality": 2.269
+  },
+  {
+    "sofa_score": 10.001,
+    "ventilator_peep_setting": 8.716,
+    "multiorgan_failure": 7.515,
+    "arterial_po2": 5.189,
+    "icu_mortality": 2.054
+  },
+  {
+    "sofa_score": 10.028,
+    "ventilator_peep_setting": 12.818,
+    "multiorgan_failure": 10.364,
+    "arterial_po2": 11.201,
+    "icu_mortality": 0.249
+  },
+  {
+    "sofa_score": 12.492,
+    "ventilator_peep_setting": 11.241,
+    "multiorgan_failure": 10.62,
+    "arterial_po2": 8.19,
+    "icu_mortality": 2.54
+  },
+  {
+    "sofa_score": 9.893,
+    "ventilator_peep_setting": 8.647,
+    "multiorgan_failure": 15.043,
+    "arterial_po2": 12.868,
+    "icu_mortality": 2.939
+  },
+  {
+    "sofa_score": 10.131,
+    "ventilator_peep_setting": 7.494,
+    "multiorgan_failure": 11.89,
+    "arterial_po2": 8.337,
+    "icu_mortality": 3.451
+  },
+  {
+    "sofa_score": 8.918,
+    "ventilator_peep_setting": 8.201,
+    "multiorgan_failure": 3.069,
+    "arterial_po2": 2.0,
+    "icu_mortality": 0.78
+  },
+  {
+    "sofa_score": 11.407,
+    "ventilator_peep_setting": 8.576,
+    "multiorgan_failure": 7.888,
+    "arterial_po2": 4.539,
+    "icu_mortality": 2.994
+  },
+  {
+    "sofa_score": 9.501,
+    "ventilator_peep_setting": 10.12,
+    "multiorgan_failure": 5.161,
+    "arterial_po2": 5.199,
+    "icu_mortality": 0.444
+  },
+  {
+    "sofa_score": 7.986,
+    "ventilator_peep_setting": 11.094,
+    "multiorgan_failure": 3.814,
+    "arterial_po2": 4.994,
+    "icu_mortality": -0.23
+  },
+  {
+    "sofa_score": 6.519,
+    "ventilator_peep_setting": 11.6,
+    "multiorgan_failure": 9.063,
+    "arterial_po2": 12.242,
+    "icu_mortality": -0.942
+  },
+  {
+    "sofa_score": 8.228,
+    "ventilator_peep_setting": 7.819,
+    "multiorgan_failure": 10.955,
+    "arterial_po2": 9.031,
+    "icu_mortality": 2.511
+  },
+  {
+    "sofa_score": 9.758,
+    "ventilator_peep_setting": 11.493,
+    "multiorgan_failure": 8.78,
+    "arterial_po2": 8.915,
+    "icu_mortality": 0.606
+  },
+  {
+    "sofa_score": 9.945,
+    "ventilator_peep_setting": 6.695,
+    "multiorgan_failure": 8.813,
+    "arterial_po2": 5.886,
+    "icu_mortality": 2.879
+  },
+  {
+    "sofa_score": 9.703,
+    "ventilator_peep_setting": 12.694,
+    "multiorgan_failure": 6.905,
+    "arterial_po2": 8.053,
+    "icu_mortality": 0.113
+  },
+  {
+    "sofa_score": 7.458,
+    "ventilator_peep_setting": 8.704,
+    "multiorgan_failure": 4.276,
+    "arterial_po2": 4.218,
+    "icu_mortality": 0.226
+  },
+  {
+    "sofa_score": 9.835,
+    "ventilator_peep_setting": 4.81,
+    "multiorgan_failure": 3.714,
+    "arterial_po2": -0.665,
+    "icu_mortality": 3.199
+  },
+  {
+    "sofa_score": 10.489,
+    "ventilator_peep_setting": 10.736,
+    "multiorgan_failure": 1.18,
+    "arterial_po2": 0.443,
+    "icu_mortality": 0.751
+  },
+  {
+    "sofa_score": 10.902,
+    "ventilator_peep_setting": 8.24,
+    "multiorgan_failure": 10.392,
+    "arterial_po2": 7.366,
+    "icu_mortality": 2.672
+  },
+  {
+    "sofa_score": 8.997,
+    "ventilator_peep_setting": 7.378,
+    "multiorgan_failure": 6.497,
+    "arterial_po2": 4.021,
+    "icu_mortality": 2.132
+  },
+  {
+    "sofa_score": 5.449,
+    "ventilator_peep_setting": 10.844,
+    "multiorgan_failure": 2.61,
+    "arterial_po2": 5.967,
+    "icu_mortality": -1.97
+  },
+  {
+    "sofa_score": 5.848,
+    "ventilator_peep_setting": 8.238,
+    "multiorgan_failure": 6.786,
+    "arterial_po2": 8.127,
+    "icu_mortality": -0.12
+  },
+  {
+    "sofa_score": 9.608,
+    "ventilator_peep_setting": 11.088,
+    "multiorgan_failure": 5.659,
+    "arterial_po2": 5.813,
+    "icu_mortality": 0.606
+  },
+  {
+    "sofa_score": 7.079,
+    "ventilator_peep_setting": 9.644,
+    "multiorgan_failure": 2.223,
+    "arterial_po2": 3.251,
+    "icu_mortality": -0.464
+  },
+  {
+    "sofa_score": 11.621,
+    "ventilator_peep_setting": 9.538,
+    "multiorgan_failure": 3.572,
+    "arterial_po2": 1.331,
+    "icu_mortality": 2.055
+  },
+  {
+    "sofa_score": 9.941,
+    "ventilator_peep_setting": 13.668,
+    "multiorgan_failure": 3.695,
+    "arterial_po2": 4.994,
+    "icu_mortality": -0.075
+  },
+  {
+    "sofa_score": 9.284,
+    "ventilator_peep_setting": 10.142,
+    "multiorgan_failure": 6.373,
+    "arterial_po2": 5.949,
+    "icu_mortality": 0.802
+  },
+  {
+    "sofa_score": 10.516,
+    "ventilator_peep_setting": 9.23,
+    "multiorgan_failure": 12.988,
+    "arterial_po2": 10.889,
+    "icu_mortality": 2.643
+  },
+  {
+    "sofa_score": 8.305,
+    "ventilator_peep_setting": 10.422,
+    "multiorgan_failure": 2.703,
+    "arterial_po2": 3.716,
+    "icu_mortality": -0.205
+  },
+  {
+    "sofa_score": 8.624,
+    "ventilator_peep_setting": 12.765,
+    "multiorgan_failure": 4.944,
+    "arterial_po2": 7.023,
+    "icu_mortality": -0.281
+  },
+  {
+    "sofa_score": 10.655,
+    "ventilator_peep_setting": 4.432,
+    "multiorgan_failure": 16.284,
+    "arterial_po2": 10.684,
+    "icu_mortality": 4.9
+  },
+  {
+    "sofa_score": 8.635,
+    "ventilator_peep_setting": 8.939,
+    "multiorgan_failure": 3.815,
+    "arterial_po2": 3.537,
+    "icu_mortality": 0.617
+  },
+  {
+    "sofa_score": 7.789,
+    "ventilator_peep_setting": 9.374,
+    "multiorgan_failure": 10.299,
+    "arterial_po2": 10.272,
+    "icu_mortality": 1.122
+  },
+  {
+    "sofa_score": 10.835,
+    "ventilator_peep_setting": 13.473,
+    "multiorgan_failure": 6.36,
+    "arterial_po2": 7.493,
+    "icu_mortality": -0.037
+  },
+  {
+    "sofa_score": 11.506,
+    "ventilator_peep_setting": 8.218,
+    "multiorgan_failure": 6.544,
+    "arterial_po2": 3.262,
+    "icu_mortality": 2.807
+  },
+  {
+    "sofa_score": 11.11,
+    "ventilator_peep_setting": 12.215,
+    "multiorgan_failure": 11.127,
+    "arterial_po2": 10.585,
+    "icu_mortality": 1.657
+  },
+  {
+    "sofa_score": 8.135,
+    "ventilator_peep_setting": 12.968,
+    "multiorgan_failure": 6.564,
+    "arterial_po2": 9.044,
+    "icu_mortality": -1.242
+  },
+  {
+    "sofa_score": 11.517,
+    "ventilator_peep_setting": 12.486,
+    "multiorgan_failure": 5.8,
+    "arterial_po2": 5.183,
+    "icu_mortality": 1.194
+  },
+  {
+    "sofa_score": 8.645,
+    "ventilator_peep_setting": 7.454,
+    "multiorgan_failure": 7.412,
+    "arterial_po2": 5.501,
+    "icu_mortality": 1.987
+  },
+  {
+    "sofa_score": 13.193,
+    "ventilator_peep_setting": 9.352,
+    "multiorgan_failure": 7.2,
+    "arterial_po2": 3.408,
+    "icu_mortality": 2.878
+  },
+  {
+    "sofa_score": 11.713,
+    "ventilator_peep_setting": 11.488,
+    "multiorgan_failure": 9.08,
+    "arterial_po2": 7.708,
+    "icu_mortality": 1.615
+  },
+  {
+    "sofa_score": 10.615,
+    "ventilator_peep_setting": 9.406,
+    "multiorgan_failure": 3.259,
+    "arterial_po2": 1.595,
+    "icu_mortality": 1.38
+  },
+  {
+    "sofa_score": 8.448,
+    "ventilator_peep_setting": 11.034,
+    "multiorgan_failure": 4.188,
+    "arterial_po2": 4.805,
+    "icu_mortality": 0.034
+  },
+  {
+    "sofa_score": 12.497,
+    "ventilator_peep_setting": 9.451,
+    "multiorgan_failure": 4.355,
+    "arterial_po2": 0.812,
+    "icu_mortality": 2.571
+  },
+  {
+    "sofa_score": 10.394,
+    "ventilator_peep_setting": 7.075,
+    "multiorgan_failure": 2.456,
+    "arterial_po2": -1.063,
+    "icu_mortality": 2.791
+  },
+  {
+    "sofa_score": 14.409,
+    "ventilator_peep_setting": 11.491,
+    "multiorgan_failure": 11.001,
+    "arterial_po2": 7.244,
+    "icu_mortality": 3.478
+  },
+  {
+    "sofa_score": 9.263,
+    "ventilator_peep_setting": 11.55,
+    "multiorgan_failure": 11.601,
+    "arterial_po2": 12.588,
+    "icu_mortality": 0.637
+  },
+  {
+    "sofa_score": 9.068,
+    "ventilator_peep_setting": 8.843,
+    "multiorgan_failure": 4.141,
+    "arterial_po2": 2.925,
+    "icu_mortality": 1.293
+  },
+  {
+    "sofa_score": 14.812,
+    "ventilator_peep_setting": 10.142,
+    "multiorgan_failure": 12.854,
+    "arterial_po2": 7.913,
+    "icu_mortality": 4.577
+  },
+  {
+    "sofa_score": 13.253,
+    "ventilator_peep_setting": 7.21,
+    "multiorgan_failure": 7.861,
+    "arterial_po2": 2.588,
+    "icu_mortality": 4.226
+  },
+  {
+    "sofa_score": 6.859,
+    "ventilator_peep_setting": 7.92,
+    "multiorgan_failure": 7.313,
+    "arterial_po2": 6.981,
+    "icu_mortality": 0.86
+  },
+  {
+    "sofa_score": 11.083,
+    "ventilator_peep_setting": 6.321,
+    "multiorgan_failure": 9.7,
+    "arterial_po2": 4.738,
+    "icu_mortality": 3.994
+  },
+  {
+    "sofa_score": 11.248,
+    "ventilator_peep_setting": 8.98,
+    "multiorgan_failure": 3.567,
+    "arterial_po2": 0.743,
+    "icu_mortality": 2.264
+  },
+  {
+    "sofa_score": 13.65,
+    "ventilator_peep_setting": 10.469,
+    "multiorgan_failure": 11.721,
+    "arterial_po2": 8.248,
+    "icu_mortality": 3.408
+  },
+  {
+    "sofa_score": 9.974,
+    "ventilator_peep_setting": 8.178,
+    "multiorgan_failure": 9.798,
+    "arterial_po2": 7.808,
+    "icu_mortality": 2.177
+  },
+  {
+    "sofa_score": 12.917,
+    "ventilator_peep_setting": 10.573,
+    "multiorgan_failure": 6.59,
+    "arterial_po2": 3.795,
+    "icu_mortality": 2.215
+  },
+  {
+    "sofa_score": 10.18,
+    "ventilator_peep_setting": 9.745,
+    "multiorgan_failure": 7.279,
+    "arterial_po2": 6.008,
+    "icu_mortality": 1.758
+  },
+  {
+    "sofa_score": 9.123,
+    "ventilator_peep_setting": 13.434,
+    "multiorgan_failure": 10.986,
+    "arterial_po2": 12.708,
+    "icu_mortality": 0.111
+  },
+  {
+    "sofa_score": 13.899,
+    "ventilator_peep_setting": 9.005,
+    "multiorgan_failure": 11.879,
+    "arterial_po2": 6.668,
+    "icu_mortality": 4.324
+  },
+  {
+    "sofa_score": 11.847,
+    "ventilator_peep_setting": 11.637,
+    "multiorgan_failure": 9.215,
+    "arterial_po2": 7.742,
+    "icu_mortality": 1.787
+  },
+  {
+    "sofa_score": 13.059,
+    "ventilator_peep_setting": 9.427,
+    "multiorgan_failure": 3.208,
+    "arterial_po2": -0.264,
+    "icu_mortality": 2.459
+  },
+  {
+    "sofa_score": 8.193,
+    "ventilator_peep_setting": 9.283,
+    "multiorgan_failure": 3.18,
+    "arterial_po2": 3.025,
+    "icu_mortality": 0.664
+  },
+  {
+    "sofa_score": 12.627,
+    "ventilator_peep_setting": 9.653,
+    "multiorgan_failure": 17.762,
+    "arterial_po2": 14.181,
+    "icu_mortality": 4.151
+  },
+  {
+    "sofa_score": 12.657,
+    "ventilator_peep_setting": 9.663,
+    "multiorgan_failure": 11.793,
+    "arterial_po2": 8.444,
+    "icu_mortality": 3.198
+  },
+  {
+    "sofa_score": 11.224,
+    "ventilator_peep_setting": 8.625,
+    "multiorgan_failure": 6.54,
+    "arterial_po2": 3.551,
+    "icu_mortality": 2.447
+  },
+  {
+    "sofa_score": 11.538,
+    "ventilator_peep_setting": 7.29,
+    "multiorgan_failure": 8.181,
+    "arterial_po2": 3.812,
+    "icu_mortality": 3.936
+  },
+  {
+    "sofa_score": 12.033,
+    "ventilator_peep_setting": 6.2,
+    "multiorgan_failure": 12.7,
+    "arterial_po2": 7.293,
+    "icu_mortality": 4.673
+  },
+  {
+    "sofa_score": 12.202,
+    "ventilator_peep_setting": 7.567,
+    "multiorgan_failure": 16.065,
+    "arterial_po2": 11.649,
+    "icu_mortality": 3.939
+  },
+  {
+    "sofa_score": 9.945,
+    "ventilator_peep_setting": 11.126,
+    "multiorgan_failure": 4.029,
+    "arterial_po2": 3.458,
+    "icu_mortality": 0.942
+  },
+  {
+    "sofa_score": 9.424,
+    "ventilator_peep_setting": 10.706,
+    "multiorgan_failure": 8.246,
+    "arterial_po2": 8.316,
+    "icu_mortality": 0.798
+  },
+  {
+    "sofa_score": 13.51,
+    "ventilator_peep_setting": 10.21,
+    "multiorgan_failure": 10.883,
+    "arterial_po2": 7.66,
+    "icu_mortality": 3.355
+  },
+  {
+    "sofa_score": 11.996,
+    "ventilator_peep_setting": 12.041,
+    "multiorgan_failure": 10.364,
+    "arterial_po2": 8.909,
+    "icu_mortality": 2.217
+  },
+  {
+    "sofa_score": 11.574,
+    "ventilator_peep_setting": 8.714,
+    "multiorgan_failure": 1.994,
+    "arterial_po2": -1.066,
+    "icu_mortality": 2.287
+  },
+  {
+    "sofa_score": 11.011,
+    "ventilator_peep_setting": 9.908,
+    "multiorgan_failure": 10.543,
+    "arterial_po2": 8.838,
+    "icu_mortality": 2.363
+  },
+  {
+    "sofa_score": 14.31,
+    "ventilator_peep_setting": 8.134,
+    "multiorgan_failure": 16.169,
+    "arterial_po2": 10.42,
+    "icu_mortality": 5.186
+  },
+  {
+    "sofa_score": 13.033,
+    "ventilator_peep_setting": 7.294,
+    "multiorgan_failure": 5.418,
+    "arterial_po2": -0.049,
+    "icu_mortality": 4.129
+  },
+  {
+    "sofa_score": 6.982,
+    "ventilator_peep_setting": 10.01,
+    "multiorgan_failure": 6.756,
+    "arterial_po2": 8.579,
+    "icu_mortality": -0.794
+  },
+  {
+    "sofa_score": 9.773,
+    "ventilator_peep_setting": 9.715,
+    "multiorgan_failure": 11.054,
+    "arterial_po2": 10.351,
+    "icu_mortality": 1.783
+  },
+  {
+    "sofa_score": 10.966,
+    "ventilator_peep_setting": 7.548,
+    "multiorgan_failure": 1.657,
+    "arterial_po2": -2.051,
+    "icu_mortality": 2.581
+  },
+  {
+    "sofa_score": 8.99,
+    "ventilator_peep_setting": 11.473,
+    "multiorgan_failure": 12.181,
+    "arterial_po2": 12.845,
+    "icu_mortality": 0.715
+  },
+  {
+    "sofa_score": 11.385,
+    "ventilator_peep_setting": 9.631,
+    "multiorgan_failure": 5.651,
+    "arterial_po2": 3.519,
+    "icu_mortality": 2.024
+  },
+  {
+    "sofa_score": 6.794,
+    "ventilator_peep_setting": 8.941,
+    "multiorgan_failure": 6.911,
+    "arterial_po2": 7.633,
+    "icu_mortality": 0.221
+  },
+  {
+    "sofa_score": 8.126,
+    "ventilator_peep_setting": 10.652,
+    "multiorgan_failure": 3.327,
+    "arterial_po2": 4.666,
+    "icu_mortality": -0.558
+  },
+  {
+    "sofa_score": 10.892,
+    "ventilator_peep_setting": 11.625,
+    "multiorgan_failure": 3.994,
+    "arterial_po2": 3.601,
+    "icu_mortality": 0.567
+  },
+  {
+    "sofa_score": 11.795,
+    "ventilator_peep_setting": 13.037,
+    "multiorgan_failure": 9.255,
+    "arterial_po2": 8.166,
+    "icu_mortality": 1.434
+  },
+  {
+    "sofa_score": 10.348,
+    "ventilator_peep_setting": 10.287,
+    "multiorgan_failure": 8.531,
+    "arterial_po2": 7.173,
+    "icu_mortality": 1.99
+  },
+  {
+    "sofa_score": 9.336,
+    "ventilator_peep_setting": 8.918,
+    "multiorgan_failure": 13.123,
+    "arterial_po2": 12.358,
+    "icu_mortality": 2.059
+  },
+  {
+    "sofa_score": 11.7,
+    "ventilator_peep_setting": 7.94,
+    "multiorgan_failure": 6.544,
+    "arterial_po2": 2.946,
+    "icu_mortality": 3.075
+  },
+  {
+    "sofa_score": 12.802,
+    "ventilator_peep_setting": 5.987,
+    "multiorgan_failure": 12.217,
+    "arterial_po2": 6.009,
+    "icu_mortality": 5.241
+  },
+  {
+    "sofa_score": 11.262,
+    "ventilator_peep_setting": 13.169,
+    "multiorgan_failure": 16.652,
+    "arterial_po2": 16.828,
+    "icu_mortality": 1.605
+  },
+  {
+    "sofa_score": 11.54,
+    "ventilator_peep_setting": 2.517,
+    "multiorgan_failure": 12.641,
+    "arterial_po2": 5.139,
+    "icu_mortality": 6.036
+  },
+  {
+    "sofa_score": 9.375,
+    "ventilator_peep_setting": 12.192,
+    "multiorgan_failure": 10.744,
+    "arterial_po2": 11.569,
+    "icu_mortality": 0.69
+  },
+  {
+    "sofa_score": 9.777,
+    "ventilator_peep_setting": 7.569,
+    "multiorgan_failure": 12.876,
+    "arterial_po2": 10.252,
+    "icu_mortality": 2.926
+  },
+  {
+    "sofa_score": 10.41,
+    "ventilator_peep_setting": 5.446,
+    "multiorgan_failure": 5.752,
+    "arterial_po2": 1.668,
+    "icu_mortality": 3.162
+  },
+  {
+    "sofa_score": 8.687,
+    "ventilator_peep_setting": 8.99,
+    "multiorgan_failure": 8.199,
+    "arterial_po2": 7.821,
+    "icu_mortality": 1.45
+  },
+  {
+    "sofa_score": 13.141,
+    "ventilator_peep_setting": 10.851,
+    "multiorgan_failure": 9.553,
+    "arterial_po2": 6.559,
+    "icu_mortality": 2.621
+  },
+  {
+    "sofa_score": 8.983,
+    "ventilator_peep_setting": 5.331,
+    "multiorgan_failure": 1.204,
+    "arterial_po2": -2.139,
+    "icu_mortality": 2.36
+  },
+  {
+    "sofa_score": 9.001,
+    "ventilator_peep_setting": 11.102,
+    "multiorgan_failure": 8.273,
+    "arterial_po2": 8.579,
+    "icu_mortality": 0.797
+  },
+  {
+    "sofa_score": 8.275,
+    "ventilator_peep_setting": 7.914,
+    "multiorgan_failure": 6.004,
+    "arterial_po2": 4.77,
+    "icu_mortality": 0.868
+  },
+  {
+    "sofa_score": 10.557,
+    "ventilator_peep_setting": 14.771,
+    "multiorgan_failure": 8.907,
+    "arterial_po2": 10.88,
+    "icu_mortality": -0.669
+  },
+  {
+    "sofa_score": 9.728,
+    "ventilator_peep_setting": 8.015,
+    "multiorgan_failure": 3.643,
+    "arterial_po2": 1.83,
+    "icu_mortality": 1.543
+  }
+]

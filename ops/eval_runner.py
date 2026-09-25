@@ -5,7 +5,7 @@ from __future__ import annotations
 import json
 from pathlib import Path
 import sys
-from typing import Any
+from typing import Any, Callable
 
 # Ensure project root is in sys.path
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -16,10 +16,7 @@ from core.context_ram import ContextRAM
 from core.execution_loop import ExecutionEngine
 from core.memory_promoter import MemoryPromoter
 from domain.models import CandidateFact, ConfigPack, Turn
-from domain.ports import FactStorePort
-from infrastructure.llm_adapter import MockLLMAdapter
-from infrastructure.sqlite_episode_store import SQLiteEpisodeStore
-from infrastructure.sqlite_fact_store import SQLiteFactStore
+from domain.ports import FactStorePort, EpisodeStorePort, LLMProviderPort
 from tools.clinical_tools import (
     ClinicalAssertionCheckerTool,
     DeidentifyTextTool,
@@ -32,8 +29,13 @@ from tools.registry import ToolRegistry
 class EvalRunner:
     """Executes frozen evaluation test suites and outputs deterministic pass/fail metrics."""
 
-    def __init__(self, evals_dir: str | Path = "evals") -> None:
+    def __init__(
+        self,
+        evals_dir: str | Path = "evals",
+        fact_store_factory: Callable[[], FactStorePort] | None = None
+    ) -> None:
         self.evals_dir = Path(evals_dir)
+        self.fact_store_factory = fact_store_factory
 
     def run_suite(self, suite_name: str, config_pack: ConfigPack) -> dict[str, Any]:
         """Run all test fixtures in a given suite directory (golden, dev, or holdout)."""
@@ -86,7 +88,9 @@ class EvalRunner:
     def _evaluate_case(self, case: dict[str, Any], config_pack: ConfigPack, case_type: str) -> tuple[bool, str]:
         """Evaluate a single test case."""
         if case_type == "memory_contradiction":
-            fact_store = SQLiteFactStore(":memory:")
+            if not self.fact_store_factory:
+                return False, "fact_store_factory not provided"
+            fact_store = self.fact_store_factory()
             promoter = MemoryPromoter(fact_store)
 
             existing = case.get("existing_fact", {})

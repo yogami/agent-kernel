@@ -4,17 +4,28 @@ from __future__ import annotations
 
 from typing import Any
 from domain.models import ConfigPack
+from domain.ports import PromptOptimizerPort
 from ops.config_manager import ConfigManager
 from ops.eval_runner import EvalRunner
 
+class DummyOptimizer(PromptOptimizerPort):
+    def optimize_prompt(self, base_pack, failure_traces, eval_callback):
+        return base_pack, {"status": "dummy"}
 
 class SelfHealer:
     """Diagnoses failure traces, generates candidate config packs, and enforces non-regression gating."""
 
-    def __init__(self, config_manager: ConfigManager, eval_runner: EvalRunner, max_iterations: int = 5) -> None:
+    def __init__(
+        self,
+        config_manager: ConfigManager,
+        eval_runner: EvalRunner,
+        max_iterations: int = 5,
+        optimizer: PromptOptimizerPort | None = None,
+    ) -> None:
         self.config_manager = config_manager
         self.eval_runner = eval_runner
         self.max_iterations = max_iterations
+        self.optimizer = optimizer or DummyOptimizer()
 
     def run_repair_cycle(self) -> dict[str, Any]:
         """Execute automated diagnosis, proposal, evaluation, and monotonic commit."""
@@ -37,15 +48,20 @@ class SelfHealer:
         for iteration in range(1, self.max_iterations + 1):
             next_version = f"v{int(active_pack.version.replace('v', '')) + iteration}"
 
-            # Diagnose failure and synthesize candidate patch
-            patched_prompt, patched_rules = self._synthesize_patch(
-                active_pack, dev_results["failures"]
+            # Optimize prompt instructions and rules via MIPROv2 optimizer
+            def eval_dev_score(cand: ConfigPack) -> float:
+                return self.eval_runner.run_suite("dev", cand)["pass_rate"]
+
+            optimized_pack, opt_telemetry = self.optimizer.optimize_prompt(
+                base_pack=active_pack,
+                failure_traces=dev_results["failures"],
+                eval_callback=eval_dev_score,
             )
 
             candidate_pack = self.config_manager.save_candidate_pack(
                 version=next_version,
-                system_prompt=patched_prompt,
-                rules=patched_rules,
+                system_prompt=optimized_pack.system_prompt,
+                rules=optimized_pack.rules,
                 tool_schemas=active_pack.tool_schemas,
             )
 

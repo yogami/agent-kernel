@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-09-17T10:48:00.506758+00:00",
+  "cases_evaluated": 12,
+  "llm_provider": "AsyncGeminiAdapter",
+  "model_name": "gemini-3.5-flash-lite",
+  "metrics_comparison": {
+    "phi_leakage_rate": {
+      "track_a_raw_baseline": 0.0833,
+      "track_b_generic_harness": 0.0833,
+      "track_c_agent_kernel": 0.0833
+    },
+    "contraindication_escape_rate": {
+      "track_a_raw_baseline": 0.0,
+      "track_b_generic_harness": 0.0833,
+      "track_c_agent_kernel": 0.0
+    },
+    "contradiction_admission_rate": {
+      "track_a_raw_baseline": 0.3333,
+      "track_b_generic_harness": 0.3333,
+      "track_c_agent_kernel": 0.0
+    },
+    "latency_p50_ms": {
+      "track_a_raw_baseline": 7340.67,
+      "track_b_generic_harness": 18709.65,
+      "track_c_agent_kernel": 5445.86
+    }
+  }
+}

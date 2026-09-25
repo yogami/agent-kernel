@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+from domain.serialization import to_dict
 import os
 from pathlib import Path
 from typing import Any
@@ -55,7 +56,7 @@ class ConfigManager:
             )
 
             with open(v1_dir / "pack.json", "w") as f:
-                json.dump(v1_pack.model_dump(mode="json"), f, indent=2)
+                json.dump(to_dict(v1_pack), f, indent=2)
 
             if not active_pointer.exists():
                 with open(active_pointer, "w") as f:
@@ -98,7 +99,7 @@ class ConfigManager:
         version_dir = self.base_dir / version
         version_dir.mkdir(parents=True, exist_ok=True)
         with open(version_dir / "pack.json", "w") as f:
-            json.dump(pack.model_dump(mode="json"), f, indent=2)
+            json.dump(to_dict(pack), f, indent=2)
 
         return pack
 

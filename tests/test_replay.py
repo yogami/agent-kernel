@@ -86,3 +86,4 @@ def test_deterministic_episode_replay():
     assert len(turn_replay.tool_calls) == len(turn_1.tool_calls)
     assert turn_replay.tool_calls[0].tool_name == turn_1.tool_calls[0].tool_name
     assert turn_replay.tool_results[0].output == turn_1.tool_results[0].output
+    assert "Herr Schmidt" not in turn_replay.tool_results[0].output  # Verify the tool actually executed and redacted

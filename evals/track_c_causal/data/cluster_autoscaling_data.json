@@ -1,0 +1,3502 @@
+[
+  {
+    "traffic_load": 12.997,
+    "cpu_utilization": 10.472,
+    "network_io": 9.236,
+    "replica_count": 6.458,
+    "p99_latency": 4.638
+  },
+  {
+    "traffic_load": 6.872,
+    "cpu_utilization": 5.273,
+    "network_io": 4.878,
+    "replica_count": 3.375,
+    "p99_latency": 2.578
+  },
+  {
+    "traffic_load": 7.28,
+    "cpu_utilization": 6.105,
+    "network_io": 4.775,
+    "replica_count": 3.565,
+    "p99_latency": 2.28
+  },
+  {
+    "traffic_load": 10.501,
+    "cpu_utilization": 8.62,
+    "network_io": 7.052,
+    "replica_count": 5.108,
+    "p99_latency": 3.662
+  },
+  {
+    "traffic_load": 7.666,
+    "cpu_utilization": 6.115,
+    "network_io": 5.404,
+    "replica_count": 3.402,
+    "p99_latency": 2.701
+  },
+  {
+    "traffic_load": 9.89,
+    "cpu_utilization": 7.867,
+    "network_io": 6.967,
+    "replica_count": 5.162,
+    "p99_latency": 3.688
+  },
+  {
+    "traffic_load": 10.89,
+    "cpu_utilization": 8.57,
+    "network_io": 7.809,
+    "replica_count": 4.986,
+    "p99_latency": 4.567
+  },
+  {
+    "traffic_load": 12.373,
+    "cpu_utilization": 9.497,
+    "network_io": 8.426,
+    "replica_count": 5.66,
+    "p99_latency": 4.397
+  },
+  {
+    "traffic_load": 7.478,
+    "cpu_utilization": 5.737,
+    "network_io": 5.379,
+    "replica_count": 3.336,
+    "p99_latency": 2.663
+  },
+  {
+    "traffic_load": 9.439,
+    "cpu_utilization": 7.745,
+    "network_io": 6.944,
+    "replica_count": 4.659,
+    "p99_latency": 3.629
+  },
+  {
+    "traffic_load": 8.391,
+    "cpu_utilization": 6.609,
+    "network_io": 5.98,
+    "replica_count": 4.216,
+    "p99_latency": 3.346
+  },
+  {
+    "traffic_load": 9.512,
+    "cpu_utilization": 7.787,
+    "network_io": 6.811,
+    "replica_count": 4.763,
+    "p99_latency": 3.053
+  },
+  {
+    "traffic_load": 9.874,
+    "cpu_utilization": 7.842,
+    "network_io": 7.177,
+    "replica_count": 4.649,
+    "p99_latency": 3.972
+  },
+  {
+    "traffic_load": 10.523,
+    "cpu_utilization": 8.672,
+    "network_io": 7.519,
+    "replica_count": 5.409,
+    "p99_latency": 4.151
+  },
+  {
+    "traffic_load": 11.918,
+    "cpu_utilization": 9.691,
+    "network_io": 8.29,
+    "replica_count": 5.834,
+    "p99_latency": 4.731
+  },
+  {
+    "traffic_load": 10.068,
+    "cpu_utilization": 8.156,
+    "network_io": 7.033,
+    "replica_count": 4.835,
+    "p99_latency": 3.093
+  },
+  {
+    "traffic_load": 13.423,
+    "cpu_utilization": 10.502,
+    "network_io": 9.23,
+    "replica_count": 6.572,
+    "p99_latency": 4.284
+  },
+  {
+    "traffic_load": 10.056,
+    "cpu_utilization": 7.933,
+    "network_io": 6.671,
+    "replica_count": 4.883,
+    "p99_latency": 3.229
+  },
+  {
+    "traffic_load": 9.793,
+    "cpu_utilization": 7.749,
+    "network_io": 6.983,
+    "replica_count": 5.101,
+    "p99_latency": 3.295
+  },
+  {
+    "traffic_load": 11.714,
+    "cpu_utilization": 9.233,
+    "network_io": 8.129,
+    "replica_count": 5.162,
+    "p99_latency": 4.211
+  },
+  {
+    "traffic_load": 9.138,
+    "cpu_utilization": 7.474,
+    "network_io": 6.446,
+    "replica_count": 4.6,
+    "p99_latency": 3.463
+  },
+  {
+    "traffic_load": 7.232,
+    "cpu_utilization": 6.076,
+    "network_io": 4.997,
+    "replica_count": 3.783,
+    "p99_latency": 2.448
+  },
+  {
+    "traffic_load": 10.532,
+    "cpu_utilization": 8.555,
+    "network_io": 6.922,
+    "replica_count": 5.536,
+    "p99_latency": 3.358
+  },
+  {
+    "traffic_load": 12.187,
+    "cpu_utilization": 9.793,
+    "network_io": 8.549,
+    "replica_count": 5.611,
+    "p99_latency": 4.517
+  },
+  {
+    "traffic_load": 5.573,
+    "cpu_utilization": 4.428,
+    "network_io": 4.217,
+    "replica_count": 2.28,
+    "p99_latency": 2.324
+  },
+  {
+    "traffic_load": 9.256,
+    "cpu_utilization": 7.638,
+    "network_io": 6.727,
+    "replica_count": 4.595,
+    "p99_latency": 3.562
+  },
+  {
+    "traffic_load": 9.677,
+    "cpu_utilization": 7.644,
+    "network_io": 6.678,
+    "replica_count": 4.493,
+    "p99_latency": 3.514
+  },
+  {
+    "traffic_load": 10.156,
+    "cpu_utilization": 7.998,
+    "network_io": 7.234,
+    "replica_count": 4.791,
+    "p99_latency": 3.978
+  },
+  {
+    "traffic_load": 7.269,
+    "cpu_utilization": 5.675,
+    "network_io": 5.107,
+    "replica_count": 3.462,
+    "p99_latency": 2.665
+  },
+  {
+    "traffic_load": 13.08,
+    "cpu_utilization": 10.422,
+    "network_io": 9.442,
+    "replica_count": 6.532,
+    "p99_latency": 5.08
+  },
+  {
+    "traffic_load": 10.891,
+    "cpu_utilization": 8.824,
+    "network_io": 7.595,
+    "replica_count": 5.069,
+    "p99_latency": 3.944
+  },
+  {
+    "traffic_load": 8.732,
+    "cpu_utilization": 6.903,
+    "network_io": 5.965,
+    "replica_count": 3.927,
+    "p99_latency": 3.227
+  },
+  {
+    "traffic_load": 12.846,
+    "cpu_utilization": 10.102,
+    "network_io": 8.624,
+    "replica_count": 5.945,
+    "p99_latency": 4.274
+  },
+  {
+    "traffic_load": 7.954,
+    "cpu_utilization": 6.103,
+    "network_io": 5.538,
+    "replica_count": 3.766,
+    "p99_latency": 3.374
+  },
+  {
+    "traffic_load": 7.627,
+    "cpu_utilization": 5.818,
+    "network_io": 5.304,
+    "replica_count": 3.463,
+    "p99_latency": 3.179
+  },
+  {
+    "traffic_load": 12.598,
+    "cpu_utilization": 9.944,
+    "network_io": 8.407,
+    "replica_count": 6.08,
+    "p99_latency": 4.204
+  },
+  {
+    "traffic_load": 12.735,
+    "cpu_utilization": 10.162,
+    "network_io": 8.884,
+    "replica_count": 5.858,
+    "p99_latency": 4.755
+  },
+  {
+    "traffic_load": 12.306,
+    "cpu_utilization": 9.682,
+    "network_io": 8.654,
+    "replica_count": 5.691,
+    "p99_latency": 4.828
+  },
+  {
+    "traffic_load": 9.885,
+    "cpu_utilization": 8.017,
+    "network_io": 6.983,
+    "replica_count": 4.633,
+    "p99_latency": 3.502
+  },
+  {
+    "traffic_load": 12.627,
+    "cpu_utilization": 10.032,
+    "network_io": 8.632,
+    "replica_count": 5.889,
+    "p99_latency": 4.882
+  },
+  {
+    "traffic_load": 10.187,
+    "cpu_utilization": 8.372,
+    "network_io": 6.674,
+    "replica_count": 5.484,
+    "p99_latency": 3.163
+  },
+  {
+    "traffic_load": 12.678,
+    "cpu_utilization": 10.08,
+    "network_io": 8.864,
+    "replica_count": 6.222,
+    "p99_latency": 4.981
+  },
+  {
+    "traffic_load": 10.334,
+    "cpu_utilization": 8.133,
+    "network_io": 7.439,
+    "replica_count": 5.305,
+    "p99_latency": 3.56
+  },
+  {
+    "traffic_load": 8.321,
+    "cpu_utilization": 6.787,
+    "network_io": 5.739,
+    "replica_count": 3.629,
+    "p99_latency": 3.14
+  },
+  {
+    "traffic_load": 10.598,
+    "cpu_utilization": 8.62,
+    "network_io": 7.701,
+    "replica_count": 4.912,
+    "p99_latency": 4.089
+  },
+  {
+    "traffic_load": 9.896,
+    "cpu_utilization": 8.003,
+    "network_io": 6.778,
+    "replica_count": 4.809,
+    "p99_latency": 3.346
+  },
+  {
+    "traffic_load": 11.743,
+    "cpu_utilization": 9.648,
+    "network_io": 8.068,
+    "replica_count": 5.91,
+    "p99_latency": 3.885
+  },
+  {
+    "traffic_load": 10.826,
+    "cpu_utilization": 8.377,
+    "network_io": 7.631,
+    "replica_count": 5.261,
+    "p99_latency": 4.187
+  },
+  {
+    "traffic_load": 6.319,
+    "cpu_utilization": 5.086,
+    "network_io": 4.355,
+    "replica_count": 3.34,
+    "p99_latency": 2.233
+  },
+  {
+    "traffic_load": 12.979,
+    "cpu_utilization": 10.278,
+    "network_io": 8.858,
+    "replica_count": 5.681,
+    "p99_latency": 4.877
+  },
+  {
+    "traffic_load": 9.477,
+    "cpu_utilization": 7.646,
+    "network_io": 6.605,
+    "replica_count": 4.639,
+    "p99_latency": 3.723
+  },
+  {
+    "traffic_load": 7.601,
+    "cpu_utilization": 6.192,
+    "network_io": 5.579,
+    "replica_count": 3.825,
+    "p99_latency": 3.311
+  },
+  {
+    "traffic_load": 9.401,
+    "cpu_utilization": 7.557,
+    "network_io": 6.525,
+    "replica_count": 4.472,
+    "p99_latency": 3.793
+  },
+  {
+    "traffic_load": 7.169,
+    "cpu_utilization": 5.622,
+    "network_io": 4.92,
+    "replica_count": 3.382,
+    "p99_latency": 2.527
+  },
+  {
+    "traffic_load": 11.306,
+    "cpu_utilization": 9.154,
+    "network_io": 8.28,
+    "replica_count": 5.671,
+    "p99_latency": 4.177
+  },
+  {
+    "traffic_load": 6.835,
+    "cpu_utilization": 5.389,
+    "network_io": 4.665,
+    "replica_count": 3.185,
+    "p99_latency": 2.727
+  },
+  {
+    "traffic_load": 10.718,
+    "cpu_utilization": 8.304,
+    "network_io": 7.348,
+    "replica_count": 5.306,
+    "p99_latency": 3.518
+  },
+  {
+    "traffic_load": 11.501,
+    "cpu_utilization": 9.374,
+    "network_io": 7.812,
+    "replica_count": 5.366,
+    "p99_latency": 4.17
+  },
+  {
+    "traffic_load": 10.611,
+    "cpu_utilization": 8.694,
+    "network_io": 7.542,
+    "replica_count": 5.017,
+    "p99_latency": 4.392
+  },
+  {
+    "traffic_load": 10.387,
+    "cpu_utilization": 8.339,
+    "network_io": 7.313,
+    "replica_count": 4.702,
+    "p99_latency": 3.808
+  },
+  {
+    "traffic_load": 11.649,
+    "cpu_utilization": 9.46,
+    "network_io": 8.055,
+    "replica_count": 5.701,
+    "p99_latency": 4.059
+  },
+  {
+    "traffic_load": 8.896,
+    "cpu_utilization": 7.032,
+    "network_io": 6.007,
+    "replica_count": 4.076,
+    "p99_latency": 3.153
+  },
+  {
+    "traffic_load": 10.025,
+    "cpu_utilization": 7.99,
+    "network_io": 6.982,
+    "replica_count": 4.88,
+    "p99_latency": 3.659
+  },
+  {
+    "traffic_load": 10.152,
+    "cpu_utilization": 8.045,
+    "network_io": 7.095,
+    "replica_count": 4.987,
+    "p99_latency": 3.821
+  },
+  {
+    "traffic_load": 9.427,
+    "cpu_utilization": 7.42,
+    "network_io": 6.458,
+    "replica_count": 4.239,
+    "p99_latency": 3.795
+  },
+  {
+    "traffic_load": 8.332,
+    "cpu_utilization": 6.853,
+    "network_io": 5.822,
+    "replica_count": 4.244,
+    "p99_latency": 2.844
+  },
+  {
+    "traffic_load": 9.567,
+    "cpu_utilization": 7.86,
+    "network_io": 7.014,
+    "replica_count": 4.762,
+    "p99_latency": 3.94
+  },
+  {
+    "traffic_load": 11.454,
+    "cpu_utilization": 9.36,
+    "network_io": 8.094,
+    "replica_count": 5.608,
+    "p99_latency": 4.714
+  },
+  {
+    "traffic_load": 9.437,
+    "cpu_utilization": 7.729,
+    "network_io": 6.57,
+    "replica_count": 4.734,
+    "p99_latency": 3.258
+  },
+  {
+    "traffic_load": 8.664,
+    "cpu_utilization": 6.908,
+    "network_io": 6.236,
+    "replica_count": 3.931,
+    "p99_latency": 3.7
+  },
+  {
+    "traffic_load": 10.215,
+    "cpu_utilization": 8.273,
+    "network_io": 7.024,
+    "replica_count": 5.191,
+    "p99_latency": 3.523
+  },
+  {
+    "traffic_load": 10.944,
+    "cpu_utilization": 8.437,
+    "network_io": 8.058,
+    "replica_count": 5.234,
+    "p99_latency": 4.221
+  },
+  {
+    "traffic_load": 8.873,
+    "cpu_utilization": 7.149,
+    "network_io": 6.059,
+    "replica_count": 4.008,
+    "p99_latency": 3.229
+  },
+  {
+    "traffic_load": 12.8,
+    "cpu_utilization": 10.379,
+    "network_io": 9.064,
+    "replica_count": 6.141,
+    "p99_latency": 5.141
+  },
+  {
+    "traffic_load": 8.239,
+    "cpu_utilization": 6.429,
+    "network_io": 5.533,
+    "replica_count": 3.954,
+    "p99_latency": 2.691
+  },
+  {
+    "traffic_load": 10.177,
+    "cpu_utilization": 8.315,
+    "network_io": 6.812,
+    "replica_count": 4.835,
+    "p99_latency": 3.648
+  },
+  {
+    "traffic_load": 10.365,
+    "cpu_utilization": 8.274,
+    "network_io": 7.268,
+    "replica_count": 4.843,
+    "p99_latency": 3.945
+  },
+  {
+    "traffic_load": 11.726,
+    "cpu_utilization": 9.256,
+    "network_io": 8.085,
+    "replica_count": 5.315,
+    "p99_latency": 4.315
+  },
+  {
+    "traffic_load": 12.307,
+    "cpu_utilization": 9.719,
+    "network_io": 8.579,
+    "replica_count": 6.112,
+    "p99_latency": 4.259
+  },
+  {
+    "traffic_load": 9.412,
+    "cpu_utilization": 7.525,
+    "network_io": 6.562,
+    "replica_count": 4.92,
+    "p99_latency": 3.247
+  },
+  {
+    "traffic_load": 12.926,
+    "cpu_utilization": 10.458,
+    "network_io": 9.465,
+    "replica_count": 6.721,
+    "p99_latency": 4.567
+  },
+  {
+    "traffic_load": 10.974,
+    "cpu_utilization": 8.769,
+    "network_io": 7.973,
+    "replica_count": 5.614,
+    "p99_latency": 4.197
+  },
+  {
+    "traffic_load": 9.875,
+    "cpu_utilization": 8.022,
+    "network_io": 6.692,
+    "replica_count": 4.898,
+    "p99_latency": 3.51
+  },
+  {
+    "traffic_load": 10.345,
+    "cpu_utilization": 8.092,
+    "network_io": 7.411,
+    "replica_count": 4.822,
+    "p99_latency": 3.897
+  },
+  {
+    "traffic_load": 10.829,
+    "cpu_utilization": 8.494,
+    "network_io": 7.773,
+    "replica_count": 5.085,
+    "p99_latency": 4.006
+  },
+  {
+    "traffic_load": 10.611,
+    "cpu_utilization": 8.889,
+    "network_io": 7.65,
+    "replica_count": 5.051,
+    "p99_latency": 3.917
+  },
+  {
+    "traffic_load": 11.308,
+    "cpu_utilization": 9.236,
+    "network_io": 7.881,
+    "replica_count": 5.697,
+    "p99_latency": 3.805
+  },
+  {
+    "traffic_load": 11.722,
+    "cpu_utilization": 9.079,
+    "network_io": 8.287,
+    "replica_count": 5.714,
+    "p99_latency": 4.325
+  },
+  {
+    "traffic_load": 11.503,
+    "cpu_utilization": 8.733,
+    "network_io": 8.234,
+    "replica_count": 5.206,
+    "p99_latency": 4.667
+  },
+  {
+    "traffic_load": 7.364,
+    "cpu_utilization": 6.259,
+    "network_io": 5.2,
+    "replica_count": 4.096,
+    "p99_latency": 2.266
+  },
+  {
+    "traffic_load": 8.324,
+    "cpu_utilization": 6.934,
+    "network_io": 5.928,
+    "replica_count": 3.969,
+    "p99_latency": 3.028
+  },
+  {
+    "traffic_load": 8.508,
+    "cpu_utilization": 7.021,
+    "network_io": 5.839,
+    "replica_count": 4.224,
+    "p99_latency": 3.193
+  },
+  {
+    "traffic_load": 8.341,
+    "cpu_utilization": 6.572,
+    "network_io": 5.705,
+    "replica_count": 4.192,
+    "p99_latency": 2.79
+  },
+  {
+    "traffic_load": 12.098,
+    "cpu_utilization": 9.83,
+    "network_io": 8.557,
+    "replica_count": 6.071,
+    "p99_latency": 4.568
+  },
+  {
+    "traffic_load": 9.085,
+    "cpu_utilization": 7.44,
+    "network_io": 6.954,
+    "replica_count": 4.579,
+    "p99_latency": 3.739
+  },
+  {
+    "traffic_load": 10.277,
+    "cpu_utilization": 8.173,
+    "network_io": 7.166,
+    "replica_count": 4.505,
+    "p99_latency": 3.739
+  },
+  {
+    "traffic_load": 12.119,
+    "cpu_utilization": 9.776,
+    "network_io": 8.559,
+    "replica_count": 5.739,
+    "p99_latency": 4.598
+  },
+  {
+    "traffic_load": 10.509,
+    "cpu_utilization": 8.294,
+    "network_io": 7.036,
+    "replica_count": 4.811,
+    "p99_latency": 3.787
+  },
+  {
+    "traffic_load": 11.504,
+    "cpu_utilization": 9.188,
+    "network_io": 8.165,
+    "replica_count": 5.167,
+    "p99_latency": 4.13
+  },
+  {
+    "traffic_load": 11.02,
+    "cpu_utilization": 8.616,
+    "network_io": 8.096,
+    "replica_count": 5.162,
+    "p99_latency": 4.133
+  },
+  {
+    "traffic_load": 11.6,
+    "cpu_utilization": 9.027,
+    "network_io": 8.244,
+    "replica_count": 5.277,
+    "p99_latency": 4.144
+  },
+  {
+    "traffic_load": 13.407,
+    "cpu_utilization": 10.567,
+    "network_io": 9.453,
+    "replica_count": 6.406,
+    "p99_latency": 4.826
+  },
+  {
+    "traffic_load": 7.744,
+    "cpu_utilization": 6.323,
+    "network_io": 5.747,
+    "replica_count": 3.995,
+    "p99_latency": 2.952
+  },
+  {
+    "traffic_load": 9.601,
+    "cpu_utilization": 7.819,
+    "network_io": 6.814,
+    "replica_count": 4.366,
+    "p99_latency": 3.858
+  },
+  {
+    "traffic_load": 11.028,
+    "cpu_utilization": 8.51,
+    "network_io": 7.691,
+    "replica_count": 4.868,
+    "p99_latency": 4.364
+  },
+  {
+    "traffic_load": 10.97,
+    "cpu_utilization": 8.775,
+    "network_io": 7.633,
+    "replica_count": 5.267,
+    "p99_latency": 4.036
+  },
+  {
+    "traffic_load": 9.183,
+    "cpu_utilization": 7.504,
+    "network_io": 6.305,
+    "replica_count": 4.519,
+    "p99_latency": 3.141
+  },
+  {
+    "traffic_load": 9.714,
+    "cpu_utilization": 7.863,
+    "network_io": 6.432,
+    "replica_count": 4.361,
+    "p99_latency": 3.617
+  },
+  {
+    "traffic_load": 8.688,
+    "cpu_utilization": 6.73,
+    "network_io": 5.94,
+    "replica_count": 3.874,
+    "p99_latency": 3.478
+  },
+  {
+    "traffic_load": 13.276,
+    "cpu_utilization": 10.68,
+    "network_io": 9.696,
+    "replica_count": 6.22,
+    "p99_latency": 5.438
+  },
+  {
+    "traffic_load": 8.598,
+    "cpu_utilization": 6.751,
+    "network_io": 6.406,
+    "replica_count": 4.029,
+    "p99_latency": 3.377
+  },
+  {
+    "traffic_load": 11.204,
+    "cpu_utilization": 9.323,
+    "network_io": 7.534,
+    "replica_count": 5.527,
+    "p99_latency": 3.898
+  },
+  {
+    "traffic_load": 7.826,
+    "cpu_utilization": 6.212,
+    "network_io": 5.224,
+    "replica_count": 3.824,
+    "p99_latency": 2.907
+  },
+  {
+    "traffic_load": 10.228,
+    "cpu_utilization": 8.076,
+    "network_io": 6.929,
+    "replica_count": 5.105,
+    "p99_latency": 3.504
+  },
+  {
+    "traffic_load": 12.637,
+    "cpu_utilization": 9.959,
+    "network_io": 8.652,
+    "replica_count": 5.956,
+    "p99_latency": 4.586
+  },
+  {
+    "traffic_load": 12.156,
+    "cpu_utilization": 9.835,
+    "network_io": 8.48,
+    "replica_count": 5.723,
+    "p99_latency": 4.328
+  },
+  {
+    "traffic_load": 11.256,
+    "cpu_utilization": 9.086,
+    "network_io": 7.874,
+    "replica_count": 5.538,
+    "p99_latency": 4.396
+  },
+  {
+    "traffic_load": 12.08,
+    "cpu_utilization": 9.555,
+    "network_io": 8.734,
+    "replica_count": 5.493,
+    "p99_latency": 4.808
+  },
+  {
+    "traffic_load": 9.504,
+    "cpu_utilization": 7.618,
+    "network_io": 6.746,
+    "replica_count": 4.616,
+    "p99_latency": 3.672
+  },
+  {
+    "traffic_load": 7.146,
+    "cpu_utilization": 6.014,
+    "network_io": 4.928,
+    "replica_count": 3.648,
+    "p99_latency": 2.745
+  },
+  {
+    "traffic_load": 9.165,
+    "cpu_utilization": 7.194,
+    "network_io": 6.111,
+    "replica_count": 4.502,
+    "p99_latency": 3.101
+  },
+  {
+    "traffic_load": 10.478,
+    "cpu_utilization": 8.526,
+    "network_io": 7.222,
+    "replica_count": 4.696,
+    "p99_latency": 3.566
+  },
+  {
+    "traffic_load": 10.525,
+    "cpu_utilization": 8.568,
+    "network_io": 7.284,
+    "replica_count": 5.28,
+    "p99_latency": 3.673
+  },
+  {
+    "traffic_load": 10.011,
+    "cpu_utilization": 8.257,
+    "network_io": 6.342,
+    "replica_count": 5.0,
+    "p99_latency": 3.269
+  },
+  {
+    "traffic_load": 7.79,
+    "cpu_utilization": 6.453,
+    "network_io": 5.11,
+    "replica_count": 4.074,
+    "p99_latency": 2.606
+  },
+  {
+    "traffic_load": 9.497,
+    "cpu_utilization": 7.8,
+    "network_io": 6.832,
+    "replica_count": 4.871,
+    "p99_latency": 3.596
+  },
+  {
+    "traffic_load": 11.255,
+    "cpu_utilization": 9.357,
+    "network_io": 7.566,
+    "replica_count": 5.828,
+    "p99_latency": 3.445
+  },
+  {
+    "traffic_load": 8.187,
+    "cpu_utilization": 6.373,
+    "network_io": 5.428,
+    "replica_count": 3.79,
+    "p99_latency": 2.466
+  },
+  {
+    "traffic_load": 9.047,
+    "cpu_utilization": 7.317,
+    "network_io": 6.374,
+    "replica_count": 4.756,
+    "p99_latency": 3.449
+  },
+  {
+    "traffic_load": 12.263,
+    "cpu_utilization": 9.844,
+    "network_io": 8.594,
+    "replica_count": 5.874,
+    "p99_latency": 4.205
+  },
+  {
+    "traffic_load": 10.432,
+    "cpu_utilization": 8.159,
+    "network_io": 7.172,
+    "replica_count": 4.596,
+    "p99_latency": 3.912
+  },
+  {
+    "traffic_load": 11.014,
+    "cpu_utilization": 8.97,
+    "network_io": 7.773,
+    "replica_count": 5.405,
+    "p99_latency": 3.915
+  },
+  {
+    "traffic_load": 11.465,
+    "cpu_utilization": 8.922,
+    "network_io": 8.179,
+    "replica_count": 5.307,
+    "p99_latency": 4.762
+  },
+  {
+    "traffic_load": 9.386,
+    "cpu_utilization": 7.662,
+    "network_io": 6.616,
+    "replica_count": 4.732,
+    "p99_latency": 3.519
+  },
+  {
+    "traffic_load": 5.431,
+    "cpu_utilization": 4.079,
+    "network_io": 3.911,
+    "replica_count": 2.312,
+    "p99_latency": 1.999
+  },
+  {
+    "traffic_load": 8.82,
+    "cpu_utilization": 7.218,
+    "network_io": 6.193,
+    "replica_count": 4.093,
+    "p99_latency": 3.313
+  },
+  {
+    "traffic_load": 9.655,
+    "cpu_utilization": 7.558,
+    "network_io": 7.203,
+    "replica_count": 4.484,
+    "p99_latency": 3.937
+  },
+  {
+    "traffic_load": 11.02,
+    "cpu_utilization": 8.848,
+    "network_io": 7.898,
+    "replica_count": 5.097,
+    "p99_latency": 4.306
+  },
+  {
+    "traffic_load": 7.498,
+    "cpu_utilization": 5.8,
+    "network_io": 5.354,
+    "replica_count": 3.487,
+    "p99_latency": 2.67
+  },
+  {
+    "traffic_load": 10.886,
+    "cpu_utilization": 8.7,
+    "network_io": 7.286,
+    "replica_count": 5.007,
+    "p99_latency": 4.017
+  },
+  {
+    "traffic_load": 9.341,
+    "cpu_utilization": 7.703,
+    "network_io": 6.711,
+    "replica_count": 4.347,
+    "p99_latency": 3.949
+  },
+  {
+    "traffic_load": 10.404,
+    "cpu_utilization": 7.948,
+    "network_io": 7.089,
+    "replica_count": 4.776,
+    "p99_latency": 3.763
+  },
+  {
+    "traffic_load": 8.246,
+    "cpu_utilization": 7.121,
+    "network_io": 5.629,
+    "replica_count": 4.483,
+    "p99_latency": 2.762
+  },
+  {
+    "traffic_load": 12.324,
+    "cpu_utilization": 9.873,
+    "network_io": 8.453,
+    "replica_count": 6.158,
+    "p99_latency": 4.43
+  },
+  {
+    "traffic_load": 10.451,
+    "cpu_utilization": 8.383,
+    "network_io": 7.418,
+    "replica_count": 5.183,
+    "p99_latency": 4.126
+  },
+  {
+    "traffic_load": 14.411,
+    "cpu_utilization": 11.394,
+    "network_io": 9.776,
+    "replica_count": 6.765,
+    "p99_latency": 4.955
+  },
+  {
+    "traffic_load": 10.321,
+    "cpu_utilization": 8.261,
+    "network_io": 7.344,
+    "replica_count": 5.106,
+    "p99_latency": 3.504
+  },
+  {
+    "traffic_load": 9.45,
+    "cpu_utilization": 7.906,
+    "network_io": 6.453,
+    "replica_count": 4.489,
+    "p99_latency": 3.178
+  },
+  {
+    "traffic_load": 14.587,
+    "cpu_utilization": 11.545,
+    "network_io": 9.994,
+    "replica_count": 6.708,
+    "p99_latency": 5.523
+  },
+  {
+    "traffic_load": 6.581,
+    "cpu_utilization": 5.011,
+    "network_io": 4.551,
+    "replica_count": 3.168,
+    "p99_latency": 2.337
+  },
+  {
+    "traffic_load": 6.485,
+    "cpu_utilization": 5.74,
+    "network_io": 4.271,
+    "replica_count": 3.422,
+    "p99_latency": 2.031
+  },
+  {
+    "traffic_load": 10.163,
+    "cpu_utilization": 7.815,
+    "network_io": 6.946,
+    "replica_count": 4.594,
+    "p99_latency": 3.757
+  },
+  {
+    "traffic_load": 10.555,
+    "cpu_utilization": 8.476,
+    "network_io": 7.568,
+    "replica_count": 4.872,
+    "p99_latency": 4.219
+  },
+  {
+    "traffic_load": 6.439,
+    "cpu_utilization": 5.399,
+    "network_io": 4.55,
+    "replica_count": 3.327,
+    "p99_latency": 2.449
+  },
+  {
+    "traffic_load": 11.008,
+    "cpu_utilization": 9.026,
+    "network_io": 7.667,
+    "replica_count": 5.491,
+    "p99_latency": 4.066
+  },
+  {
+    "traffic_load": 6.362,
+    "cpu_utilization": 4.691,
+    "network_io": 4.332,
+    "replica_count": 2.698,
+    "p99_latency": 2.36
+  },
+  {
+    "traffic_load": 10.89,
+    "cpu_utilization": 8.477,
+    "network_io": 7.557,
+    "replica_count": 5.146,
+    "p99_latency": 4.07
+  },
+  {
+    "traffic_load": 8.623,
+    "cpu_utilization": 7.04,
+    "network_io": 6.014,
+    "replica_count": 4.178,
+    "p99_latency": 3.419
+  },
+  {
+    "traffic_load": 8.567,
+    "cpu_utilization": 6.415,
+    "network_io": 5.968,
+    "replica_count": 3.94,
+    "p99_latency": 3.278
+  },
+  {
+    "traffic_load": 8.313,
+    "cpu_utilization": 6.781,
+    "network_io": 5.927,
+    "replica_count": 4.039,
+    "p99_latency": 3.17
+  },
+  {
+    "traffic_load": 13.833,
+    "cpu_utilization": 11.039,
+    "network_io": 9.481,
+    "replica_count": 6.541,
+    "p99_latency": 5.213
+  },
+  {
+    "traffic_load": 10.533,
+    "cpu_utilization": 8.23,
+    "network_io": 7.679,
+    "replica_count": 5.029,
+    "p99_latency": 4.269
+  },
+  {
+    "traffic_load": 10.224,
+    "cpu_utilization": 7.573,
+    "network_io": 6.983,
+    "replica_count": 4.505,
+    "p99_latency": 3.581
+  },
+  {
+    "traffic_load": 5.147,
+    "cpu_utilization": 4.248,
+    "network_io": 3.627,
+    "replica_count": 2.728,
+    "p99_latency": 2.001
+  },
+  {
+    "traffic_load": 10.963,
+    "cpu_utilization": 8.617,
+    "network_io": 7.689,
+    "replica_count": 5.138,
+    "p99_latency": 4.214
+  },
+  {
+    "traffic_load": 10.736,
+    "cpu_utilization": 8.733,
+    "network_io": 7.283,
+    "replica_count": 5.528,
+    "p99_latency": 3.732
+  },
+  {
+    "traffic_load": 11.537,
+    "cpu_utilization": 9.077,
+    "network_io": 7.663,
+    "replica_count": 5.487,
+    "p99_latency": 3.993
+  },
+  {
+    "traffic_load": 11.511,
+    "cpu_utilization": 9.285,
+    "network_io": 7.925,
+    "replica_count": 5.577,
+    "p99_latency": 4.029
+  },
+  {
+    "traffic_load": 10.617,
+    "cpu_utilization": 8.7,
+    "network_io": 7.269,
+    "replica_count": 5.2,
+    "p99_latency": 3.809
+  },
+  {
+    "traffic_load": 10.413,
+    "cpu_utilization": 8.421,
+    "network_io": 7.146,
+    "replica_count": 4.859,
+    "p99_latency": 4.053
+  },
+  {
+    "traffic_load": 9.151,
+    "cpu_utilization": 7.121,
+    "network_io": 6.405,
+    "replica_count": 4.494,
+    "p99_latency": 3.479
+  },
+  {
+    "traffic_load": 7.723,
+    "cpu_utilization": 6.159,
+    "network_io": 5.585,
+    "replica_count": 3.639,
+    "p99_latency": 2.585
+  },
+  {
+    "traffic_load": 9.221,
+    "cpu_utilization": 7.574,
+    "network_io": 6.477,
+    "replica_count": 4.8,
+    "p99_latency": 2.932
+  },
+  {
+    "traffic_load": 9.184,
+    "cpu_utilization": 7.634,
+    "network_io": 6.174,
+    "replica_count": 4.795,
+    "p99_latency": 2.914
+  },
+  {
+    "traffic_load": 12.905,
+    "cpu_utilization": 10.531,
+    "network_io": 9.123,
+    "replica_count": 6.348,
+    "p99_latency": 4.6
+  },
+  {
+    "traffic_load": 7.348,
+    "cpu_utilization": 5.928,
+    "network_io": 4.996,
+    "replica_count": 3.541,
+    "p99_latency": 2.363
+  },
+  {
+    "traffic_load": 13.219,
+    "cpu_utilization": 10.613,
+    "network_io": 9.151,
+    "replica_count": 6.205,
+    "p99_latency": 4.745
+  },
+  {
+    "traffic_load": 10.531,
+    "cpu_utilization": 8.478,
+    "network_io": 7.231,
+    "replica_count": 5.162,
+    "p99_latency": 4.064
+  },
+  {
+    "traffic_load": 7.963,
+    "cpu_utilization": 6.56,
+    "network_io": 5.342,
+    "replica_count": 3.904,
+    "p99_latency": 2.539
+  },
+  {
+    "traffic_load": 8.486,
+    "cpu_utilization": 6.998,
+    "network_io": 6.05,
+    "replica_count": 4.162,
+    "p99_latency": 3.167
+  },
+  {
+    "traffic_load": 15.465,
+    "cpu_utilization": 12.381,
+    "network_io": 10.778,
+    "replica_count": 7.514,
+    "p99_latency": 5.794
+  },
+  {
+    "traffic_load": 11.244,
+    "cpu_utilization": 9.264,
+    "network_io": 7.611,
+    "replica_count": 5.228,
+    "p99_latency": 4.007
+  },
+  {
+    "traffic_load": 8.611,
+    "cpu_utilization": 6.592,
+    "network_io": 6.175,
+    "replica_count": 3.835,
+    "p99_latency": 3.08
+  },
+  {
+    "traffic_load": 10.086,
+    "cpu_utilization": 8.061,
+    "network_io": 6.686,
+    "replica_count": 5.1,
+    "p99_latency": 3.455
+  },
+  {
+    "traffic_load": 10.357,
+    "cpu_utilization": 8.008,
+    "network_io": 7.109,
+    "replica_count": 4.707,
+    "p99_latency": 3.716
+  },
+  {
+    "traffic_load": 11.133,
+    "cpu_utilization": 8.981,
+    "network_io": 7.797,
+    "replica_count": 6.01,
+    "p99_latency": 4.129
+  },
+  {
+    "traffic_load": 5.498,
+    "cpu_utilization": 4.306,
+    "network_io": 3.559,
+    "replica_count": 2.65,
+    "p99_latency": 1.781
+  },
+  {
+    "traffic_load": 9.382,
+    "cpu_utilization": 7.437,
+    "network_io": 6.514,
+    "replica_count": 4.599,
+    "p99_latency": 3.449
+  },
+  {
+    "traffic_load": 12.523,
+    "cpu_utilization": 9.791,
+    "network_io": 8.87,
+    "replica_count": 6.001,
+    "p99_latency": 4.603
+  },
+  {
+    "traffic_load": 11.085,
+    "cpu_utilization": 8.771,
+    "network_io": 7.931,
+    "replica_count": 5.357,
+    "p99_latency": 3.71
+  },
+  {
+    "traffic_load": 10.927,
+    "cpu_utilization": 9.029,
+    "network_io": 7.818,
+    "replica_count": 5.927,
+    "p99_latency": 4.055
+  },
+  {
+    "traffic_load": 7.581,
+    "cpu_utilization": 6.058,
+    "network_io": 5.128,
+    "replica_count": 3.91,
+    "p99_latency": 2.63
+  },
+  {
+    "traffic_load": 14.327,
+    "cpu_utilization": 11.517,
+    "network_io": 10.386,
+    "replica_count": 6.865,
+    "p99_latency": 5.591
+  },
+  {
+    "traffic_load": 10.835,
+    "cpu_utilization": 8.566,
+    "network_io": 7.161,
+    "replica_count": 5.068,
+    "p99_latency": 3.483
+  },
+  {
+    "traffic_load": 9.005,
+    "cpu_utilization": 7.46,
+    "network_io": 6.235,
+    "replica_count": 4.569,
+    "p99_latency": 2.909
+  },
+  {
+    "traffic_load": 10.469,
+    "cpu_utilization": 8.245,
+    "network_io": 7.05,
+    "replica_count": 4.852,
+    "p99_latency": 3.906
+  },
+  {
+    "traffic_load": 9.973,
+    "cpu_utilization": 7.527,
+    "network_io": 6.937,
+    "replica_count": 4.283,
+    "p99_latency": 4.055
+  },
+  {
+    "traffic_load": 10.271,
+    "cpu_utilization": 7.964,
+    "network_io": 7.2,
+    "replica_count": 4.565,
+    "p99_latency": 3.873
+  },
+  {
+    "traffic_load": 7.834,
+    "cpu_utilization": 6.385,
+    "network_io": 5.336,
+    "replica_count": 4.153,
+    "p99_latency": 2.368
+  },
+  {
+    "traffic_load": 13.427,
+    "cpu_utilization": 11.046,
+    "network_io": 9.295,
+    "replica_count": 6.92,
+    "p99_latency": 4.891
+  },
+  {
+    "traffic_load": 10.366,
+    "cpu_utilization": 8.246,
+    "network_io": 7.227,
+    "replica_count": 4.612,
+    "p99_latency": 3.837
+  },
+  {
+    "traffic_load": 11.262,
+    "cpu_utilization": 9.445,
+    "network_io": 7.915,
+    "replica_count": 5.448,
+    "p99_latency": 4.412
+  },
+  {
+    "traffic_load": 11.436,
+    "cpu_utilization": 9.459,
+    "network_io": 7.952,
+    "replica_count": 5.928,
+    "p99_latency": 3.984
+  },
+  {
+    "traffic_load": 11.982,
+    "cpu_utilization": 9.506,
+    "network_io": 8.297,
+    "replica_count": 5.633,
+    "p99_latency": 4.57
+  },
+  {
+    "traffic_load": 8.475,
+    "cpu_utilization": 6.907,
+    "network_io": 5.936,
+    "replica_count": 4.246,
+    "p99_latency": 3.043
+  },
+  {
+    "traffic_load": 7.65,
+    "cpu_utilization": 6.17,
+    "network_io": 5.228,
+    "replica_count": 3.785,
+    "p99_latency": 2.664
+  },
+  {
+    "traffic_load": 15.168,
+    "cpu_utilization": 12.211,
+    "network_io": 10.493,
+    "replica_count": 7.529,
+    "p99_latency": 5.271
+  },
+  {
+    "traffic_load": 10.835,
+    "cpu_utilization": 9.102,
+    "network_io": 7.401,
+    "replica_count": 5.206,
+    "p99_latency": 3.847
+  },
+  {
+    "traffic_load": 7.419,
+    "cpu_utilization": 6.149,
+    "network_io": 5.018,
+    "replica_count": 3.551,
+    "p99_latency": 2.939
+  },
+  {
+    "traffic_load": 12.035,
+    "cpu_utilization": 9.536,
+    "network_io": 8.277,
+    "replica_count": 5.704,
+    "p99_latency": 4.078
+  },
+  {
+    "traffic_load": 10.963,
+    "cpu_utilization": 8.824,
+    "network_io": 7.949,
+    "replica_count": 5.41,
+    "p99_latency": 4.172
+  },
+  {
+    "traffic_load": 13.612,
+    "cpu_utilization": 11.116,
+    "network_io": 9.438,
+    "replica_count": 6.558,
+    "p99_latency": 5.047
+  },
+  {
+    "traffic_load": 8.082,
+    "cpu_utilization": 6.651,
+    "network_io": 5.591,
+    "replica_count": 4.112,
+    "p99_latency": 2.707
+  },
+  {
+    "traffic_load": 10.508,
+    "cpu_utilization": 8.235,
+    "network_io": 7.157,
+    "replica_count": 5.204,
+    "p99_latency": 3.779
+  },
+  {
+    "traffic_load": 9.809,
+    "cpu_utilization": 7.721,
+    "network_io": 6.651,
+    "replica_count": 4.42,
+    "p99_latency": 3.478
+  },
+  {
+    "traffic_load": 13.264,
+    "cpu_utilization": 10.74,
+    "network_io": 9.326,
+    "replica_count": 6.374,
+    "p99_latency": 5.063
+  },
+  {
+    "traffic_load": 11.229,
+    "cpu_utilization": 8.833,
+    "network_io": 7.748,
+    "replica_count": 5.235,
+    "p99_latency": 4.117
+  },
+  {
+    "traffic_load": 7.439,
+    "cpu_utilization": 5.689,
+    "network_io": 5.202,
+    "replica_count": 3.164,
+    "p99_latency": 2.964
+  },
+  {
+    "traffic_load": 11.957,
+    "cpu_utilization": 9.801,
+    "network_io": 8.511,
+    "replica_count": 5.937,
+    "p99_latency": 4.357
+  },
+  {
+    "traffic_load": 10.451,
+    "cpu_utilization": 8.329,
+    "network_io": 7.515,
+    "replica_count": 4.924,
+    "p99_latency": 3.861
+  },
+  {
+    "traffic_load": 10.978,
+    "cpu_utilization": 8.535,
+    "network_io": 7.685,
+    "replica_count": 4.882,
+    "p99_latency": 3.979
+  },
+  {
+    "traffic_load": 12.803,
+    "cpu_utilization": 10.341,
+    "network_io": 8.881,
+    "replica_count": 6.648,
+    "p99_latency": 4.581
+  },
+  {
+    "traffic_load": 7.384,
+    "cpu_utilization": 5.915,
+    "network_io": 4.967,
+    "replica_count": 3.609,
+    "p99_latency": 2.24
+  },
+  {
+    "traffic_load": 9.543,
+    "cpu_utilization": 7.465,
+    "network_io": 6.436,
+    "replica_count": 4.67,
+    "p99_latency": 3.125
+  },
+  {
+    "traffic_load": 10.731,
+    "cpu_utilization": 8.51,
+    "network_io": 7.562,
+    "replica_count": 5.148,
+    "p99_latency": 3.809
+  },
+  {
+    "traffic_load": 9.258,
+    "cpu_utilization": 7.712,
+    "network_io": 7.006,
+    "replica_count": 4.567,
+    "p99_latency": 3.497
+  },
+  {
+    "traffic_load": 10.188,
+    "cpu_utilization": 8.184,
+    "network_io": 7.416,
+    "replica_count": 5.112,
+    "p99_latency": 3.946
+  },
+  {
+    "traffic_load": 11.301,
+    "cpu_utilization": 9.021,
+    "network_io": 7.696,
+    "replica_count": 5.227,
+    "p99_latency": 4.335
+  },
+  {
+    "traffic_load": 6.762,
+    "cpu_utilization": 5.759,
+    "network_io": 4.93,
+    "replica_count": 3.642,
+    "p99_latency": 2.337
+  },
+  {
+    "traffic_load": 10.791,
+    "cpu_utilization": 8.772,
+    "network_io": 7.567,
+    "replica_count": 4.969,
+    "p99_latency": 4.162
+  },
+  {
+    "traffic_load": 10.003,
+    "cpu_utilization": 8.204,
+    "network_io": 6.81,
+    "replica_count": 4.889,
+    "p99_latency": 3.356
+  },
+  {
+    "traffic_load": 10.776,
+    "cpu_utilization": 8.597,
+    "network_io": 7.552,
+    "replica_count": 5.095,
+    "p99_latency": 3.743
+  },
+  {
+    "traffic_load": 8.968,
+    "cpu_utilization": 6.924,
+    "network_io": 6.065,
+    "replica_count": 3.775,
+    "p99_latency": 3.202
+  },
+  {
+    "traffic_load": 8.472,
+    "cpu_utilization": 6.715,
+    "network_io": 5.802,
+    "replica_count": 3.889,
+    "p99_latency": 2.786
+  },
+  {
+    "traffic_load": 6.807,
+    "cpu_utilization": 5.652,
+    "network_io": 4.675,
+    "replica_count": 3.062,
+    "p99_latency": 2.737
+  },
+  {
+    "traffic_load": 9.558,
+    "cpu_utilization": 7.832,
+    "network_io": 6.775,
+    "replica_count": 4.334,
+    "p99_latency": 3.747
+  },
+  {
+    "traffic_load": 11.296,
+    "cpu_utilization": 9.138,
+    "network_io": 7.724,
+    "replica_count": 5.374,
+    "p99_latency": 3.818
+  },
+  {
+    "traffic_load": 8.6,
+    "cpu_utilization": 6.668,
+    "network_io": 5.955,
+    "replica_count": 4.061,
+    "p99_latency": 2.732
+  },
+  {
+    "traffic_load": 8.351,
+    "cpu_utilization": 6.715,
+    "network_io": 6.036,
+    "replica_count": 3.964,
+    "p99_latency": 3.015
+  },
+  {
+    "traffic_load": 13.536,
+    "cpu_utilization": 10.888,
+    "network_io": 9.634,
+    "replica_count": 6.24,
+    "p99_latency": 4.976
+  },
+  {
+    "traffic_load": 11.517,
+    "cpu_utilization": 9.452,
+    "network_io": 8.179,
+    "replica_count": 5.693,
+    "p99_latency": 4.101
+  },
+  {
+    "traffic_load": 9.045,
+    "cpu_utilization": 7.32,
+    "network_io": 6.172,
+    "replica_count": 4.529,
+    "p99_latency": 3.066
+  },
+  {
+    "traffic_load": 6.949,
+    "cpu_utilization": 5.729,
+    "network_io": 4.97,
+    "replica_count": 3.31,
+    "p99_latency": 2.588
+  },
+  {
+    "traffic_load": 8.166,
+    "cpu_utilization": 6.453,
+    "network_io": 5.961,
+    "replica_count": 3.891,
+    "p99_latency": 3.107
+  },
+  {
+    "traffic_load": 9.672,
+    "cpu_utilization": 7.954,
+    "network_io": 6.771,
+    "replica_count": 4.89,
+    "p99_latency": 3.412
+  },
+  {
+    "traffic_load": 13.527,
+    "cpu_utilization": 10.89,
+    "network_io": 9.71,
+    "replica_count": 6.241,
+    "p99_latency": 5.171
+  },
+  {
+    "traffic_load": 12.277,
+    "cpu_utilization": 9.804,
+    "network_io": 8.879,
+    "replica_count": 5.505,
+    "p99_latency": 4.95
+  },
+  {
+    "traffic_load": 9.137,
+    "cpu_utilization": 7.092,
+    "network_io": 6.268,
+    "replica_count": 4.117,
+    "p99_latency": 3.142
+  },
+  {
+    "traffic_load": 8.35,
+    "cpu_utilization": 6.805,
+    "network_io": 5.872,
+    "replica_count": 3.841,
+    "p99_latency": 2.934
+  },
+  {
+    "traffic_load": 11.696,
+    "cpu_utilization": 9.011,
+    "network_io": 8.077,
+    "replica_count": 5.518,
+    "p99_latency": 4.138
+  },
+  {
+    "traffic_load": 10.798,
+    "cpu_utilization": 8.551,
+    "network_io": 7.665,
+    "replica_count": 5.27,
+    "p99_latency": 3.635
+  },
+  {
+    "traffic_load": 10.734,
+    "cpu_utilization": 8.465,
+    "network_io": 7.666,
+    "replica_count": 5.145,
+    "p99_latency": 3.9
+  },
+  {
+    "traffic_load": 11.235,
+    "cpu_utilization": 9.097,
+    "network_io": 8.012,
+    "replica_count": 5.871,
+    "p99_latency": 3.831
+  },
+  {
+    "traffic_load": 8.931,
+    "cpu_utilization": 7.229,
+    "network_io": 6.645,
+    "replica_count": 4.599,
+    "p99_latency": 3.731
+  },
+  {
+    "traffic_load": 9.363,
+    "cpu_utilization": 7.85,
+    "network_io": 6.328,
+    "replica_count": 4.752,
+    "p99_latency": 3.371
+  },
+  {
+    "traffic_load": 11.931,
+    "cpu_utilization": 9.762,
+    "network_io": 8.3,
+    "replica_count": 5.518,
+    "p99_latency": 4.369
+  },
+  {
+    "traffic_load": 12.506,
+    "cpu_utilization": 10.163,
+    "network_io": 8.391,
+    "replica_count": 6.377,
+    "p99_latency": 4.138
+  },
+  {
+    "traffic_load": 10.724,
+    "cpu_utilization": 8.909,
+    "network_io": 7.461,
+    "replica_count": 5.496,
+    "p99_latency": 3.667
+  },
+  {
+    "traffic_load": 13.83,
+    "cpu_utilization": 11.05,
+    "network_io": 9.674,
+    "replica_count": 7.084,
+    "p99_latency": 4.777
+  },
+  {
+    "traffic_load": 10.444,
+    "cpu_utilization": 8.559,
+    "network_io": 7.02,
+    "replica_count": 5.066,
+    "p99_latency": 3.514
+  },
+  {
+    "traffic_load": 14.221,
+    "cpu_utilization": 11.329,
+    "network_io": 10.49,
+    "replica_count": 6.48,
+    "p99_latency": 5.631
+  },
+  {
+    "traffic_load": 13.088,
+    "cpu_utilization": 10.409,
+    "network_io": 9.493,
+    "replica_count": 6.089,
+    "p99_latency": 5.013
+  },
+  {
+    "traffic_load": 2.85,
+    "cpu_utilization": 2.082,
+    "network_io": 1.805,
+    "replica_count": 1.126,
+    "p99_latency": 1.105
+  },
+  {
+    "traffic_load": 11.933,
+    "cpu_utilization": 9.788,
+    "network_io": 8.262,
+    "replica_count": 5.317,
+    "p99_latency": 4.367
+  },
+  {
+    "traffic_load": 9.464,
+    "cpu_utilization": 7.205,
+    "network_io": 6.339,
+    "replica_count": 4.428,
+    "p99_latency": 3.443
+  },
+  {
+    "traffic_load": 5.649,
+    "cpu_utilization": 4.468,
+    "network_io": 3.943,
+    "replica_count": 2.544,
+    "p99_latency": 2.34
+  },
+  {
+    "traffic_load": 11.579,
+    "cpu_utilization": 9.319,
+    "network_io": 8.08,
+    "replica_count": 5.614,
+    "p99_latency": 3.871
+  },
+  {
+    "traffic_load": 12.131,
+    "cpu_utilization": 9.604,
+    "network_io": 7.912,
+    "replica_count": 5.669,
+    "p99_latency": 3.598
+  },
+  {
+    "traffic_load": 9.311,
+    "cpu_utilization": 7.89,
+    "network_io": 6.675,
+    "replica_count": 4.685,
+    "p99_latency": 3.27
+  },
+  {
+    "traffic_load": 13.582,
+    "cpu_utilization": 11.018,
+    "network_io": 9.239,
+    "replica_count": 6.769,
+    "p99_latency": 4.534
+  },
+  {
+    "traffic_load": 11.432,
+    "cpu_utilization": 9.12,
+    "network_io": 7.983,
+    "replica_count": 5.422,
+    "p99_latency": 4.293
+  },
+  {
+    "traffic_load": 10.014,
+    "cpu_utilization": 7.668,
+    "network_io": 6.93,
+    "replica_count": 4.766,
+    "p99_latency": 3.427
+  },
+  {
+    "traffic_load": 7.049,
+    "cpu_utilization": 5.973,
+    "network_io": 4.577,
+    "replica_count": 3.57,
+    "p99_latency": 2.38
+  },
+  {
+    "traffic_load": 9.7,
+    "cpu_utilization": 7.468,
+    "network_io": 7.071,
+    "replica_count": 4.104,
+    "p99_latency": 3.818
+  },
+  {
+    "traffic_load": 13.655,
+    "cpu_utilization": 10.966,
+    "network_io": 9.416,
+    "replica_count": 6.334,
+    "p99_latency": 5.112
+  },
+  {
+    "traffic_load": 11.418,
+    "cpu_utilization": 9.31,
+    "network_io": 7.891,
+    "replica_count": 5.745,
+    "p99_latency": 3.917
+  },
+  {
+    "traffic_load": 7.812,
+    "cpu_utilization": 6.046,
+    "network_io": 5.63,
+    "replica_count": 3.974,
+    "p99_latency": 2.988
+  },
+  {
+    "traffic_load": 10.921,
+    "cpu_utilization": 8.798,
+    "network_io": 7.834,
+    "replica_count": 5.282,
+    "p99_latency": 4.155
+  },
+  {
+    "traffic_load": 9.061,
+    "cpu_utilization": 6.956,
+    "network_io": 6.316,
+    "replica_count": 4.136,
+    "p99_latency": 3.08
+  },
+  {
+    "traffic_load": 10.387,
+    "cpu_utilization": 8.342,
+    "network_io": 7.419,
+    "replica_count": 5.027,
+    "p99_latency": 3.981
+  },
+  {
+    "traffic_load": 11.558,
+    "cpu_utilization": 8.994,
+    "network_io": 8.107,
+    "replica_count": 5.61,
+    "p99_latency": 4.47
+  },
+  {
+    "traffic_load": 13.286,
+    "cpu_utilization": 10.864,
+    "network_io": 9.278,
+    "replica_count": 6.571,
+    "p99_latency": 4.929
+  },
+  {
+    "traffic_load": 5.86,
+    "cpu_utilization": 4.612,
+    "network_io": 4.24,
+    "replica_count": 2.997,
+    "p99_latency": 2.054
+  },
+  {
+    "traffic_load": 10.354,
+    "cpu_utilization": 8.432,
+    "network_io": 7.204,
+    "replica_count": 5.206,
+    "p99_latency": 3.476
+  },
+  {
+    "traffic_load": 8.237,
+    "cpu_utilization": 6.911,
+    "network_io": 5.399,
+    "replica_count": 4.234,
+    "p99_latency": 2.662
+  },
+  {
+    "traffic_load": 11.991,
+    "cpu_utilization": 9.738,
+    "network_io": 8.249,
+    "replica_count": 5.736,
+    "p99_latency": 4.009
+  },
+  {
+    "traffic_load": 7.386,
+    "cpu_utilization": 5.8,
+    "network_io": 5.088,
+    "replica_count": 3.66,
+    "p99_latency": 2.586
+  },
+  {
+    "traffic_load": 8.61,
+    "cpu_utilization": 7.165,
+    "network_io": 6.352,
+    "replica_count": 4.299,
+    "p99_latency": 3.483
+  },
+  {
+    "traffic_load": 8.854,
+    "cpu_utilization": 7.029,
+    "network_io": 6.2,
+    "replica_count": 4.364,
+    "p99_latency": 2.85
+  },
+  {
+    "traffic_load": 9.59,
+    "cpu_utilization": 7.632,
+    "network_io": 6.588,
+    "replica_count": 4.484,
+    "p99_latency": 3.503
+  },
+  {
+    "traffic_load": 8.414,
+    "cpu_utilization": 7.02,
+    "network_io": 5.979,
+    "replica_count": 4.001,
+    "p99_latency": 2.966
+  },
+  {
+    "traffic_load": 8.835,
+    "cpu_utilization": 7.306,
+    "network_io": 6.582,
+    "replica_count": 4.349,
+    "p99_latency": 3.829
+  },
+  {
+    "traffic_load": 11.418,
+    "cpu_utilization": 9.396,
+    "network_io": 7.94,
+    "replica_count": 5.815,
+    "p99_latency": 4.27
+  },
+  {
+    "traffic_load": 15.056,
+    "cpu_utilization": 12.177,
+    "network_io": 10.499,
+    "replica_count": 7.102,
+    "p99_latency": 5.546
+  },
+  {
+    "traffic_load": 15.225,
+    "cpu_utilization": 12.215,
+    "network_io": 10.681,
+    "replica_count": 7.256,
+    "p99_latency": 5.617
+  },
+  {
+    "traffic_load": 9.852,
+    "cpu_utilization": 7.789,
+    "network_io": 7.009,
+    "replica_count": 4.738,
+    "p99_latency": 3.82
+  },
+  {
+    "traffic_load": 13.296,
+    "cpu_utilization": 10.611,
+    "network_io": 9.415,
+    "replica_count": 6.321,
+    "p99_latency": 4.911
+  },
+  {
+    "traffic_load": 10.8,
+    "cpu_utilization": 8.445,
+    "network_io": 7.569,
+    "replica_count": 5.206,
+    "p99_latency": 4.201
+  },
+  {
+    "traffic_load": 11.515,
+    "cpu_utilization": 9.311,
+    "network_io": 7.869,
+    "replica_count": 5.561,
+    "p99_latency": 4.184
+  },
+  {
+    "traffic_load": 12.298,
+    "cpu_utilization": 10.151,
+    "network_io": 8.402,
+    "replica_count": 6.009,
+    "p99_latency": 3.996
+  },
+  {
+    "traffic_load": 13.06,
+    "cpu_utilization": 10.613,
+    "network_io": 8.87,
+    "replica_count": 6.236,
+    "p99_latency": 4.602
+  },
+  {
+    "traffic_load": 7.026,
+    "cpu_utilization": 5.734,
+    "network_io": 4.842,
+    "replica_count": 3.41,
+    "p99_latency": 2.796
+  },
+  {
+    "traffic_load": 7.613,
+    "cpu_utilization": 5.972,
+    "network_io": 5.306,
+    "replica_count": 3.659,
+    "p99_latency": 2.828
+  },
+  {
+    "traffic_load": 14.672,
+    "cpu_utilization": 11.515,
+    "network_io": 10.038,
+    "replica_count": 6.831,
+    "p99_latency": 5.143
+  },
+  {
+    "traffic_load": 12.284,
+    "cpu_utilization": 9.956,
+    "network_io": 8.441,
+    "replica_count": 5.845,
+    "p99_latency": 4.112
+  },
+  {
+    "traffic_load": 15.711,
+    "cpu_utilization": 12.319,
+    "network_io": 10.987,
+    "replica_count": 7.525,
+    "p99_latency": 5.846
+  },
+  {
+    "traffic_load": 9.869,
+    "cpu_utilization": 8.013,
+    "network_io": 6.752,
+    "replica_count": 4.625,
+    "p99_latency": 3.517
+  },
+  {
+    "traffic_load": 5.895,
+    "cpu_utilization": 4.632,
+    "network_io": 4.144,
+    "replica_count": 2.696,
+    "p99_latency": 2.372
+  },
+  {
+    "traffic_load": 12.761,
+    "cpu_utilization": 10.31,
+    "network_io": 9.191,
+    "replica_count": 5.801,
+    "p99_latency": 4.58
+  },
+  {
+    "traffic_load": 7.983,
+    "cpu_utilization": 6.586,
+    "network_io": 5.695,
+    "replica_count": 3.895,
+    "p99_latency": 2.948
+  },
+  {
+    "traffic_load": 7.022,
+    "cpu_utilization": 5.778,
+    "network_io": 4.93,
+    "replica_count": 3.588,
+    "p99_latency": 2.744
+  },
+  {
+    "traffic_load": 11.706,
+    "cpu_utilization": 9.162,
+    "network_io": 8.336,
+    "replica_count": 5.098,
+    "p99_latency": 4.983
+  },
+  {
+    "traffic_load": 9.508,
+    "cpu_utilization": 7.578,
+    "network_io": 6.612,
+    "replica_count": 5.193,
+    "p99_latency": 3.365
+  },
+  {
+    "traffic_load": 6.527,
+    "cpu_utilization": 4.918,
+    "network_io": 4.656,
+    "replica_count": 3.296,
+    "p99_latency": 2.036
+  },
+  {
+    "traffic_load": 9.789,
+    "cpu_utilization": 7.446,
+    "network_io": 7.305,
+    "replica_count": 4.479,
+    "p99_latency": 3.879
+  },
+  {
+    "traffic_load": 10.655,
+    "cpu_utilization": 8.737,
+    "network_io": 7.432,
+    "replica_count": 5.287,
+    "p99_latency": 3.922
+  },
+  {
+    "traffic_load": 9.638,
+    "cpu_utilization": 7.821,
+    "network_io": 7.059,
+    "replica_count": 4.819,
+    "p99_latency": 3.748
+  },
+  {
+    "traffic_load": 8.384,
+    "cpu_utilization": 6.484,
+    "network_io": 5.499,
+    "replica_count": 4.108,
+    "p99_latency": 2.758
+  },
+  {
+    "traffic_load": 8.367,
+    "cpu_utilization": 6.623,
+    "network_io": 5.61,
+    "replica_count": 3.979,
+    "p99_latency": 3.105
+  },
+  {
+    "traffic_load": 11.481,
+    "cpu_utilization": 9.1,
+    "network_io": 7.808,
+    "replica_count": 5.398,
+    "p99_latency": 4.124
+  },
+  {
+    "traffic_load": 10.304,
+    "cpu_utilization": 8.321,
+    "network_io": 7.003,
+    "replica_count": 4.9,
+    "p99_latency": 3.545
+  },
+  {
+    "traffic_load": 11.456,
+    "cpu_utilization": 8.73,
+    "network_io": 7.812,
+    "replica_count": 5.252,
+    "p99_latency": 4.069
+  },
+  {
+    "traffic_load": 9.457,
+    "cpu_utilization": 7.469,
+    "network_io": 6.852,
+    "replica_count": 4.431,
+    "p99_latency": 3.928
+  },
+  {
+    "traffic_load": 12.305,
+    "cpu_utilization": 9.733,
+    "network_io": 8.728,
+    "replica_count": 5.824,
+    "p99_latency": 4.584
+  },
+  {
+    "traffic_load": 9.692,
+    "cpu_utilization": 7.68,
+    "network_io": 6.741,
+    "replica_count": 4.822,
+    "p99_latency": 3.433
+  },
+  {
+    "traffic_load": 10.292,
+    "cpu_utilization": 7.996,
+    "network_io": 6.996,
+    "replica_count": 5.249,
+    "p99_latency": 3.858
+  },
+  {
+    "traffic_load": 7.547,
+    "cpu_utilization": 5.922,
+    "network_io": 5.045,
+    "replica_count": 3.416,
+    "p99_latency": 2.736
+  },
+  {
+    "traffic_load": 9.049,
+    "cpu_utilization": 6.934,
+    "network_io": 6.363,
+    "replica_count": 4.07,
+    "p99_latency": 3.303
+  },
+  {
+    "traffic_load": 10.754,
+    "cpu_utilization": 8.49,
+    "network_io": 7.663,
+    "replica_count": 4.911,
+    "p99_latency": 4.508
+  },
+  {
+    "traffic_load": 11.189,
+    "cpu_utilization": 8.941,
+    "network_io": 8.14,
+    "replica_count": 5.528,
+    "p99_latency": 4.257
+  },
+  {
+    "traffic_load": 8.833,
+    "cpu_utilization": 7.309,
+    "network_io": 6.068,
+    "replica_count": 4.525,
+    "p99_latency": 3.119
+  },
+  {
+    "traffic_load": 11.002,
+    "cpu_utilization": 8.987,
+    "network_io": 7.653,
+    "replica_count": 5.607,
+    "p99_latency": 3.956
+  },
+  {
+    "traffic_load": 10.534,
+    "cpu_utilization": 8.669,
+    "network_io": 7.478,
+    "replica_count": 5.577,
+    "p99_latency": 3.779
+  },
+  {
+    "traffic_load": 10.679,
+    "cpu_utilization": 8.694,
+    "network_io": 7.429,
+    "replica_count": 5.341,
+    "p99_latency": 4.114
+  },
+  {
+    "traffic_load": 7.202,
+    "cpu_utilization": 5.794,
+    "network_io": 4.994,
+    "replica_count": 3.498,
+    "p99_latency": 2.313
+  },
+  {
+    "traffic_load": 11.903,
+    "cpu_utilization": 9.691,
+    "network_io": 8.222,
+    "replica_count": 5.561,
+    "p99_latency": 4.287
+  },
+  {
+    "traffic_load": 9.252,
+    "cpu_utilization": 7.603,
+    "network_io": 6.346,
+    "replica_count": 4.652,
+    "p99_latency": 3.327
+  },
+  {
+    "traffic_load": 11.97,
+    "cpu_utilization": 9.95,
+    "network_io": 8.422,
+    "replica_count": 5.73,
+    "p99_latency": 4.505
+  },
+  {
+    "traffic_load": 11.171,
+    "cpu_utilization": 9.036,
+    "network_io": 7.848,
+    "replica_count": 5.246,
+    "p99_latency": 4.0
+  },
+  {
+    "traffic_load": 8.898,
+    "cpu_utilization": 7.22,
+    "network_io": 6.226,
+    "replica_count": 4.285,
+    "p99_latency": 3.484
+  },
+  {
+    "traffic_load": 9.236,
+    "cpu_utilization": 7.725,
+    "network_io": 6.775,
+    "replica_count": 4.697,
+    "p99_latency": 3.462
+  },
+  {
+    "traffic_load": 10.901,
+    "cpu_utilization": 8.716,
+    "network_io": 7.965,
+    "replica_count": 5.598,
+    "p99_latency": 4.015
+  },
+  {
+    "traffic_load": 9.196,
+    "cpu_utilization": 7.575,
+    "network_io": 6.493,
+    "replica_count": 4.224,
+    "p99_latency": 3.329
+  },
+  {
+    "traffic_load": 13.425,
+    "cpu_utilization": 10.847,
+    "network_io": 9.455,
+    "replica_count": 6.564,
+    "p99_latency": 4.903
+  },
+  {
+    "traffic_load": 8.649,
+    "cpu_utilization": 6.818,
+    "network_io": 6.057,
+    "replica_count": 3.628,
+    "p99_latency": 3.124
+  },
+  {
+    "traffic_load": 11.801,
+    "cpu_utilization": 9.465,
+    "network_io": 8.163,
+    "replica_count": 5.807,
+    "p99_latency": 4.499
+  },
+  {
+    "traffic_load": 10.851,
+    "cpu_utilization": 8.453,
+    "network_io": 7.544,
+    "replica_count": 4.936,
+    "p99_latency": 4.345
+  },
+  {
+    "traffic_load": 12.145,
+    "cpu_utilization": 9.89,
+    "network_io": 8.643,
+    "replica_count": 6.132,
+    "p99_latency": 4.678
+  },
+  {
+    "traffic_load": 9.721,
+    "cpu_utilization": 7.324,
+    "network_io": 6.993,
+    "replica_count": 4.285,
+    "p99_latency": 3.885
+  },
+  {
+    "traffic_load": 8.551,
+    "cpu_utilization": 6.962,
+    "network_io": 6.063,
+    "replica_count": 4.056,
+    "p99_latency": 3.341
+  },
+  {
+    "traffic_load": 11.066,
+    "cpu_utilization": 8.847,
+    "network_io": 7.95,
+    "replica_count": 5.532,
+    "p99_latency": 4.214
+  },
+  {
+    "traffic_load": 11.039,
+    "cpu_utilization": 8.768,
+    "network_io": 7.449,
+    "replica_count": 5.2,
+    "p99_latency": 3.962
+  },
+  {
+    "traffic_load": 10.102,
+    "cpu_utilization": 8.184,
+    "network_io": 7.091,
+    "replica_count": 4.938,
+    "p99_latency": 3.988
+  },
+  {
+    "traffic_load": 8.983,
+    "cpu_utilization": 6.982,
+    "network_io": 6.146,
+    "replica_count": 4.112,
+    "p99_latency": 3.265
+  },
+  {
+    "traffic_load": 11.389,
+    "cpu_utilization": 9.038,
+    "network_io": 7.772,
+    "replica_count": 5.391,
+    "p99_latency": 4.315
+  },
+  {
+    "traffic_load": 8.644,
+    "cpu_utilization": 6.976,
+    "network_io": 5.935,
+    "replica_count": 4.125,
+    "p99_latency": 3.426
+  },
+  {
+    "traffic_load": 11.844,
+    "cpu_utilization": 9.168,
+    "network_io": 8.478,
+    "replica_count": 5.605,
+    "p99_latency": 4.378
+  },
+  {
+    "traffic_load": 7.205,
+    "cpu_utilization": 5.818,
+    "network_io": 4.9,
+    "replica_count": 3.422,
+    "p99_latency": 2.335
+  },
+  {
+    "traffic_load": 11.836,
+    "cpu_utilization": 9.449,
+    "network_io": 7.948,
+    "replica_count": 5.576,
+    "p99_latency": 4.034
+  },
+  {
+    "traffic_load": 9.738,
+    "cpu_utilization": 7.745,
+    "network_io": 6.587,
+    "replica_count": 5.019,
+    "p99_latency": 3.372
+  },
+  {
+    "traffic_load": 9.352,
+    "cpu_utilization": 7.413,
+    "network_io": 6.587,
+    "replica_count": 4.335,
+    "p99_latency": 3.587
+  },
+  {
+    "traffic_load": 8.735,
+    "cpu_utilization": 7.032,
+    "network_io": 6.085,
+    "replica_count": 4.052,
+    "p99_latency": 3.348
+  },
+  {
+    "traffic_load": 13.716,
+    "cpu_utilization": 11.205,
+    "network_io": 9.575,
+    "replica_count": 6.992,
+    "p99_latency": 5.23
+  },
+  {
+    "traffic_load": 8.384,
+    "cpu_utilization": 6.3,
+    "network_io": 5.974,
+    "replica_count": 3.571,
+    "p99_latency": 3.555
+  },
+  {
+    "traffic_load": 7.492,
+    "cpu_utilization": 6.289,
+    "network_io": 5.318,
+    "replica_count": 3.853,
+    "p99_latency": 2.405
+  },
+  {
+    "traffic_load": 5.598,
+    "cpu_utilization": 4.627,
+    "network_io": 4.006,
+    "replica_count": 2.869,
+    "p99_latency": 2.215
+  },
+  {
+    "traffic_load": 9.433,
+    "cpu_utilization": 7.847,
+    "network_io": 6.581,
+    "replica_count": 4.606,
+    "p99_latency": 3.506
+  },
+  {
+    "traffic_load": 10.564,
+    "cpu_utilization": 8.369,
+    "network_io": 7.329,
+    "replica_count": 5.003,
+    "p99_latency": 3.453
+  },
+  {
+    "traffic_load": 11.71,
+    "cpu_utilization": 9.699,
+    "network_io": 8.013,
+    "replica_count": 5.769,
+    "p99_latency": 3.98
+  },
+  {
+    "traffic_load": 9.144,
+    "cpu_utilization": 7.39,
+    "network_io": 6.228,
+    "replica_count": 4.731,
+    "p99_latency": 3.112
+  },
+  {
+    "traffic_load": 7.831,
+    "cpu_utilization": 6.541,
+    "network_io": 5.913,
+    "replica_count": 3.637,
+    "p99_latency": 3.346
+  },
+  {
+    "traffic_load": 11.198,
+    "cpu_utilization": 8.608,
+    "network_io": 7.64,
+    "replica_count": 4.946,
+    "p99_latency": 4.159
+  },
+  {
+    "traffic_load": 13.338,
+    "cpu_utilization": 10.52,
+    "network_io": 9.206,
+    "replica_count": 6.382,
+    "p99_latency": 4.703
+  },
+  {
+    "traffic_load": 11.658,
+    "cpu_utilization": 9.451,
+    "network_io": 8.195,
+    "replica_count": 6.034,
+    "p99_latency": 3.921
+  },
+  {
+    "traffic_load": 7.894,
+    "cpu_utilization": 6.384,
+    "network_io": 5.266,
+    "replica_count": 3.821,
+    "p99_latency": 2.664
+  },
+  {
+    "traffic_load": 9.129,
+    "cpu_utilization": 7.711,
+    "network_io": 6.528,
+    "replica_count": 4.64,
+    "p99_latency": 3.602
+  },
+  {
+    "traffic_load": 11.835,
+    "cpu_utilization": 9.463,
+    "network_io": 7.935,
+    "replica_count": 5.686,
+    "p99_latency": 3.715
+  },
+  {
+    "traffic_load": 11.327,
+    "cpu_utilization": 9.516,
+    "network_io": 7.723,
+    "replica_count": 5.801,
+    "p99_latency": 4.002
+  },
+  {
+    "traffic_load": 5.674,
+    "cpu_utilization": 3.988,
+    "network_io": 3.778,
+    "replica_count": 2.337,
+    "p99_latency": 1.929
+  },
+  {
+    "traffic_load": 9.239,
+    "cpu_utilization": 7.581,
+    "network_io": 6.253,
+    "replica_count": 4.698,
+    "p99_latency": 3.511
+  },
+  {
+    "traffic_load": 15.361,
+    "cpu_utilization": 12.489,
+    "network_io": 10.75,
+    "replica_count": 7.698,
+    "p99_latency": 5.278
+  },
+  {
+    "traffic_load": 8.59,
+    "cpu_utilization": 6.945,
+    "network_io": 6.397,
+    "replica_count": 4.423,
+    "p99_latency": 3.286
+  },
+  {
+    "traffic_load": 10.85,
+    "cpu_utilization": 8.514,
+    "network_io": 7.528,
+    "replica_count": 4.952,
+    "p99_latency": 4.075
+  },
+  {
+    "traffic_load": 8.556,
+    "cpu_utilization": 6.754,
+    "network_io": 6.005,
+    "replica_count": 3.983,
+    "p99_latency": 3.034
+  },
+  {
+    "traffic_load": 6.303,
+    "cpu_utilization": 5.163,
+    "network_io": 4.367,
+    "replica_count": 3.24,
+    "p99_latency": 1.963
+  },
+  {
+    "traffic_load": 11.551,
+    "cpu_utilization": 8.781,
+    "network_io": 8.266,
+    "replica_count": 4.967,
+    "p99_latency": 4.779
+  },
+  {
+    "traffic_load": 11.551,
+    "cpu_utilization": 9.026,
+    "network_io": 8.292,
+    "replica_count": 5.569,
+    "p99_latency": 4.253
+  },
+  {
+    "traffic_load": 12.219,
+    "cpu_utilization": 9.729,
+    "network_io": 8.646,
+    "replica_count": 5.629,
+    "p99_latency": 4.424
+  },
+  {
+    "traffic_load": 8.492,
+    "cpu_utilization": 6.785,
+    "network_io": 6.189,
+    "replica_count": 3.944,
+    "p99_latency": 3.657
+  },
+  {
+    "traffic_load": 10.48,
+    "cpu_utilization": 8.462,
+    "network_io": 7.611,
+    "replica_count": 4.919,
+    "p99_latency": 4.046
+  },
+  {
+    "traffic_load": 9.604,
+    "cpu_utilization": 7.789,
+    "network_io": 6.792,
+    "replica_count": 4.96,
+    "p99_latency": 3.447
+  },
+  {
+    "traffic_load": 8.26,
+    "cpu_utilization": 6.722,
+    "network_io": 5.602,
+    "replica_count": 3.967,
+    "p99_latency": 2.622
+  },
+  {
+    "traffic_load": 9.66,
+    "cpu_utilization": 7.889,
+    "network_io": 6.559,
+    "replica_count": 4.927,
+    "p99_latency": 3.187
+  },
+  {
+    "traffic_load": 6.377,
+    "cpu_utilization": 4.975,
+    "network_io": 4.444,
+    "replica_count": 3.085,
+    "p99_latency": 2.174
+  },
+  {
+    "traffic_load": 8.607,
+    "cpu_utilization": 6.623,
+    "network_io": 6.307,
+    "replica_count": 4.08,
+    "p99_latency": 3.776
+  },
+  {
+    "traffic_load": 10.841,
+    "cpu_utilization": 9.153,
+    "network_io": 7.579,
+    "replica_count": 5.552,
+    "p99_latency": 3.932
+  },
+  {
+    "traffic_load": 12.292,
+    "cpu_utilization": 9.848,
+    "network_io": 8.265,
+    "replica_count": 5.942,
+    "p99_latency": 3.947
+  },
+  {
+    "traffic_load": 11.878,
+    "cpu_utilization": 9.165,
+    "network_io": 8.177,
+    "replica_count": 5.025,
+    "p99_latency": 4.445
+  },
+  {
+    "traffic_load": 9.994,
+    "cpu_utilization": 8.021,
+    "network_io": 7.214,
+    "replica_count": 4.89,
+    "p99_latency": 3.524
+  },
+  {
+    "traffic_load": 11.484,
+    "cpu_utilization": 9.288,
+    "network_io": 8.219,
+    "replica_count": 5.09,
+    "p99_latency": 4.37
+  },
+  {
+    "traffic_load": 10.141,
+    "cpu_utilization": 7.818,
+    "network_io": 6.848,
+    "replica_count": 5.098,
+    "p99_latency": 3.153
+  },
+  {
+    "traffic_load": 8.118,
+    "cpu_utilization": 6.648,
+    "network_io": 5.575,
+    "replica_count": 4.227,
+    "p99_latency": 2.736
+  },
+  {
+    "traffic_load": 7.023,
+    "cpu_utilization": 5.639,
+    "network_io": 4.728,
+    "replica_count": 3.429,
+    "p99_latency": 2.345
+  },
+  {
+    "traffic_load": 8.404,
+    "cpu_utilization": 6.649,
+    "network_io": 5.704,
+    "replica_count": 4.044,
+    "p99_latency": 2.76
+  },
+  {
+    "traffic_load": 7.462,
+    "cpu_utilization": 6.274,
+    "network_io": 5.327,
+    "replica_count": 3.374,
+    "p99_latency": 2.74
+  },
+  {
+    "traffic_load": 10.353,
+    "cpu_utilization": 8.306,
+    "network_io": 7.086,
+    "replica_count": 4.891,
+    "p99_latency": 3.471
+  },
+  {
+    "traffic_load": 8.388,
+    "cpu_utilization": 6.843,
+    "network_io": 5.498,
+    "replica_count": 3.928,
+    "p99_latency": 2.915
+  },
+  {
+    "traffic_load": 11.123,
+    "cpu_utilization": 8.75,
+    "network_io": 7.583,
+    "replica_count": 5.067,
+    "p99_latency": 4.193
+  },
+  {
+    "traffic_load": 9.753,
+    "cpu_utilization": 7.82,
+    "network_io": 6.567,
+    "replica_count": 4.576,
+    "p99_latency": 3.661
+  },
+  {
+    "traffic_load": 10.893,
+    "cpu_utilization": 8.709,
+    "network_io": 7.715,
+    "replica_count": 5.133,
+    "p99_latency": 4.4
+  },
+  {
+    "traffic_load": 8.182,
+    "cpu_utilization": 6.67,
+    "network_io": 5.772,
+    "replica_count": 4.156,
+    "p99_latency": 3.033
+  },
+  {
+    "traffic_load": 11.727,
+    "cpu_utilization": 9.237,
+    "network_io": 8.277,
+    "replica_count": 5.274,
+    "p99_latency": 4.371
+  },
+  {
+    "traffic_load": 6.448,
+    "cpu_utilization": 4.962,
+    "network_io": 4.633,
+    "replica_count": 2.408,
+    "p99_latency": 2.622
+  },
+  {
+    "traffic_load": 11.477,
+    "cpu_utilization": 9.733,
+    "network_io": 8.104,
+    "replica_count": 5.94,
+    "p99_latency": 3.889
+  },
+  {
+    "traffic_load": 9.369,
+    "cpu_utilization": 7.796,
+    "network_io": 6.453,
+    "replica_count": 4.257,
+    "p99_latency": 3.66
+  },
+  {
+    "traffic_load": 14.446,
+    "cpu_utilization": 11.58,
+    "network_io": 10.005,
+    "replica_count": 6.804,
+    "p99_latency": 5.429
+  },
+  {
+    "traffic_load": 9.622,
+    "cpu_utilization": 7.898,
+    "network_io": 6.283,
+    "replica_count": 5.032,
+    "p99_latency": 3.123
+  },
+  {
+    "traffic_load": 7.772,
+    "cpu_utilization": 6.259,
+    "network_io": 5.667,
+    "replica_count": 3.993,
+    "p99_latency": 3.232
+  },
+  {
+    "traffic_load": 8.858,
+    "cpu_utilization": 7.263,
+    "network_io": 6.316,
+    "replica_count": 4.346,
+    "p99_latency": 3.642
+  },
+  {
+    "traffic_load": 10.913,
+    "cpu_utilization": 8.871,
+    "network_io": 7.624,
+    "replica_count": 5.117,
+    "p99_latency": 3.98
+  },
+  {
+    "traffic_load": 5.921,
+    "cpu_utilization": 4.912,
+    "network_io": 4.252,
+    "replica_count": 2.75,
+    "p99_latency": 2.621
+  },
+  {
+    "traffic_load": 11.503,
+    "cpu_utilization": 9.398,
+    "network_io": 8.218,
+    "replica_count": 5.69,
+    "p99_latency": 4.353
+  },
+  {
+    "traffic_load": 9.062,
+    "cpu_utilization": 7.47,
+    "network_io": 6.633,
+    "replica_count": 4.577,
+    "p99_latency": 3.443
+  },
+  {
+    "traffic_load": 6.788,
+    "cpu_utilization": 5.298,
+    "network_io": 4.916,
+    "replica_count": 2.796,
+    "p99_latency": 3.171
+  },
+  {
+    "traffic_load": 12.5,
+    "cpu_utilization": 10.04,
+    "network_io": 8.804,
+    "replica_count": 5.982,
+    "p99_latency": 4.401
+  },
+  {
+    "traffic_load": 12.623,
+    "cpu_utilization": 10.579,
+    "network_io": 8.941,
+    "replica_count": 6.527,
+    "p99_latency": 4.541
+  },
+  {
+    "traffic_load": 9.982,
+    "cpu_utilization": 8.129,
+    "network_io": 7.344,
+    "replica_count": 4.653,
+    "p99_latency": 3.566
+  },
+  {
+    "traffic_load": 10.131,
+    "cpu_utilization": 8.159,
+    "network_io": 7.293,
+    "replica_count": 4.661,
+    "p99_latency": 3.819
+  },
+  {
+    "traffic_load": 12.837,
+    "cpu_utilization": 10.505,
+    "network_io": 8.984,
+    "replica_count": 6.435,
+    "p99_latency": 4.586
+  },
+  {
+    "traffic_load": 7.324,
+    "cpu_utilization": 5.624,
+    "network_io": 4.985,
+    "replica_count": 2.981,
+    "p99_latency": 2.551
+  },
+  {
+    "traffic_load": 9.1,
+    "cpu_utilization": 7.378,
+    "network_io": 6.524,
+    "replica_count": 4.487,
+    "p99_latency": 2.906
+  },
+  {
+    "traffic_load": 9.255,
+    "cpu_utilization": 7.57,
+    "network_io": 6.597,
+    "replica_count": 4.89,
+    "p99_latency": 3.232
+  },
+  {
+    "traffic_load": 7.106,
+    "cpu_utilization": 5.326,
+    "network_io": 5.243,
+    "replica_count": 3.355,
+    "p99_latency": 2.955
+  },
+  {
+    "traffic_load": 8.629,
+    "cpu_utilization": 6.937,
+    "network_io": 6.054,
+    "replica_count": 4.581,
+    "p99_latency": 2.957
+  },
+  {
+    "traffic_load": 14.151,
+    "cpu_utilization": 11.588,
+    "network_io": 9.839,
+    "replica_count": 6.865,
+    "p99_latency": 5.186
+  },
+  {
+    "traffic_load": 9.76,
+    "cpu_utilization": 7.865,
+    "network_io": 6.729,
+    "replica_count": 4.577,
+    "p99_latency": 3.525
+  },
+  {
+    "traffic_load": 6.606,
+    "cpu_utilization": 5.259,
+    "network_io": 4.853,
+    "replica_count": 2.977,
+    "p99_latency": 2.665
+  },
+  {
+    "traffic_load": 12.578,
+    "cpu_utilization": 9.883,
+    "network_io": 8.779,
+    "replica_count": 5.803,
+    "p99_latency": 4.836
+  },
+  {
+    "traffic_load": 10.347,
+    "cpu_utilization": 8.294,
+    "network_io": 7.344,
+    "replica_count": 5.037,
+    "p99_latency": 3.67
+  },
+  {
+    "traffic_load": 11.225,
+    "cpu_utilization": 9.175,
+    "network_io": 7.953,
+    "replica_count": 5.606,
+    "p99_latency": 4.179
+  },
+  {
+    "traffic_load": 10.76,
+    "cpu_utilization": 8.582,
+    "network_io": 7.799,
+    "replica_count": 5.229,
+    "p99_latency": 4.017
+  },
+  {
+    "traffic_load": 11.377,
+    "cpu_utilization": 9.065,
+    "network_io": 7.969,
+    "replica_count": 5.425,
+    "p99_latency": 4.13
+  },
+  {
+    "traffic_load": 11.502,
+    "cpu_utilization": 9.501,
+    "network_io": 7.832,
+    "replica_count": 5.628,
+    "p99_latency": 4.126
+  },
+  {
+    "traffic_load": 10.743,
+    "cpu_utilization": 8.408,
+    "network_io": 7.429,
+    "replica_count": 5.013,
+    "p99_latency": 3.839
+  },
+  {
+    "traffic_load": 11.183,
+    "cpu_utilization": 9.081,
+    "network_io": 7.853,
+    "replica_count": 5.567,
+    "p99_latency": 4.304
+  },
+  {
+    "traffic_load": 9.464,
+    "cpu_utilization": 7.602,
+    "network_io": 6.898,
+    "replica_count": 4.325,
+    "p99_latency": 3.535
+  },
+  {
+    "traffic_load": 8.525,
+    "cpu_utilization": 6.474,
+    "network_io": 6.002,
+    "replica_count": 4.051,
+    "p99_latency": 3.387
+  },
+  {
+    "traffic_load": 5.661,
+    "cpu_utilization": 4.42,
+    "network_io": 3.717,
+    "replica_count": 2.855,
+    "p99_latency": 1.746
+  },
+  {
+    "traffic_load": 9.546,
+    "cpu_utilization": 7.489,
+    "network_io": 6.707,
+    "replica_count": 4.223,
+    "p99_latency": 3.893
+  },
+  {
+    "traffic_load": 9.238,
+    "cpu_utilization": 7.414,
+    "network_io": 6.579,
+    "replica_count": 3.957,
+    "p99_latency": 3.645
+  },
+  {
+    "traffic_load": 13.628,
+    "cpu_utilization": 10.933,
+    "network_io": 9.145,
+    "replica_count": 6.79,
+    "p99_latency": 4.609
+  },
+  {
+    "traffic_load": 9.244,
+    "cpu_utilization": 7.478,
+    "network_io": 6.368,
+    "replica_count": 4.514,
+    "p99_latency": 3.246
+  },
+  {
+    "traffic_load": 9.385,
+    "cpu_utilization": 7.409,
+    "network_io": 6.755,
+    "replica_count": 4.649,
+    "p99_latency": 3.411
+  },
+  {
+    "traffic_load": 13.82,
+    "cpu_utilization": 10.844,
+    "network_io": 9.833,
+    "replica_count": 6.58,
+    "p99_latency": 5.116
+  },
+  {
+    "traffic_load": 7.086,
+    "cpu_utilization": 5.489,
+    "network_io": 5.198,
+    "replica_count": 3.404,
+    "p99_latency": 2.83
+  },
+  {
+    "traffic_load": 11.157,
+    "cpu_utilization": 9.155,
+    "network_io": 7.936,
+    "replica_count": 5.765,
+    "p99_latency": 4.147
+  },
+  {
+    "traffic_load": 7.408,
+    "cpu_utilization": 5.941,
+    "network_io": 5.36,
+    "replica_count": 3.368,
+    "p99_latency": 2.983
+  },
+  {
+    "traffic_load": 7.144,
+    "cpu_utilization": 5.991,
+    "network_io": 5.505,
+    "replica_count": 3.525,
+    "p99_latency": 3.246
+  },
+  {
+    "traffic_load": 8.389,
+    "cpu_utilization": 6.788,
+    "network_io": 5.974,
+    "replica_count": 3.87,
+    "p99_latency": 3.24
+  },
+  {
+    "traffic_load": 14.094,
+    "cpu_utilization": 11.367,
+    "network_io": 9.897,
+    "replica_count": 6.913,
+    "p99_latency": 5.136
+  },
+  {
+    "traffic_load": 11.115,
+    "cpu_utilization": 8.947,
+    "network_io": 7.621,
+    "replica_count": 5.287,
+    "p99_latency": 3.801
+  },
+  {
+    "traffic_load": 12.842,
+    "cpu_utilization": 10.374,
+    "network_io": 8.775,
+    "replica_count": 6.311,
+    "p99_latency": 4.358
+  },
+  {
+    "traffic_load": 8.802,
+    "cpu_utilization": 7.188,
+    "network_io": 6.27,
+    "replica_count": 4.579,
+    "p99_latency": 3.708
+  },
+  {
+    "traffic_load": 7.424,
+    "cpu_utilization": 6.042,
+    "network_io": 5.259,
+    "replica_count": 3.811,
+    "p99_latency": 2.638
+  },
+  {
+    "traffic_load": 11.941,
+    "cpu_utilization": 9.311,
+    "network_io": 8.312,
+    "replica_count": 5.656,
+    "p99_latency": 4.299
+  },
+  {
+    "traffic_load": 9.082,
+    "cpu_utilization": 7.223,
+    "network_io": 6.622,
+    "replica_count": 4.177,
+    "p99_latency": 3.855
+  },
+  {
+    "traffic_load": 11.832,
+    "cpu_utilization": 9.361,
+    "network_io": 7.956,
+    "replica_count": 5.577,
+    "p99_latency": 4.42
+  },
+  {
+    "traffic_load": 9.339,
+    "cpu_utilization": 7.304,
+    "network_io": 6.482,
+    "replica_count": 4.536,
+    "p99_latency": 3.559
+  },
+  {
+    "traffic_load": 8.525,
+    "cpu_utilization": 6.402,
+    "network_io": 5.811,
+    "replica_count": 3.606,
+    "p99_latency": 3.217
+  },
+  {
+    "traffic_load": 12.112,
+    "cpu_utilization": 9.405,
+    "network_io": 8.304,
+    "replica_count": 5.517,
+    "p99_latency": 4.361
+  },
+  {
+    "traffic_load": 13.759,
+    "cpu_utilization": 11.31,
+    "network_io": 9.611,
+    "replica_count": 6.955,
+    "p99_latency": 4.357
+  },
+  {
+    "traffic_load": 9.879,
+    "cpu_utilization": 7.869,
+    "network_io": 7.108,
+    "replica_count": 5.02,
+    "p99_latency": 3.382
+  },
+  {
+    "traffic_load": 10.573,
+    "cpu_utilization": 8.758,
+    "network_io": 7.4,
+    "replica_count": 5.345,
+    "p99_latency": 3.812
+  },
+  {
+    "traffic_load": 9.248,
+    "cpu_utilization": 7.475,
+    "network_io": 6.317,
+    "replica_count": 4.722,
+    "p99_latency": 3.213
+  },
+  {
+    "traffic_load": 10.545,
+    "cpu_utilization": 9.011,
+    "network_io": 7.268,
+    "replica_count": 5.107,
+    "p99_latency": 3.739
+  },
+  {
+    "traffic_load": 9.449,
+    "cpu_utilization": 7.269,
+    "network_io": 6.777,
+    "replica_count": 4.596,
+    "p99_latency": 3.687
+  },
+  {
+    "traffic_load": 8.734,
+    "cpu_utilization": 6.872,
+    "network_io": 6.289,
+    "replica_count": 4.383,
+    "p99_latency": 3.324
+  },
+  {
+    "traffic_load": 7.649,
+    "cpu_utilization": 6.271,
+    "network_io": 5.081,
+    "replica_count": 3.964,
+    "p99_latency": 2.577
+  },
+  {
+    "traffic_load": 10.196,
+    "cpu_utilization": 7.917,
+    "network_io": 7.214,
+    "replica_count": 4.721,
+    "p99_latency": 3.966
+  },
+  {
+    "traffic_load": 9.274,
+    "cpu_utilization": 7.109,
+    "network_io": 6.546,
+    "replica_count": 4.149,
+    "p99_latency": 3.384
+  },
+  {
+    "traffic_load": 10.186,
+    "cpu_utilization": 8.396,
+    "network_io": 7.051,
+    "replica_count": 4.999,
+    "p99_latency": 3.772
+  },
+  {
+    "traffic_load": 9.879,
+    "cpu_utilization": 7.799,
+    "network_io": 6.659,
+    "replica_count": 4.458,
+    "p99_latency": 3.819
+  },
+  {
+    "traffic_load": 7.5,
+    "cpu_utilization": 5.853,
+    "network_io": 5.235,
+    "replica_count": 3.667,
+    "p99_latency": 2.926
+  },
+  {
+    "traffic_load": 11.641,
+    "cpu_utilization": 9.374,
+    "network_io": 8.13,
+    "replica_count": 5.613,
+    "p99_latency": 4.46
+  },
+  {
+    "traffic_load": 7.121,
+    "cpu_utilization": 5.54,
+    "network_io": 5.328,
+    "replica_count": 2.93,
+    "p99_latency": 2.845
+  },
+  {
+    "traffic_load": 7.737,
+    "cpu_utilization": 6.638,
+    "network_io": 5.326,
+    "replica_count": 3.947,
+    "p99_latency": 2.251
+  },
+  {
+    "traffic_load": 9.379,
+    "cpu_utilization": 7.695,
+    "network_io": 6.487,
+    "replica_count": 4.385,
+    "p99_latency": 3.244
+  },
+  {
+    "traffic_load": 9.022,
+    "cpu_utilization": 7.438,
+    "network_io": 6.299,
+    "replica_count": 4.391,
+    "p99_latency": 3.25
+  },
+  {
+    "traffic_load": 7.579,
+    "cpu_utilization": 6.023,
+    "network_io": 5.529,
+    "replica_count": 3.669,
+    "p99_latency": 2.914
+  },
+  {
+    "traffic_load": 10.524,
+    "cpu_utilization": 8.609,
+    "network_io": 7.794,
+    "replica_count": 4.756,
+    "p99_latency": 4.222
+  },
+  {
+    "traffic_load": 15.726,
+    "cpu_utilization": 12.232,
+    "network_io": 11.094,
+    "replica_count": 7.174,
+    "p99_latency": 6.21
+  },
+  {
+    "traffic_load": 11.907,
+    "cpu_utilization": 9.469,
+    "network_io": 8.509,
+    "replica_count": 5.716,
+    "p99_latency": 4.785
+  },
+  {
+    "traffic_load": 9.916,
+    "cpu_utilization": 7.909,
+    "network_io": 6.669,
+    "replica_count": 4.812,
+    "p99_latency": 3.246
+  },
+  {
+    "traffic_load": 10.646,
+    "cpu_utilization": 8.398,
+    "network_io": 7.555,
+    "replica_count": 4.901,
+    "p99_latency": 3.946
+  },
+  {
+    "traffic_load": 5.422,
+    "cpu_utilization": 4.437,
+    "network_io": 3.937,
+    "replica_count": 2.669,
+    "p99_latency": 1.769
+  },
+  {
+    "traffic_load": 9.58,
+    "cpu_utilization": 7.943,
+    "network_io": 6.634,
+    "replica_count": 4.833,
+    "p99_latency": 3.4
+  },
+  {
+    "traffic_load": 9.853,
+    "cpu_utilization": 7.989,
+    "network_io": 7.049,
+    "replica_count": 4.976,
+    "p99_latency": 3.464
+  },
+  {
+    "traffic_load": 9.394,
+    "cpu_utilization": 7.446,
+    "network_io": 6.634,
+    "replica_count": 4.529,
+    "p99_latency": 3.554
+  },
+  {
+    "traffic_load": 11.589,
+    "cpu_utilization": 9.531,
+    "network_io": 8.272,
+    "replica_count": 5.967,
+    "p99_latency": 4.097
+  },
+  {
+    "traffic_load": 9.805,
+    "cpu_utilization": 7.809,
+    "network_io": 6.894,
+    "replica_count": 4.442,
+    "p99_latency": 3.583
+  }
+]

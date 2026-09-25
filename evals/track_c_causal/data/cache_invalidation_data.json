@@ -1,0 +1,3002 @@
+[
+  {
+    "mutation_rate": 11.543,
+    "invalidation_rate": 7.95,
+    "cache_miss_rate": 5.626,
+    "backend_cpu_load": 4.291
+  },
+  {
+    "mutation_rate": 10.324,
+    "invalidation_rate": 7.465,
+    "cache_miss_rate": 5.179,
+    "backend_cpu_load": 3.9
+  },
+  {
+    "mutation_rate": 10.741,
+    "invalidation_rate": 7.534,
+    "cache_miss_rate": 5.491,
+    "backend_cpu_load": 4.731
+  },
+  {
+    "mutation_rate": 10.596,
+    "invalidation_rate": 7.327,
+    "cache_miss_rate": 5.71,
+    "backend_cpu_load": 4.449
+  },
+  {
+    "mutation_rate": 14.575,
+    "invalidation_rate": 10.109,
+    "cache_miss_rate": 8.033,
+    "backend_cpu_load": 6.725
+  },
+  {
+    "mutation_rate": 8.845,
+    "invalidation_rate": 6.207,
+    "cache_miss_rate": 4.578,
+    "backend_cpu_load": 3.679
+  },
+  {
+    "mutation_rate": 9.982,
+    "invalidation_rate": 6.737,
+    "cache_miss_rate": 5.164,
+    "backend_cpu_load": 4.222
+  },
+  {
+    "mutation_rate": 6.53,
+    "invalidation_rate": 4.557,
+    "cache_miss_rate": 3.403,
+    "backend_cpu_load": 2.816
+  },
+  {
+    "mutation_rate": 9.537,
+    "invalidation_rate": 6.736,
+    "cache_miss_rate": 4.844,
+    "backend_cpu_load": 4.223
+  },
+  {
+    "mutation_rate": 10.685,
+    "invalidation_rate": 7.635,
+    "cache_miss_rate": 5.746,
+    "backend_cpu_load": 4.463
+  },
+  {
+    "mutation_rate": 11.134,
+    "invalidation_rate": 7.894,
+    "cache_miss_rate": 5.678,
+    "backend_cpu_load": 4.341
+  },
+  {
+    "mutation_rate": 9.675,
+    "invalidation_rate": 6.707,
+    "cache_miss_rate": 5.009,
+    "backend_cpu_load": 4.104
+  },
+  {
+    "mutation_rate": 8.226,
+    "invalidation_rate": 5.688,
+    "cache_miss_rate": 4.268,
+    "backend_cpu_load": 3.155
+  },
+  {
+    "mutation_rate": 8.933,
+    "invalidation_rate": 6.192,
+    "cache_miss_rate": 4.573,
+    "backend_cpu_load": 3.639
+  },
+  {
+    "mutation_rate": 13.188,
+    "invalidation_rate": 9.465,
+    "cache_miss_rate": 7.103,
+    "backend_cpu_load": 5.69
+  },
+  {
+    "mutation_rate": 9.727,
+    "invalidation_rate": 6.684,
+    "cache_miss_rate": 4.931,
+    "backend_cpu_load": 4.193
+  },
+  {
+    "mutation_rate": 10.403,
+    "invalidation_rate": 7.266,
+    "cache_miss_rate": 5.418,
+    "backend_cpu_load": 4.291
+  },
+  {
+    "mutation_rate": 10.297,
+    "invalidation_rate": 7.019,
+    "cache_miss_rate": 5.435,
+    "backend_cpu_load": 4.45
+  },
+  {
+    "mutation_rate": 9.368,
+    "invalidation_rate": 6.47,
+    "cache_miss_rate": 4.597,
+    "backend_cpu_load": 3.914
+  },
+  {
+    "mutation_rate": 11.371,
+    "invalidation_rate": 7.668,
+    "cache_miss_rate": 5.444,
+    "backend_cpu_load": 4.412
+  },
+  {
+    "mutation_rate": 11.167,
+    "invalidation_rate": 7.975,
+    "cache_miss_rate": 5.941,
+    "backend_cpu_load": 4.851
+  },
+  {
+    "mutation_rate": 10.637,
+    "invalidation_rate": 7.463,
+    "cache_miss_rate": 5.79,
+    "backend_cpu_load": 4.603
+  },
+  {
+    "mutation_rate": 8.767,
+    "invalidation_rate": 6.402,
+    "cache_miss_rate": 4.734,
+    "backend_cpu_load": 3.366
+  },
+  {
+    "mutation_rate": 10.583,
+    "invalidation_rate": 7.372,
+    "cache_miss_rate": 5.532,
+    "backend_cpu_load": 4.624
+  },
+  {
+    "mutation_rate": 9.117,
+    "invalidation_rate": 6.621,
+    "cache_miss_rate": 4.989,
+    "backend_cpu_load": 4.419
+  },
+  {
+    "mutation_rate": 7.999,
+    "invalidation_rate": 5.973,
+    "cache_miss_rate": 4.742,
+    "backend_cpu_load": 3.661
+  },
+  {
+    "mutation_rate": 9.905,
+    "invalidation_rate": 7.001,
+    "cache_miss_rate": 5.703,
+    "backend_cpu_load": 4.547
+  },
+  {
+    "mutation_rate": 9.291,
+    "invalidation_rate": 6.508,
+    "cache_miss_rate": 4.893,
+    "backend_cpu_load": 3.748
+  },
+  {
+    "mutation_rate": 4.845,
+    "invalidation_rate": 3.608,
+    "cache_miss_rate": 3.044,
+    "backend_cpu_load": 2.244
+  },
+  {
+    "mutation_rate": 12.593,
+    "invalidation_rate": 8.947,
+    "cache_miss_rate": 6.459,
+    "backend_cpu_load": 4.972
+  },
+  {
+    "mutation_rate": 14.394,
+    "invalidation_rate": 10.12,
+    "cache_miss_rate": 7.595,
+    "backend_cpu_load": 6.085
+  },
+  {
+    "mutation_rate": 8.2,
+    "invalidation_rate": 5.467,
+    "cache_miss_rate": 4.083,
+    "backend_cpu_load": 3.182
+  },
+  {
+    "mutation_rate": 10.315,
+    "invalidation_rate": 7.47,
+    "cache_miss_rate": 5.344,
+    "backend_cpu_load": 4.073
+  },
+  {
+    "mutation_rate": 12.9,
+    "invalidation_rate": 9.056,
+    "cache_miss_rate": 6.833,
+    "backend_cpu_load": 5.645
+  },
+  {
+    "mutation_rate": 11.312,
+    "invalidation_rate": 8.112,
+    "cache_miss_rate": 6.075,
+    "backend_cpu_load": 5.14
+  },
+  {
+    "mutation_rate": 9.777,
+    "invalidation_rate": 6.942,
+    "cache_miss_rate": 5.127,
+    "backend_cpu_load": 4.249
+  },
+  {
+    "mutation_rate": 8.195,
+    "invalidation_rate": 6.353,
+    "cache_miss_rate": 4.429,
+    "backend_cpu_load": 3.326
+  },
+  {
+    "mutation_rate": 6.428,
+    "invalidation_rate": 4.056,
+    "cache_miss_rate": 2.815,
+    "backend_cpu_load": 2.266
+  },
+  {
+    "mutation_rate": 9.805,
+    "invalidation_rate": 7.01,
+    "cache_miss_rate": 5.45,
+    "backend_cpu_load": 4.235
+  },
+  {
+    "mutation_rate": 7.377,
+    "invalidation_rate": 4.782,
+    "cache_miss_rate": 3.463,
+    "backend_cpu_load": 2.747
+  },
+  {
+    "mutation_rate": 9.078,
+    "invalidation_rate": 6.011,
+    "cache_miss_rate": 4.704,
+    "backend_cpu_load": 3.679
+  },
+  {
+    "mutation_rate": 12.133,
+    "invalidation_rate": 8.708,
+    "cache_miss_rate": 6.545,
+    "backend_cpu_load": 5.178
+  },
+  {
+    "mutation_rate": 11.429,
+    "invalidation_rate": 7.647,
+    "cache_miss_rate": 5.987,
+    "backend_cpu_load": 4.906
+  },
+  {
+    "mutation_rate": 11.898,
+    "invalidation_rate": 8.478,
+    "cache_miss_rate": 6.537,
+    "backend_cpu_load": 5.421
+  },
+  {
+    "mutation_rate": 9.582,
+    "invalidation_rate": 6.935,
+    "cache_miss_rate": 4.949,
+    "backend_cpu_load": 3.718
+  },
+  {
+    "mutation_rate": 8.898,
+    "invalidation_rate": 6.255,
+    "cache_miss_rate": 4.59,
+    "backend_cpu_load": 3.854
+  },
+  {
+    "mutation_rate": 9.263,
+    "invalidation_rate": 6.598,
+    "cache_miss_rate": 5.133,
+    "backend_cpu_load": 4.086
+  },
+  {
+    "mutation_rate": 11.503,
+    "invalidation_rate": 8.054,
+    "cache_miss_rate": 6.086,
+    "backend_cpu_load": 4.552
+  },
+  {
+    "mutation_rate": 9.382,
+    "invalidation_rate": 6.578,
+    "cache_miss_rate": 4.706,
+    "backend_cpu_load": 4.144
+  },
+  {
+    "mutation_rate": 10.559,
+    "invalidation_rate": 7.459,
+    "cache_miss_rate": 5.554,
+    "backend_cpu_load": 4.456
+  },
+  {
+    "mutation_rate": 13.197,
+    "invalidation_rate": 9.041,
+    "cache_miss_rate": 7.005,
+    "backend_cpu_load": 5.943
+  },
+  {
+    "mutation_rate": 13.376,
+    "invalidation_rate": 9.317,
+    "cache_miss_rate": 7.003,
+    "backend_cpu_load": 5.502
+  },
+  {
+    "mutation_rate": 10.179,
+    "invalidation_rate": 7.352,
+    "cache_miss_rate": 5.659,
+    "backend_cpu_load": 4.878
+  },
+  {
+    "mutation_rate": 7.782,
+    "invalidation_rate": 5.63,
+    "cache_miss_rate": 3.8,
+    "backend_cpu_load": 3.362
+  },
+  {
+    "mutation_rate": 8.204,
+    "invalidation_rate": 6.097,
+    "cache_miss_rate": 4.77,
+    "backend_cpu_load": 3.612
+  },
+  {
+    "mutation_rate": 14.208,
+    "invalidation_rate": 10.155,
+    "cache_miss_rate": 7.657,
+    "backend_cpu_load": 6.197
+  },
+  {
+    "mutation_rate": 10.786,
+    "invalidation_rate": 7.45,
+    "cache_miss_rate": 5.981,
+    "backend_cpu_load": 4.866
+  },
+  {
+    "mutation_rate": 11.642,
+    "invalidation_rate": 8.064,
+    "cache_miss_rate": 5.846,
+    "backend_cpu_load": 4.929
+  },
+  {
+    "mutation_rate": 9.751,
+    "invalidation_rate": 6.664,
+    "cache_miss_rate": 5.096,
+    "backend_cpu_load": 4.115
+  },
+  {
+    "mutation_rate": 9.944,
+    "invalidation_rate": 7.0,
+    "cache_miss_rate": 5.224,
+    "backend_cpu_load": 3.984
+  },
+  {
+    "mutation_rate": 8.512,
+    "invalidation_rate": 5.925,
+    "cache_miss_rate": 4.222,
+    "backend_cpu_load": 3.596
+  },
+  {
+    "mutation_rate": 12.717,
+    "invalidation_rate": 8.642,
+    "cache_miss_rate": 6.099,
+    "backend_cpu_load": 4.849
+  },
+  {
+    "mutation_rate": 9.161,
+    "invalidation_rate": 6.679,
+    "cache_miss_rate": 4.915,
+    "backend_cpu_load": 4.345
+  },
+  {
+    "mutation_rate": 9.573,
+    "invalidation_rate": 6.736,
+    "cache_miss_rate": 5.068,
+    "backend_cpu_load": 3.942
+  },
+  {
+    "mutation_rate": 12.26,
+    "invalidation_rate": 8.282,
+    "cache_miss_rate": 6.26,
+    "backend_cpu_load": 4.96
+  },
+  {
+    "mutation_rate": 9.778,
+    "invalidation_rate": 6.902,
+    "cache_miss_rate": 5.385,
+    "backend_cpu_load": 4.354
+  },
+  {
+    "mutation_rate": 9.545,
+    "invalidation_rate": 6.651,
+    "cache_miss_rate": 4.905,
+    "backend_cpu_load": 3.753
+  },
+  {
+    "mutation_rate": 11.797,
+    "invalidation_rate": 8.476,
+    "cache_miss_rate": 6.185,
+    "backend_cpu_load": 5.026
+  },
+  {
+    "mutation_rate": 12.512,
+    "invalidation_rate": 8.684,
+    "cache_miss_rate": 6.34,
+    "backend_cpu_load": 5.253
+  },
+  {
+    "mutation_rate": 11.105,
+    "invalidation_rate": 7.727,
+    "cache_miss_rate": 5.605,
+    "backend_cpu_load": 4.028
+  },
+  {
+    "mutation_rate": 9.543,
+    "invalidation_rate": 6.596,
+    "cache_miss_rate": 5.014,
+    "backend_cpu_load": 3.778
+  },
+  {
+    "mutation_rate": 11.205,
+    "invalidation_rate": 8.131,
+    "cache_miss_rate": 6.329,
+    "backend_cpu_load": 4.836
+  },
+  {
+    "mutation_rate": 11.103,
+    "invalidation_rate": 7.74,
+    "cache_miss_rate": 6.203,
+    "backend_cpu_load": 4.96
+  },
+  {
+    "mutation_rate": 8.48,
+    "invalidation_rate": 6.132,
+    "cache_miss_rate": 4.771,
+    "backend_cpu_load": 3.531
+  },
+  {
+    "mutation_rate": 8.687,
+    "invalidation_rate": 6.072,
+    "cache_miss_rate": 4.096,
+    "backend_cpu_load": 3.275
+  },
+  {
+    "mutation_rate": 11.056,
+    "invalidation_rate": 7.632,
+    "cache_miss_rate": 5.924,
+    "backend_cpu_load": 4.806
+  },
+  {
+    "mutation_rate": 6.37,
+    "invalidation_rate": 4.167,
+    "cache_miss_rate": 3.342,
+    "backend_cpu_load": 2.538
+  },
+  {
+    "mutation_rate": 9.343,
+    "invalidation_rate": 6.887,
+    "cache_miss_rate": 5.085,
+    "backend_cpu_load": 4.034
+  },
+  {
+    "mutation_rate": 7.384,
+    "invalidation_rate": 5.249,
+    "cache_miss_rate": 3.708,
+    "backend_cpu_load": 3.09
+  },
+  {
+    "mutation_rate": 10.737,
+    "invalidation_rate": 7.083,
+    "cache_miss_rate": 5.212,
+    "backend_cpu_load": 4.124
+  },
+  {
+    "mutation_rate": 13.545,
+    "invalidation_rate": 9.425,
+    "cache_miss_rate": 6.834,
+    "backend_cpu_load": 5.504
+  },
+  {
+    "mutation_rate": 10.651,
+    "invalidation_rate": 7.439,
+    "cache_miss_rate": 5.433,
+    "backend_cpu_load": 4.163
+  },
+  {
+    "mutation_rate": 11.238,
+    "invalidation_rate": 7.858,
+    "cache_miss_rate": 6.006,
+    "backend_cpu_load": 4.745
+  },
+  {
+    "mutation_rate": 7.5,
+    "invalidation_rate": 5.551,
+    "cache_miss_rate": 4.057,
+    "backend_cpu_load": 3.326
+  },
+  {
+    "mutation_rate": 9.417,
+    "invalidation_rate": 6.802,
+    "cache_miss_rate": 5.499,
+    "backend_cpu_load": 4.726
+  },
+  {
+    "mutation_rate": 8.194,
+    "invalidation_rate": 5.743,
+    "cache_miss_rate": 4.264,
+    "backend_cpu_load": 3.154
+  },
+  {
+    "mutation_rate": 8.909,
+    "invalidation_rate": 6.822,
+    "cache_miss_rate": 5.028,
+    "backend_cpu_load": 3.865
+  },
+  {
+    "mutation_rate": 13.152,
+    "invalidation_rate": 9.179,
+    "cache_miss_rate": 6.946,
+    "backend_cpu_load": 5.943
+  },
+  {
+    "mutation_rate": 8.511,
+    "invalidation_rate": 5.948,
+    "cache_miss_rate": 4.72,
+    "backend_cpu_load": 4.067
+  },
+  {
+    "mutation_rate": 11.791,
+    "invalidation_rate": 8.513,
+    "cache_miss_rate": 6.251,
+    "backend_cpu_load": 5.012
+  },
+  {
+    "mutation_rate": 9.535,
+    "invalidation_rate": 6.675,
+    "cache_miss_rate": 4.957,
+    "backend_cpu_load": 3.976
+  },
+  {
+    "mutation_rate": 9.603,
+    "invalidation_rate": 6.745,
+    "cache_miss_rate": 5.22,
+    "backend_cpu_load": 3.877
+  },
+  {
+    "mutation_rate": 13.486,
+    "invalidation_rate": 9.805,
+    "cache_miss_rate": 7.404,
+    "backend_cpu_load": 5.809
+  },
+  {
+    "mutation_rate": 7.38,
+    "invalidation_rate": 5.215,
+    "cache_miss_rate": 4.002,
+    "backend_cpu_load": 3.126
+  },
+  {
+    "mutation_rate": 10.544,
+    "invalidation_rate": 7.18,
+    "cache_miss_rate": 5.535,
+    "backend_cpu_load": 4.507
+  },
+  {
+    "mutation_rate": 11.818,
+    "invalidation_rate": 8.654,
+    "cache_miss_rate": 6.555,
+    "backend_cpu_load": 5.173
+  },
+  {
+    "mutation_rate": 13.263,
+    "invalidation_rate": 9.207,
+    "cache_miss_rate": 6.969,
+    "backend_cpu_load": 5.22
+  },
+  {
+    "mutation_rate": 12.022,
+    "invalidation_rate": 8.018,
+    "cache_miss_rate": 5.528,
+    "backend_cpu_load": 4.362
+  },
+  {
+    "mutation_rate": 14.026,
+    "invalidation_rate": 9.723,
+    "cache_miss_rate": 7.174,
+    "backend_cpu_load": 6.132
+  },
+  {
+    "mutation_rate": 8.013,
+    "invalidation_rate": 5.556,
+    "cache_miss_rate": 4.25,
+    "backend_cpu_load": 3.334
+  },
+  {
+    "mutation_rate": 8.605,
+    "invalidation_rate": 6.055,
+    "cache_miss_rate": 4.982,
+    "backend_cpu_load": 3.567
+  },
+  {
+    "mutation_rate": 9.839,
+    "invalidation_rate": 6.576,
+    "cache_miss_rate": 4.777,
+    "backend_cpu_load": 3.686
+  },
+  {
+    "mutation_rate": 7.055,
+    "invalidation_rate": 4.915,
+    "cache_miss_rate": 3.77,
+    "backend_cpu_load": 2.963
+  },
+  {
+    "mutation_rate": 8.962,
+    "invalidation_rate": 6.269,
+    "cache_miss_rate": 4.737,
+    "backend_cpu_load": 4.166
+  },
+  {
+    "mutation_rate": 9.68,
+    "invalidation_rate": 6.684,
+    "cache_miss_rate": 4.971,
+    "backend_cpu_load": 3.91
+  },
+  {
+    "mutation_rate": 13.852,
+    "invalidation_rate": 9.784,
+    "cache_miss_rate": 7.201,
+    "backend_cpu_load": 5.564
+  },
+  {
+    "mutation_rate": 12.701,
+    "invalidation_rate": 8.846,
+    "cache_miss_rate": 6.498,
+    "backend_cpu_load": 5.041
+  },
+  {
+    "mutation_rate": 6.864,
+    "invalidation_rate": 4.442,
+    "cache_miss_rate": 3.322,
+    "backend_cpu_load": 2.306
+  },
+  {
+    "mutation_rate": 15.122,
+    "invalidation_rate": 10.554,
+    "cache_miss_rate": 7.961,
+    "backend_cpu_load": 6.741
+  },
+  {
+    "mutation_rate": 12.885,
+    "invalidation_rate": 9.008,
+    "cache_miss_rate": 7.127,
+    "backend_cpu_load": 5.93
+  },
+  {
+    "mutation_rate": 10.193,
+    "invalidation_rate": 7.49,
+    "cache_miss_rate": 5.825,
+    "backend_cpu_load": 4.794
+  },
+  {
+    "mutation_rate": 12.221,
+    "invalidation_rate": 8.391,
+    "cache_miss_rate": 6.4,
+    "backend_cpu_load": 5.419
+  },
+  {
+    "mutation_rate": 9.421,
+    "invalidation_rate": 6.196,
+    "cache_miss_rate": 4.763,
+    "backend_cpu_load": 4.283
+  },
+  {
+    "mutation_rate": 10.212,
+    "invalidation_rate": 7.047,
+    "cache_miss_rate": 5.299,
+    "backend_cpu_load": 4.247
+  },
+  {
+    "mutation_rate": 9.566,
+    "invalidation_rate": 6.535,
+    "cache_miss_rate": 4.605,
+    "backend_cpu_load": 3.835
+  },
+  {
+    "mutation_rate": 8.865,
+    "invalidation_rate": 6.311,
+    "cache_miss_rate": 4.634,
+    "backend_cpu_load": 3.886
+  },
+  {
+    "mutation_rate": 9.649,
+    "invalidation_rate": 6.524,
+    "cache_miss_rate": 4.547,
+    "backend_cpu_load": 3.985
+  },
+  {
+    "mutation_rate": 8.411,
+    "invalidation_rate": 5.986,
+    "cache_miss_rate": 4.44,
+    "backend_cpu_load": 3.358
+  },
+  {
+    "mutation_rate": 6.722,
+    "invalidation_rate": 4.202,
+    "cache_miss_rate": 3.248,
+    "backend_cpu_load": 2.982
+  },
+  {
+    "mutation_rate": 8.418,
+    "invalidation_rate": 5.759,
+    "cache_miss_rate": 4.517,
+    "backend_cpu_load": 3.957
+  },
+  {
+    "mutation_rate": 6.121,
+    "invalidation_rate": 4.505,
+    "cache_miss_rate": 3.433,
+    "backend_cpu_load": 2.686
+  },
+  {
+    "mutation_rate": 8.971,
+    "invalidation_rate": 6.098,
+    "cache_miss_rate": 4.512,
+    "backend_cpu_load": 3.587
+  },
+  {
+    "mutation_rate": 10.053,
+    "invalidation_rate": 7.052,
+    "cache_miss_rate": 5.573,
+    "backend_cpu_load": 4.659
+  },
+  {
+    "mutation_rate": 9.146,
+    "invalidation_rate": 6.568,
+    "cache_miss_rate": 4.993,
+    "backend_cpu_load": 3.875
+  },
+  {
+    "mutation_rate": 10.687,
+    "invalidation_rate": 7.469,
+    "cache_miss_rate": 5.907,
+    "backend_cpu_load": 4.793
+  },
+  {
+    "mutation_rate": 7.648,
+    "invalidation_rate": 5.395,
+    "cache_miss_rate": 3.853,
+    "backend_cpu_load": 3.523
+  },
+  {
+    "mutation_rate": 9.421,
+    "invalidation_rate": 6.57,
+    "cache_miss_rate": 4.703,
+    "backend_cpu_load": 3.45
+  },
+  {
+    "mutation_rate": 14.692,
+    "invalidation_rate": 10.185,
+    "cache_miss_rate": 7.957,
+    "backend_cpu_load": 6.204
+  },
+  {
+    "mutation_rate": 13.431,
+    "invalidation_rate": 9.464,
+    "cache_miss_rate": 6.963,
+    "backend_cpu_load": 5.69
+  },
+  {
+    "mutation_rate": 11.643,
+    "invalidation_rate": 8.282,
+    "cache_miss_rate": 6.15,
+    "backend_cpu_load": 5.058
+  },
+  {
+    "mutation_rate": 11.022,
+    "invalidation_rate": 7.515,
+    "cache_miss_rate": 5.586,
+    "backend_cpu_load": 4.377
+  },
+  {
+    "mutation_rate": 7.884,
+    "invalidation_rate": 5.263,
+    "cache_miss_rate": 3.901,
+    "backend_cpu_load": 3.213
+  },
+  {
+    "mutation_rate": 12.253,
+    "invalidation_rate": 8.628,
+    "cache_miss_rate": 6.446,
+    "backend_cpu_load": 5.22
+  },
+  {
+    "mutation_rate": 8.657,
+    "invalidation_rate": 5.751,
+    "cache_miss_rate": 4.201,
+    "backend_cpu_load": 3.294
+  },
+  {
+    "mutation_rate": 9.85,
+    "invalidation_rate": 7.092,
+    "cache_miss_rate": 5.503,
+    "backend_cpu_load": 4.598
+  },
+  {
+    "mutation_rate": 5.482,
+    "invalidation_rate": 3.765,
+    "cache_miss_rate": 2.819,
+    "backend_cpu_load": 2.065
+  },
+  {
+    "mutation_rate": 10.835,
+    "invalidation_rate": 7.456,
+    "cache_miss_rate": 5.453,
+    "backend_cpu_load": 4.287
+  },
+  {
+    "mutation_rate": 9.653,
+    "invalidation_rate": 6.289,
+    "cache_miss_rate": 4.69,
+    "backend_cpu_load": 3.607
+  },
+  {
+    "mutation_rate": 11.704,
+    "invalidation_rate": 8.563,
+    "cache_miss_rate": 6.491,
+    "backend_cpu_load": 5.344
+  },
+  {
+    "mutation_rate": 9.136,
+    "invalidation_rate": 6.463,
+    "cache_miss_rate": 4.819,
+    "backend_cpu_load": 3.846
+  },
+  {
+    "mutation_rate": 10.507,
+    "invalidation_rate": 7.699,
+    "cache_miss_rate": 5.495,
+    "backend_cpu_load": 4.093
+  },
+  {
+    "mutation_rate": 9.872,
+    "invalidation_rate": 6.979,
+    "cache_miss_rate": 5.091,
+    "backend_cpu_load": 4.043
+  },
+  {
+    "mutation_rate": 11.67,
+    "invalidation_rate": 8.287,
+    "cache_miss_rate": 6.361,
+    "backend_cpu_load": 5.185
+  },
+  {
+    "mutation_rate": 11.426,
+    "invalidation_rate": 8.094,
+    "cache_miss_rate": 5.756,
+    "backend_cpu_load": 4.921
+  },
+  {
+    "mutation_rate": 7.077,
+    "invalidation_rate": 4.879,
+    "cache_miss_rate": 3.723,
+    "backend_cpu_load": 3.571
+  },
+  {
+    "mutation_rate": 10.312,
+    "invalidation_rate": 7.089,
+    "cache_miss_rate": 5.43,
+    "backend_cpu_load": 4.353
+  },
+  {
+    "mutation_rate": 7.702,
+    "invalidation_rate": 5.609,
+    "cache_miss_rate": 4.21,
+    "backend_cpu_load": 3.428
+  },
+  {
+    "mutation_rate": 11.308,
+    "invalidation_rate": 8.087,
+    "cache_miss_rate": 6.183,
+    "backend_cpu_load": 4.683
+  },
+  {
+    "mutation_rate": 6.595,
+    "invalidation_rate": 4.258,
+    "cache_miss_rate": 3.031,
+    "backend_cpu_load": 2.399
+  },
+  {
+    "mutation_rate": 9.299,
+    "invalidation_rate": 6.487,
+    "cache_miss_rate": 5.229,
+    "backend_cpu_load": 4.251
+  },
+  {
+    "mutation_rate": 13.18,
+    "invalidation_rate": 8.982,
+    "cache_miss_rate": 6.562,
+    "backend_cpu_load": 5.297
+  },
+  {
+    "mutation_rate": 9.701,
+    "invalidation_rate": 7.125,
+    "cache_miss_rate": 5.374,
+    "backend_cpu_load": 4.34
+  },
+  {
+    "mutation_rate": 12.274,
+    "invalidation_rate": 8.735,
+    "cache_miss_rate": 6.513,
+    "backend_cpu_load": 5.019
+  },
+  {
+    "mutation_rate": 9.856,
+    "invalidation_rate": 7.258,
+    "cache_miss_rate": 5.475,
+    "backend_cpu_load": 4.208
+  },
+  {
+    "mutation_rate": 7.028,
+    "invalidation_rate": 4.846,
+    "cache_miss_rate": 3.608,
+    "backend_cpu_load": 2.918
+  },
+  {
+    "mutation_rate": 10.435,
+    "invalidation_rate": 7.381,
+    "cache_miss_rate": 5.65,
+    "backend_cpu_load": 4.851
+  },
+  {
+    "mutation_rate": 13.309,
+    "invalidation_rate": 9.302,
+    "cache_miss_rate": 6.996,
+    "backend_cpu_load": 5.379
+  },
+  {
+    "mutation_rate": 9.139,
+    "invalidation_rate": 6.786,
+    "cache_miss_rate": 5.108,
+    "backend_cpu_load": 3.507
+  },
+  {
+    "mutation_rate": 9.137,
+    "invalidation_rate": 6.266,
+    "cache_miss_rate": 4.991,
+    "backend_cpu_load": 4.039
+  },
+  {
+    "mutation_rate": 8.244,
+    "invalidation_rate": 5.61,
+    "cache_miss_rate": 4.247,
+    "backend_cpu_load": 3.204
+  },
+  {
+    "mutation_rate": 6.853,
+    "invalidation_rate": 4.854,
+    "cache_miss_rate": 3.508,
+    "backend_cpu_load": 2.624
+  },
+  {
+    "mutation_rate": 10.885,
+    "invalidation_rate": 7.749,
+    "cache_miss_rate": 5.749,
+    "backend_cpu_load": 4.628
+  },
+  {
+    "mutation_rate": 7.223,
+    "invalidation_rate": 5.116,
+    "cache_miss_rate": 3.613,
+    "backend_cpu_load": 2.948
+  },
+  {
+    "mutation_rate": 11.499,
+    "invalidation_rate": 7.863,
+    "cache_miss_rate": 5.613,
+    "backend_cpu_load": 4.273
+  },
+  {
+    "mutation_rate": 9.896,
+    "invalidation_rate": 6.619,
+    "cache_miss_rate": 4.861,
+    "backend_cpu_load": 3.756
+  },
+  {
+    "mutation_rate": 10.631,
+    "invalidation_rate": 7.302,
+    "cache_miss_rate": 5.112,
+    "backend_cpu_load": 4.386
+  },
+  {
+    "mutation_rate": 6.354,
+    "invalidation_rate": 4.293,
+    "cache_miss_rate": 3.082,
+    "backend_cpu_load": 2.504
+  },
+  {
+    "mutation_rate": 10.065,
+    "invalidation_rate": 6.834,
+    "cache_miss_rate": 5.103,
+    "backend_cpu_load": 3.996
+  },
+  {
+    "mutation_rate": 10.459,
+    "invalidation_rate": 6.962,
+    "cache_miss_rate": 5.334,
+    "backend_cpu_load": 4.431
+  },
+  {
+    "mutation_rate": 8.802,
+    "invalidation_rate": 5.994,
+    "cache_miss_rate": 4.535,
+    "backend_cpu_load": 3.697
+  },
+  {
+    "mutation_rate": 10.101,
+    "invalidation_rate": 7.171,
+    "cache_miss_rate": 5.049,
+    "backend_cpu_load": 4.486
+  },
+  {
+    "mutation_rate": 11.411,
+    "invalidation_rate": 7.827,
+    "cache_miss_rate": 5.971,
+    "backend_cpu_load": 4.525
+  },
+  {
+    "mutation_rate": 9.415,
+    "invalidation_rate": 6.451,
+    "cache_miss_rate": 4.963,
+    "backend_cpu_load": 4.351
+  },
+  {
+    "mutation_rate": 8.982,
+    "invalidation_rate": 6.209,
+    "cache_miss_rate": 4.622,
+    "backend_cpu_load": 3.608
+  },
+  {
+    "mutation_rate": 10.537,
+    "invalidation_rate": 7.272,
+    "cache_miss_rate": 5.581,
+    "backend_cpu_load": 4.597
+  },
+  {
+    "mutation_rate": 7.51,
+    "invalidation_rate": 5.499,
+    "cache_miss_rate": 4.171,
+    "backend_cpu_load": 3.592
+  },
+  {
+    "mutation_rate": 10.926,
+    "invalidation_rate": 7.61,
+    "cache_miss_rate": 5.58,
+    "backend_cpu_load": 4.388
+  },
+  {
+    "mutation_rate": 9.837,
+    "invalidation_rate": 7.231,
+    "cache_miss_rate": 5.432,
+    "backend_cpu_load": 4.33
+  },
+  {
+    "mutation_rate": 11.821,
+    "invalidation_rate": 8.281,
+    "cache_miss_rate": 6.194,
+    "backend_cpu_load": 4.678
+  },
+  {
+    "mutation_rate": 5.862,
+    "invalidation_rate": 3.948,
+    "cache_miss_rate": 3.244,
+    "backend_cpu_load": 2.472
+  },
+  {
+    "mutation_rate": 12.289,
+    "invalidation_rate": 8.616,
+    "cache_miss_rate": 6.735,
+    "backend_cpu_load": 5.306
+  },
+  {
+    "mutation_rate": 10.271,
+    "invalidation_rate": 7.069,
+    "cache_miss_rate": 5.478,
+    "backend_cpu_load": 4.222
+  },
+  {
+    "mutation_rate": 7.816,
+    "invalidation_rate": 5.919,
+    "cache_miss_rate": 4.484,
+    "backend_cpu_load": 3.504
+  },
+  {
+    "mutation_rate": 7.871,
+    "invalidation_rate": 5.686,
+    "cache_miss_rate": 3.933,
+    "backend_cpu_load": 3.505
+  },
+  {
+    "mutation_rate": 11.802,
+    "invalidation_rate": 8.675,
+    "cache_miss_rate": 6.649,
+    "backend_cpu_load": 5.9
+  },
+  {
+    "mutation_rate": 12.066,
+    "invalidation_rate": 8.621,
+    "cache_miss_rate": 6.266,
+    "backend_cpu_load": 5.136
+  },
+  {
+    "mutation_rate": 10.968,
+    "invalidation_rate": 7.631,
+    "cache_miss_rate": 5.777,
+    "backend_cpu_load": 4.643
+  },
+  {
+    "mutation_rate": 7.138,
+    "invalidation_rate": 4.995,
+    "cache_miss_rate": 3.632,
+    "backend_cpu_load": 2.786
+  },
+  {
+    "mutation_rate": 12.372,
+    "invalidation_rate": 9.247,
+    "cache_miss_rate": 7.137,
+    "backend_cpu_load": 5.523
+  },
+  {
+    "mutation_rate": 10.012,
+    "invalidation_rate": 7.12,
+    "cache_miss_rate": 5.178,
+    "backend_cpu_load": 4.129
+  },
+  {
+    "mutation_rate": 10.759,
+    "invalidation_rate": 8.064,
+    "cache_miss_rate": 6.05,
+    "backend_cpu_load": 4.605
+  },
+  {
+    "mutation_rate": 11.922,
+    "invalidation_rate": 8.41,
+    "cache_miss_rate": 6.072,
+    "backend_cpu_load": 5.062
+  },
+  {
+    "mutation_rate": 9.777,
+    "invalidation_rate": 6.846,
+    "cache_miss_rate": 5.153,
+    "backend_cpu_load": 4.359
+  },
+  {
+    "mutation_rate": 11.755,
+    "invalidation_rate": 8.291,
+    "cache_miss_rate": 6.022,
+    "backend_cpu_load": 4.865
+  },
+  {
+    "mutation_rate": 9.875,
+    "invalidation_rate": 7.146,
+    "cache_miss_rate": 5.206,
+    "backend_cpu_load": 4.163
+  },
+  {
+    "mutation_rate": 10.559,
+    "invalidation_rate": 7.533,
+    "cache_miss_rate": 5.977,
+    "backend_cpu_load": 4.748
+  },
+  {
+    "mutation_rate": 10.205,
+    "invalidation_rate": 7.042,
+    "cache_miss_rate": 5.335,
+    "backend_cpu_load": 4.169
+  },
+  {
+    "mutation_rate": 11.082,
+    "invalidation_rate": 7.855,
+    "cache_miss_rate": 5.916,
+    "backend_cpu_load": 4.205
+  },
+  {
+    "mutation_rate": 6.931,
+    "invalidation_rate": 4.894,
+    "cache_miss_rate": 3.741,
+    "backend_cpu_load": 3.395
+  },
+  {
+    "mutation_rate": 10.856,
+    "invalidation_rate": 7.234,
+    "cache_miss_rate": 5.379,
+    "backend_cpu_load": 4.37
+  },
+  {
+    "mutation_rate": 10.513,
+    "invalidation_rate": 7.532,
+    "cache_miss_rate": 5.685,
+    "backend_cpu_load": 4.697
+  },
+  {
+    "mutation_rate": 8.913,
+    "invalidation_rate": 6.012,
+    "cache_miss_rate": 4.299,
+    "backend_cpu_load": 3.213
+  },
+  {
+    "mutation_rate": 9.209,
+    "invalidation_rate": 6.679,
+    "cache_miss_rate": 4.711,
+    "backend_cpu_load": 3.774
+  },
+  {
+    "mutation_rate": 7.727,
+    "invalidation_rate": 5.614,
+    "cache_miss_rate": 4.141,
+    "backend_cpu_load": 3.589
+  },
+  {
+    "mutation_rate": 8.979,
+    "invalidation_rate": 6.298,
+    "cache_miss_rate": 4.898,
+    "backend_cpu_load": 3.934
+  },
+  {
+    "mutation_rate": 8.862,
+    "invalidation_rate": 6.578,
+    "cache_miss_rate": 4.861,
+    "backend_cpu_load": 4.434
+  },
+  {
+    "mutation_rate": 11.991,
+    "invalidation_rate": 8.296,
+    "cache_miss_rate": 6.121,
+    "backend_cpu_load": 4.562
+  },
+  {
+    "mutation_rate": 11.418,
+    "invalidation_rate": 7.977,
+    "cache_miss_rate": 5.933,
+    "backend_cpu_load": 4.652
+  },
+  {
+    "mutation_rate": 11.572,
+    "invalidation_rate": 7.984,
+    "cache_miss_rate": 6.193,
+    "backend_cpu_load": 4.975
+  },
+  {
+    "mutation_rate": 7.419,
+    "invalidation_rate": 4.871,
+    "cache_miss_rate": 3.734,
+    "backend_cpu_load": 2.839
+  },
+  {
+    "mutation_rate": 7.969,
+    "invalidation_rate": 5.669,
+    "cache_miss_rate": 4.703,
+    "backend_cpu_load": 3.662
+  },
+  {
+    "mutation_rate": 12.383,
+    "invalidation_rate": 8.566,
+    "cache_miss_rate": 6.452,
+    "backend_cpu_load": 5.159
+  },
+  {
+    "mutation_rate": 8.698,
+    "invalidation_rate": 6.33,
+    "cache_miss_rate": 4.825,
+    "backend_cpu_load": 3.856
+  },
+  {
+    "mutation_rate": 13.077,
+    "invalidation_rate": 9.111,
+    "cache_miss_rate": 6.69,
+    "backend_cpu_load": 5.343
+  },
+  {
+    "mutation_rate": 9.483,
+    "invalidation_rate": 6.47,
+    "cache_miss_rate": 4.548,
+    "backend_cpu_load": 3.544
+  },
+  {
+    "mutation_rate": 9.239,
+    "invalidation_rate": 6.763,
+    "cache_miss_rate": 4.776,
+    "backend_cpu_load": 3.91
+  },
+  {
+    "mutation_rate": 9.542,
+    "invalidation_rate": 6.555,
+    "cache_miss_rate": 4.924,
+    "backend_cpu_load": 3.831
+  },
+  {
+    "mutation_rate": 9.823,
+    "invalidation_rate": 6.822,
+    "cache_miss_rate": 5.196,
+    "backend_cpu_load": 4.556
+  },
+  {
+    "mutation_rate": 7.226,
+    "invalidation_rate": 4.951,
+    "cache_miss_rate": 3.771,
+    "backend_cpu_load": 3.226
+  },
+  {
+    "mutation_rate": 7.977,
+    "invalidation_rate": 5.773,
+    "cache_miss_rate": 4.437,
+    "backend_cpu_load": 3.46
+  },
+  {
+    "mutation_rate": 10.278,
+    "invalidation_rate": 7.018,
+    "cache_miss_rate": 5.429,
+    "backend_cpu_load": 4.381
+  },
+  {
+    "mutation_rate": 13.319,
+    "invalidation_rate": 9.545,
+    "cache_miss_rate": 7.442,
+    "backend_cpu_load": 5.75
+  },
+  {
+    "mutation_rate": 10.345,
+    "invalidation_rate": 7.185,
+    "cache_miss_rate": 5.442,
+    "backend_cpu_load": 4.397
+  },
+  {
+    "mutation_rate": 10.295,
+    "invalidation_rate": 7.324,
+    "cache_miss_rate": 5.507,
+    "backend_cpu_load": 4.337
+  },
+  {
+    "mutation_rate": 7.37,
+    "invalidation_rate": 5.413,
+    "cache_miss_rate": 3.738,
+    "backend_cpu_load": 3.486
+  },
+  {
+    "mutation_rate": 11.664,
+    "invalidation_rate": 8.362,
+    "cache_miss_rate": 6.145,
+    "backend_cpu_load": 4.921
+  },
+  {
+    "mutation_rate": 8.102,
+    "invalidation_rate": 5.894,
+    "cache_miss_rate": 4.432,
+    "backend_cpu_load": 3.709
+  },
+  {
+    "mutation_rate": 12.11,
+    "invalidation_rate": 8.077,
+    "cache_miss_rate": 6.106,
+    "backend_cpu_load": 4.75
+  },
+  {
+    "mutation_rate": 9.661,
+    "invalidation_rate": 6.895,
+    "cache_miss_rate": 4.96,
+    "backend_cpu_load": 3.894
+  },
+  {
+    "mutation_rate": 9.294,
+    "invalidation_rate": 6.846,
+    "cache_miss_rate": 5.08,
+    "backend_cpu_load": 3.823
+  },
+  {
+    "mutation_rate": 8.37,
+    "invalidation_rate": 5.546,
+    "cache_miss_rate": 3.989,
+    "backend_cpu_load": 3.224
+  },
+  {
+    "mutation_rate": 10.635,
+    "invalidation_rate": 7.497,
+    "cache_miss_rate": 5.381,
+    "backend_cpu_load": 4.169
+  },
+  {
+    "mutation_rate": 8.542,
+    "invalidation_rate": 5.896,
+    "cache_miss_rate": 4.453,
+    "backend_cpu_load": 3.182
+  },
+  {
+    "mutation_rate": 10.663,
+    "invalidation_rate": 7.382,
+    "cache_miss_rate": 5.649,
+    "backend_cpu_load": 4.649
+  },
+  {
+    "mutation_rate": 11.076,
+    "invalidation_rate": 7.704,
+    "cache_miss_rate": 5.454,
+    "backend_cpu_load": 4.424
+  },
+  {
+    "mutation_rate": 9.071,
+    "invalidation_rate": 6.052,
+    "cache_miss_rate": 4.49,
+    "backend_cpu_load": 3.554
+  },
+  {
+    "mutation_rate": 8.983,
+    "invalidation_rate": 6.33,
+    "cache_miss_rate": 4.409,
+    "backend_cpu_load": 3.437
+  },
+  {
+    "mutation_rate": 7.534,
+    "invalidation_rate": 5.422,
+    "cache_miss_rate": 4.129,
+    "backend_cpu_load": 3.485
+  },
+  {
+    "mutation_rate": 10.352,
+    "invalidation_rate": 7.509,
+    "cache_miss_rate": 5.633,
+    "backend_cpu_load": 4.401
+  },
+  {
+    "mutation_rate": 10.175,
+    "invalidation_rate": 7.465,
+    "cache_miss_rate": 5.727,
+    "backend_cpu_load": 4.729
+  },
+  {
+    "mutation_rate": 10.437,
+    "invalidation_rate": 7.464,
+    "cache_miss_rate": 5.624,
+    "backend_cpu_load": 4.888
+  },
+  {
+    "mutation_rate": 11.053,
+    "invalidation_rate": 7.537,
+    "cache_miss_rate": 5.623,
+    "backend_cpu_load": 4.61
+  },
+  {
+    "mutation_rate": 9.822,
+    "invalidation_rate": 6.982,
+    "cache_miss_rate": 5.133,
+    "backend_cpu_load": 4.306
+  },
+  {
+    "mutation_rate": 10.566,
+    "invalidation_rate": 7.509,
+    "cache_miss_rate": 5.539,
+    "backend_cpu_load": 4.59
+  },
+  {
+    "mutation_rate": 6.883,
+    "invalidation_rate": 4.43,
+    "cache_miss_rate": 3.574,
+    "backend_cpu_load": 2.791
+  },
+  {
+    "mutation_rate": 13.093,
+    "invalidation_rate": 9.345,
+    "cache_miss_rate": 7.223,
+    "backend_cpu_load": 5.783
+  },
+  {
+    "mutation_rate": 9.573,
+    "invalidation_rate": 6.769,
+    "cache_miss_rate": 4.864,
+    "backend_cpu_load": 4.012
+  },
+  {
+    "mutation_rate": 9.627,
+    "invalidation_rate": 6.683,
+    "cache_miss_rate": 5.033,
+    "backend_cpu_load": 4.171
+  },
+  {
+    "mutation_rate": 9.125,
+    "invalidation_rate": 6.003,
+    "cache_miss_rate": 4.369,
+    "backend_cpu_load": 3.418
+  },
+  {
+    "mutation_rate": 9.649,
+    "invalidation_rate": 6.49,
+    "cache_miss_rate": 5.118,
+    "backend_cpu_load": 4.377
+  },
+  {
+    "mutation_rate": 7.229,
+    "invalidation_rate": 5.021,
+    "cache_miss_rate": 3.829,
+    "backend_cpu_load": 2.937
+  },
+  {
+    "mutation_rate": 8.612,
+    "invalidation_rate": 6.328,
+    "cache_miss_rate": 4.565,
+    "backend_cpu_load": 4.134
+  },
+  {
+    "mutation_rate": 6.302,
+    "invalidation_rate": 4.647,
+    "cache_miss_rate": 3.326,
+    "backend_cpu_load": 2.667
+  },
+  {
+    "mutation_rate": 11.323,
+    "invalidation_rate": 7.944,
+    "cache_miss_rate": 6.089,
+    "backend_cpu_load": 4.744
+  },
+  {
+    "mutation_rate": 13.989,
+    "invalidation_rate": 9.666,
+    "cache_miss_rate": 7.368,
+    "backend_cpu_load": 6.198
+  },
+  {
+    "mutation_rate": 11.974,
+    "invalidation_rate": 8.708,
+    "cache_miss_rate": 6.554,
+    "backend_cpu_load": 5.237
+  },
+  {
+    "mutation_rate": 13.344,
+    "invalidation_rate": 9.438,
+    "cache_miss_rate": 6.655,
+    "backend_cpu_load": 5.055
+  },
+  {
+    "mutation_rate": 10.013,
+    "invalidation_rate": 7.485,
+    "cache_miss_rate": 5.732,
+    "backend_cpu_load": 4.551
+  },
+  {
+    "mutation_rate": 6.784,
+    "invalidation_rate": 4.495,
+    "cache_miss_rate": 3.173,
+    "backend_cpu_load": 2.428
+  },
+  {
+    "mutation_rate": 8.121,
+    "invalidation_rate": 5.63,
+    "cache_miss_rate": 4.447,
+    "backend_cpu_load": 3.379
+  },
+  {
+    "mutation_rate": 10.316,
+    "invalidation_rate": 6.888,
+    "cache_miss_rate": 4.937,
+    "backend_cpu_load": 4.085
+  },
+  {
+    "mutation_rate": 9.379,
+    "invalidation_rate": 6.404,
+    "cache_miss_rate": 5.012,
+    "backend_cpu_load": 4.115
+  },
+  {
+    "mutation_rate": 9.678,
+    "invalidation_rate": 7.09,
+    "cache_miss_rate": 5.155,
+    "backend_cpu_load": 3.951
+  },
+  {
+    "mutation_rate": 7.85,
+    "invalidation_rate": 5.309,
+    "cache_miss_rate": 3.983,
+    "backend_cpu_load": 2.965
+  },
+  {
+    "mutation_rate": 9.479,
+    "invalidation_rate": 6.349,
+    "cache_miss_rate": 4.787,
+    "backend_cpu_load": 3.745
+  },
+  {
+    "mutation_rate": 9.221,
+    "invalidation_rate": 6.763,
+    "cache_miss_rate": 5.141,
+    "backend_cpu_load": 4.283
+  },
+  {
+    "mutation_rate": 7.572,
+    "invalidation_rate": 5.241,
+    "cache_miss_rate": 4.391,
+    "backend_cpu_load": 3.603
+  },
+  {
+    "mutation_rate": 11.555,
+    "invalidation_rate": 8.269,
+    "cache_miss_rate": 6.238,
+    "backend_cpu_load": 4.808
+  },
+  {
+    "mutation_rate": 8.891,
+    "invalidation_rate": 6.102,
+    "cache_miss_rate": 4.46,
+    "backend_cpu_load": 3.58
+  },
+  {
+    "mutation_rate": 8.213,
+    "invalidation_rate": 5.929,
+    "cache_miss_rate": 4.426,
+    "backend_cpu_load": 3.737
+  },
+  {
+    "mutation_rate": 11.309,
+    "invalidation_rate": 7.989,
+    "cache_miss_rate": 6.204,
+    "backend_cpu_load": 5.294
+  },
+  {
+    "mutation_rate": 10.971,
+    "invalidation_rate": 7.489,
+    "cache_miss_rate": 6.029,
+    "backend_cpu_load": 4.54
+  },
+  {
+    "mutation_rate": 11.303,
+    "invalidation_rate": 8.043,
+    "cache_miss_rate": 6.257,
+    "backend_cpu_load": 5.149
+  },
+  {
+    "mutation_rate": 5.941,
+    "invalidation_rate": 4.198,
+    "cache_miss_rate": 3.103,
+    "backend_cpu_load": 2.503
+  },
+  {
+    "mutation_rate": 7.965,
+    "invalidation_rate": 5.601,
+    "cache_miss_rate": 3.969,
+    "backend_cpu_load": 2.975
+  },
+  {
+    "mutation_rate": 10.879,
+    "invalidation_rate": 7.463,
+    "cache_miss_rate": 5.764,
+    "backend_cpu_load": 4.537
+  },
+  {
+    "mutation_rate": 11.12,
+    "invalidation_rate": 7.392,
+    "cache_miss_rate": 5.422,
+    "backend_cpu_load": 3.705
+  },
+  {
+    "mutation_rate": 10.708,
+    "invalidation_rate": 7.734,
+    "cache_miss_rate": 5.693,
+    "backend_cpu_load": 4.435
+  },
+  {
+    "mutation_rate": 9.3,
+    "invalidation_rate": 6.803,
+    "cache_miss_rate": 5.226,
+    "backend_cpu_load": 4.099
+  },
+  {
+    "mutation_rate": 9.915,
+    "invalidation_rate": 6.958,
+    "cache_miss_rate": 5.024,
+    "backend_cpu_load": 4.28
+  },
+  {
+    "mutation_rate": 7.719,
+    "invalidation_rate": 5.05,
+    "cache_miss_rate": 3.719,
+    "backend_cpu_load": 3.051
+  },
+  {
+    "mutation_rate": 9.146,
+    "invalidation_rate": 6.406,
+    "cache_miss_rate": 4.841,
+    "backend_cpu_load": 3.754
+  },
+  {
+    "mutation_rate": 9.271,
+    "invalidation_rate": 6.376,
+    "cache_miss_rate": 4.894,
+    "backend_cpu_load": 3.65
+  },
+  {
+    "mutation_rate": 11.595,
+    "invalidation_rate": 8.108,
+    "cache_miss_rate": 6.035,
+    "backend_cpu_load": 4.771
+  },
+  {
+    "mutation_rate": 10.584,
+    "invalidation_rate": 7.368,
+    "cache_miss_rate": 5.633,
+    "backend_cpu_load": 4.34
+  },
+  {
+    "mutation_rate": 9.481,
+    "invalidation_rate": 6.56,
+    "cache_miss_rate": 4.562,
+    "backend_cpu_load": 3.71
+  },
+  {
+    "mutation_rate": 12.311,
+    "invalidation_rate": 8.694,
+    "cache_miss_rate": 6.607,
+    "backend_cpu_load": 5.63
+  },
+  {
+    "mutation_rate": 10.811,
+    "invalidation_rate": 8.306,
+    "cache_miss_rate": 6.068,
+    "backend_cpu_load": 5.167
+  },
+  {
+    "mutation_rate": 9.314,
+    "invalidation_rate": 6.437,
+    "cache_miss_rate": 4.76,
+    "backend_cpu_load": 3.893
+  },
+  {
+    "mutation_rate": 11.865,
+    "invalidation_rate": 8.374,
+    "cache_miss_rate": 6.443,
+    "backend_cpu_load": 5.048
+  },
+  {
+    "mutation_rate": 10.678,
+    "invalidation_rate": 7.254,
+    "cache_miss_rate": 5.45,
+    "backend_cpu_load": 4.441
+  },
+  {
+    "mutation_rate": 11.711,
+    "invalidation_rate": 8.065,
+    "cache_miss_rate": 5.802,
+    "backend_cpu_load": 4.666
+  },
+  {
+    "mutation_rate": 12.443,
+    "invalidation_rate": 8.704,
+    "cache_miss_rate": 6.532,
+    "backend_cpu_load": 5.58
+  },
+  {
+    "mutation_rate": 7.934,
+    "invalidation_rate": 5.738,
+    "cache_miss_rate": 4.107,
+    "backend_cpu_load": 3.604
+  },
+  {
+    "mutation_rate": 7.536,
+    "invalidation_rate": 5.205,
+    "cache_miss_rate": 3.852,
+    "backend_cpu_load": 3.049
+  },
+  {
+    "mutation_rate": 11.44,
+    "invalidation_rate": 7.965,
+    "cache_miss_rate": 6.124,
+    "backend_cpu_load": 4.965
+  },
+  {
+    "mutation_rate": 12.058,
+    "invalidation_rate": 8.429,
+    "cache_miss_rate": 6.255,
+    "backend_cpu_load": 5.103
+  },
+  {
+    "mutation_rate": 8.223,
+    "invalidation_rate": 5.684,
+    "cache_miss_rate": 4.201,
+    "backend_cpu_load": 3.52
+  },
+  {
+    "mutation_rate": 11.957,
+    "invalidation_rate": 8.258,
+    "cache_miss_rate": 5.917,
+    "backend_cpu_load": 4.146
+  },
+  {
+    "mutation_rate": 8.383,
+    "invalidation_rate": 5.829,
+    "cache_miss_rate": 4.311,
+    "backend_cpu_load": 3.858
+  },
+  {
+    "mutation_rate": 13.111,
+    "invalidation_rate": 9.219,
+    "cache_miss_rate": 6.718,
+    "backend_cpu_load": 5.438
+  },
+  {
+    "mutation_rate": 8.51,
+    "invalidation_rate": 5.953,
+    "cache_miss_rate": 4.54,
+    "backend_cpu_load": 3.915
+  },
+  {
+    "mutation_rate": 9.428,
+    "invalidation_rate": 6.505,
+    "cache_miss_rate": 4.887,
+    "backend_cpu_load": 4.072
+  },
+  {
+    "mutation_rate": 12.206,
+    "invalidation_rate": 8.739,
+    "cache_miss_rate": 6.649,
+    "backend_cpu_load": 5.427
+  },
+  {
+    "mutation_rate": 14.032,
+    "invalidation_rate": 9.591,
+    "cache_miss_rate": 7.454,
+    "backend_cpu_load": 6.159
+  },
+  {
+    "mutation_rate": 10.566,
+    "invalidation_rate": 7.15,
+    "cache_miss_rate": 5.223,
+    "backend_cpu_load": 4.286
+  },
+  {
+    "mutation_rate": 7.488,
+    "invalidation_rate": 5.275,
+    "cache_miss_rate": 3.985,
+    "backend_cpu_load": 2.953
+  },
+  {
+    "mutation_rate": 14.988,
+    "invalidation_rate": 10.407,
+    "cache_miss_rate": 7.965,
+    "backend_cpu_load": 6.33
+  },
+  {
+    "mutation_rate": 10.559,
+    "invalidation_rate": 7.157,
+    "cache_miss_rate": 5.514,
+    "backend_cpu_load": 4.453
+  },
+  {
+    "mutation_rate": 7.217,
+    "invalidation_rate": 4.977,
+    "cache_miss_rate": 3.712,
+    "backend_cpu_load": 2.837
+  },
+  {
+    "mutation_rate": 6.978,
+    "invalidation_rate": 4.61,
+    "cache_miss_rate": 3.453,
+    "backend_cpu_load": 2.865
+  },
+  {
+    "mutation_rate": 10.338,
+    "invalidation_rate": 7.276,
+    "cache_miss_rate": 5.33,
+    "backend_cpu_load": 4.448
+  },
+  {
+    "mutation_rate": 8.771,
+    "invalidation_rate": 5.986,
+    "cache_miss_rate": 4.812,
+    "backend_cpu_load": 3.869
+  },
+  {
+    "mutation_rate": 9.68,
+    "invalidation_rate": 6.546,
+    "cache_miss_rate": 4.726,
+    "backend_cpu_load": 3.584
+  },
+  {
+    "mutation_rate": 4.764,
+    "invalidation_rate": 3.423,
+    "cache_miss_rate": 2.62,
+    "backend_cpu_load": 1.88
+  },
+  {
+    "mutation_rate": 13.339,
+    "invalidation_rate": 9.1,
+    "cache_miss_rate": 6.897,
+    "backend_cpu_load": 5.58
+  },
+  {
+    "mutation_rate": 9.765,
+    "invalidation_rate": 6.977,
+    "cache_miss_rate": 5.485,
+    "backend_cpu_load": 4.493
+  },
+  {
+    "mutation_rate": 9.899,
+    "invalidation_rate": 6.76,
+    "cache_miss_rate": 5.081,
+    "backend_cpu_load": 4.609
+  },
+  {
+    "mutation_rate": 7.215,
+    "invalidation_rate": 5.314,
+    "cache_miss_rate": 3.862,
+    "backend_cpu_load": 3.004
+  },
+  {
+    "mutation_rate": 8.95,
+    "invalidation_rate": 6.365,
+    "cache_miss_rate": 4.813,
+    "backend_cpu_load": 3.62
+  },
+  {
+    "mutation_rate": 4.17,
+    "invalidation_rate": 2.819,
+    "cache_miss_rate": 2.256,
+    "backend_cpu_load": 2.004
+  },
+  {
+    "mutation_rate": 11.116,
+    "invalidation_rate": 7.756,
+    "cache_miss_rate": 5.938,
+    "backend_cpu_load": 4.812
+  },
+  {
+    "mutation_rate": 8.389,
+    "invalidation_rate": 5.961,
+    "cache_miss_rate": 4.371,
+    "backend_cpu_load": 3.773
+  },
+  {
+    "mutation_rate": 9.444,
+    "invalidation_rate": 6.217,
+    "cache_miss_rate": 4.998,
+    "backend_cpu_load": 4.11
+  },
+  {
+    "mutation_rate": 8.7,
+    "invalidation_rate": 6.236,
+    "cache_miss_rate": 5.024,
+    "backend_cpu_load": 4.089
+  },
+  {
+    "mutation_rate": 9.413,
+    "invalidation_rate": 6.713,
+    "cache_miss_rate": 5.381,
+    "backend_cpu_load": 4.267
+  },
+  {
+    "mutation_rate": 12.538,
+    "invalidation_rate": 8.359,
+    "cache_miss_rate": 5.848,
+    "backend_cpu_load": 4.915
+  },
+  {
+    "mutation_rate": 12.102,
+    "invalidation_rate": 8.617,
+    "cache_miss_rate": 6.365,
+    "backend_cpu_load": 5.27
+  },
+  {
+    "mutation_rate": 8.829,
+    "invalidation_rate": 6.326,
+    "cache_miss_rate": 4.284,
+    "backend_cpu_load": 3.533
+  },
+  {
+    "mutation_rate": 12.486,
+    "invalidation_rate": 8.91,
+    "cache_miss_rate": 6.525,
+    "backend_cpu_load": 5.449
+  },
+  {
+    "mutation_rate": 11.892,
+    "invalidation_rate": 8.62,
+    "cache_miss_rate": 6.379,
+    "backend_cpu_load": 5.359
+  },
+  {
+    "mutation_rate": 12.48,
+    "invalidation_rate": 9.186,
+    "cache_miss_rate": 7.238,
+    "backend_cpu_load": 5.948
+  },
+  {
+    "mutation_rate": 9.69,
+    "invalidation_rate": 6.937,
+    "cache_miss_rate": 5.25,
+    "backend_cpu_load": 4.48
+  },
+  {
+    "mutation_rate": 12.832,
+    "invalidation_rate": 9.344,
+    "cache_miss_rate": 7.081,
+    "backend_cpu_load": 5.603
+  },
+  {
+    "mutation_rate": 11.988,
+    "invalidation_rate": 8.499,
+    "cache_miss_rate": 5.863,
+    "backend_cpu_load": 4.824
+  },
+  {
+    "mutation_rate": 12.229,
+    "invalidation_rate": 8.629,
+    "cache_miss_rate": 6.658,
+    "backend_cpu_load": 5.708
+  },
+  {
+    "mutation_rate": 7.199,
+    "invalidation_rate": 5.182,
+    "cache_miss_rate": 4.018,
+    "backend_cpu_load": 3.079
+  },
+  {
+    "mutation_rate": 10.969,
+    "invalidation_rate": 7.707,
+    "cache_miss_rate": 5.619,
+    "backend_cpu_load": 4.732
+  },
+  {
+    "mutation_rate": 11.031,
+    "invalidation_rate": 7.676,
+    "cache_miss_rate": 5.584,
+    "backend_cpu_load": 4.898
+  },
+  {
+    "mutation_rate": 8.48,
+    "invalidation_rate": 6.096,
+    "cache_miss_rate": 4.851,
+    "backend_cpu_load": 4.157
+  },
+  {
+    "mutation_rate": 10.707,
+    "invalidation_rate": 7.652,
+    "cache_miss_rate": 5.715,
+    "backend_cpu_load": 4.568
+  },
+  {
+    "mutation_rate": 11.017,
+    "invalidation_rate": 7.656,
+    "cache_miss_rate": 5.612,
+    "backend_cpu_load": 4.554
+  },
+  {
+    "mutation_rate": 10.427,
+    "invalidation_rate": 7.539,
+    "cache_miss_rate": 5.66,
+    "backend_cpu_load": 4.848
+  },
+  {
+    "mutation_rate": 7.069,
+    "invalidation_rate": 5.145,
+    "cache_miss_rate": 4.215,
+    "backend_cpu_load": 3.177
+  },
+  {
+    "mutation_rate": 10.166,
+    "invalidation_rate": 7.034,
+    "cache_miss_rate": 5.337,
+    "backend_cpu_load": 4.584
+  },
+  {
+    "mutation_rate": 9.619,
+    "invalidation_rate": 6.68,
+    "cache_miss_rate": 4.928,
+    "backend_cpu_load": 3.857
+  },
+  {
+    "mutation_rate": 10.978,
+    "invalidation_rate": 7.691,
+    "cache_miss_rate": 6.173,
+    "backend_cpu_load": 5.289
+  },
+  {
+    "mutation_rate": 10.806,
+    "invalidation_rate": 7.502,
+    "cache_miss_rate": 5.471,
+    "backend_cpu_load": 4.367
+  },
+  {
+    "mutation_rate": 10.994,
+    "invalidation_rate": 7.7,
+    "cache_miss_rate": 5.74,
+    "backend_cpu_load": 4.658
+  },
+  {
+    "mutation_rate": 10.379,
+    "invalidation_rate": 7.188,
+    "cache_miss_rate": 5.762,
+    "backend_cpu_load": 4.548
+  },
+  {
+    "mutation_rate": 9.336,
+    "invalidation_rate": 6.375,
+    "cache_miss_rate": 5.059,
+    "backend_cpu_load": 3.748
+  },
+  {
+    "mutation_rate": 7.327,
+    "invalidation_rate": 5.379,
+    "cache_miss_rate": 3.884,
+    "backend_cpu_load": 2.861
+  },
+  {
+    "mutation_rate": 10.442,
+    "invalidation_rate": 7.324,
+    "cache_miss_rate": 5.462,
+    "backend_cpu_load": 4.451
+  },
+  {
+    "mutation_rate": 8.633,
+    "invalidation_rate": 5.958,
+    "cache_miss_rate": 4.668,
+    "backend_cpu_load": 3.347
+  },
+  {
+    "mutation_rate": 11.739,
+    "invalidation_rate": 8.421,
+    "cache_miss_rate": 6.474,
+    "backend_cpu_load": 5.145
+  },
+  {
+    "mutation_rate": 10.646,
+    "invalidation_rate": 7.29,
+    "cache_miss_rate": 5.4,
+    "backend_cpu_load": 4.286
+  },
+  {
+    "mutation_rate": 11.484,
+    "invalidation_rate": 8.003,
+    "cache_miss_rate": 5.89,
+    "backend_cpu_load": 4.992
+  },
+  {
+    "mutation_rate": 9.903,
+    "invalidation_rate": 6.969,
+    "cache_miss_rate": 5.22,
+    "backend_cpu_load": 3.989
+  },
+  {
+    "mutation_rate": 11.313,
+    "invalidation_rate": 8.036,
+    "cache_miss_rate": 5.919,
+    "backend_cpu_load": 4.707
+  },
+  {
+    "mutation_rate": 8.951,
+    "invalidation_rate": 6.247,
+    "cache_miss_rate": 4.978,
+    "backend_cpu_load": 3.871
+  },
+  {
+    "mutation_rate": 8.585,
+    "invalidation_rate": 6.318,
+    "cache_miss_rate": 4.59,
+    "backend_cpu_load": 3.629
+  },
+  {
+    "mutation_rate": 12.506,
+    "invalidation_rate": 8.643,
+    "cache_miss_rate": 6.394,
+    "backend_cpu_load": 5.045
+  },
+  {
+    "mutation_rate": 8.142,
+    "invalidation_rate": 5.571,
+    "cache_miss_rate": 4.22,
+    "backend_cpu_load": 3.312
+  },
+  {
+    "mutation_rate": 10.021,
+    "invalidation_rate": 7.257,
+    "cache_miss_rate": 5.33,
+    "backend_cpu_load": 4.116
+  },
+  {
+    "mutation_rate": 8.041,
+    "invalidation_rate": 5.602,
+    "cache_miss_rate": 4.273,
+    "backend_cpu_load": 3.394
+  },
+  {
+    "mutation_rate": 7.434,
+    "invalidation_rate": 5.428,
+    "cache_miss_rate": 4.065,
+    "backend_cpu_load": 3.296
+  },
+  {
+    "mutation_rate": 9.925,
+    "invalidation_rate": 6.871,
+    "cache_miss_rate": 5.454,
+    "backend_cpu_load": 4.432
+  },
+  {
+    "mutation_rate": 8.422,
+    "invalidation_rate": 5.863,
+    "cache_miss_rate": 4.805,
+    "backend_cpu_load": 3.378
+  },
+  {
+    "mutation_rate": 12.243,
+    "invalidation_rate": 8.599,
+    "cache_miss_rate": 6.597,
+    "backend_cpu_load": 5.478
+  },
+  {
+    "mutation_rate": 10.043,
+    "invalidation_rate": 6.808,
+    "cache_miss_rate": 4.885,
+    "backend_cpu_load": 3.957
+  },
+  {
+    "mutation_rate": 11.229,
+    "invalidation_rate": 7.538,
+    "cache_miss_rate": 5.95,
+    "backend_cpu_load": 4.668
+  },
+  {
+    "mutation_rate": 5.499,
+    "invalidation_rate": 3.917,
+    "cache_miss_rate": 2.994,
+    "backend_cpu_load": 2.566
+  },
+  {
+    "mutation_rate": 11.4,
+    "invalidation_rate": 7.775,
+    "cache_miss_rate": 6.236,
+    "backend_cpu_load": 5.274
+  },
+  {
+    "mutation_rate": 9.769,
+    "invalidation_rate": 6.677,
+    "cache_miss_rate": 4.858,
+    "backend_cpu_load": 3.864
+  },
+  {
+    "mutation_rate": 12.561,
+    "invalidation_rate": 8.707,
+    "cache_miss_rate": 6.202,
+    "backend_cpu_load": 4.685
+  },
+  {
+    "mutation_rate": 11.341,
+    "invalidation_rate": 7.974,
+    "cache_miss_rate": 6.027,
+    "backend_cpu_load": 4.77
+  },
+  {
+    "mutation_rate": 11.666,
+    "invalidation_rate": 8.054,
+    "cache_miss_rate": 6.229,
+    "backend_cpu_load": 4.985
+  },
+  {
+    "mutation_rate": 10.689,
+    "invalidation_rate": 7.659,
+    "cache_miss_rate": 6.004,
+    "backend_cpu_load": 4.601
+  },
+  {
+    "mutation_rate": 13.521,
+    "invalidation_rate": 9.263,
+    "cache_miss_rate": 6.651,
+    "backend_cpu_load": 5.489
+  },
+  {
+    "mutation_rate": 11.793,
+    "invalidation_rate": 8.521,
+    "cache_miss_rate": 6.676,
+    "backend_cpu_load": 5.174
+  },
+  {
+    "mutation_rate": 12.485,
+    "invalidation_rate": 8.76,
+    "cache_miss_rate": 6.426,
+    "backend_cpu_load": 4.803
+  },
+  {
+    "mutation_rate": 5.882,
+    "invalidation_rate": 3.971,
+    "cache_miss_rate": 3.029,
+    "backend_cpu_load": 2.339
+  },
+  {
+    "mutation_rate": 11.462,
+    "invalidation_rate": 7.904,
+    "cache_miss_rate": 5.94,
+    "backend_cpu_load": 4.635
+  },
+  {
+    "mutation_rate": 9.011,
+    "invalidation_rate": 6.527,
+    "cache_miss_rate": 4.915,
+    "backend_cpu_load": 3.96
+  },
+  {
+    "mutation_rate": 8.496,
+    "invalidation_rate": 6.062,
+    "cache_miss_rate": 4.369,
+    "backend_cpu_load": 3.473
+  },
+  {
+    "mutation_rate": 8.749,
+    "invalidation_rate": 6.116,
+    "cache_miss_rate": 4.631,
+    "backend_cpu_load": 3.69
+  },
+  {
+    "mutation_rate": 8.371,
+    "invalidation_rate": 5.958,
+    "cache_miss_rate": 4.506,
+    "backend_cpu_load": 3.368
+  },
+  {
+    "mutation_rate": 11.674,
+    "invalidation_rate": 8.154,
+    "cache_miss_rate": 5.977,
+    "backend_cpu_load": 4.528
+  },
+  {
+    "mutation_rate": 12.202,
+    "invalidation_rate": 8.29,
+    "cache_miss_rate": 6.56,
+    "backend_cpu_load": 5.425
+  },
+  {
+    "mutation_rate": 9.129,
+    "invalidation_rate": 6.159,
+    "cache_miss_rate": 4.862,
+    "backend_cpu_load": 4.116
+  },
+  {
+    "mutation_rate": 9.941,
+    "invalidation_rate": 6.844,
+    "cache_miss_rate": 5.15,
+    "backend_cpu_load": 4.222
+  },
+  {
+    "mutation_rate": 7.101,
+    "invalidation_rate": 5.135,
+    "cache_miss_rate": 4.193,
+    "backend_cpu_load": 3.427
+  },
+  {
+    "mutation_rate": 10.239,
+    "invalidation_rate": 7.207,
+    "cache_miss_rate": 5.65,
+    "backend_cpu_load": 4.367
+  },
+  {
+    "mutation_rate": 11.386,
+    "invalidation_rate": 8.059,
+    "cache_miss_rate": 6.179,
+    "backend_cpu_load": 4.979
+  },
+  {
+    "mutation_rate": 10.632,
+    "invalidation_rate": 7.674,
+    "cache_miss_rate": 5.45,
+    "backend_cpu_load": 4.259
+  },
+  {
+    "mutation_rate": 11.394,
+    "invalidation_rate": 7.965,
+    "cache_miss_rate": 6.198,
+    "backend_cpu_load": 4.997
+  },
+  {
+    "mutation_rate": 10.186,
+    "invalidation_rate": 7.247,
+    "cache_miss_rate": 5.335,
+    "backend_cpu_load": 4.464
+  },
+  {
+    "mutation_rate": 10.012,
+    "invalidation_rate": 6.844,
+    "cache_miss_rate": 5.19,
+    "backend_cpu_load": 4.425
+  },
+  {
+    "mutation_rate": 10.327,
+    "invalidation_rate": 7.405,
+    "cache_miss_rate": 5.498,
+    "backend_cpu_load": 4.38
+  },
+  {
+    "mutation_rate": 10.775,
+    "invalidation_rate": 7.698,
+    "cache_miss_rate": 5.665,
+    "backend_cpu_load": 4.475
+  },
+  {
+    "mutation_rate": 9.302,
+    "invalidation_rate": 6.414,
+    "cache_miss_rate": 4.853,
+    "backend_cpu_load": 4.046
+  },
+  {
+    "mutation_rate": 9.627,
+    "invalidation_rate": 6.826,
+    "cache_miss_rate": 5.052,
+    "backend_cpu_load": 4.201
+  },
+  {
+    "mutation_rate": 8.503,
+    "invalidation_rate": 6.244,
+    "cache_miss_rate": 4.644,
+    "backend_cpu_load": 3.632
+  },
+  {
+    "mutation_rate": 10.857,
+    "invalidation_rate": 7.836,
+    "cache_miss_rate": 5.951,
+    "backend_cpu_load": 4.681
+  },
+  {
+    "mutation_rate": 11.035,
+    "invalidation_rate": 7.803,
+    "cache_miss_rate": 5.763,
+    "backend_cpu_load": 4.877
+  },
+  {
+    "mutation_rate": 10.628,
+    "invalidation_rate": 7.535,
+    "cache_miss_rate": 5.787,
+    "backend_cpu_load": 4.863
+  },
+  {
+    "mutation_rate": 7.071,
+    "invalidation_rate": 4.811,
+    "cache_miss_rate": 3.745,
+    "backend_cpu_load": 2.974
+  },
+  {
+    "mutation_rate": 10.271,
+    "invalidation_rate": 6.962,
+    "cache_miss_rate": 4.956,
+    "backend_cpu_load": 3.842
+  },
+  {
+    "mutation_rate": 6.693,
+    "invalidation_rate": 4.844,
+    "cache_miss_rate": 3.534,
+    "backend_cpu_load": 2.909
+  },
+  {
+    "mutation_rate": 9.002,
+    "invalidation_rate": 5.953,
+    "cache_miss_rate": 4.8,
+    "backend_cpu_load": 3.595
+  },
+  {
+    "mutation_rate": 8.013,
+    "invalidation_rate": 5.88,
+    "cache_miss_rate": 4.682,
+    "backend_cpu_load": 3.629
+  },
+  {
+    "mutation_rate": 9.04,
+    "invalidation_rate": 6.246,
+    "cache_miss_rate": 4.764,
+    "backend_cpu_load": 3.602
+  },
+  {
+    "mutation_rate": 13.916,
+    "invalidation_rate": 9.983,
+    "cache_miss_rate": 7.516,
+    "backend_cpu_load": 5.971
+  },
+  {
+    "mutation_rate": 10.167,
+    "invalidation_rate": 7.138,
+    "cache_miss_rate": 5.341,
+    "backend_cpu_load": 4.403
+  },
+  {
+    "mutation_rate": 5.923,
+    "invalidation_rate": 4.171,
+    "cache_miss_rate": 2.993,
+    "backend_cpu_load": 2.27
+  },
+  {
+    "mutation_rate": 10.95,
+    "invalidation_rate": 7.641,
+    "cache_miss_rate": 5.464,
+    "backend_cpu_load": 4.871
+  },
+  {
+    "mutation_rate": 8.715,
+    "invalidation_rate": 5.862,
+    "cache_miss_rate": 4.209,
+    "backend_cpu_load": 3.573
+  },
+  {
+    "mutation_rate": 9.395,
+    "invalidation_rate": 6.68,
+    "cache_miss_rate": 4.985,
+    "backend_cpu_load": 3.516
+  },
+  {
+    "mutation_rate": 12.697,
+    "invalidation_rate": 9.174,
+    "cache_miss_rate": 6.9,
+    "backend_cpu_load": 5.381
+  },
+  {
+    "mutation_rate": 8.622,
+    "invalidation_rate": 6.049,
+    "cache_miss_rate": 4.907,
+    "backend_cpu_load": 3.791
+  },
+  {
+    "mutation_rate": 11.423,
+    "invalidation_rate": 7.582,
+    "cache_miss_rate": 5.686,
+    "backend_cpu_load": 4.594
+  },
+  {
+    "mutation_rate": 10.473,
+    "invalidation_rate": 7.555,
+    "cache_miss_rate": 5.459,
+    "backend_cpu_load": 4.464
+  },
+  {
+    "mutation_rate": 9.125,
+    "invalidation_rate": 6.609,
+    "cache_miss_rate": 4.959,
+    "backend_cpu_load": 4.059
+  },
+  {
+    "mutation_rate": 7.262,
+    "invalidation_rate": 5.288,
+    "cache_miss_rate": 3.867,
+    "backend_cpu_load": 3.372
+  },
+  {
+    "mutation_rate": 11.296,
+    "invalidation_rate": 7.965,
+    "cache_miss_rate": 6.179,
+    "backend_cpu_load": 5.09
+  },
+  {
+    "mutation_rate": 9.574,
+    "invalidation_rate": 6.737,
+    "cache_miss_rate": 5.219,
+    "backend_cpu_load": 4.452
+  },
+  {
+    "mutation_rate": 7.379,
+    "invalidation_rate": 5.11,
+    "cache_miss_rate": 3.798,
+    "backend_cpu_load": 2.727
+  },
+  {
+    "mutation_rate": 11.633,
+    "invalidation_rate": 8.13,
+    "cache_miss_rate": 6.004,
+    "backend_cpu_load": 4.49
+  },
+  {
+    "mutation_rate": 10.23,
+    "invalidation_rate": 7.369,
+    "cache_miss_rate": 5.198,
+    "backend_cpu_load": 4.264
+  },
+  {
+    "mutation_rate": 6.811,
+    "invalidation_rate": 4.776,
+    "cache_miss_rate": 4.15,
+    "backend_cpu_load": 3.244
+  },
+  {
+    "mutation_rate": 9.724,
+    "invalidation_rate": 6.947,
+    "cache_miss_rate": 4.785,
+    "backend_cpu_load": 3.887
+  },
+  {
+    "mutation_rate": 9.589,
+    "invalidation_rate": 6.706,
+    "cache_miss_rate": 5.178,
+    "backend_cpu_load": 3.812
+  },
+  {
+    "mutation_rate": 9.082,
+    "invalidation_rate": 6.097,
+    "cache_miss_rate": 4.906,
+    "backend_cpu_load": 3.834
+  },
+  {
+    "mutation_rate": 8.965,
+    "invalidation_rate": 6.307,
+    "cache_miss_rate": 5.238,
+    "backend_cpu_load": 4.085
+  },
+  {
+    "mutation_rate": 13.015,
+    "invalidation_rate": 9.385,
+    "cache_miss_rate": 7.031,
+    "backend_cpu_load": 5.705
+  },
+  {
+    "mutation_rate": 11.982,
+    "invalidation_rate": 8.295,
+    "cache_miss_rate": 6.706,
+    "backend_cpu_load": 5.119
+  },
+  {
+    "mutation_rate": 7.904,
+    "invalidation_rate": 5.11,
+    "cache_miss_rate": 3.884,
+    "backend_cpu_load": 3.03
+  },
+  {
+    "mutation_rate": 7.717,
+    "invalidation_rate": 5.178,
+    "cache_miss_rate": 3.665,
+    "backend_cpu_load": 2.89
+  },
+  {
+    "mutation_rate": 8.589,
+    "invalidation_rate": 5.583,
+    "cache_miss_rate": 4.169,
+    "backend_cpu_load": 3.425
+  },
+  {
+    "mutation_rate": 10.223,
+    "invalidation_rate": 7.008,
+    "cache_miss_rate": 5.178,
+    "backend_cpu_load": 3.994
+  },
+  {
+    "mutation_rate": 11.838,
+    "invalidation_rate": 8.228,
+    "cache_miss_rate": 6.389,
+    "backend_cpu_load": 5.031
+  },
+  {
+    "mutation_rate": 10.621,
+    "invalidation_rate": 7.371,
+    "cache_miss_rate": 5.361,
+    "backend_cpu_load": 4.216
+  },
+  {
+    "mutation_rate": 10.16,
+    "invalidation_rate": 7.042,
+    "cache_miss_rate": 5.384,
+    "backend_cpu_load": 4.708
+  },
+  {
+    "mutation_rate": 12.147,
+    "invalidation_rate": 8.77,
+    "cache_miss_rate": 6.552,
+    "backend_cpu_load": 5.31
+  },
+  {
+    "mutation_rate": 9.254,
+    "invalidation_rate": 6.284,
+    "cache_miss_rate": 4.529,
+    "backend_cpu_load": 3.526
+  },
+  {
+    "mutation_rate": 11.024,
+    "invalidation_rate": 8.056,
+    "cache_miss_rate": 5.934,
+    "backend_cpu_load": 4.778
+  },
+  {
+    "mutation_rate": 8.707,
+    "invalidation_rate": 6.27,
+    "cache_miss_rate": 4.679,
+    "backend_cpu_load": 3.72
+  },
+  {
+    "mutation_rate": 9.251,
+    "invalidation_rate": 6.43,
+    "cache_miss_rate": 4.624,
+    "backend_cpu_load": 3.655
+  },
+  {
+    "mutation_rate": 11.814,
+    "invalidation_rate": 8.556,
+    "cache_miss_rate": 6.289,
+    "backend_cpu_load": 5.582
+  },
+  {
+    "mutation_rate": 13.899,
+    "invalidation_rate": 9.787,
+    "cache_miss_rate": 7.25,
+    "backend_cpu_load": 5.886
+  },
+  {
+    "mutation_rate": 9.395,
+    "invalidation_rate": 6.253,
+    "cache_miss_rate": 4.864,
+    "backend_cpu_load": 4.065
+  },
+  {
+    "mutation_rate": 12.151,
+    "invalidation_rate": 8.134,
+    "cache_miss_rate": 5.955,
+    "backend_cpu_load": 4.865
+  },
+  {
+    "mutation_rate": 8.906,
+    "invalidation_rate": 6.381,
+    "cache_miss_rate": 4.603,
+    "backend_cpu_load": 3.841
+  },
+  {
+    "mutation_rate": 11.099,
+    "invalidation_rate": 7.569,
+    "cache_miss_rate": 5.327,
+    "backend_cpu_load": 4.085
+  },
+  {
+    "mutation_rate": 12.899,
+    "invalidation_rate": 9.288,
+    "cache_miss_rate": 7.078,
+    "backend_cpu_load": 5.535
+  },
+  {
+    "mutation_rate": 10.337,
+    "invalidation_rate": 7.134,
+    "cache_miss_rate": 5.264,
+    "backend_cpu_load": 4.13
+  },
+  {
+    "mutation_rate": 9.043,
+    "invalidation_rate": 6.151,
+    "cache_miss_rate": 4.347,
+    "backend_cpu_load": 3.17
+  },
+  {
+    "mutation_rate": 6.997,
+    "invalidation_rate": 4.885,
+    "cache_miss_rate": 3.891,
+    "backend_cpu_load": 3.069
+  },
+  {
+    "mutation_rate": 10.892,
+    "invalidation_rate": 7.678,
+    "cache_miss_rate": 5.775,
+    "backend_cpu_load": 4.579
+  },
+  {
+    "mutation_rate": 10.949,
+    "invalidation_rate": 7.665,
+    "cache_miss_rate": 5.546,
+    "backend_cpu_load": 4.426
+  },
+  {
+    "mutation_rate": 12.458,
+    "invalidation_rate": 8.246,
+    "cache_miss_rate": 5.861,
+    "backend_cpu_load": 4.807
+  },
+  {
+    "mutation_rate": 6.387,
+    "invalidation_rate": 4.496,
+    "cache_miss_rate": 3.345,
+    "backend_cpu_load": 2.702
+  },
+  {
+    "mutation_rate": 10.682,
+    "invalidation_rate": 7.256,
+    "cache_miss_rate": 5.21,
+    "backend_cpu_load": 4.047
+  },
+  {
+    "mutation_rate": 13.452,
+    "invalidation_rate": 9.863,
+    "cache_miss_rate": 7.577,
+    "backend_cpu_load": 6.321
+  },
+  {
+    "mutation_rate": 7.944,
+    "invalidation_rate": 5.57,
+    "cache_miss_rate": 4.249,
+    "backend_cpu_load": 3.1
+  },
+  {
+    "mutation_rate": 9.44,
+    "invalidation_rate": 6.499,
+    "cache_miss_rate": 4.995,
+    "backend_cpu_load": 3.806
+  },
+  {
+    "mutation_rate": 10.166,
+    "invalidation_rate": 7.067,
+    "cache_miss_rate": 5.252,
+    "backend_cpu_load": 4.141
+  },
+  {
+    "mutation_rate": 11.011,
+    "invalidation_rate": 7.611,
+    "cache_miss_rate": 5.854,
+    "backend_cpu_load": 4.734
+  },
+  {
+    "mutation_rate": 8.911,
+    "invalidation_rate": 6.229,
+    "cache_miss_rate": 5.115,
+    "backend_cpu_load": 4.042
+  },
+  {
+    "mutation_rate": 11.208,
+    "invalidation_rate": 7.776,
+    "cache_miss_rate": 5.769,
+    "backend_cpu_load": 4.581
+  },
+  {
+    "mutation_rate": 8.073,
+    "invalidation_rate": 5.639,
+    "cache_miss_rate": 4.106,
+    "backend_cpu_load": 3.112
+  },
+  {
+    "mutation_rate": 11.794,
+    "invalidation_rate": 8.337,
+    "cache_miss_rate": 6.387,
+    "backend_cpu_load": 5.155
+  },
+  {
+    "mutation_rate": 9.116,
+    "invalidation_rate": 6.287,
+    "cache_miss_rate": 4.692,
+    "backend_cpu_load": 4.226
+  },
+  {
+    "mutation_rate": 10.193,
+    "invalidation_rate": 7.209,
+    "cache_miss_rate": 5.619,
+    "backend_cpu_load": 4.635
+  },
+  {
+    "mutation_rate": 11.786,
+    "invalidation_rate": 8.472,
+    "cache_miss_rate": 6.478,
+    "backend_cpu_load": 4.659
+  },
+  {
+    "mutation_rate": 9.798,
+    "invalidation_rate": 6.7,
+    "cache_miss_rate": 5.358,
+    "backend_cpu_load": 4.039
+  },
+  {
+    "mutation_rate": 7.912,
+    "invalidation_rate": 5.461,
+    "cache_miss_rate": 4.131,
+    "backend_cpu_load": 3.272
+  },
+  {
+    "mutation_rate": 11.159,
+    "invalidation_rate": 8.021,
+    "cache_miss_rate": 5.739,
+    "backend_cpu_load": 4.495
+  },
+  {
+    "mutation_rate": 12.194,
+    "invalidation_rate": 8.685,
+    "cache_miss_rate": 6.654,
+    "backend_cpu_load": 5.302
+  },
+  {
+    "mutation_rate": 8.207,
+    "invalidation_rate": 5.714,
+    "cache_miss_rate": 4.153,
+    "backend_cpu_load": 3.392
+  },
+  {
+    "mutation_rate": 12.517,
+    "invalidation_rate": 8.757,
+    "cache_miss_rate": 6.386,
+    "backend_cpu_load": 5.179
+  },
+  {
+    "mutation_rate": 8.62,
+    "invalidation_rate": 6.196,
+    "cache_miss_rate": 4.306,
+    "backend_cpu_load": 3.666
+  },
+  {
+    "mutation_rate": 5.462,
+    "invalidation_rate": 3.27,
+    "cache_miss_rate": 2.324,
+    "backend_cpu_load": 1.837
+  },
+  {
+    "mutation_rate": 8.834,
+    "invalidation_rate": 6.063,
+    "cache_miss_rate": 4.524,
+    "backend_cpu_load": 3.186
+  },
+  {
+    "mutation_rate": 8.568,
+    "invalidation_rate": 5.92,
+    "cache_miss_rate": 4.254,
+    "backend_cpu_load": 3.395
+  },
+  {
+    "mutation_rate": 11.249,
+    "invalidation_rate": 7.942,
+    "cache_miss_rate": 5.511,
+    "backend_cpu_load": 4.216
+  },
+  {
+    "mutation_rate": 7.12,
+    "invalidation_rate": 4.638,
+    "cache_miss_rate": 3.616,
+    "backend_cpu_load": 2.641
+  },
+  {
+    "mutation_rate": 11.655,
+    "invalidation_rate": 8.174,
+    "cache_miss_rate": 6.129,
+    "backend_cpu_load": 5.041
+  },
+  {
+    "mutation_rate": 12.319,
+    "invalidation_rate": 8.523,
+    "cache_miss_rate": 6.226,
+    "backend_cpu_load": 4.936
+  },
+  {
+    "mutation_rate": 9.362,
+    "invalidation_rate": 6.807,
+    "cache_miss_rate": 4.881,
+    "backend_cpu_load": 3.715
+  },
+  {
+    "mutation_rate": 12.077,
+    "invalidation_rate": 8.551,
+    "cache_miss_rate": 6.585,
+    "backend_cpu_load": 5.478
+  },
+  {
+    "mutation_rate": 9.408,
+    "invalidation_rate": 6.906,
+    "cache_miss_rate": 5.642,
+    "backend_cpu_load": 4.488
+  },
+  {
+    "mutation_rate": 6.688,
+    "invalidation_rate": 5.079,
+    "cache_miss_rate": 3.856,
+    "backend_cpu_load": 3.183
+  },
+  {
+    "mutation_rate": 12.616,
+    "invalidation_rate": 8.535,
+    "cache_miss_rate": 6.61,
+    "backend_cpu_load": 5.407
+  },
+  {
+    "mutation_rate": 10.506,
+    "invalidation_rate": 6.683,
+    "cache_miss_rate": 5.282,
+    "backend_cpu_load": 4.234
+  },
+  {
+    "mutation_rate": 9.797,
+    "invalidation_rate": 6.934,
+    "cache_miss_rate": 5.256,
+    "backend_cpu_load": 3.802
+  },
+  {
+    "mutation_rate": 10.573,
+    "invalidation_rate": 7.381,
+    "cache_miss_rate": 5.744,
+    "backend_cpu_load": 4.633
+  },
+  {
+    "mutation_rate": 10.266,
+    "invalidation_rate": 7.063,
+    "cache_miss_rate": 5.212,
+    "backend_cpu_load": 3.963
+  },
+  {
+    "mutation_rate": 14.097,
+    "invalidation_rate": 10.243,
+    "cache_miss_rate": 7.576,
+    "backend_cpu_load": 6.023
+  },
+  {
+    "mutation_rate": 9.888,
+    "invalidation_rate": 7.366,
+    "cache_miss_rate": 5.612,
+    "backend_cpu_load": 4.615
+  }
+]

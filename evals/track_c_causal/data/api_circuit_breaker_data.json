@@ -1,0 +1,3502 @@
+[
+  {
+    "upstream_outage": 9.683,
+    "trip_threshold": 12.292,
+    "error_rate": 8.873,
+    "circuit_state": -0.187,
+    "fallback_traffic": -0.132
+  },
+  {
+    "upstream_outage": 10.131,
+    "trip_threshold": 9.789,
+    "error_rate": 9.216,
+    "circuit_state": 1.376,
+    "fallback_traffic": 1.476
+  },
+  {
+    "upstream_outage": 12.731,
+    "trip_threshold": 10.624,
+    "error_rate": 11.693,
+    "circuit_state": 3.247,
+    "fallback_traffic": 2.749
+  },
+  {
+    "upstream_outage": 8.628,
+    "trip_threshold": 11.837,
+    "error_rate": 7.506,
+    "circuit_state": -0.915,
+    "fallback_traffic": -0.685
+  },
+  {
+    "upstream_outage": 8.613,
+    "trip_threshold": 5.689,
+    "error_rate": 7.823,
+    "circuit_state": 2.98,
+    "fallback_traffic": 2.614
+  },
+  {
+    "upstream_outage": 4.935,
+    "trip_threshold": 10.721,
+    "error_rate": 4.49,
+    "circuit_state": -2.839,
+    "fallback_traffic": -2.588
+  },
+  {
+    "upstream_outage": 6.903,
+    "trip_threshold": 12.67,
+    "error_rate": 6.205,
+    "circuit_state": -2.932,
+    "fallback_traffic": -2.274
+  },
+  {
+    "upstream_outage": 7.601,
+    "trip_threshold": 11.061,
+    "error_rate": 6.574,
+    "circuit_state": -1.436,
+    "fallback_traffic": -1.259
+  },
+  {
+    "upstream_outage": 13.715,
+    "trip_threshold": 7.63,
+    "error_rate": 12.177,
+    "circuit_state": 5.389,
+    "fallback_traffic": 4.815
+  },
+  {
+    "upstream_outage": 10.25,
+    "trip_threshold": 8.808,
+    "error_rate": 9.108,
+    "circuit_state": 1.675,
+    "fallback_traffic": 1.618
+  },
+  {
+    "upstream_outage": 11.369,
+    "trip_threshold": 11.729,
+    "error_rate": 10.401,
+    "circuit_state": 1.385,
+    "fallback_traffic": 1.381
+  },
+  {
+    "upstream_outage": 8.147,
+    "trip_threshold": 13.891,
+    "error_rate": 7.404,
+    "circuit_state": -2.544,
+    "fallback_traffic": -2.366
+  },
+  {
+    "upstream_outage": 9.595,
+    "trip_threshold": 11.643,
+    "error_rate": 8.75,
+    "circuit_state": 0.269,
+    "fallback_traffic": 0.687
+  },
+  {
+    "upstream_outage": 11.481,
+    "trip_threshold": 12.235,
+    "error_rate": 10.501,
+    "circuit_state": 0.891,
+    "fallback_traffic": 0.67
+  },
+  {
+    "upstream_outage": 9.619,
+    "trip_threshold": 12.117,
+    "error_rate": 8.402,
+    "circuit_state": -0.08,
+    "fallback_traffic": -0.216
+  },
+  {
+    "upstream_outage": 8.089,
+    "trip_threshold": 8.79,
+    "error_rate": 7.081,
+    "circuit_state": 0.416,
+    "fallback_traffic": 0.388
+  },
+  {
+    "upstream_outage": 13.789,
+    "trip_threshold": 9.278,
+    "error_rate": 12.637,
+    "circuit_state": 4.697,
+    "fallback_traffic": 4.085
+  },
+  {
+    "upstream_outage": 5.863,
+    "trip_threshold": 10.979,
+    "error_rate": 5.319,
+    "circuit_state": -2.544,
+    "fallback_traffic": -1.992
+  },
+  {
+    "upstream_outage": 12.678,
+    "trip_threshold": 11.532,
+    "error_rate": 11.417,
+    "circuit_state": 1.997,
+    "fallback_traffic": 1.813
+  },
+  {
+    "upstream_outage": 8.387,
+    "trip_threshold": 10.982,
+    "error_rate": 7.378,
+    "circuit_state": -0.846,
+    "fallback_traffic": -0.607
+  },
+  {
+    "upstream_outage": 8.966,
+    "trip_threshold": 5.988,
+    "error_rate": 8.309,
+    "circuit_state": 3.172,
+    "fallback_traffic": 2.853
+  },
+  {
+    "upstream_outage": 7.363,
+    "trip_threshold": 10.19,
+    "error_rate": 6.816,
+    "circuit_state": -0.556,
+    "fallback_traffic": -0.564
+  },
+  {
+    "upstream_outage": 11.911,
+    "trip_threshold": 9.431,
+    "error_rate": 10.409,
+    "circuit_state": 2.629,
+    "fallback_traffic": 2.123
+  },
+  {
+    "upstream_outage": 7.574,
+    "trip_threshold": 11.926,
+    "error_rate": 6.605,
+    "circuit_state": -1.62,
+    "fallback_traffic": -1.523
+  },
+  {
+    "upstream_outage": 9.418,
+    "trip_threshold": 9.642,
+    "error_rate": 8.597,
+    "circuit_state": 1.014,
+    "fallback_traffic": 0.872
+  },
+  {
+    "upstream_outage": 10.628,
+    "trip_threshold": 8.608,
+    "error_rate": 9.432,
+    "circuit_state": 2.17,
+    "fallback_traffic": 1.545
+  },
+  {
+    "upstream_outage": 13.367,
+    "trip_threshold": 8.71,
+    "error_rate": 12.134,
+    "circuit_state": 4.315,
+    "fallback_traffic": 3.991
+  },
+  {
+    "upstream_outage": 11.123,
+    "trip_threshold": 12.229,
+    "error_rate": 10.004,
+    "circuit_state": 0.874,
+    "fallback_traffic": 0.59
+  },
+  {
+    "upstream_outage": 7.162,
+    "trip_threshold": 12.494,
+    "error_rate": 6.621,
+    "circuit_state": -2.127,
+    "fallback_traffic": -1.836
+  },
+  {
+    "upstream_outage": 9.221,
+    "trip_threshold": 8.128,
+    "error_rate": 8.233,
+    "circuit_state": 1.748,
+    "fallback_traffic": 1.686
+  },
+  {
+    "upstream_outage": 9.878,
+    "trip_threshold": 7.023,
+    "error_rate": 8.6,
+    "circuit_state": 2.478,
+    "fallback_traffic": 1.884
+  },
+  {
+    "upstream_outage": 11.421,
+    "trip_threshold": 12.383,
+    "error_rate": 10.451,
+    "circuit_state": 0.792,
+    "fallback_traffic": 0.43
+  },
+  {
+    "upstream_outage": 11.723,
+    "trip_threshold": 4.474,
+    "error_rate": 10.46,
+    "circuit_state": 5.149,
+    "fallback_traffic": 4.285
+  },
+  {
+    "upstream_outage": 8.669,
+    "trip_threshold": 11.983,
+    "error_rate": 7.58,
+    "circuit_state": -1.204,
+    "fallback_traffic": -1.104
+  },
+  {
+    "upstream_outage": 8.328,
+    "trip_threshold": 9.274,
+    "error_rate": 7.093,
+    "circuit_state": -0.099,
+    "fallback_traffic": -0.113
+  },
+  {
+    "upstream_outage": 10.269,
+    "trip_threshold": 11.792,
+    "error_rate": 9.415,
+    "circuit_state": 0.492,
+    "fallback_traffic": 0.365
+  },
+  {
+    "upstream_outage": 8.453,
+    "trip_threshold": 10.958,
+    "error_rate": 7.346,
+    "circuit_state": -0.597,
+    "fallback_traffic": -0.667
+  },
+  {
+    "upstream_outage": 9.973,
+    "trip_threshold": 12.483,
+    "error_rate": 8.709,
+    "circuit_state": -0.44,
+    "fallback_traffic": -0.436
+  },
+  {
+    "upstream_outage": 8.568,
+    "trip_threshold": 9.68,
+    "error_rate": 8.087,
+    "circuit_state": 0.923,
+    "fallback_traffic": 0.666
+  },
+  {
+    "upstream_outage": 8.139,
+    "trip_threshold": 10.392,
+    "error_rate": 6.938,
+    "circuit_state": -0.778,
+    "fallback_traffic": -0.641
+  },
+  {
+    "upstream_outage": 11.937,
+    "trip_threshold": 8.62,
+    "error_rate": 10.629,
+    "circuit_state": 3.396,
+    "fallback_traffic": 2.488
+  },
+  {
+    "upstream_outage": 9.492,
+    "trip_threshold": 11.003,
+    "error_rate": 8.497,
+    "circuit_state": 0.648,
+    "fallback_traffic": 0.972
+  },
+  {
+    "upstream_outage": 7.195,
+    "trip_threshold": 9.584,
+    "error_rate": 6.405,
+    "circuit_state": -0.82,
+    "fallback_traffic": -1.016
+  },
+  {
+    "upstream_outage": 12.491,
+    "trip_threshold": 9.693,
+    "error_rate": 11.212,
+    "circuit_state": 3.525,
+    "fallback_traffic": 3.087
+  },
+  {
+    "upstream_outage": 7.246,
+    "trip_threshold": 8.164,
+    "error_rate": 6.206,
+    "circuit_state": 0.067,
+    "fallback_traffic": -0.053
+  },
+  {
+    "upstream_outage": 11.565,
+    "trip_threshold": 9.087,
+    "error_rate": 10.548,
+    "circuit_state": 3.374,
+    "fallback_traffic": 2.738
+  },
+  {
+    "upstream_outage": 9.435,
+    "trip_threshold": 9.835,
+    "error_rate": 8.817,
+    "circuit_state": 0.99,
+    "fallback_traffic": 0.508
+  },
+  {
+    "upstream_outage": 6.062,
+    "trip_threshold": 10.087,
+    "error_rate": 5.183,
+    "circuit_state": -2.052,
+    "fallback_traffic": -1.506
+  },
+  {
+    "upstream_outage": 8.908,
+    "trip_threshold": 10.582,
+    "error_rate": 8.067,
+    "circuit_state": 0.185,
+    "fallback_traffic": 0.079
+  },
+  {
+    "upstream_outage": 8.225,
+    "trip_threshold": 14.442,
+    "error_rate": 7.369,
+    "circuit_state": -2.79,
+    "fallback_traffic": -2.281
+  },
+  {
+    "upstream_outage": 11.925,
+    "trip_threshold": 6.617,
+    "error_rate": 10.502,
+    "circuit_state": 4.68,
+    "fallback_traffic": 4.179
+  },
+  {
+    "upstream_outage": 9.18,
+    "trip_threshold": 7.405,
+    "error_rate": 8.359,
+    "circuit_state": 2.42,
+    "fallback_traffic": 1.799
+  },
+  {
+    "upstream_outage": 11.111,
+    "trip_threshold": 9.915,
+    "error_rate": 10.084,
+    "circuit_state": 2.175,
+    "fallback_traffic": 2.005
+  },
+  {
+    "upstream_outage": 9.384,
+    "trip_threshold": 11.023,
+    "error_rate": 8.497,
+    "circuit_state": 0.428,
+    "fallback_traffic": 0.398
+  },
+  {
+    "upstream_outage": 8.921,
+    "trip_threshold": 8.772,
+    "error_rate": 8.084,
+    "circuit_state": 1.211,
+    "fallback_traffic": 1.026
+  },
+  {
+    "upstream_outage": 9.914,
+    "trip_threshold": 10.156,
+    "error_rate": 9.14,
+    "circuit_state": 0.825,
+    "fallback_traffic": 0.946
+  },
+  {
+    "upstream_outage": 12.151,
+    "trip_threshold": 9.03,
+    "error_rate": 10.794,
+    "circuit_state": 3.094,
+    "fallback_traffic": 2.587
+  },
+  {
+    "upstream_outage": 9.466,
+    "trip_threshold": 11.419,
+    "error_rate": 8.865,
+    "circuit_state": 0.015,
+    "fallback_traffic": 0.073
+  },
+  {
+    "upstream_outage": 11.442,
+    "trip_threshold": 7.475,
+    "error_rate": 10.405,
+    "circuit_state": 4.036,
+    "fallback_traffic": 3.544
+  },
+  {
+    "upstream_outage": 8.533,
+    "trip_threshold": 11.255,
+    "error_rate": 7.641,
+    "circuit_state": -0.743,
+    "fallback_traffic": -0.552
+  },
+  {
+    "upstream_outage": 9.715,
+    "trip_threshold": 11.38,
+    "error_rate": 8.552,
+    "circuit_state": -0.259,
+    "fallback_traffic": -0.142
+  },
+  {
+    "upstream_outage": 9.233,
+    "trip_threshold": 13.048,
+    "error_rate": 8.301,
+    "circuit_state": -1.226,
+    "fallback_traffic": -0.745
+  },
+  {
+    "upstream_outage": 8.585,
+    "trip_threshold": 8.783,
+    "error_rate": 7.714,
+    "circuit_state": 0.985,
+    "fallback_traffic": 0.921
+  },
+  {
+    "upstream_outage": 13.859,
+    "trip_threshold": 7.978,
+    "error_rate": 12.682,
+    "circuit_state": 5.22,
+    "fallback_traffic": 4.484
+  },
+  {
+    "upstream_outage": 8.706,
+    "trip_threshold": 10.597,
+    "error_rate": 7.717,
+    "circuit_state": -0.128,
+    "fallback_traffic": 0.134
+  },
+  {
+    "upstream_outage": 12.596,
+    "trip_threshold": 8.853,
+    "error_rate": 11.618,
+    "circuit_state": 4.38,
+    "fallback_traffic": 3.525
+  },
+  {
+    "upstream_outage": 11.191,
+    "trip_threshold": 7.979,
+    "error_rate": 10.034,
+    "circuit_state": 3.236,
+    "fallback_traffic": 2.644
+  },
+  {
+    "upstream_outage": 7.884,
+    "trip_threshold": 7.868,
+    "error_rate": 7.425,
+    "circuit_state": 1.224,
+    "fallback_traffic": 0.689
+  },
+  {
+    "upstream_outage": 8.708,
+    "trip_threshold": 12.013,
+    "error_rate": 7.912,
+    "circuit_state": -1.308,
+    "fallback_traffic": -1.428
+  },
+  {
+    "upstream_outage": 10.256,
+    "trip_threshold": 8.682,
+    "error_rate": 9.174,
+    "circuit_state": 2.303,
+    "fallback_traffic": 1.779
+  },
+  {
+    "upstream_outage": 11.22,
+    "trip_threshold": 12.337,
+    "error_rate": 10.172,
+    "circuit_state": 0.644,
+    "fallback_traffic": 0.691
+  },
+  {
+    "upstream_outage": 12.448,
+    "trip_threshold": 12.205,
+    "error_rate": 11.462,
+    "circuit_state": 1.671,
+    "fallback_traffic": 1.277
+  },
+  {
+    "upstream_outage": 4.836,
+    "trip_threshold": 11.578,
+    "error_rate": 4.266,
+    "circuit_state": -3.29,
+    "fallback_traffic": -3.256
+  },
+  {
+    "upstream_outage": 12.088,
+    "trip_threshold": 9.862,
+    "error_rate": 10.892,
+    "circuit_state": 2.561,
+    "fallback_traffic": 2.263
+  },
+  {
+    "upstream_outage": 9.958,
+    "trip_threshold": 7.156,
+    "error_rate": 9.076,
+    "circuit_state": 2.87,
+    "fallback_traffic": 2.186
+  },
+  {
+    "upstream_outage": 7.19,
+    "trip_threshold": 12.763,
+    "error_rate": 6.238,
+    "circuit_state": -2.779,
+    "fallback_traffic": -2.538
+  },
+  {
+    "upstream_outage": 12.919,
+    "trip_threshold": 8.468,
+    "error_rate": 11.196,
+    "circuit_state": 4.074,
+    "fallback_traffic": 3.853
+  },
+  {
+    "upstream_outage": 6.42,
+    "trip_threshold": 14.604,
+    "error_rate": 5.627,
+    "circuit_state": -4.436,
+    "fallback_traffic": -3.669
+  },
+  {
+    "upstream_outage": 10.47,
+    "trip_threshold": 9.926,
+    "error_rate": 9.776,
+    "circuit_state": 1.743,
+    "fallback_traffic": 1.585
+  },
+  {
+    "upstream_outage": 12.618,
+    "trip_threshold": 7.588,
+    "error_rate": 11.583,
+    "circuit_state": 5.004,
+    "fallback_traffic": 4.088
+  },
+  {
+    "upstream_outage": 10.882,
+    "trip_threshold": 8.624,
+    "error_rate": 9.569,
+    "circuit_state": 2.48,
+    "fallback_traffic": 2.237
+  },
+  {
+    "upstream_outage": 9.478,
+    "trip_threshold": 9.433,
+    "error_rate": 8.232,
+    "circuit_state": 0.653,
+    "fallback_traffic": 0.934
+  },
+  {
+    "upstream_outage": 11.251,
+    "trip_threshold": 9.099,
+    "error_rate": 9.997,
+    "circuit_state": 2.794,
+    "fallback_traffic": 2.487
+  },
+  {
+    "upstream_outage": 11.198,
+    "trip_threshold": 12.342,
+    "error_rate": 10.287,
+    "circuit_state": 0.733,
+    "fallback_traffic": 0.629
+  },
+  {
+    "upstream_outage": 11.307,
+    "trip_threshold": 7.867,
+    "error_rate": 10.094,
+    "circuit_state": 3.231,
+    "fallback_traffic": 2.67
+  },
+  {
+    "upstream_outage": 8.356,
+    "trip_threshold": 10.74,
+    "error_rate": 7.511,
+    "circuit_state": -0.245,
+    "fallback_traffic": -0.151
+  },
+  {
+    "upstream_outage": 10.72,
+    "trip_threshold": 10.807,
+    "error_rate": 9.659,
+    "circuit_state": 0.991,
+    "fallback_traffic": 0.801
+  },
+  {
+    "upstream_outage": 8.834,
+    "trip_threshold": 7.827,
+    "error_rate": 7.685,
+    "circuit_state": 1.559,
+    "fallback_traffic": 1.389
+  },
+  {
+    "upstream_outage": 8.281,
+    "trip_threshold": 10.455,
+    "error_rate": 7.598,
+    "circuit_state": -0.405,
+    "fallback_traffic": -0.539
+  },
+  {
+    "upstream_outage": 10.386,
+    "trip_threshold": 10.639,
+    "error_rate": 9.459,
+    "circuit_state": 1.179,
+    "fallback_traffic": 1.034
+  },
+  {
+    "upstream_outage": 11.345,
+    "trip_threshold": 12.298,
+    "error_rate": 9.976,
+    "circuit_state": 0.594,
+    "fallback_traffic": 0.253
+  },
+  {
+    "upstream_outage": 9.284,
+    "trip_threshold": 12.428,
+    "error_rate": 8.355,
+    "circuit_state": -0.751,
+    "fallback_traffic": -0.807
+  },
+  {
+    "upstream_outage": 10.847,
+    "trip_threshold": 7.677,
+    "error_rate": 10.081,
+    "circuit_state": 3.07,
+    "fallback_traffic": 2.747
+  },
+  {
+    "upstream_outage": 13.989,
+    "trip_threshold": 7.18,
+    "error_rate": 12.274,
+    "circuit_state": 5.877,
+    "fallback_traffic": 5.108
+  },
+  {
+    "upstream_outage": 9.902,
+    "trip_threshold": 6.073,
+    "error_rate": 8.875,
+    "circuit_state": 3.629,
+    "fallback_traffic": 2.976
+  },
+  {
+    "upstream_outage": 8.483,
+    "trip_threshold": 6.364,
+    "error_rate": 7.526,
+    "circuit_state": 1.736,
+    "fallback_traffic": 1.93
+  },
+  {
+    "upstream_outage": 12.522,
+    "trip_threshold": 7.939,
+    "error_rate": 11.293,
+    "circuit_state": 4.241,
+    "fallback_traffic": 3.293
+  },
+  {
+    "upstream_outage": 6.969,
+    "trip_threshold": 8.527,
+    "error_rate": 6.502,
+    "circuit_state": 0.361,
+    "fallback_traffic": 0.502
+  },
+  {
+    "upstream_outage": 11.027,
+    "trip_threshold": 15.558,
+    "error_rate": 9.875,
+    "circuit_state": -1.476,
+    "fallback_traffic": -1.356
+  },
+  {
+    "upstream_outage": 9.783,
+    "trip_threshold": 8.657,
+    "error_rate": 9.07,
+    "circuit_state": 2.387,
+    "fallback_traffic": 2.218
+  },
+  {
+    "upstream_outage": 8.875,
+    "trip_threshold": 7.224,
+    "error_rate": 7.945,
+    "circuit_state": 2.108,
+    "fallback_traffic": 1.501
+  },
+  {
+    "upstream_outage": 9.399,
+    "trip_threshold": 12.759,
+    "error_rate": 8.359,
+    "circuit_state": -0.973,
+    "fallback_traffic": -1.05
+  },
+  {
+    "upstream_outage": 10.311,
+    "trip_threshold": 12.468,
+    "error_rate": 9.511,
+    "circuit_state": 0.024,
+    "fallback_traffic": 0.287
+  },
+  {
+    "upstream_outage": 10.969,
+    "trip_threshold": 11.425,
+    "error_rate": 9.69,
+    "circuit_state": 0.849,
+    "fallback_traffic": 0.613
+  },
+  {
+    "upstream_outage": 8.868,
+    "trip_threshold": 7.794,
+    "error_rate": 8.05,
+    "circuit_state": 1.54,
+    "fallback_traffic": 1.105
+  },
+  {
+    "upstream_outage": 10.722,
+    "trip_threshold": 14.695,
+    "error_rate": 9.251,
+    "circuit_state": -1.564,
+    "fallback_traffic": -1.352
+  },
+  {
+    "upstream_outage": 9.854,
+    "trip_threshold": 8.474,
+    "error_rate": 8.94,
+    "circuit_state": 2.008,
+    "fallback_traffic": 1.351
+  },
+  {
+    "upstream_outage": 12.638,
+    "trip_threshold": 13.687,
+    "error_rate": 11.457,
+    "circuit_state": 0.703,
+    "fallback_traffic": 0.407
+  },
+  {
+    "upstream_outage": 13.021,
+    "trip_threshold": 11.26,
+    "error_rate": 11.757,
+    "circuit_state": 2.636,
+    "fallback_traffic": 2.279
+  },
+  {
+    "upstream_outage": 13.723,
+    "trip_threshold": 10.76,
+    "error_rate": 12.096,
+    "circuit_state": 3.462,
+    "fallback_traffic": 2.844
+  },
+  {
+    "upstream_outage": 10.5,
+    "trip_threshold": 13.545,
+    "error_rate": 9.412,
+    "circuit_state": -0.46,
+    "fallback_traffic": -0.409
+  },
+  {
+    "upstream_outage": 11.17,
+    "trip_threshold": 11.072,
+    "error_rate": 10.388,
+    "circuit_state": 1.658,
+    "fallback_traffic": 1.412
+  },
+  {
+    "upstream_outage": 11.096,
+    "trip_threshold": 9.615,
+    "error_rate": 9.969,
+    "circuit_state": 2.443,
+    "fallback_traffic": 1.795
+  },
+  {
+    "upstream_outage": 13.585,
+    "trip_threshold": 11.668,
+    "error_rate": 11.851,
+    "circuit_state": 2.406,
+    "fallback_traffic": 2.055
+  },
+  {
+    "upstream_outage": 9.969,
+    "trip_threshold": 11.144,
+    "error_rate": 9.173,
+    "circuit_state": 0.709,
+    "fallback_traffic": 0.593
+  },
+  {
+    "upstream_outage": 11.398,
+    "trip_threshold": 11.36,
+    "error_rate": 10.292,
+    "circuit_state": 1.597,
+    "fallback_traffic": 1.332
+  },
+  {
+    "upstream_outage": 9.44,
+    "trip_threshold": 8.052,
+    "error_rate": 8.397,
+    "circuit_state": 2.066,
+    "fallback_traffic": 1.554
+  },
+  {
+    "upstream_outage": 10.456,
+    "trip_threshold": 10.776,
+    "error_rate": 9.373,
+    "circuit_state": 1.189,
+    "fallback_traffic": 0.735
+  },
+  {
+    "upstream_outage": 11.837,
+    "trip_threshold": 7.0,
+    "error_rate": 10.708,
+    "circuit_state": 4.304,
+    "fallback_traffic": 3.503
+  },
+  {
+    "upstream_outage": 12.289,
+    "trip_threshold": 10.193,
+    "error_rate": 11.038,
+    "circuit_state": 2.636,
+    "fallback_traffic": 2.347
+  },
+  {
+    "upstream_outage": 9.485,
+    "trip_threshold": 13.468,
+    "error_rate": 8.144,
+    "circuit_state": -1.93,
+    "fallback_traffic": -1.699
+  },
+  {
+    "upstream_outage": 9.681,
+    "trip_threshold": 9.962,
+    "error_rate": 8.899,
+    "circuit_state": 1.421,
+    "fallback_traffic": 1.418
+  },
+  {
+    "upstream_outage": 14.287,
+    "trip_threshold": 9.533,
+    "error_rate": 13.226,
+    "circuit_state": 4.893,
+    "fallback_traffic": 4.293
+  },
+  {
+    "upstream_outage": 9.549,
+    "trip_threshold": 10.077,
+    "error_rate": 8.726,
+    "circuit_state": 0.594,
+    "fallback_traffic": 0.721
+  },
+  {
+    "upstream_outage": 10.466,
+    "trip_threshold": 9.099,
+    "error_rate": 9.677,
+    "circuit_state": 2.529,
+    "fallback_traffic": 2.391
+  },
+  {
+    "upstream_outage": 7.408,
+    "trip_threshold": 9.255,
+    "error_rate": 6.895,
+    "circuit_state": 0.288,
+    "fallback_traffic": -0.216
+  },
+  {
+    "upstream_outage": 7.69,
+    "trip_threshold": 11.426,
+    "error_rate": 7.097,
+    "circuit_state": -1.626,
+    "fallback_traffic": -1.301
+  },
+  {
+    "upstream_outage": 10.625,
+    "trip_threshold": 9.296,
+    "error_rate": 9.677,
+    "circuit_state": 2.286,
+    "fallback_traffic": 1.899
+  },
+  {
+    "upstream_outage": 8.83,
+    "trip_threshold": 11.127,
+    "error_rate": 8.002,
+    "circuit_state": -0.563,
+    "fallback_traffic": -0.584
+  },
+  {
+    "upstream_outage": 11.082,
+    "trip_threshold": 10.11,
+    "error_rate": 9.878,
+    "circuit_state": 1.919,
+    "fallback_traffic": 1.567
+  },
+  {
+    "upstream_outage": 10.336,
+    "trip_threshold": 9.868,
+    "error_rate": 9.446,
+    "circuit_state": 1.516,
+    "fallback_traffic": 1.767
+  },
+  {
+    "upstream_outage": 10.774,
+    "trip_threshold": 8.298,
+    "error_rate": 9.618,
+    "circuit_state": 2.947,
+    "fallback_traffic": 2.784
+  },
+  {
+    "upstream_outage": 8.899,
+    "trip_threshold": 10.046,
+    "error_rate": 8.076,
+    "circuit_state": 0.699,
+    "fallback_traffic": 0.378
+  },
+  {
+    "upstream_outage": 9.39,
+    "trip_threshold": 11.462,
+    "error_rate": 8.278,
+    "circuit_state": -0.067,
+    "fallback_traffic": 0.064
+  },
+  {
+    "upstream_outage": 10.596,
+    "trip_threshold": 9.553,
+    "error_rate": 9.543,
+    "circuit_state": 2.12,
+    "fallback_traffic": 2.033
+  },
+  {
+    "upstream_outage": 12.132,
+    "trip_threshold": 8.949,
+    "error_rate": 10.661,
+    "circuit_state": 3.34,
+    "fallback_traffic": 3.333
+  },
+  {
+    "upstream_outage": 10.567,
+    "trip_threshold": 8.797,
+    "error_rate": 9.296,
+    "circuit_state": 2.17,
+    "fallback_traffic": 1.884
+  },
+  {
+    "upstream_outage": 10.492,
+    "trip_threshold": 11.227,
+    "error_rate": 9.51,
+    "circuit_state": 1.229,
+    "fallback_traffic": 0.978
+  },
+  {
+    "upstream_outage": 10.585,
+    "trip_threshold": 10.322,
+    "error_rate": 9.582,
+    "circuit_state": 1.709,
+    "fallback_traffic": 1.448
+  },
+  {
+    "upstream_outage": 15.28,
+    "trip_threshold": 12.822,
+    "error_rate": 13.598,
+    "circuit_state": 3.328,
+    "fallback_traffic": 2.992
+  },
+  {
+    "upstream_outage": 9.503,
+    "trip_threshold": 11.155,
+    "error_rate": 8.412,
+    "circuit_state": 0.183,
+    "fallback_traffic": 0.238
+  },
+  {
+    "upstream_outage": 11.567,
+    "trip_threshold": 9.714,
+    "error_rate": 10.683,
+    "circuit_state": 2.631,
+    "fallback_traffic": 2.196
+  },
+  {
+    "upstream_outage": 9.718,
+    "trip_threshold": 11.861,
+    "error_rate": 8.897,
+    "circuit_state": 0.02,
+    "fallback_traffic": 0.111
+  },
+  {
+    "upstream_outage": 11.702,
+    "trip_threshold": 10.733,
+    "error_rate": 10.509,
+    "circuit_state": 2.017,
+    "fallback_traffic": 1.854
+  },
+  {
+    "upstream_outage": 9.329,
+    "trip_threshold": 13.23,
+    "error_rate": 8.343,
+    "circuit_state": -1.229,
+    "fallback_traffic": -0.857
+  },
+  {
+    "upstream_outage": 8.96,
+    "trip_threshold": 8.888,
+    "error_rate": 7.752,
+    "circuit_state": 1.142,
+    "fallback_traffic": 1.232
+  },
+  {
+    "upstream_outage": 10.801,
+    "trip_threshold": 7.814,
+    "error_rate": 9.662,
+    "circuit_state": 2.865,
+    "fallback_traffic": 2.396
+  },
+  {
+    "upstream_outage": 7.844,
+    "trip_threshold": 9.221,
+    "error_rate": 7.046,
+    "circuit_state": 0.31,
+    "fallback_traffic": 0.222
+  },
+  {
+    "upstream_outage": 12.073,
+    "trip_threshold": 8.24,
+    "error_rate": 11.212,
+    "circuit_state": 4.391,
+    "fallback_traffic": 3.837
+  },
+  {
+    "upstream_outage": 5.571,
+    "trip_threshold": 7.845,
+    "error_rate": 5.077,
+    "circuit_state": -0.766,
+    "fallback_traffic": -0.868
+  },
+  {
+    "upstream_outage": 9.176,
+    "trip_threshold": 12.829,
+    "error_rate": 8.231,
+    "circuit_state": -1.043,
+    "fallback_traffic": -0.581
+  },
+  {
+    "upstream_outage": 12.144,
+    "trip_threshold": 11.846,
+    "error_rate": 11.28,
+    "circuit_state": 2.099,
+    "fallback_traffic": 1.574
+  },
+  {
+    "upstream_outage": 13.756,
+    "trip_threshold": 10.865,
+    "error_rate": 12.528,
+    "circuit_state": 3.733,
+    "fallback_traffic": 3.499
+  },
+  {
+    "upstream_outage": 8.959,
+    "trip_threshold": 10.912,
+    "error_rate": 8.129,
+    "circuit_state": 0.193,
+    "fallback_traffic": 0.11
+  },
+  {
+    "upstream_outage": 10.81,
+    "trip_threshold": 5.828,
+    "error_rate": 9.608,
+    "circuit_state": 4.108,
+    "fallback_traffic": 3.431
+  },
+  {
+    "upstream_outage": 7.982,
+    "trip_threshold": 10.602,
+    "error_rate": 6.971,
+    "circuit_state": -0.881,
+    "fallback_traffic": -0.479
+  },
+  {
+    "upstream_outage": 8.228,
+    "trip_threshold": 8.46,
+    "error_rate": 7.361,
+    "circuit_state": 0.433,
+    "fallback_traffic": -0.211
+  },
+  {
+    "upstream_outage": 10.682,
+    "trip_threshold": 7.185,
+    "error_rate": 9.746,
+    "circuit_state": 3.229,
+    "fallback_traffic": 2.618
+  },
+  {
+    "upstream_outage": 9.904,
+    "trip_threshold": 7.316,
+    "error_rate": 8.93,
+    "circuit_state": 2.786,
+    "fallback_traffic": 2.358
+  },
+  {
+    "upstream_outage": 11.042,
+    "trip_threshold": 8.84,
+    "error_rate": 9.895,
+    "circuit_state": 2.971,
+    "fallback_traffic": 2.548
+  },
+  {
+    "upstream_outage": 10.822,
+    "trip_threshold": 8.568,
+    "error_rate": 9.809,
+    "circuit_state": 2.683,
+    "fallback_traffic": 2.282
+  },
+  {
+    "upstream_outage": 6.764,
+    "trip_threshold": 13.339,
+    "error_rate": 5.838,
+    "circuit_state": -3.278,
+    "fallback_traffic": -2.408
+  },
+  {
+    "upstream_outage": 10.966,
+    "trip_threshold": 8.965,
+    "error_rate": 9.703,
+    "circuit_state": 2.491,
+    "fallback_traffic": 2.046
+  },
+  {
+    "upstream_outage": 10.995,
+    "trip_threshold": 11.597,
+    "error_rate": 9.765,
+    "circuit_state": 0.907,
+    "fallback_traffic": 0.839
+  },
+  {
+    "upstream_outage": 12.107,
+    "trip_threshold": 13.293,
+    "error_rate": 10.873,
+    "circuit_state": 0.331,
+    "fallback_traffic": -0.18
+  },
+  {
+    "upstream_outage": 8.759,
+    "trip_threshold": 8.569,
+    "error_rate": 7.776,
+    "circuit_state": 0.89,
+    "fallback_traffic": 0.738
+  },
+  {
+    "upstream_outage": 10.08,
+    "trip_threshold": 12.37,
+    "error_rate": 9.036,
+    "circuit_state": -0.221,
+    "fallback_traffic": -0.159
+  },
+  {
+    "upstream_outage": 9.311,
+    "trip_threshold": 9.095,
+    "error_rate": 8.362,
+    "circuit_state": 0.996,
+    "fallback_traffic": 0.937
+  },
+  {
+    "upstream_outage": 8.665,
+    "trip_threshold": 7.062,
+    "error_rate": 8.198,
+    "circuit_state": 2.233,
+    "fallback_traffic": 1.886
+  },
+  {
+    "upstream_outage": 10.657,
+    "trip_threshold": 8.434,
+    "error_rate": 9.554,
+    "circuit_state": 2.695,
+    "fallback_traffic": 2.402
+  },
+  {
+    "upstream_outage": 10.366,
+    "trip_threshold": 13.566,
+    "error_rate": 8.975,
+    "circuit_state": -1.014,
+    "fallback_traffic": -1.232
+  },
+  {
+    "upstream_outage": 10.451,
+    "trip_threshold": 7.372,
+    "error_rate": 9.667,
+    "circuit_state": 3.411,
+    "fallback_traffic": 3.088
+  },
+  {
+    "upstream_outage": 7.249,
+    "trip_threshold": 10.57,
+    "error_rate": 6.37,
+    "circuit_state": -1.48,
+    "fallback_traffic": -1.262
+  },
+  {
+    "upstream_outage": 10.69,
+    "trip_threshold": 6.989,
+    "error_rate": 9.318,
+    "circuit_state": 3.169,
+    "fallback_traffic": 2.541
+  },
+  {
+    "upstream_outage": 10.454,
+    "trip_threshold": 8.281,
+    "error_rate": 9.384,
+    "circuit_state": 2.113,
+    "fallback_traffic": 1.826
+  },
+  {
+    "upstream_outage": 10.912,
+    "trip_threshold": 6.586,
+    "error_rate": 9.637,
+    "circuit_state": 3.484,
+    "fallback_traffic": 3.074
+  },
+  {
+    "upstream_outage": 7.422,
+    "trip_threshold": 10.69,
+    "error_rate": 6.476,
+    "circuit_state": -1.178,
+    "fallback_traffic": -1.079
+  },
+  {
+    "upstream_outage": 10.86,
+    "trip_threshold": 10.819,
+    "error_rate": 9.892,
+    "circuit_state": 1.261,
+    "fallback_traffic": 1.17
+  },
+  {
+    "upstream_outage": 12.422,
+    "trip_threshold": 10.08,
+    "error_rate": 11.649,
+    "circuit_state": 3.382,
+    "fallback_traffic": 2.917
+  },
+  {
+    "upstream_outage": 11.512,
+    "trip_threshold": 10.731,
+    "error_rate": 10.2,
+    "circuit_state": 1.665,
+    "fallback_traffic": 1.636
+  },
+  {
+    "upstream_outage": 5.642,
+    "trip_threshold": 10.295,
+    "error_rate": 5.185,
+    "circuit_state": -1.764,
+    "fallback_traffic": -1.28
+  },
+  {
+    "upstream_outage": 10.715,
+    "trip_threshold": 10.095,
+    "error_rate": 9.377,
+    "circuit_state": 1.593,
+    "fallback_traffic": 1.377
+  },
+  {
+    "upstream_outage": 6.454,
+    "trip_threshold": 14.592,
+    "error_rate": 5.975,
+    "circuit_state": -4.334,
+    "fallback_traffic": -3.713
+  },
+  {
+    "upstream_outage": 12.337,
+    "trip_threshold": 9.288,
+    "error_rate": 11.335,
+    "circuit_state": 3.465,
+    "fallback_traffic": 2.87
+  },
+  {
+    "upstream_outage": 12.282,
+    "trip_threshold": 9.781,
+    "error_rate": 11.245,
+    "circuit_state": 2.904,
+    "fallback_traffic": 2.391
+  },
+  {
+    "upstream_outage": 12.14,
+    "trip_threshold": 9.498,
+    "error_rate": 10.948,
+    "circuit_state": 3.15,
+    "fallback_traffic": 2.822
+  },
+  {
+    "upstream_outage": 8.502,
+    "trip_threshold": 8.169,
+    "error_rate": 7.756,
+    "circuit_state": 1.527,
+    "fallback_traffic": 1.388
+  },
+  {
+    "upstream_outage": 8.446,
+    "trip_threshold": 6.99,
+    "error_rate": 7.526,
+    "circuit_state": 1.922,
+    "fallback_traffic": 1.539
+  },
+  {
+    "upstream_outage": 6.364,
+    "trip_threshold": 11.778,
+    "error_rate": 5.923,
+    "circuit_state": -2.044,
+    "fallback_traffic": -1.727
+  },
+  {
+    "upstream_outage": 11.115,
+    "trip_threshold": 8.836,
+    "error_rate": 9.926,
+    "circuit_state": 3.088,
+    "fallback_traffic": 2.58
+  },
+  {
+    "upstream_outage": 11.731,
+    "trip_threshold": 9.718,
+    "error_rate": 10.234,
+    "circuit_state": 2.285,
+    "fallback_traffic": 2.251
+  },
+  {
+    "upstream_outage": 6.98,
+    "trip_threshold": 9.792,
+    "error_rate": 6.056,
+    "circuit_state": -0.693,
+    "fallback_traffic": -0.632
+  },
+  {
+    "upstream_outage": 10.859,
+    "trip_threshold": 10.563,
+    "error_rate": 9.488,
+    "circuit_state": 1.232,
+    "fallback_traffic": 1.352
+  },
+  {
+    "upstream_outage": 10.033,
+    "trip_threshold": 13.64,
+    "error_rate": 9.389,
+    "circuit_state": -0.945,
+    "fallback_traffic": -0.677
+  },
+  {
+    "upstream_outage": 12.049,
+    "trip_threshold": 6.665,
+    "error_rate": 10.926,
+    "circuit_state": 4.214,
+    "fallback_traffic": 3.68
+  },
+  {
+    "upstream_outage": 12.531,
+    "trip_threshold": 10.544,
+    "error_rate": 11.513,
+    "circuit_state": 3.287,
+    "fallback_traffic": 2.876
+  },
+  {
+    "upstream_outage": 6.672,
+    "trip_threshold": 11.362,
+    "error_rate": 6.041,
+    "circuit_state": -1.563,
+    "fallback_traffic": -1.517
+  },
+  {
+    "upstream_outage": 12.012,
+    "trip_threshold": 10.297,
+    "error_rate": 10.654,
+    "circuit_state": 2.645,
+    "fallback_traffic": 2.482
+  },
+  {
+    "upstream_outage": 11.349,
+    "trip_threshold": 10.123,
+    "error_rate": 10.296,
+    "circuit_state": 2.272,
+    "fallback_traffic": 1.654
+  },
+  {
+    "upstream_outage": 6.595,
+    "trip_threshold": 12.141,
+    "error_rate": 6.034,
+    "circuit_state": -2.285,
+    "fallback_traffic": -1.889
+  },
+  {
+    "upstream_outage": 13.077,
+    "trip_threshold": 12.458,
+    "error_rate": 11.687,
+    "circuit_state": 2.021,
+    "fallback_traffic": 1.967
+  },
+  {
+    "upstream_outage": 7.818,
+    "trip_threshold": 6.578,
+    "error_rate": 7.022,
+    "circuit_state": 1.68,
+    "fallback_traffic": 1.563
+  },
+  {
+    "upstream_outage": 9.047,
+    "trip_threshold": 9.898,
+    "error_rate": 8.116,
+    "circuit_state": 0.67,
+    "fallback_traffic": 0.726
+  },
+  {
+    "upstream_outage": 8.268,
+    "trip_threshold": 11.644,
+    "error_rate": 7.495,
+    "circuit_state": -0.827,
+    "fallback_traffic": -0.647
+  },
+  {
+    "upstream_outage": 9.608,
+    "trip_threshold": 10.552,
+    "error_rate": 8.441,
+    "circuit_state": 0.872,
+    "fallback_traffic": 0.515
+  },
+  {
+    "upstream_outage": 9.206,
+    "trip_threshold": 10.334,
+    "error_rate": 7.992,
+    "circuit_state": 0.218,
+    "fallback_traffic": -0.121
+  },
+  {
+    "upstream_outage": 10.683,
+    "trip_threshold": 11.673,
+    "error_rate": 9.701,
+    "circuit_state": 0.903,
+    "fallback_traffic": 0.957
+  },
+  {
+    "upstream_outage": 11.508,
+    "trip_threshold": 11.462,
+    "error_rate": 10.444,
+    "circuit_state": 2.235,
+    "fallback_traffic": 2.175
+  },
+  {
+    "upstream_outage": 4.282,
+    "trip_threshold": 12.199,
+    "error_rate": 4.092,
+    "circuit_state": -3.898,
+    "fallback_traffic": -3.487
+  },
+  {
+    "upstream_outage": 9.575,
+    "trip_threshold": 8.99,
+    "error_rate": 8.312,
+    "circuit_state": 1.549,
+    "fallback_traffic": 1.329
+  },
+  {
+    "upstream_outage": 13.606,
+    "trip_threshold": 10.849,
+    "error_rate": 12.16,
+    "circuit_state": 3.218,
+    "fallback_traffic": 2.702
+  },
+  {
+    "upstream_outage": 8.441,
+    "trip_threshold": 9.77,
+    "error_rate": 7.514,
+    "circuit_state": 0.308,
+    "fallback_traffic": 0.458
+  },
+  {
+    "upstream_outage": 13.83,
+    "trip_threshold": 10.935,
+    "error_rate": 12.061,
+    "circuit_state": 3.122,
+    "fallback_traffic": 2.486
+  },
+  {
+    "upstream_outage": 10.713,
+    "trip_threshold": 9.614,
+    "error_rate": 9.739,
+    "circuit_state": 1.799,
+    "fallback_traffic": 1.334
+  },
+  {
+    "upstream_outage": 14.79,
+    "trip_threshold": 10.294,
+    "error_rate": 13.767,
+    "circuit_state": 4.741,
+    "fallback_traffic": 4.111
+  },
+  {
+    "upstream_outage": 10.918,
+    "trip_threshold": 10.457,
+    "error_rate": 9.929,
+    "circuit_state": 1.628,
+    "fallback_traffic": 1.336
+  },
+  {
+    "upstream_outage": 11.359,
+    "trip_threshold": 9.371,
+    "error_rate": 10.243,
+    "circuit_state": 2.644,
+    "fallback_traffic": 2.484
+  },
+  {
+    "upstream_outage": 11.655,
+    "trip_threshold": 9.795,
+    "error_rate": 10.686,
+    "circuit_state": 2.363,
+    "fallback_traffic": 1.773
+  },
+  {
+    "upstream_outage": 10.606,
+    "trip_threshold": 12.323,
+    "error_rate": 9.33,
+    "circuit_state": 0.034,
+    "fallback_traffic": 0.081
+  },
+  {
+    "upstream_outage": 10.201,
+    "trip_threshold": 11.627,
+    "error_rate": 9.298,
+    "circuit_state": 0.572,
+    "fallback_traffic": 0.568
+  },
+  {
+    "upstream_outage": 7.701,
+    "trip_threshold": 9.934,
+    "error_rate": 6.655,
+    "circuit_state": -0.553,
+    "fallback_traffic": -0.462
+  },
+  {
+    "upstream_outage": 8.873,
+    "trip_threshold": 7.033,
+    "error_rate": 8.342,
+    "circuit_state": 2.527,
+    "fallback_traffic": 1.962
+  },
+  {
+    "upstream_outage": 12.133,
+    "trip_threshold": 7.516,
+    "error_rate": 11.057,
+    "circuit_state": 4.434,
+    "fallback_traffic": 3.874
+  },
+  {
+    "upstream_outage": 12.287,
+    "trip_threshold": 8.526,
+    "error_rate": 10.828,
+    "circuit_state": 3.691,
+    "fallback_traffic": 2.829
+  },
+  {
+    "upstream_outage": 10.681,
+    "trip_threshold": 11.761,
+    "error_rate": 9.536,
+    "circuit_state": 0.767,
+    "fallback_traffic": 0.556
+  },
+  {
+    "upstream_outage": 7.495,
+    "trip_threshold": 10.893,
+    "error_rate": 7.084,
+    "circuit_state": -0.947,
+    "fallback_traffic": -1.23
+  },
+  {
+    "upstream_outage": 12.081,
+    "trip_threshold": 14.715,
+    "error_rate": 11.005,
+    "circuit_state": 0.096,
+    "fallback_traffic": 0.169
+  },
+  {
+    "upstream_outage": 9.236,
+    "trip_threshold": 9.793,
+    "error_rate": 8.408,
+    "circuit_state": 1.032,
+    "fallback_traffic": 0.912
+  },
+  {
+    "upstream_outage": 9.091,
+    "trip_threshold": 12.297,
+    "error_rate": 7.626,
+    "circuit_state": -1.158,
+    "fallback_traffic": -0.79
+  },
+  {
+    "upstream_outage": 12.427,
+    "trip_threshold": 8.528,
+    "error_rate": 11.347,
+    "circuit_state": 3.865,
+    "fallback_traffic": 3.402
+  },
+  {
+    "upstream_outage": 8.96,
+    "trip_threshold": 7.861,
+    "error_rate": 8.23,
+    "circuit_state": 1.941,
+    "fallback_traffic": 1.342
+  },
+  {
+    "upstream_outage": 10.621,
+    "trip_threshold": 10.952,
+    "error_rate": 9.16,
+    "circuit_state": 0.685,
+    "fallback_traffic": 0.691
+  },
+  {
+    "upstream_outage": 12.238,
+    "trip_threshold": 11.316,
+    "error_rate": 10.953,
+    "circuit_state": 2.126,
+    "fallback_traffic": 1.611
+  },
+  {
+    "upstream_outage": 10.521,
+    "trip_threshold": 10.141,
+    "error_rate": 9.6,
+    "circuit_state": 1.507,
+    "fallback_traffic": 1.296
+  },
+  {
+    "upstream_outage": 6.385,
+    "trip_threshold": 9.947,
+    "error_rate": 5.788,
+    "circuit_state": -1.368,
+    "fallback_traffic": -1.277
+  },
+  {
+    "upstream_outage": 11.067,
+    "trip_threshold": 12.746,
+    "error_rate": 10.039,
+    "circuit_state": 0.287,
+    "fallback_traffic": 0.342
+  },
+  {
+    "upstream_outage": 10.314,
+    "trip_threshold": 9.341,
+    "error_rate": 8.925,
+    "circuit_state": 1.36,
+    "fallback_traffic": 0.969
+  },
+  {
+    "upstream_outage": 13.685,
+    "trip_threshold": 11.977,
+    "error_rate": 12.347,
+    "circuit_state": 2.819,
+    "fallback_traffic": 2.437
+  },
+  {
+    "upstream_outage": 7.63,
+    "trip_threshold": 7.676,
+    "error_rate": 6.952,
+    "circuit_state": 0.959,
+    "fallback_traffic": 0.869
+  },
+  {
+    "upstream_outage": 7.111,
+    "trip_threshold": 10.139,
+    "error_rate": 6.571,
+    "circuit_state": -1.197,
+    "fallback_traffic": -0.97
+  },
+  {
+    "upstream_outage": 7.038,
+    "trip_threshold": 9.798,
+    "error_rate": 6.404,
+    "circuit_state": -1.078,
+    "fallback_traffic": -1.106
+  },
+  {
+    "upstream_outage": 7.39,
+    "trip_threshold": 9.914,
+    "error_rate": 6.657,
+    "circuit_state": -0.741,
+    "fallback_traffic": -0.571
+  },
+  {
+    "upstream_outage": 9.739,
+    "trip_threshold": 10.027,
+    "error_rate": 8.892,
+    "circuit_state": 1.147,
+    "fallback_traffic": 1.191
+  },
+  {
+    "upstream_outage": 9.412,
+    "trip_threshold": 11.839,
+    "error_rate": 8.546,
+    "circuit_state": -0.127,
+    "fallback_traffic": -0.14
+  },
+  {
+    "upstream_outage": 11.473,
+    "trip_threshold": 9.664,
+    "error_rate": 10.553,
+    "circuit_state": 2.463,
+    "fallback_traffic": 2.122
+  },
+  {
+    "upstream_outage": 7.618,
+    "trip_threshold": 9.677,
+    "error_rate": 6.58,
+    "circuit_state": -0.595,
+    "fallback_traffic": -0.605
+  },
+  {
+    "upstream_outage": 10.137,
+    "trip_threshold": 9.263,
+    "error_rate": 9.021,
+    "circuit_state": 1.267,
+    "fallback_traffic": 1.039
+  },
+  {
+    "upstream_outage": 11.052,
+    "trip_threshold": 10.483,
+    "error_rate": 10.116,
+    "circuit_state": 1.861,
+    "fallback_traffic": 1.433
+  },
+  {
+    "upstream_outage": 11.852,
+    "trip_threshold": 10.017,
+    "error_rate": 10.73,
+    "circuit_state": 2.309,
+    "fallback_traffic": 1.681
+  },
+  {
+    "upstream_outage": 11.511,
+    "trip_threshold": 10.155,
+    "error_rate": 10.405,
+    "circuit_state": 1.909,
+    "fallback_traffic": 1.607
+  },
+  {
+    "upstream_outage": 6.52,
+    "trip_threshold": 10.774,
+    "error_rate": 5.983,
+    "circuit_state": -1.723,
+    "fallback_traffic": -1.642
+  },
+  {
+    "upstream_outage": 11.159,
+    "trip_threshold": 9.547,
+    "error_rate": 10.241,
+    "circuit_state": 2.481,
+    "fallback_traffic": 1.664
+  },
+  {
+    "upstream_outage": 9.713,
+    "trip_threshold": 13.953,
+    "error_rate": 8.811,
+    "circuit_state": -1.441,
+    "fallback_traffic": -1.187
+  },
+  {
+    "upstream_outage": 12.577,
+    "trip_threshold": 9.769,
+    "error_rate": 11.278,
+    "circuit_state": 3.382,
+    "fallback_traffic": 3.27
+  },
+  {
+    "upstream_outage": 10.087,
+    "trip_threshold": 6.896,
+    "error_rate": 9.512,
+    "circuit_state": 3.468,
+    "fallback_traffic": 2.653
+  },
+  {
+    "upstream_outage": 9.966,
+    "trip_threshold": 11.536,
+    "error_rate": 9.04,
+    "circuit_state": 0.096,
+    "fallback_traffic": 0.034
+  },
+  {
+    "upstream_outage": 12.11,
+    "trip_threshold": 13.299,
+    "error_rate": 11.26,
+    "circuit_state": 1.244,
+    "fallback_traffic": 1.022
+  },
+  {
+    "upstream_outage": 9.524,
+    "trip_threshold": 13.244,
+    "error_rate": 8.481,
+    "circuit_state": -1.076,
+    "fallback_traffic": -1.194
+  },
+  {
+    "upstream_outage": 10.556,
+    "trip_threshold": 11.471,
+    "error_rate": 9.488,
+    "circuit_state": 0.431,
+    "fallback_traffic": 0.119
+  },
+  {
+    "upstream_outage": 8.35,
+    "trip_threshold": 11.79,
+    "error_rate": 7.769,
+    "circuit_state": -1.026,
+    "fallback_traffic": -0.888
+  },
+  {
+    "upstream_outage": 10.257,
+    "trip_threshold": 10.812,
+    "error_rate": 9.033,
+    "circuit_state": 0.703,
+    "fallback_traffic": 0.209
+  },
+  {
+    "upstream_outage": 11.352,
+    "trip_threshold": 8.631,
+    "error_rate": 10.303,
+    "circuit_state": 2.836,
+    "fallback_traffic": 2.439
+  },
+  {
+    "upstream_outage": 12.329,
+    "trip_threshold": 10.938,
+    "error_rate": 10.784,
+    "circuit_state": 2.366,
+    "fallback_traffic": 1.951
+  },
+  {
+    "upstream_outage": 6.526,
+    "trip_threshold": 8.943,
+    "error_rate": 5.858,
+    "circuit_state": -0.599,
+    "fallback_traffic": -0.802
+  },
+  {
+    "upstream_outage": 10.894,
+    "trip_threshold": 11.47,
+    "error_rate": 9.821,
+    "circuit_state": 0.845,
+    "fallback_traffic": 1.1
+  },
+  {
+    "upstream_outage": 9.991,
+    "trip_threshold": 10.068,
+    "error_rate": 9.105,
+    "circuit_state": 1.317,
+    "fallback_traffic": 1.336
+  },
+  {
+    "upstream_outage": 10.946,
+    "trip_threshold": 7.523,
+    "error_rate": 10.13,
+    "circuit_state": 3.294,
+    "fallback_traffic": 2.48
+  },
+  {
+    "upstream_outage": 7.304,
+    "trip_threshold": 10.45,
+    "error_rate": 6.529,
+    "circuit_state": -0.837,
+    "fallback_traffic": -0.401
+  },
+  {
+    "upstream_outage": 8.809,
+    "trip_threshold": 10.775,
+    "error_rate": 7.798,
+    "circuit_state": 0.087,
+    "fallback_traffic": 0.233
+  },
+  {
+    "upstream_outage": 9.691,
+    "trip_threshold": 12.764,
+    "error_rate": 8.556,
+    "circuit_state": -0.73,
+    "fallback_traffic": -0.888
+  },
+  {
+    "upstream_outage": 7.243,
+    "trip_threshold": 8.577,
+    "error_rate": 6.567,
+    "circuit_state": 0.162,
+    "fallback_traffic": 0.348
+  },
+  {
+    "upstream_outage": 11.266,
+    "trip_threshold": 9.159,
+    "error_rate": 9.873,
+    "circuit_state": 2.245,
+    "fallback_traffic": 2.018
+  },
+  {
+    "upstream_outage": 9.929,
+    "trip_threshold": 13.156,
+    "error_rate": 8.703,
+    "circuit_state": -1.19,
+    "fallback_traffic": -0.884
+  },
+  {
+    "upstream_outage": 7.959,
+    "trip_threshold": 10.191,
+    "error_rate": 7.258,
+    "circuit_state": -0.443,
+    "fallback_traffic": -0.315
+  },
+  {
+    "upstream_outage": 10.177,
+    "trip_threshold": 10.937,
+    "error_rate": 8.838,
+    "circuit_state": 0.345,
+    "fallback_traffic": 0.593
+  },
+  {
+    "upstream_outage": 12.352,
+    "trip_threshold": 9.678,
+    "error_rate": 10.94,
+    "circuit_state": 2.82,
+    "fallback_traffic": 2.339
+  },
+  {
+    "upstream_outage": 8.897,
+    "trip_threshold": 6.38,
+    "error_rate": 8.276,
+    "circuit_state": 2.604,
+    "fallback_traffic": 2.519
+  },
+  {
+    "upstream_outage": 8.184,
+    "trip_threshold": 7.043,
+    "error_rate": 7.487,
+    "circuit_state": 1.761,
+    "fallback_traffic": 1.682
+  },
+  {
+    "upstream_outage": 6.034,
+    "trip_threshold": 14.466,
+    "error_rate": 5.61,
+    "circuit_state": -4.356,
+    "fallback_traffic": -3.835
+  },
+  {
+    "upstream_outage": 8.253,
+    "trip_threshold": 11.225,
+    "error_rate": 7.245,
+    "circuit_state": -0.944,
+    "fallback_traffic": -0.679
+  },
+  {
+    "upstream_outage": 11.016,
+    "trip_threshold": 13.563,
+    "error_rate": 9.82,
+    "circuit_state": -0.38,
+    "fallback_traffic": -0.045
+  },
+  {
+    "upstream_outage": 9.707,
+    "trip_threshold": 12.028,
+    "error_rate": 9.042,
+    "circuit_state": 0.237,
+    "fallback_traffic": 0.238
+  },
+  {
+    "upstream_outage": 10.94,
+    "trip_threshold": 9.98,
+    "error_rate": 9.857,
+    "circuit_state": 1.84,
+    "fallback_traffic": 1.377
+  },
+  {
+    "upstream_outage": 8.658,
+    "trip_threshold": 8.4,
+    "error_rate": 8.073,
+    "circuit_state": 1.241,
+    "fallback_traffic": 0.668
+  },
+  {
+    "upstream_outage": 11.889,
+    "trip_threshold": 10.043,
+    "error_rate": 10.91,
+    "circuit_state": 2.401,
+    "fallback_traffic": 2.024
+  },
+  {
+    "upstream_outage": 12.987,
+    "trip_threshold": 10.243,
+    "error_rate": 11.357,
+    "circuit_state": 2.878,
+    "fallback_traffic": 2.425
+  },
+  {
+    "upstream_outage": 6.042,
+    "trip_threshold": 11.365,
+    "error_rate": 5.5,
+    "circuit_state": -2.481,
+    "fallback_traffic": -2.374
+  },
+  {
+    "upstream_outage": 9.195,
+    "trip_threshold": 10.457,
+    "error_rate": 8.406,
+    "circuit_state": 0.352,
+    "fallback_traffic": 0.206
+  },
+  {
+    "upstream_outage": 7.832,
+    "trip_threshold": 12.173,
+    "error_rate": 7.128,
+    "circuit_state": -1.966,
+    "fallback_traffic": -1.701
+  },
+  {
+    "upstream_outage": 11.696,
+    "trip_threshold": 8.328,
+    "error_rate": 10.721,
+    "circuit_state": 3.492,
+    "fallback_traffic": 3.153
+  },
+  {
+    "upstream_outage": 13.809,
+    "trip_threshold": 10.027,
+    "error_rate": 12.228,
+    "circuit_state": 3.423,
+    "fallback_traffic": 3.066
+  },
+  {
+    "upstream_outage": 6.925,
+    "trip_threshold": 9.173,
+    "error_rate": 6.073,
+    "circuit_state": -0.383,
+    "fallback_traffic": -0.529
+  },
+  {
+    "upstream_outage": 9.863,
+    "trip_threshold": 8.69,
+    "error_rate": 8.88,
+    "circuit_state": 1.961,
+    "fallback_traffic": 1.768
+  },
+  {
+    "upstream_outage": 7.578,
+    "trip_threshold": 13.204,
+    "error_rate": 6.986,
+    "circuit_state": -2.486,
+    "fallback_traffic": -2.07
+  },
+  {
+    "upstream_outage": 7.944,
+    "trip_threshold": 8.408,
+    "error_rate": 7.172,
+    "circuit_state": 0.679,
+    "fallback_traffic": 0.341
+  },
+  {
+    "upstream_outage": 9.209,
+    "trip_threshold": 13.227,
+    "error_rate": 8.611,
+    "circuit_state": -1.15,
+    "fallback_traffic": -1.1
+  },
+  {
+    "upstream_outage": 3.825,
+    "trip_threshold": 7.689,
+    "error_rate": 3.288,
+    "circuit_state": -1.881,
+    "fallback_traffic": -1.523
+  },
+  {
+    "upstream_outage": 7.15,
+    "trip_threshold": 12.41,
+    "error_rate": 6.269,
+    "circuit_state": -2.71,
+    "fallback_traffic": -2.171
+  },
+  {
+    "upstream_outage": 8.686,
+    "trip_threshold": 9.544,
+    "error_rate": 7.675,
+    "circuit_state": 0.602,
+    "fallback_traffic": 0.793
+  },
+  {
+    "upstream_outage": 9.196,
+    "trip_threshold": 9.408,
+    "error_rate": 8.133,
+    "circuit_state": 0.691,
+    "fallback_traffic": 0.497
+  },
+  {
+    "upstream_outage": 15.46,
+    "trip_threshold": 8.637,
+    "error_rate": 13.811,
+    "circuit_state": 5.846,
+    "fallback_traffic": 5.091
+  },
+  {
+    "upstream_outage": 7.23,
+    "trip_threshold": 8.635,
+    "error_rate": 6.47,
+    "circuit_state": 0.217,
+    "fallback_traffic": 0.225
+  },
+  {
+    "upstream_outage": 11.406,
+    "trip_threshold": 9.561,
+    "error_rate": 10.316,
+    "circuit_state": 2.617,
+    "fallback_traffic": 2.138
+  },
+  {
+    "upstream_outage": 7.171,
+    "trip_threshold": 14.181,
+    "error_rate": 6.872,
+    "circuit_state": -3.124,
+    "fallback_traffic": -2.682
+  },
+  {
+    "upstream_outage": 8.571,
+    "trip_threshold": 11.101,
+    "error_rate": 8.131,
+    "circuit_state": 0.089,
+    "fallback_traffic": 0.31
+  },
+  {
+    "upstream_outage": 10.541,
+    "trip_threshold": 10.373,
+    "error_rate": 9.209,
+    "circuit_state": 1.326,
+    "fallback_traffic": 1.393
+  },
+  {
+    "upstream_outage": 13.195,
+    "trip_threshold": 10.375,
+    "error_rate": 11.809,
+    "circuit_state": 3.102,
+    "fallback_traffic": 2.34
+  },
+  {
+    "upstream_outage": 9.102,
+    "trip_threshold": 8.91,
+    "error_rate": 8.45,
+    "circuit_state": 1.321,
+    "fallback_traffic": 1.493
+  },
+  {
+    "upstream_outage": 11.375,
+    "trip_threshold": 9.586,
+    "error_rate": 10.333,
+    "circuit_state": 2.586,
+    "fallback_traffic": 2.005
+  },
+  {
+    "upstream_outage": 13.147,
+    "trip_threshold": 9.965,
+    "error_rate": 11.883,
+    "circuit_state": 3.508,
+    "fallback_traffic": 3.114
+  },
+  {
+    "upstream_outage": 10.709,
+    "trip_threshold": 11.448,
+    "error_rate": 9.618,
+    "circuit_state": 0.54,
+    "fallback_traffic": 0.553
+  },
+  {
+    "upstream_outage": 11.207,
+    "trip_threshold": 10.884,
+    "error_rate": 9.779,
+    "circuit_state": 1.456,
+    "fallback_traffic": 1.35
+  },
+  {
+    "upstream_outage": 11.196,
+    "trip_threshold": 10.256,
+    "error_rate": 9.665,
+    "circuit_state": 1.819,
+    "fallback_traffic": 1.63
+  },
+  {
+    "upstream_outage": 11.888,
+    "trip_threshold": 10.98,
+    "error_rate": 10.751,
+    "circuit_state": 2.39,
+    "fallback_traffic": 2.04
+  },
+  {
+    "upstream_outage": 14.065,
+    "trip_threshold": 7.557,
+    "error_rate": 12.568,
+    "circuit_state": 5.806,
+    "fallback_traffic": 5.148
+  },
+  {
+    "upstream_outage": 9.313,
+    "trip_threshold": 7.13,
+    "error_rate": 8.385,
+    "circuit_state": 2.655,
+    "fallback_traffic": 2.706
+  },
+  {
+    "upstream_outage": 9.129,
+    "trip_threshold": 7.694,
+    "error_rate": 8.153,
+    "circuit_state": 1.701,
+    "fallback_traffic": 1.494
+  },
+  {
+    "upstream_outage": 10.106,
+    "trip_threshold": 8.55,
+    "error_rate": 8.913,
+    "circuit_state": 2.319,
+    "fallback_traffic": 1.958
+  },
+  {
+    "upstream_outage": 10.965,
+    "trip_threshold": 9.793,
+    "error_rate": 9.591,
+    "circuit_state": 1.586,
+    "fallback_traffic": 0.987
+  },
+  {
+    "upstream_outage": 10.945,
+    "trip_threshold": 9.719,
+    "error_rate": 9.669,
+    "circuit_state": 1.884,
+    "fallback_traffic": 1.776
+  },
+  {
+    "upstream_outage": 8.498,
+    "trip_threshold": 14.592,
+    "error_rate": 7.636,
+    "circuit_state": -2.504,
+    "fallback_traffic": -2.323
+  },
+  {
+    "upstream_outage": 8.113,
+    "trip_threshold": 10.508,
+    "error_rate": 7.325,
+    "circuit_state": -0.252,
+    "fallback_traffic": 0.229
+  },
+  {
+    "upstream_outage": 9.161,
+    "trip_threshold": 13.096,
+    "error_rate": 8.711,
+    "circuit_state": -1.017,
+    "fallback_traffic": -0.958
+  },
+  {
+    "upstream_outage": 13.03,
+    "trip_threshold": 8.479,
+    "error_rate": 11.598,
+    "circuit_state": 4.222,
+    "fallback_traffic": 3.5
+  },
+  {
+    "upstream_outage": 8.597,
+    "trip_threshold": 12.411,
+    "error_rate": 7.597,
+    "circuit_state": -1.662,
+    "fallback_traffic": -1.349
+  },
+  {
+    "upstream_outage": 9.294,
+    "trip_threshold": 12.32,
+    "error_rate": 8.612,
+    "circuit_state": -0.588,
+    "fallback_traffic": 0.068
+  },
+  {
+    "upstream_outage": 9.579,
+    "trip_threshold": 9.558,
+    "error_rate": 8.502,
+    "circuit_state": 1.006,
+    "fallback_traffic": 0.772
+  },
+  {
+    "upstream_outage": 11.776,
+    "trip_threshold": 10.261,
+    "error_rate": 11.218,
+    "circuit_state": 2.756,
+    "fallback_traffic": 2.302
+  },
+  {
+    "upstream_outage": 5.824,
+    "trip_threshold": 10.675,
+    "error_rate": 5.257,
+    "circuit_state": -2.197,
+    "fallback_traffic": -1.502
+  },
+  {
+    "upstream_outage": 9.702,
+    "trip_threshold": 7.24,
+    "error_rate": 8.782,
+    "circuit_state": 2.773,
+    "fallback_traffic": 2.203
+  },
+  {
+    "upstream_outage": 10.629,
+    "trip_threshold": 14.263,
+    "error_rate": 9.338,
+    "circuit_state": -1.083,
+    "fallback_traffic": -0.944
+  },
+  {
+    "upstream_outage": 14.648,
+    "trip_threshold": 7.865,
+    "error_rate": 12.851,
+    "circuit_state": 5.439,
+    "fallback_traffic": 4.606
+  },
+  {
+    "upstream_outage": 10.314,
+    "trip_threshold": 11.042,
+    "error_rate": 9.278,
+    "circuit_state": 0.667,
+    "fallback_traffic": 0.324
+  },
+  {
+    "upstream_outage": 11.603,
+    "trip_threshold": 7.763,
+    "error_rate": 10.377,
+    "circuit_state": 3.721,
+    "fallback_traffic": 3.291
+  },
+  {
+    "upstream_outage": 8.999,
+    "trip_threshold": 9.788,
+    "error_rate": 8.179,
+    "circuit_state": 0.702,
+    "fallback_traffic": 0.668
+  },
+  {
+    "upstream_outage": 8.904,
+    "trip_threshold": 11.19,
+    "error_rate": 8.282,
+    "circuit_state": 0.009,
+    "fallback_traffic": -0.08
+  },
+  {
+    "upstream_outage": 8.649,
+    "trip_threshold": 11.025,
+    "error_rate": 7.888,
+    "circuit_state": -0.282,
+    "fallback_traffic": -0.123
+  },
+  {
+    "upstream_outage": 8.323,
+    "trip_threshold": 9.491,
+    "error_rate": 7.388,
+    "circuit_state": 0.052,
+    "fallback_traffic": 0.207
+  },
+  {
+    "upstream_outage": 9.636,
+    "trip_threshold": 12.501,
+    "error_rate": 9.029,
+    "circuit_state": -0.078,
+    "fallback_traffic": 0.136
+  },
+  {
+    "upstream_outage": 9.301,
+    "trip_threshold": 9.759,
+    "error_rate": 8.226,
+    "circuit_state": 0.868,
+    "fallback_traffic": 0.687
+  },
+  {
+    "upstream_outage": 11.763,
+    "trip_threshold": 9.815,
+    "error_rate": 10.934,
+    "circuit_state": 3.084,
+    "fallback_traffic": 2.62
+  },
+  {
+    "upstream_outage": 9.75,
+    "trip_threshold": 9.133,
+    "error_rate": 8.542,
+    "circuit_state": 1.625,
+    "fallback_traffic": 1.137
+  },
+  {
+    "upstream_outage": 14.329,
+    "trip_threshold": 9.31,
+    "error_rate": 12.999,
+    "circuit_state": 4.905,
+    "fallback_traffic": 4.185
+  },
+  {
+    "upstream_outage": 11.871,
+    "trip_threshold": 11.685,
+    "error_rate": 10.908,
+    "circuit_state": 1.951,
+    "fallback_traffic": 1.917
+  },
+  {
+    "upstream_outage": 9.264,
+    "trip_threshold": 11.004,
+    "error_rate": 8.362,
+    "circuit_state": 0.063,
+    "fallback_traffic": 0.57
+  },
+  {
+    "upstream_outage": 8.143,
+    "trip_threshold": 13.479,
+    "error_rate": 7.078,
+    "circuit_state": -2.936,
+    "fallback_traffic": -2.409
+  },
+  {
+    "upstream_outage": 7.69,
+    "trip_threshold": 10.186,
+    "error_rate": 7.028,
+    "circuit_state": -0.191,
+    "fallback_traffic": -0.096
+  },
+  {
+    "upstream_outage": 8.992,
+    "trip_threshold": 11.293,
+    "error_rate": 8.017,
+    "circuit_state": -0.462,
+    "fallback_traffic": -0.294
+  },
+  {
+    "upstream_outage": 12.561,
+    "trip_threshold": 10.136,
+    "error_rate": 11.411,
+    "circuit_state": 3.235,
+    "fallback_traffic": 2.734
+  },
+  {
+    "upstream_outage": 10.919,
+    "trip_threshold": 10.115,
+    "error_rate": 9.782,
+    "circuit_state": 2.099,
+    "fallback_traffic": 1.82
+  },
+  {
+    "upstream_outage": 9.235,
+    "trip_threshold": 8.783,
+    "error_rate": 8.107,
+    "circuit_state": 1.149,
+    "fallback_traffic": 1.069
+  },
+  {
+    "upstream_outage": 8.248,
+    "trip_threshold": 10.939,
+    "error_rate": 6.874,
+    "circuit_state": -1.187,
+    "fallback_traffic": -0.981
+  },
+  {
+    "upstream_outage": 10.751,
+    "trip_threshold": 9.336,
+    "error_rate": 9.724,
+    "circuit_state": 2.64,
+    "fallback_traffic": 2.294
+  },
+  {
+    "upstream_outage": 11.798,
+    "trip_threshold": 11.046,
+    "error_rate": 10.547,
+    "circuit_state": 1.589,
+    "fallback_traffic": 1.387
+  },
+  {
+    "upstream_outage": 11.621,
+    "trip_threshold": 11.26,
+    "error_rate": 10.315,
+    "circuit_state": 1.55,
+    "fallback_traffic": 1.979
+  },
+  {
+    "upstream_outage": 11.023,
+    "trip_threshold": 7.97,
+    "error_rate": 9.888,
+    "circuit_state": 3.156,
+    "fallback_traffic": 2.627
+  },
+  {
+    "upstream_outage": 10.432,
+    "trip_threshold": 9.157,
+    "error_rate": 9.01,
+    "circuit_state": 1.692,
+    "fallback_traffic": 1.153
+  },
+  {
+    "upstream_outage": 8.853,
+    "trip_threshold": 11.915,
+    "error_rate": 7.916,
+    "circuit_state": -0.841,
+    "fallback_traffic": -0.463
+  },
+  {
+    "upstream_outage": 10.751,
+    "trip_threshold": 10.588,
+    "error_rate": 10.221,
+    "circuit_state": 2.027,
+    "fallback_traffic": 1.736
+  },
+  {
+    "upstream_outage": 13.138,
+    "trip_threshold": 11.151,
+    "error_rate": 11.998,
+    "circuit_state": 2.986,
+    "fallback_traffic": 2.551
+  },
+  {
+    "upstream_outage": 8.235,
+    "trip_threshold": 8.839,
+    "error_rate": 7.759,
+    "circuit_state": 1.054,
+    "fallback_traffic": 1.22
+  },
+  {
+    "upstream_outage": 6.43,
+    "trip_threshold": 11.884,
+    "error_rate": 6.046,
+    "circuit_state": -2.172,
+    "fallback_traffic": -1.726
+  },
+  {
+    "upstream_outage": 9.102,
+    "trip_threshold": 8.822,
+    "error_rate": 8.091,
+    "circuit_state": 1.218,
+    "fallback_traffic": 1.443
+  },
+  {
+    "upstream_outage": 8.924,
+    "trip_threshold": 11.507,
+    "error_rate": 7.93,
+    "circuit_state": -0.468,
+    "fallback_traffic": -0.232
+  },
+  {
+    "upstream_outage": 12.404,
+    "trip_threshold": 11.586,
+    "error_rate": 11.375,
+    "circuit_state": 2.315,
+    "fallback_traffic": 1.598
+  },
+  {
+    "upstream_outage": 10.461,
+    "trip_threshold": 10.463,
+    "error_rate": 9.804,
+    "circuit_state": 1.526,
+    "fallback_traffic": 1.093
+  },
+  {
+    "upstream_outage": 8.012,
+    "trip_threshold": 9.759,
+    "error_rate": 7.416,
+    "circuit_state": 0.358,
+    "fallback_traffic": 0.008
+  },
+  {
+    "upstream_outage": 11.072,
+    "trip_threshold": 10.116,
+    "error_rate": 10.081,
+    "circuit_state": 1.719,
+    "fallback_traffic": 1.304
+  },
+  {
+    "upstream_outage": 8.251,
+    "trip_threshold": 9.849,
+    "error_rate": 7.68,
+    "circuit_state": 0.161,
+    "fallback_traffic": 0.321
+  },
+  {
+    "upstream_outage": 8.95,
+    "trip_threshold": 7.741,
+    "error_rate": 7.814,
+    "circuit_state": 1.305,
+    "fallback_traffic": 1.054
+  },
+  {
+    "upstream_outage": 11.338,
+    "trip_threshold": 12.38,
+    "error_rate": 9.947,
+    "circuit_state": 0.528,
+    "fallback_traffic": 0.136
+  },
+  {
+    "upstream_outage": 9.914,
+    "trip_threshold": 9.098,
+    "error_rate": 8.731,
+    "circuit_state": 1.736,
+    "fallback_traffic": 1.57
+  },
+  {
+    "upstream_outage": 7.637,
+    "trip_threshold": 11.716,
+    "error_rate": 6.966,
+    "circuit_state": -1.758,
+    "fallback_traffic": -1.058
+  },
+  {
+    "upstream_outage": 10.658,
+    "trip_threshold": 8.938,
+    "error_rate": 9.342,
+    "circuit_state": 2.033,
+    "fallback_traffic": 1.877
+  },
+  {
+    "upstream_outage": 8.428,
+    "trip_threshold": 15.801,
+    "error_rate": 8.025,
+    "circuit_state": -3.164,
+    "fallback_traffic": -2.583
+  },
+  {
+    "upstream_outage": 8.028,
+    "trip_threshold": 10.988,
+    "error_rate": 7.108,
+    "circuit_state": -0.698,
+    "fallback_traffic": -0.599
+  },
+  {
+    "upstream_outage": 13.284,
+    "trip_threshold": 9.682,
+    "error_rate": 11.739,
+    "circuit_state": 3.068,
+    "fallback_traffic": 2.652
+  },
+  {
+    "upstream_outage": 7.354,
+    "trip_threshold": 8.718,
+    "error_rate": 6.604,
+    "circuit_state": 0.661,
+    "fallback_traffic": 0.838
+  },
+  {
+    "upstream_outage": 10.046,
+    "trip_threshold": 14.714,
+    "error_rate": 9.002,
+    "circuit_state": -1.731,
+    "fallback_traffic": -1.363
+  },
+  {
+    "upstream_outage": 9.529,
+    "trip_threshold": 9.702,
+    "error_rate": 8.608,
+    "circuit_state": 1.152,
+    "fallback_traffic": 0.716
+  },
+  {
+    "upstream_outage": 8.186,
+    "trip_threshold": 11.072,
+    "error_rate": 7.242,
+    "circuit_state": -0.903,
+    "fallback_traffic": -0.699
+  },
+  {
+    "upstream_outage": 11.032,
+    "trip_threshold": 11.541,
+    "error_rate": 9.94,
+    "circuit_state": 1.148,
+    "fallback_traffic": 1.158
+  },
+  {
+    "upstream_outage": 11.214,
+    "trip_threshold": 12.6,
+    "error_rate": 9.848,
+    "circuit_state": 0.475,
+    "fallback_traffic": 0.299
+  },
+  {
+    "upstream_outage": 11.465,
+    "trip_threshold": 6.101,
+    "error_rate": 10.149,
+    "circuit_state": 4.299,
+    "fallback_traffic": 4.064
+  },
+  {
+    "upstream_outage": 8.409,
+    "trip_threshold": 10.814,
+    "error_rate": 7.76,
+    "circuit_state": 0.049,
+    "fallback_traffic": 0.212
+  },
+  {
+    "upstream_outage": 9.482,
+    "trip_threshold": 11.957,
+    "error_rate": 8.345,
+    "circuit_state": -0.56,
+    "fallback_traffic": -0.398
+  },
+  {
+    "upstream_outage": 10.989,
+    "trip_threshold": 10.281,
+    "error_rate": 10.246,
+    "circuit_state": 2.076,
+    "fallback_traffic": 2.036
+  },
+  {
+    "upstream_outage": 11.397,
+    "trip_threshold": 4.624,
+    "error_rate": 10.063,
+    "circuit_state": 5.122,
+    "fallback_traffic": 4.31
+  },
+  {
+    "upstream_outage": 12.163,
+    "trip_threshold": 7.838,
+    "error_rate": 10.973,
+    "circuit_state": 4.219,
+    "fallback_traffic": 3.536
+  },
+  {
+    "upstream_outage": 9.744,
+    "trip_threshold": 12.637,
+    "error_rate": 9.024,
+    "circuit_state": -0.048,
+    "fallback_traffic": 0.049
+  },
+  {
+    "upstream_outage": 12.304,
+    "trip_threshold": 10.827,
+    "error_rate": 11.093,
+    "circuit_state": 2.583,
+    "fallback_traffic": 2.221
+  },
+  {
+    "upstream_outage": 12.298,
+    "trip_threshold": 8.88,
+    "error_rate": 11.019,
+    "circuit_state": 3.005,
+    "fallback_traffic": 2.315
+  },
+  {
+    "upstream_outage": 8.528,
+    "trip_threshold": 11.053,
+    "error_rate": 7.727,
+    "circuit_state": -0.485,
+    "fallback_traffic": -0.326
+  },
+  {
+    "upstream_outage": 6.49,
+    "trip_threshold": 7.294,
+    "error_rate": 5.824,
+    "circuit_state": 0.295,
+    "fallback_traffic": -0.025
+  },
+  {
+    "upstream_outage": 6.831,
+    "trip_threshold": 12.596,
+    "error_rate": 6.631,
+    "circuit_state": -2.291,
+    "fallback_traffic": -2.064
+  },
+  {
+    "upstream_outage": 9.983,
+    "trip_threshold": 9.618,
+    "error_rate": 9.478,
+    "circuit_state": 1.705,
+    "fallback_traffic": 1.41
+  },
+  {
+    "upstream_outage": 12.093,
+    "trip_threshold": 10.283,
+    "error_rate": 11.362,
+    "circuit_state": 2.727,
+    "fallback_traffic": 2.31
+  },
+  {
+    "upstream_outage": 10.446,
+    "trip_threshold": 7.163,
+    "error_rate": 9.332,
+    "circuit_state": 3.15,
+    "fallback_traffic": 2.902
+  },
+  {
+    "upstream_outage": 8.319,
+    "trip_threshold": 7.971,
+    "error_rate": 7.796,
+    "circuit_state": 1.154,
+    "fallback_traffic": 0.795
+  },
+  {
+    "upstream_outage": 11.124,
+    "trip_threshold": 9.089,
+    "error_rate": 10.371,
+    "circuit_state": 2.836,
+    "fallback_traffic": 2.205
+  },
+  {
+    "upstream_outage": 11.729,
+    "trip_threshold": 11.227,
+    "error_rate": 10.468,
+    "circuit_state": 1.691,
+    "fallback_traffic": 1.428
+  },
+  {
+    "upstream_outage": 9.449,
+    "trip_threshold": 8.597,
+    "error_rate": 8.414,
+    "circuit_state": 1.566,
+    "fallback_traffic": 1.553
+  },
+  {
+    "upstream_outage": 7.816,
+    "trip_threshold": 8.082,
+    "error_rate": 7.075,
+    "circuit_state": 1.171,
+    "fallback_traffic": 0.89
+  },
+  {
+    "upstream_outage": 13.603,
+    "trip_threshold": 10.014,
+    "error_rate": 11.965,
+    "circuit_state": 3.573,
+    "fallback_traffic": 2.789
+  },
+  {
+    "upstream_outage": 10.268,
+    "trip_threshold": 10.974,
+    "error_rate": 9.504,
+    "circuit_state": 1.112,
+    "fallback_traffic": 0.724
+  },
+  {
+    "upstream_outage": 10.147,
+    "trip_threshold": 11.177,
+    "error_rate": 9.13,
+    "circuit_state": 0.762,
+    "fallback_traffic": 0.808
+  },
+  {
+    "upstream_outage": 8.93,
+    "trip_threshold": 11.611,
+    "error_rate": 7.783,
+    "circuit_state": -0.668,
+    "fallback_traffic": -0.63
+  },
+  {
+    "upstream_outage": 6.813,
+    "trip_threshold": 7.088,
+    "error_rate": 6.213,
+    "circuit_state": 0.935,
+    "fallback_traffic": 0.521
+  },
+  {
+    "upstream_outage": 8.798,
+    "trip_threshold": 12.986,
+    "error_rate": 7.93,
+    "circuit_state": -1.686,
+    "fallback_traffic": -1.185
+  },
+  {
+    "upstream_outage": 8.471,
+    "trip_threshold": 7.926,
+    "error_rate": 7.562,
+    "circuit_state": 1.147,
+    "fallback_traffic": 0.975
+  },
+  {
+    "upstream_outage": 8.068,
+    "trip_threshold": 9.842,
+    "error_rate": 7.38,
+    "circuit_state": -0.203,
+    "fallback_traffic": -0.251
+  },
+  {
+    "upstream_outage": 11.127,
+    "trip_threshold": 10.093,
+    "error_rate": 9.735,
+    "circuit_state": 1.994,
+    "fallback_traffic": 1.573
+  },
+  {
+    "upstream_outage": 8.701,
+    "trip_threshold": 9.024,
+    "error_rate": 7.659,
+    "circuit_state": 0.584,
+    "fallback_traffic": 0.356
+  },
+  {
+    "upstream_outage": 7.979,
+    "trip_threshold": 7.547,
+    "error_rate": 7.08,
+    "circuit_state": 0.971,
+    "fallback_traffic": 0.866
+  },
+  {
+    "upstream_outage": 3.78,
+    "trip_threshold": 10.797,
+    "error_rate": 3.444,
+    "circuit_state": -3.753,
+    "fallback_traffic": -3.334
+  },
+  {
+    "upstream_outage": 13.577,
+    "trip_threshold": 9.636,
+    "error_rate": 12.251,
+    "circuit_state": 3.985,
+    "fallback_traffic": 3.185
+  },
+  {
+    "upstream_outage": 9.745,
+    "trip_threshold": 9.236,
+    "error_rate": 8.935,
+    "circuit_state": 1.837,
+    "fallback_traffic": 1.832
+  },
+  {
+    "upstream_outage": 10.682,
+    "trip_threshold": 9.573,
+    "error_rate": 9.444,
+    "circuit_state": 2.088,
+    "fallback_traffic": 1.553
+  },
+  {
+    "upstream_outage": 12.513,
+    "trip_threshold": 10.581,
+    "error_rate": 11.189,
+    "circuit_state": 2.501,
+    "fallback_traffic": 2.298
+  },
+  {
+    "upstream_outage": 10.189,
+    "trip_threshold": 11.147,
+    "error_rate": 9.144,
+    "circuit_state": 0.7,
+    "fallback_traffic": 0.318
+  },
+  {
+    "upstream_outage": 9.94,
+    "trip_threshold": 7.711,
+    "error_rate": 9.496,
+    "circuit_state": 2.374,
+    "fallback_traffic": 2.224
+  },
+  {
+    "upstream_outage": 13.88,
+    "trip_threshold": 7.049,
+    "error_rate": 12.561,
+    "circuit_state": 5.606,
+    "fallback_traffic": 4.658
+  },
+  {
+    "upstream_outage": 7.201,
+    "trip_threshold": 11.503,
+    "error_rate": 6.674,
+    "circuit_state": -1.342,
+    "fallback_traffic": -1.219
+  },
+  {
+    "upstream_outage": 8.994,
+    "trip_threshold": 11.631,
+    "error_rate": 8.11,
+    "circuit_state": -0.602,
+    "fallback_traffic": -0.348
+  },
+  {
+    "upstream_outage": 10.485,
+    "trip_threshold": 11.171,
+    "error_rate": 9.211,
+    "circuit_state": 0.421,
+    "fallback_traffic": 0.214
+  },
+  {
+    "upstream_outage": 8.956,
+    "trip_threshold": 9.02,
+    "error_rate": 7.916,
+    "circuit_state": 0.901,
+    "fallback_traffic": 0.845
+  },
+  {
+    "upstream_outage": 9.121,
+    "trip_threshold": 8.48,
+    "error_rate": 8.197,
+    "circuit_state": 1.62,
+    "fallback_traffic": 1.447
+  },
+  {
+    "upstream_outage": 11.404,
+    "trip_threshold": 14.135,
+    "error_rate": 10.388,
+    "circuit_state": -0.021,
+    "fallback_traffic": -0.066
+  },
+  {
+    "upstream_outage": 9.644,
+    "trip_threshold": 15.421,
+    "error_rate": 8.713,
+    "circuit_state": -2.333,
+    "fallback_traffic": -2.081
+  },
+  {
+    "upstream_outage": 10.413,
+    "trip_threshold": 12.444,
+    "error_rate": 9.304,
+    "circuit_state": 0.055,
+    "fallback_traffic": 0.028
+  },
+  {
+    "upstream_outage": 10.318,
+    "trip_threshold": 8.437,
+    "error_rate": 9.397,
+    "circuit_state": 2.659,
+    "fallback_traffic": 2.713
+  },
+  {
+    "upstream_outage": 9.406,
+    "trip_threshold": 8.085,
+    "error_rate": 8.438,
+    "circuit_state": 2.167,
+    "fallback_traffic": 1.857
+  },
+  {
+    "upstream_outage": 9.216,
+    "trip_threshold": 4.697,
+    "error_rate": 8.108,
+    "circuit_state": 3.411,
+    "fallback_traffic": 3.2
+  },
+  {
+    "upstream_outage": 11.389,
+    "trip_threshold": 15.591,
+    "error_rate": 10.207,
+    "circuit_state": -1.093,
+    "fallback_traffic": -0.647
+  },
+  {
+    "upstream_outage": 9.585,
+    "trip_threshold": 13.942,
+    "error_rate": 8.842,
+    "circuit_state": -1.455,
+    "fallback_traffic": -0.922
+  },
+  {
+    "upstream_outage": 11.317,
+    "trip_threshold": 9.79,
+    "error_rate": 10.281,
+    "circuit_state": 2.42,
+    "fallback_traffic": 1.922
+  },
+  {
+    "upstream_outage": 13.752,
+    "trip_threshold": 13.972,
+    "error_rate": 12.338,
+    "circuit_state": 1.637,
+    "fallback_traffic": 1.292
+  },
+  {
+    "upstream_outage": 7.935,
+    "trip_threshold": 8.114,
+    "error_rate": 6.827,
+    "circuit_state": 0.172,
+    "fallback_traffic": 0.393
+  },
+  {
+    "upstream_outage": 9.751,
+    "trip_threshold": 5.226,
+    "error_rate": 8.548,
+    "circuit_state": 3.814,
+    "fallback_traffic": 3.182
+  },
+  {
+    "upstream_outage": 10.09,
+    "trip_threshold": 13.552,
+    "error_rate": 9.25,
+    "circuit_state": -0.639,
+    "fallback_traffic": -0.491
+  },
+  {
+    "upstream_outage": 9.986,
+    "trip_threshold": 9.935,
+    "error_rate": 9.011,
+    "circuit_state": 1.182,
+    "fallback_traffic": 1.356
+  },
+  {
+    "upstream_outage": 9.198,
+    "trip_threshold": 10.101,
+    "error_rate": 8.265,
+    "circuit_state": 0.568,
+    "fallback_traffic": 0.763
+  },
+  {
+    "upstream_outage": 11.814,
+    "trip_threshold": 10.92,
+    "error_rate": 10.771,
+    "circuit_state": 2.137,
+    "fallback_traffic": 2.014
+  },
+  {
+    "upstream_outage": 9.239,
+    "trip_threshold": 11.326,
+    "error_rate": 8.343,
+    "circuit_state": 0.001,
+    "fallback_traffic": -0.34
+  },
+  {
+    "upstream_outage": 9.711,
+    "trip_threshold": 13.398,
+    "error_rate": 8.61,
+    "circuit_state": -1.177,
+    "fallback_traffic": -0.836
+  },
+  {
+    "upstream_outage": 10.218,
+    "trip_threshold": 7.49,
+    "error_rate": 9.46,
+    "circuit_state": 3.076,
+    "fallback_traffic": 2.543
+  },
+  {
+    "upstream_outage": 11.476,
+    "trip_threshold": 14.089,
+    "error_rate": 10.431,
+    "circuit_state": -0.339,
+    "fallback_traffic": -0.469
+  },
+  {
+    "upstream_outage": 9.188,
+    "trip_threshold": 9.788,
+    "error_rate": 7.935,
+    "circuit_state": 0.73,
+    "fallback_traffic": 0.45
+  },
+  {
+    "upstream_outage": 12.19,
+    "trip_threshold": 9.035,
+    "error_rate": 11.297,
+    "circuit_state": 3.64,
+    "fallback_traffic": 3.191
+  },
+  {
+    "upstream_outage": 10.274,
+    "trip_threshold": 12.566,
+    "error_rate": 9.407,
+    "circuit_state": 0.31,
+    "fallback_traffic": 0.002
+  },
+  {
+    "upstream_outage": 9.258,
+    "trip_threshold": 9.566,
+    "error_rate": 8.573,
+    "circuit_state": 1.092,
+    "fallback_traffic": 0.815
+  },
+  {
+    "upstream_outage": 13.999,
+    "trip_threshold": 10.947,
+    "error_rate": 12.906,
+    "circuit_state": 3.765,
+    "fallback_traffic": 3.352
+  },
+  {
+    "upstream_outage": 6.514,
+    "trip_threshold": 8.247,
+    "error_rate": 5.7,
+    "circuit_state": -0.235,
+    "fallback_traffic": -0.246
+  },
+  {
+    "upstream_outage": 7.889,
+    "trip_threshold": 9.136,
+    "error_rate": 6.732,
+    "circuit_state": -0.403,
+    "fallback_traffic": -0.669
+  },
+  {
+    "upstream_outage": 7.366,
+    "trip_threshold": 5.683,
+    "error_rate": 6.573,
+    "circuit_state": 2.069,
+    "fallback_traffic": 1.917
+  },
+  {
+    "upstream_outage": 9.009,
+    "trip_threshold": 5.505,
+    "error_rate": 7.834,
+    "circuit_state": 2.958,
+    "fallback_traffic": 2.288
+  },
+  {
+    "upstream_outage": 10.002,
+    "trip_threshold": 7.857,
+    "error_rate": 8.72,
+    "circuit_state": 2.31,
+    "fallback_traffic": 1.998
+  },
+  {
+    "upstream_outage": 11.228,
+    "trip_threshold": 7.783,
+    "error_rate": 10.325,
+    "circuit_state": 4.016,
+    "fallback_traffic": 3.376
+  },
+  {
+    "upstream_outage": 11.119,
+    "trip_threshold": 16.251,
+    "error_rate": 10.132,
+    "circuit_state": -1.636,
+    "fallback_traffic": -1.62
+  },
+  {
+    "upstream_outage": 8.765,
+    "trip_threshold": 10.958,
+    "error_rate": 8.151,
+    "circuit_state": -0.134,
+    "fallback_traffic": -0.382
+  },
+  {
+    "upstream_outage": 8.385,
+    "trip_threshold": 9.928,
+    "error_rate": 7.416,
+    "circuit_state": -0.255,
+    "fallback_traffic": -0.105
+  },
+  {
+    "upstream_outage": 13.168,
+    "trip_threshold": 5.445,
+    "error_rate": 11.678,
+    "circuit_state": 5.812,
+    "fallback_traffic": 5.133
+  },
+  {
+    "upstream_outage": 6.115,
+    "trip_threshold": 11.854,
+    "error_rate": 5.731,
+    "circuit_state": -2.338,
+    "fallback_traffic": -1.95
+  },
+  {
+    "upstream_outage": 6.221,
+    "trip_threshold": 7.33,
+    "error_rate": 5.739,
+    "circuit_state": 0.348,
+    "fallback_traffic": 0.042
+  },
+  {
+    "upstream_outage": 9.535,
+    "trip_threshold": 6.605,
+    "error_rate": 8.389,
+    "circuit_state": 2.66,
+    "fallback_traffic": 2.098
+  },
+  {
+    "upstream_outage": 9.319,
+    "trip_threshold": 9.652,
+    "error_rate": 8.062,
+    "circuit_state": 0.638,
+    "fallback_traffic": 0.239
+  },
+  {
+    "upstream_outage": 11.319,
+    "trip_threshold": 10.35,
+    "error_rate": 10.038,
+    "circuit_state": 1.78,
+    "fallback_traffic": 1.542
+  },
+  {
+    "upstream_outage": 10.6,
+    "trip_threshold": 11.076,
+    "error_rate": 9.77,
+    "circuit_state": 1.201,
+    "fallback_traffic": 1.139
+  },
+  {
+    "upstream_outage": 11.021,
+    "trip_threshold": 11.463,
+    "error_rate": 9.782,
+    "circuit_state": 0.747,
+    "fallback_traffic": 0.611
+  },
+  {
+    "upstream_outage": 11.213,
+    "trip_threshold": 11.432,
+    "error_rate": 10.068,
+    "circuit_state": 1.269,
+    "fallback_traffic": 0.962
+  },
+  {
+    "upstream_outage": 8.718,
+    "trip_threshold": 8.848,
+    "error_rate": 7.859,
+    "circuit_state": 1.058,
+    "fallback_traffic": 1.105
+  },
+  {
+    "upstream_outage": 8.681,
+    "trip_threshold": 11.336,
+    "error_rate": 7.761,
+    "circuit_state": -0.591,
+    "fallback_traffic": -0.615
+  },
+  {
+    "upstream_outage": 11.866,
+    "trip_threshold": 10.896,
+    "error_rate": 10.699,
+    "circuit_state": 1.862,
+    "fallback_traffic": 1.674
+  },
+  {
+    "upstream_outage": 12.294,
+    "trip_threshold": 7.972,
+    "error_rate": 11.211,
+    "circuit_state": 4.065,
+    "fallback_traffic": 3.654
+  },
+  {
+    "upstream_outage": 11.834,
+    "trip_threshold": 13.073,
+    "error_rate": 10.776,
+    "circuit_state": 0.708,
+    "fallback_traffic": 0.698
+  },
+  {
+    "upstream_outage": 6.774,
+    "trip_threshold": 7.778,
+    "error_rate": 6.315,
+    "circuit_state": 0.347,
+    "fallback_traffic": 0.035
+  },
+  {
+    "upstream_outage": 9.914,
+    "trip_threshold": 11.977,
+    "error_rate": 8.935,
+    "circuit_state": 0.284,
+    "fallback_traffic": -0.207
+  },
+  {
+    "upstream_outage": 11.784,
+    "trip_threshold": 11.23,
+    "error_rate": 10.543,
+    "circuit_state": 2.093,
+    "fallback_traffic": 1.51
+  },
+  {
+    "upstream_outage": 12.849,
+    "trip_threshold": 9.758,
+    "error_rate": 11.501,
+    "circuit_state": 3.378,
+    "fallback_traffic": 2.832
+  },
+  {
+    "upstream_outage": 8.356,
+    "trip_threshold": 12.84,
+    "error_rate": 7.456,
+    "circuit_state": -1.634,
+    "fallback_traffic": -1.735
+  },
+  {
+    "upstream_outage": 8.789,
+    "trip_threshold": 7.164,
+    "error_rate": 8.17,
+    "circuit_state": 2.466,
+    "fallback_traffic": 2.151
+  },
+  {
+    "upstream_outage": 10.593,
+    "trip_threshold": 13.991,
+    "error_rate": 9.388,
+    "circuit_state": -1.288,
+    "fallback_traffic": -1.078
+  },
+  {
+    "upstream_outage": 8.003,
+    "trip_threshold": 9.879,
+    "error_rate": 7.31,
+    "circuit_state": -0.28,
+    "fallback_traffic": -0.073
+  },
+  {
+    "upstream_outage": 8.854,
+    "trip_threshold": 8.494,
+    "error_rate": 7.932,
+    "circuit_state": 1.323,
+    "fallback_traffic": 1.308
+  },
+  {
+    "upstream_outage": 8.955,
+    "trip_threshold": 8.126,
+    "error_rate": 8.234,
+    "circuit_state": 1.865,
+    "fallback_traffic": 1.47
+  },
+  {
+    "upstream_outage": 8.176,
+    "trip_threshold": 11.71,
+    "error_rate": 7.372,
+    "circuit_state": -1.017,
+    "fallback_traffic": -0.394
+  },
+  {
+    "upstream_outage": 13.108,
+    "trip_threshold": 8.335,
+    "error_rate": 12.002,
+    "circuit_state": 5.186,
+    "fallback_traffic": 4.151
+  },
+  {
+    "upstream_outage": 6.84,
+    "trip_threshold": 8.109,
+    "error_rate": 6.138,
+    "circuit_state": 0.17,
+    "fallback_traffic": 0.057
+  },
+  {
+    "upstream_outage": 9.248,
+    "trip_threshold": 10.15,
+    "error_rate": 8.382,
+    "circuit_state": 0.521,
+    "fallback_traffic": 0.326
+  },
+  {
+    "upstream_outage": 10.59,
+    "trip_threshold": 11.357,
+    "error_rate": 9.556,
+    "circuit_state": 0.643,
+    "fallback_traffic": 0.646
+  },
+  {
+    "upstream_outage": 11.358,
+    "trip_threshold": 8.983,
+    "error_rate": 9.657,
+    "circuit_state": 2.708,
+    "fallback_traffic": 2.231
+  },
+  {
+    "upstream_outage": 10.388,
+    "trip_threshold": 7.916,
+    "error_rate": 9.337,
+    "circuit_state": 2.677,
+    "fallback_traffic": 2.195
+  },
+  {
+    "upstream_outage": 10.728,
+    "trip_threshold": 9.267,
+    "error_rate": 9.491,
+    "circuit_state": 2.044,
+    "fallback_traffic": 1.83
+  },
+  {
+    "upstream_outage": 9.601,
+    "trip_threshold": 10.884,
+    "error_rate": 8.774,
+    "circuit_state": 0.507,
+    "fallback_traffic": 0.614
+  },
+  {
+    "upstream_outage": 9.708,
+    "trip_threshold": 13.458,
+    "error_rate": 8.474,
+    "circuit_state": -1.045,
+    "fallback_traffic": -0.886
+  },
+  {
+    "upstream_outage": 11.111,
+    "trip_threshold": 11.76,
+    "error_rate": 9.713,
+    "circuit_state": 0.817,
+    "fallback_traffic": 0.399
+  },
+  {
+    "upstream_outage": 12.43,
+    "trip_threshold": 9.818,
+    "error_rate": 11.375,
+    "circuit_state": 3.203,
+    "fallback_traffic": 2.509
+  },
+  {
+    "upstream_outage": 9.413,
+    "trip_threshold": 11.562,
+    "error_rate": 8.603,
+    "circuit_state": 0.165,
+    "fallback_traffic": -0.322
+  },
+  {
+    "upstream_outage": 9.456,
+    "trip_threshold": 11.424,
+    "error_rate": 8.5,
+    "circuit_state": -0.042,
+    "fallback_traffic": -0.193
+  },
+  {
+    "upstream_outage": 9.175,
+    "trip_threshold": 9.302,
+    "error_rate": 8.169,
+    "circuit_state": 1.111,
+    "fallback_traffic": 1.025
+  }
+]

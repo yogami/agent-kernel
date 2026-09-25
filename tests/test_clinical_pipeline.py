@@ -25,6 +25,25 @@ def test_deidentification_scrubber():
     assert output["pii_leakage_risk"] == 0.0
 
 
+def test_hybrid_ner_deidentification_unstructured():
+    """Verify statistical NER catches unstructured entities (hospitals, doctors, patients, dates)."""
+    tool = DeidentifyTextTool()
+    unstructured_note = (
+        "5 y/o boy admitted 10/17/92. Transferred to UIHC by Dr. Peterson. "
+        "Mr. ABC was also evaluated at General Hospital in Baltimore."
+    )
+    result = tool.execute({"text": unstructured_note})
+    sanitized = result.output["sanitized_text"]
+
+    assert "[REDACTED_DATE]" in sanitized
+    assert "[REDACTED_HOSPITAL]" in sanitized
+    assert "[REDACTED_PATIENT]" in sanitized
+    assert "UIHC" not in sanitized
+    assert "Dr. Peterson" not in sanitized
+    assert "10/17/92" not in sanitized
+    assert result.output["pii_leakage_risk"] == 0.0
+
+
 def test_ontology_mapping():
     """Verify medical entity extraction maps to SNOMED-CT and ICD-10."""
     tool = MedicalOntologyMapperTool()
@@ -89,3 +108,35 @@ def test_clinical_assertions():
     })
     assert res_bad_vitals.output["passed"] is False
     assert res_bad_vitals.output["bounds_violated"] is True
+
+
+def test_pharmacology_knowledge_base_multi_class():
+    """Verify multi-class cross-reactivity checks (Cephalosporins, NSAIDs, Opioids)."""
+    tool = ClinicalAssertionCheckerTool()
+
+    # Cephalosporin cross-reactivity with penicillin allergy
+    res_ceph = tool.check_drug_contraindication(["penicillin allergy"], "cefazolin 1g IV")
+    assert res_ceph["conflict_detected"] is True
+    assert res_ceph["drug_class"] == "beta_lactam"
+
+    # NSAID conflict
+    res_nsaid = tool.check_drug_contraindication(["ibuprofen allergy"], "toradol 30mg")
+    assert res_nsaid["conflict_detected"] is True
+    assert res_nsaid["drug_class"] == "nsaid"
+
+    # Safe drug
+    res_safe = tool.check_drug_contraindication(["penicillin allergy"], "vancomycin 1g IV")
+    assert res_safe["conflict_detected"] is False
+
+
+def test_output_guardrail_contraindication_firewall():
+    """Verify ClinicalOutputGuardrails intercepts unsafe outputs deterministically."""
+    from core.guardrails import ClinicalOutputGuardrails
+
+    guardrail = ClinicalOutputGuardrails(patient_allergies=["penicillin allergy"])
+    unsafe_text = "The patient may receive standard beta-lactam antibiotics such as amoxicillin 500mg."
+    sanitized = guardrail.validate_text_output(unsafe_text)
+
+    assert guardrail.last_contraindication_blocked is True
+    assert "STRICTLY CONTRAINDICATED" in sanitized
+    assert "Kernel Assertion Gate" in sanitized

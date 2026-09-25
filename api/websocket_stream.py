@@ -10,7 +10,7 @@ from fastapi import APIRouter, WebSocket, WebSocketDisconnect
 
 from core.context_ram import ContextRAM
 from core.execution_loop import ExecutionEngine
-from domain.models import ConfigPack
+from domain.models import ConfigPack, StreamEventType
 from ops.config_manager import ConfigManager
 from ops.prometheus_exporter import metrics_collector
 
@@ -30,6 +30,7 @@ async def websocket_chat_endpoint(websocket: WebSocket) -> None:
             payload = json.loads(data_text)
             user_input = payload.get("user_input", "")
             session_id = payload.get("session_id", "ws_default_session")
+            tenant_id = payload.get("tenant_id", "default_tenant")
 
             if not user_input.strip():
                 continue
@@ -37,73 +38,69 @@ async def websocket_chat_endpoint(websocket: WebSocket) -> None:
             start_time = time.perf_counter()
             first_token_time: float | None = None
             active_pack = config_manager.get_active_pack()
+            completed_turn_data: dict[str, Any] | None = None
 
-            # Broadcast FSM Start Event
-            await websocket.send_text(json.dumps({
-                "event": "fsm_state",
-                "state": "COMPOSE_CONTEXT",
-                "session_id": session_id,
-            }))
+            last_trace_id: str | None = None
+            last_span_id: str | None = None
 
-            # Execute turn through engine
-            await websocket.send_text(json.dumps({
-                "event": "fsm_state",
-                "state": "MODEL_CALL",
-            }))
-
-            # Run turn (in-process)
-            turn = execution_engine.run_turn(
+            # Stream real-time events straight from the async engine
+            async for event in execution_engine.run_turn_stream(
                 user_input=user_input,
                 session_id=session_id,
                 active_config=active_pack,
-            )
+                tenant_id=tenant_id,
+            ):
+                if event.trace_id:
+                    last_trace_id = event.trace_id
+                if event.span_id:
+                    last_span_id = event.span_id
 
-            # Record TTFT (first token emission simulation/timing)
-            now = time.perf_counter()
-            ttft_ms = (now - start_time) * 1000.0 * 0.4  # TTFT fraction
-            first_token_time = now
-
-            # Broadcast tool events if executed
-            if turn.tool_calls:
-                for tc, tr in zip(turn.tool_calls, turn.tool_results):
+                if event.event == StreamEventType.FSM_STATE:
+                    await websocket.send_text(json.dumps({
+                        "event": "fsm_state",
+                        "state": event.payload.get("state"),
+                        "session_id": session_id,
+                        "trace_id": event.trace_id,
+                        "span_id": event.span_id,
+                    }))
+                elif event.event == StreamEventType.TOKEN:
+                    if first_token_time is None:
+                        first_token_time = time.perf_counter()
+                    await websocket.send_text(json.dumps({
+                        "event": "token",
+                        "delta": event.payload.get("delta", ""),
+                        "trace_id": event.trace_id,
+                        "span_id": event.span_id,
+                    }))
+                elif event.event == StreamEventType.TOOL_RESULT:
                     await websocket.send_text(json.dumps({
                         "event": "tool_executed",
-                        "tool_name": tc.tool_name,
-                        "arguments": tc.arguments,
-                        "output": tr.output,
+                        "tool_name": event.payload.get("tool_name"),
+                        "arguments": event.payload.get("arguments", {}),
+                        "output": event.payload.get("output"),
+                        "trace_id": event.trace_id,
+                        "span_id": event.span_id,
                     }))
-
-            # Stream generated tokens in small chunks
-            words = turn.model_output.split(" ")
-            for word in words:
-                await websocket.send_text(json.dumps({
-                    "event": "token",
-                    "delta": word + " ",
-                }))
-                await asyncio.sleep(0.01)  # Micro-cadence simulation
+                elif event.event == StreamEventType.TURN_COMPLETED:
+                    completed_turn_data = event.payload.get("turn", {})
 
             total_latency_ms = (time.perf_counter() - start_time) * 1000.0
-
-            # Record in Prometheus
-            metrics_collector.record_turn(
-                model_id="mock-kernel-v1",
-                latency_ms=total_latency_ms,
-                ttft_ms=ttft_ms,
-                tokens_in=turn.tokens_in,
-                tokens_out=turn.tokens_out,
-                cost_usd=turn.cost_usd,
-                status="success",
-            )
+            ttft_ms = (first_token_time - start_time) * 1000.0 if first_token_time else total_latency_ms * 0.4
+            turn_id = completed_turn_data.get("turn_id", "") if completed_turn_data else ""
+            cost_usd = completed_turn_data.get("cost_usd", 0.0) if completed_turn_data else 0.0
+            model_output = completed_turn_data.get("model_output", "") if completed_turn_data else ""
 
             # Broadcast Completion
             await websocket.send_text(json.dumps({
                 "event": "turn_completed",
-                "turn_id": turn.turn_id,
+                "turn_id": turn_id,
                 "ttft_ms": round(ttft_ms, 1),
                 "total_latency_ms": round(total_latency_ms, 1),
-                "cost_usd": turn.cost_usd,
-                "model_output": turn.model_output,
+                "cost_usd": cost_usd,
+                "model_output": model_output,
+                "trace_id": last_trace_id,
             }))
+
 
     except WebSocketDisconnect:
         pass

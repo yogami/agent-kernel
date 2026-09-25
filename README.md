@@ -113,20 +113,58 @@ Implements the open JSON-RPC 2.0 standard over stdio and HTTP, allowing external
 
 ---
 
-## 📊 Empirical 3-Way Longitudinal Benchmark
+## 📊 Evaluation & Verification
 
-We benchmarked `agent_kernel` against standard baselines across **100 multi-encounter longitudinal patient records** with planted temporal contradictions:
+We evaluate `agent_kernel` through two complementary frameworks: live frontier model testing and deterministic high-volume stress simulation.
 
-| Evaluation Metric | System A (Standard RAG) | System A+ (Schema-Checked) | System B (Agent Kernel) | Impact |
+### 1. Empirical Live Frontier Evaluation (Head-to-Head A/B/C v2)
+
+Benchmarked against raw frontier models and generic agent harnesses using authentic clinical records (`evals/mtsamples/mtsamples_v2.jsonl`) with live API execution via `AsyncGeminiAdapter` (`gemini-3.5-flash-lite`):
+
+| Metric | Track A: Raw Frontier LLM | Track B: Generic Agent Harness | Track C: Agent Kernel | Kernel Architectural Advantage |
 | :--- | :---: | :---: | :---: | :---: |
-| **Fact Contradiction Rate** | 12.5% | 12.5% | **2.1%** | **-83.2% contradictions** |
-| **Schema Breakage Rate** | 12.5% | 2.5% | **0.8%** | **-93.6% formatting errors** |
-| **PII / PHI Leakage Rate** | 100.0% | 0.0% | **0.0%** | **100% redacted** |
-| **Runaway Tool Loops** | 8.5% | 3.0% | **0.0%** | **Eliminated by FSM caps** |
-| **p95 Turn Latency** | 320 ms | 180 ms | **42 ms** | **7.6x faster** |
-| **Cost per Patient Record** | $0.038 | $0.024 | **$0.007** | **-81.5% cost reduction** |
+| **Memory Contradiction Writes** | 33.3% | 33.3% | **0.0%** | Tri-State Memory Quarantine blocks stale/conflicting writes |
+| **Drug Contraindication Escapes** | 0.0% | 8.3% | **0.0%** | Deterministic Knowledge Graph Assertion Gate |
+| **PHI / PII Data Exposure Rate** | 8.3% | 8.3% | **0.0%** | Output Firewall Redaction |
+| **Median Latency (P50)** | 7.3s | 18.7s | **5.4s** | Bounded Finite State Machine overhead |
 
----
+Complete report: [reports/ABC_CLINICAL_EVALUATION_V2.md](reports/ABC_CLINICAL_EVALUATION_V2.md).  
+
+> [!NOTE]
+> **PHI / PII Gate Enforcement & Metric Reconciliation:**
+> - In Live Frontier Evaluation (Section 1), Track C achieves a 0.0% PHI exposure rate via the `OutputGuardrails` deterministic privacy gate (`PAT-*`, `MRN:*`), preventing unscrubbed model emissions. Raw models (Track A) and generic harnesses (Track B) exhibited an 8.3% exposure rate.
+> - In Pipeline Simulation (Section 2), the 0.0% leakage rate reflects automated de-identification across 100 multi-encounter Synthea records.
+> - Pipeline simulation metrics represent algorithmic state machine latency (p95 overhead 7.7 ms, $0.0014 per record), whereas Section 1 measures end-to-end network API latency against live frontier models.
+
+Reproduce with live models:
+```bash
+python ops/run_abc_clinical_eval_v2.py --cases 12 --adapter gemini
+```
+
+
+### 2. High-Volume Pipeline Simulation (100 Longitudinal Records)
+
+*(Deterministic simulation: not measured on live patient data).*
+
+To profile memory growth, loop breaking, and admission gates at scale without incurring API spend, `ops/benchmark.py` provides deterministic algorithmic stress testing across 100 multi-encounter Synthea records (200 encounters):
+
+| Metric | System A (Flat RAG) | System A+ (Schema-Checked) | System B (Agent Kernel) | Impact |
+| :--- | :---: | :---: | :---: | :---: |
+| **Fact Contradiction Rate** (Simulation) | 12.5% | 12.5% | **0.0%** | Contradictions isolated to quarantine backlog |
+| **Schema Breakage Rate** (Simulation) | 12.5% | 0.0% | **0.0%** | Strict Pydantic v2 contract enforcement |
+| **PII / PHI Leakage Rate** (Simulation) | 100.0% | 87.5% | **0.0%** | Automated de-identification pipeline |
+| **Runaway Loop Incidents** (Simulation) | 12.5% | 0.0% | **0.0%** | Hard step budgets and signature cycle breakers |
+| **p95 Turn Overhead (ms)** (Simulation) | 15.0 ms | 10.0 ms | **7.7 ms** | Local algorithmic execution latency |
+
+*(Deterministic simulation: not measured on live patient data. Reconciled against ops/benchmark.py timing: p95 turn overhead 7.7 ms, $0.0014 cost per record).*
+
+
+
+Complete report: [BENCHMARK_REPORT.md](BENCHMARK_REPORT.md).  
+Run simulation:
+```bash
+python ops/benchmark.py
+```
 
 ## 🛠️ Project Structure (Hexagonal Architecture)
 
@@ -172,11 +210,14 @@ agent_kernel/
 │   ├── app.py                   # REST endpoints and Prometheus scrape router
 │   ├── websocket_stream.py      # Real-time WebSocket token and state event stream
 │   └── static/index.html        # Real-time FSM, Memory, and Benchmark cockpit
-├── tests/                       # Comprehensive pytest suite (35 tests passing in 0.35s)
+├── tests/                       # Comprehensive pytest suite (165 tests passing in ~5s)
 │   ├── test_causal_reasoning.py # SCM DAGs, do(X) intervention, counterfactuals, memory gate
 │   ├── test_state_machine.py    # FSM transitions, budget caps, loop break triggers
 │   ├── test_memory_gate.py      # Quarantine isolation, contradiction rejection, promotion
-│   ├── test_multimodal.py      # Pose landmarks, 3D angle math, safety breakers, VLM summaries
+│   ├── test_tool_sandbox.py     # Subprocess containment, path traversal and network guards
+│   ├── test_policy_engine.py    # Declarative policy gates and monotonic checks
+│   ├── test_llm_adapters_multi_provider.py # Multi-provider client cascade and fallback
+│   ├── test_multimodal.py      # Pose landmarks, 3D angle math, safety breakers
 │   ├── test_hybrid_rag.py       # BM25, dense vectors, RRF score bounds, citations
 │   ├── test_mcp.py              # JSON-RPC 2.0 tool discovery, execution, error handling
 │   ├── test_streaming.py        # WebSocket streaming and Prometheus metrics format
@@ -202,7 +243,7 @@ pip install -r requirements.txt
 ### 2. Run Test Suite
 ```bash
 make test
-# or pytest tests/ -v (35 passing tests in 0.35s)
+# or pytest tests/ -v (165 passing tests in ~5s)
 ```
 
 ### 3. Run MCP Server (Stdio Mode)

@@ -36,6 +36,7 @@ class SQLiteFactStore(FactStorePort):
         conn.row_factory = sqlite3.Row
         conn.execute("PRAGMA journal_mode=WAL;")
         conn.execute("PRAGMA foreign_keys=ON;")
+        conn.execute("PRAGMA busy_timeout=5000;")
         return conn
 
     def _init_db(self) -> None:
@@ -45,6 +46,7 @@ class SQLiteFactStore(FactStorePort):
             conn.execute("""
                 CREATE TABLE IF NOT EXISTS fact_quarantine (
                     candidate_id TEXT PRIMARY KEY,
+                    tenant_id TEXT NOT NULL DEFAULT 'default_tenant',
                     source_episode_id TEXT NOT NULL,
                     session_id TEXT NOT NULL,
                     subject TEXT NOT NULL,
@@ -58,17 +60,24 @@ class SQLiteFactStore(FactStorePort):
                     created_at TEXT NOT NULL
                 );
             """)
+            # Migration check for existing SQLite tables
+            cursor = conn.execute("PRAGMA table_info(fact_quarantine);")
+            cols = [row[1] for row in cursor.fetchall()]
+            if "tenant_id" not in cols:
+                conn.execute("ALTER TABLE fact_quarantine ADD COLUMN tenant_id TEXT NOT NULL DEFAULT 'default_tenant';")
+
             conn.execute("""
-                CREATE INDEX IF NOT EXISTS idx_quarantine_status ON fact_quarantine(status);
+                CREATE INDEX IF NOT EXISTS idx_quarantine_tenant_status ON fact_quarantine(tenant_id, status);
             """)
             conn.execute("""
-                CREATE INDEX IF NOT EXISTS idx_quarantine_session ON fact_quarantine(session_id);
+                CREATE INDEX IF NOT EXISTS idx_quarantine_tenant_session ON fact_quarantine(tenant_id, session_id);
             """)
 
             # Semantic Facts Table (promoted verified facts only)
             conn.execute("""
                 CREATE TABLE IF NOT EXISTS semantic_facts (
                     fact_id TEXT PRIMARY KEY,
+                    tenant_id TEXT NOT NULL DEFAULT 'default_tenant',
                     candidate_id TEXT NOT NULL,
                     source_episode_id TEXT NOT NULL,
                     session_id TEXT NOT NULL,
@@ -84,11 +93,16 @@ class SQLiteFactStore(FactStorePort):
                     provenance_json TEXT NOT NULL
                 );
             """)
+            cursor = conn.execute("PRAGMA table_info(semantic_facts);")
+            cols = [row[1] for row in cursor.fetchall()]
+            if "tenant_id" not in cols:
+                conn.execute("ALTER TABLE semantic_facts ADD COLUMN tenant_id TEXT NOT NULL DEFAULT 'default_tenant';")
+
             conn.execute("""
-                CREATE INDEX IF NOT EXISTS idx_semantic_subject ON semantic_facts(subject, is_active);
+                CREATE INDEX IF NOT EXISTS idx_semantic_tenant_subject ON semantic_facts(tenant_id, subject, is_active);
             """)
             conn.execute("""
-                CREATE INDEX IF NOT EXISTS idx_semantic_session ON semantic_facts(session_id);
+                CREATE INDEX IF NOT EXISTS idx_semantic_tenant_session ON semantic_facts(tenant_id, session_id);
             """)
         if self._conn is None:
             conn.close()
@@ -100,13 +114,14 @@ class SQLiteFactStore(FactStorePort):
             conn.execute(
                 """
                 INSERT INTO fact_quarantine (
-                    candidate_id, source_episode_id, session_id, subject, predicate,
+                    candidate_id, tenant_id, source_episode_id, session_id, subject, predicate,
                     object, confidence, extractor_model, status, rejection_reason,
                     rejection_detail, created_at
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     candidate.candidate_id,
+                    candidate.tenant_id,
                     candidate.source_episode_id,
                     candidate.session_id,
                     candidate.subject.strip().lower(),
@@ -149,17 +164,17 @@ class SQLiteFactStore(FactStorePort):
         if self._conn is None:
             conn.close()
 
-    def get_pending_candidates(self, limit: int = 50) -> list[CandidateFact]:
-        """Fetch unreviewed candidate facts from quarantine."""
+    def get_pending_candidates(self, limit: int = 50, tenant_id: str = "default_tenant") -> list[CandidateFact]:
+        """Fetch unreviewed candidate facts from quarantine scoped by tenant."""
         conn = self._get_connection()
         cursor = conn.execute(
             """
             SELECT * FROM fact_quarantine
-            WHERE status = ?
+            WHERE tenant_id = ? AND status = ?
             ORDER BY created_at ASC
             LIMIT ?
             """,
-            (AdmissionStatus.PENDING.value, limit),
+            (tenant_id, AdmissionStatus.PENDING.value, limit),
         )
         rows = cursor.fetchall()
         candidates = [self._row_to_candidate(row) for row in rows]
@@ -167,22 +182,68 @@ class SQLiteFactStore(FactStorePort):
             conn.close()
         return candidates
 
-    def get_quarantine_records(self, limit: int = 100) -> list[CandidateFact]:
-        """List all quarantined records with statuses and reasons."""
+    def get_quarantine_records(self, limit: int = 100, tenant_id: str = "default_tenant") -> list[CandidateFact]:
+        """List all quarantined records with statuses and reasons scoped by tenant."""
         conn = self._get_connection()
         cursor = conn.execute(
             """
             SELECT * FROM fact_quarantine
+            WHERE tenant_id = ?
             ORDER BY created_at DESC
             LIMIT ?
             """,
-            (limit,),
+            (tenant_id, limit),
         )
         rows = cursor.fetchall()
         candidates = [self._row_to_candidate(row) for row in rows]
         if self._conn is None:
             conn.close()
         return candidates
+
+    def get_candidate(self, candidate_id: str) -> CandidateFact | None:
+        """Fetch a specific quarantined candidate by unique candidate ID."""
+        conn = self._get_connection()
+        cursor = conn.execute(
+            """
+            SELECT * FROM fact_quarantine
+            WHERE candidate_id = ?
+            LIMIT 1
+            """,
+            (candidate_id,),
+        )
+        row = cursor.fetchone()
+        candidate = self._row_to_candidate(row) if row else None
+        if self._conn is None:
+            conn.close()
+        return candidate
+
+    def purge_quarantine_records(
+        self,
+        older_than: datetime,
+        statuses: list[AdmissionStatus] | None = None,
+        tenant_id: str = "default_tenant",
+    ) -> int:
+        """Purge historical candidate records from quarantine matching retention criteria."""
+        conn = self._get_connection()
+        cutoff_iso = older_than.isoformat()
+        target_statuses = statuses or [AdmissionStatus.REJECTED]
+        placeholders = ",".join("?" for _ in target_statuses)
+        status_values = [s.value for s in target_statuses]
+
+        query = f"""
+            DELETE FROM fact_quarantine
+            WHERE tenant_id = ?
+              AND created_at < ?
+              AND status IN ({placeholders});
+        """
+        params = [tenant_id, cutoff_iso] + status_values
+        with conn:
+            cursor = conn.execute(query, tuple(params))
+            deleted_count = cursor.rowcount
+
+        if self._conn is None:
+            conn.close()
+        return max(0, deleted_count)
 
     def insert_semantic_fact(self, fact: SemanticFact) -> None:
         """Commit a verified fact to durable long-term storage."""
@@ -191,13 +252,14 @@ class SQLiteFactStore(FactStorePort):
             conn.execute(
                 """
                 INSERT INTO semantic_facts (
-                    fact_id, candidate_id, source_episode_id, session_id, subject,
+                    fact_id, tenant_id, candidate_id, source_episode_id, session_id, subject,
                     predicate, object, confidence, valid_from, valid_until,
                     is_active, retired_at, promoted_at, provenance_json
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
                 (
                     fact.fact_id,
+                    fact.tenant_id,
                     fact.candidate_id,
                     fact.source_episode_id,
                     fact.session_id,
@@ -216,17 +278,17 @@ class SQLiteFactStore(FactStorePort):
         if self._conn is None:
             conn.close()
 
-    def get_active_facts_for_subject(self, subject: str) -> list[SemanticFact]:
-        """Fetch currently valid semantic facts matching a subject key."""
+    def get_active_facts_for_subject(self, subject: str, tenant_id: str = "default_tenant") -> list[SemanticFact]:
+        """Fetch currently valid semantic facts matching a subject key within a tenant."""
         clean_subject = subject.strip().lower()
         conn = self._get_connection()
         cursor = conn.execute(
             """
             SELECT * FROM semantic_facts
-            WHERE subject = ? AND is_active = 1
+            WHERE tenant_id = ? AND subject = ? AND is_active = 1
             ORDER BY promoted_at DESC
             """,
-            (clean_subject,),
+            (tenant_id, clean_subject),
         )
         rows = cursor.fetchall()
         facts = [self._row_to_semantic_fact(row) for row in rows]
@@ -234,7 +296,7 @@ class SQLiteFactStore(FactStorePort):
             conn.close()
         return facts
 
-    def retire_fact(self, fact_id: str, reason: str = "") -> None:
+    def retire_fact(self, fact_id: str, reason: str = "", tenant_id: str = "default_tenant") -> None:
         """Retire or supersede an existing semantic fact."""
         now = datetime.now(timezone.utc).isoformat()
         conn = self._get_connection()
@@ -243,32 +305,33 @@ class SQLiteFactStore(FactStorePort):
                 """
                 UPDATE semantic_facts
                 SET is_active = 0, retired_at = ?, valid_until = ?
-                WHERE fact_id = ?
+                WHERE tenant_id = ? AND fact_id = ?
                 """,
-                (now, now, fact_id),
+                (now, now, tenant_id, fact_id),
             )
         if self._conn is None:
             conn.close()
 
-    def query_all_semantic_facts(self, session_id: str | None = None) -> list[SemanticFact]:
-        """Retrieve all active semantic facts, optionally scoped by session."""
+    def query_all_semantic_facts(self, session_id: str | None = None, tenant_id: str = "default_tenant") -> list[SemanticFact]:
+        """Retrieve all active semantic facts scoped by tenant, optionally by session."""
         conn = self._get_connection()
         if session_id:
             cursor = conn.execute(
                 """
                 SELECT * FROM semantic_facts
-                WHERE session_id = ? AND is_active = 1
+                WHERE tenant_id = ? AND session_id = ? AND is_active = 1
                 ORDER BY promoted_at DESC
                 """,
-                (session_id,),
+                (tenant_id, session_id),
             )
         else:
             cursor = conn.execute(
                 """
                 SELECT * FROM semantic_facts
-                WHERE is_active = 1
+                WHERE tenant_id = ? AND is_active = 1
                 ORDER BY promoted_at DESC
-                """
+                """,
+                (tenant_id,),
             )
         rows = cursor.fetchall()
         facts = [self._row_to_semantic_fact(row) for row in rows]
@@ -280,6 +343,7 @@ class SQLiteFactStore(FactStorePort):
         reason_val = row["rejection_reason"]
         return CandidateFact(
             candidate_id=row["candidate_id"],
+            tenant_id=row["tenant_id"] if "tenant_id" in row.keys() else "default_tenant",
             source_episode_id=row["source_episode_id"],
             session_id=row["session_id"],
             subject=row["subject"],
@@ -296,6 +360,7 @@ class SQLiteFactStore(FactStorePort):
     def _row_to_semantic_fact(self, row: sqlite3.Row) -> SemanticFact:
         return SemanticFact(
             fact_id=row["fact_id"],
+            tenant_id=row["tenant_id"] if "tenant_id" in row.keys() else "default_tenant",
             candidate_id=row["candidate_id"],
             source_episode_id=row["source_episode_id"],
             session_id=row["session_id"],

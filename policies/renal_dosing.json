@@ -1,0 +1,37 @@
+{
+  "domain": "healthcare_renal_dosing",
+  "version": "1.0.0",
+  "description": "Renal Clearance and Hepatic Dosing Boundary Policies",
+  "renal_rules": [
+    {
+      "rule_id": "RULE-RENAL-001",
+      "drug": "apixaban",
+      "standard_dose": "5mg BID",
+      "crcl_threshold": 25.0,
+      "dose_reduction_dose": "2.5mg BID",
+      "severity": "HIGH",
+      "explanation": "Apixaban requires dose reduction to 2.5mg BID in patients with severe renal impairment (CrCl < 25 mL/min) or meeting 2 of 3 criteria (age >= 80, weight <= 60 kg, serum creatinine >= 1.5 mg/dL). Full 5mg BID carries extreme bleeding hazard.",
+      "remediation": "Reduce dose to 2.5mg BID or consult clinical pharmacist."
+    },
+    {
+      "rule_id": "RULE-RENAL-002",
+      "drug": "vancomycin",
+      "standard_dose": "1g IV q12h",
+      "crcl_threshold": 30.0,
+      "severity": "HIGH",
+      "explanation": "Vancomycin q12h dosing is strictly contraindicated in severe renal impairment (CrCl < 30 mL/min) without interval extension (q24h-q48h) and AUC/trough monitoring.",
+      "remediation": "Extend interval to q24-48h and monitor serum trough levels."
+    }
+  ],
+  "hepatic_rules": [
+    {
+      "rule_id": "RULE-HEPATIC-001",
+      "drug": "acetaminophen",
+      "max_daily_dose_mg_standard": 4000,
+      "max_daily_dose_mg_cirrhosis": 2000,
+      "severity": "HIGH",
+      "explanation": "Acetaminophen doses exceeding 2000 mg/day in Child-Pugh Class C severe cirrhosis exceed impaired hepatic glutathione capacity, risking acute hepatotoxicity.",
+      "remediation": "Cap acetaminophen dose to maximum 2000 mg/24h or use alternative non-hepatotoxic analgesics."
+    }
+  ]
+}

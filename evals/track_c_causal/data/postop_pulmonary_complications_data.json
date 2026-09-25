@@ -1,0 +1,3502 @@
+[
+  {
+    "anesthesia_hours": 11.401,
+    "incentive_spirometry": 13.39,
+    "atelectasis_severity": 8.524,
+    "postop_hypoxemia": -2.301,
+    "icu_readmission": -1.862
+  },
+  {
+    "anesthesia_hours": 9.304,
+    "incentive_spirometry": 10.119,
+    "atelectasis_severity": 7.411,
+    "postop_hypoxemia": -0.526,
+    "icu_readmission": -0.458
+  },
+  {
+    "anesthesia_hours": 14.415,
+    "incentive_spirometry": 9.406,
+    "atelectasis_severity": 10.771,
+    "postop_hypoxemia": 2.356,
+    "icu_readmission": 2.226
+  },
+  {
+    "anesthesia_hours": 12.462,
+    "incentive_spirometry": 13.504,
+    "atelectasis_severity": 9.466,
+    "postop_hypoxemia": -1.461,
+    "icu_readmission": -1.348
+  },
+  {
+    "anesthesia_hours": 12.079,
+    "incentive_spirometry": 11.526,
+    "atelectasis_severity": 9.246,
+    "postop_hypoxemia": 0.067,
+    "icu_readmission": -0.0
+  },
+  {
+    "anesthesia_hours": 11.114,
+    "incentive_spirometry": 8.473,
+    "atelectasis_severity": 8.185,
+    "postop_hypoxemia": 1.192,
+    "icu_readmission": 1.3
+  },
+  {
+    "anesthesia_hours": 4.702,
+    "incentive_spirometry": 7.408,
+    "atelectasis_severity": 3.54,
+    "postop_hypoxemia": -1.83,
+    "icu_readmission": -1.442
+  },
+  {
+    "anesthesia_hours": 15.357,
+    "incentive_spirometry": 19.808,
+    "atelectasis_severity": 11.36,
+    "postop_hypoxemia": -4.178,
+    "icu_readmission": -3.722
+  },
+  {
+    "anesthesia_hours": 9.728,
+    "incentive_spirometry": 7.636,
+    "atelectasis_severity": 7.117,
+    "postop_hypoxemia": 0.543,
+    "icu_readmission": 0.492
+  },
+  {
+    "anesthesia_hours": 9.713,
+    "incentive_spirometry": 12.173,
+    "atelectasis_severity": 7.305,
+    "postop_hypoxemia": -2.131,
+    "icu_readmission": -1.889
+  },
+  {
+    "anesthesia_hours": 7.554,
+    "incentive_spirometry": 6.995,
+    "atelectasis_severity": 5.63,
+    "postop_hypoxemia": -0.103,
+    "icu_readmission": -0.176
+  },
+  {
+    "anesthesia_hours": 7.283,
+    "incentive_spirometry": 5.325,
+    "atelectasis_severity": 6.077,
+    "postop_hypoxemia": 1.924,
+    "icu_readmission": 1.607
+  },
+  {
+    "anesthesia_hours": 15.589,
+    "incentive_spirometry": 14.134,
+    "atelectasis_severity": 11.528,
+    "postop_hypoxemia": -0.026,
+    "icu_readmission": 0.019
+  },
+  {
+    "anesthesia_hours": 14.98,
+    "incentive_spirometry": 16.91,
+    "atelectasis_severity": 11.429,
+    "postop_hypoxemia": -1.817,
+    "icu_readmission": -1.23
+  },
+  {
+    "anesthesia_hours": 16.332,
+    "incentive_spirometry": 15.111,
+    "atelectasis_severity": 12.296,
+    "postop_hypoxemia": 0.061,
+    "icu_readmission": -0.174
+  },
+  {
+    "anesthesia_hours": 10.934,
+    "incentive_spirometry": 10.225,
+    "atelectasis_severity": 8.129,
+    "postop_hypoxemia": -0.197,
+    "icu_readmission": 0.099
+  },
+  {
+    "anesthesia_hours": 10.164,
+    "incentive_spirometry": 10.544,
+    "atelectasis_severity": 7.315,
+    "postop_hypoxemia": -1.072,
+    "icu_readmission": -0.971
+  },
+  {
+    "anesthesia_hours": 1.508,
+    "incentive_spirometry": -0.518,
+    "atelectasis_severity": 1.12,
+    "postop_hypoxemia": 1.403,
+    "icu_readmission": 1.121
+  },
+  {
+    "anesthesia_hours": 7.754,
+    "incentive_spirometry": 9.888,
+    "atelectasis_severity": 5.584,
+    "postop_hypoxemia": -2.189,
+    "icu_readmission": -1.906
+  },
+  {
+    "anesthesia_hours": 9.794,
+    "incentive_spirometry": 7.524,
+    "atelectasis_severity": 7.343,
+    "postop_hypoxemia": 0.906,
+    "icu_readmission": 0.444
+  },
+  {
+    "anesthesia_hours": 12.049,
+    "incentive_spirometry": 11.433,
+    "atelectasis_severity": 8.857,
+    "postop_hypoxemia": -0.151,
+    "icu_readmission": 0.112
+  },
+  {
+    "anesthesia_hours": 13.049,
+    "incentive_spirometry": 11.132,
+    "atelectasis_severity": 9.649,
+    "postop_hypoxemia": 0.231,
+    "icu_readmission": 0.103
+  },
+  {
+    "anesthesia_hours": 13.922,
+    "incentive_spirometry": 18.297,
+    "atelectasis_severity": 10.243,
+    "postop_hypoxemia": -3.674,
+    "icu_readmission": -3.458
+  },
+  {
+    "anesthesia_hours": 6.686,
+    "incentive_spirometry": 9.762,
+    "atelectasis_severity": 4.945,
+    "postop_hypoxemia": -2.248,
+    "icu_readmission": -1.657
+  },
+  {
+    "anesthesia_hours": 8.432,
+    "incentive_spirometry": 6.947,
+    "atelectasis_severity": 6.217,
+    "postop_hypoxemia": 0.465,
+    "icu_readmission": 0.22
+  },
+  {
+    "anesthesia_hours": 11.76,
+    "incentive_spirometry": 14.373,
+    "atelectasis_severity": 8.78,
+    "postop_hypoxemia": -2.296,
+    "icu_readmission": -2.058
+  },
+  {
+    "anesthesia_hours": 6.672,
+    "incentive_spirometry": 8.752,
+    "atelectasis_severity": 4.763,
+    "postop_hypoxemia": -1.967,
+    "icu_readmission": -1.714
+  },
+  {
+    "anesthesia_hours": 7.229,
+    "incentive_spirometry": 9.946,
+    "atelectasis_severity": 5.607,
+    "postop_hypoxemia": -2.717,
+    "icu_readmission": -2.528
+  },
+  {
+    "anesthesia_hours": 10.077,
+    "incentive_spirometry": 12.881,
+    "atelectasis_severity": 7.472,
+    "postop_hypoxemia": -2.224,
+    "icu_readmission": -1.9
+  },
+  {
+    "anesthesia_hours": 5.327,
+    "incentive_spirometry": 4.648,
+    "atelectasis_severity": 4.199,
+    "postop_hypoxemia": 0.244,
+    "icu_readmission": 0.363
+  },
+  {
+    "anesthesia_hours": 5.413,
+    "incentive_spirometry": 7.131,
+    "atelectasis_severity": 3.959,
+    "postop_hypoxemia": -1.459,
+    "icu_readmission": -1.075
+  },
+  {
+    "anesthesia_hours": 13.177,
+    "incentive_spirometry": 12.615,
+    "atelectasis_severity": 9.955,
+    "postop_hypoxemia": -0.321,
+    "icu_readmission": -0.282
+  },
+  {
+    "anesthesia_hours": 7.727,
+    "incentive_spirometry": 11.276,
+    "atelectasis_severity": 5.711,
+    "postop_hypoxemia": -2.72,
+    "icu_readmission": -2.254
+  },
+  {
+    "anesthesia_hours": 16.309,
+    "incentive_spirometry": 13.128,
+    "atelectasis_severity": 11.836,
+    "postop_hypoxemia": 0.765,
+    "icu_readmission": 0.84
+  },
+  {
+    "anesthesia_hours": 5.991,
+    "incentive_spirometry": 8.556,
+    "atelectasis_severity": 4.454,
+    "postop_hypoxemia": -1.736,
+    "icu_readmission": -1.483
+  },
+  {
+    "anesthesia_hours": 11.123,
+    "incentive_spirometry": 9.713,
+    "atelectasis_severity": 7.888,
+    "postop_hypoxemia": 0.132,
+    "icu_readmission": 0.145
+  },
+  {
+    "anesthesia_hours": 15.689,
+    "incentive_spirometry": 12.593,
+    "atelectasis_severity": 11.597,
+    "postop_hypoxemia": 1.169,
+    "icu_readmission": 1.187
+  },
+  {
+    "anesthesia_hours": 11.04,
+    "incentive_spirometry": 12.672,
+    "atelectasis_severity": 8.412,
+    "postop_hypoxemia": -1.462,
+    "icu_readmission": -1.383
+  },
+  {
+    "anesthesia_hours": 6.065,
+    "incentive_spirometry": 9.024,
+    "atelectasis_severity": 4.484,
+    "postop_hypoxemia": -2.434,
+    "icu_readmission": -1.591
+  },
+  {
+    "anesthesia_hours": 8.528,
+    "incentive_spirometry": 9.493,
+    "atelectasis_severity": 6.479,
+    "postop_hypoxemia": -1.082,
+    "icu_readmission": -1.068
+  },
+  {
+    "anesthesia_hours": 13.134,
+    "incentive_spirometry": 13.218,
+    "atelectasis_severity": 9.547,
+    "postop_hypoxemia": -1.11,
+    "icu_readmission": -0.924
+  },
+  {
+    "anesthesia_hours": 11.949,
+    "incentive_spirometry": 13.433,
+    "atelectasis_severity": 8.777,
+    "postop_hypoxemia": -1.362,
+    "icu_readmission": -1.134
+  },
+  {
+    "anesthesia_hours": 12.619,
+    "incentive_spirometry": 14.698,
+    "atelectasis_severity": 9.352,
+    "postop_hypoxemia": -2.188,
+    "icu_readmission": -1.69
+  },
+  {
+    "anesthesia_hours": 6.449,
+    "incentive_spirometry": 6.671,
+    "atelectasis_severity": 4.92,
+    "postop_hypoxemia": -0.475,
+    "icu_readmission": -0.156
+  },
+  {
+    "anesthesia_hours": 11.271,
+    "incentive_spirometry": 11.563,
+    "atelectasis_severity": 8.44,
+    "postop_hypoxemia": -0.597,
+    "icu_readmission": -0.249
+  },
+  {
+    "anesthesia_hours": 9.13,
+    "incentive_spirometry": 10.925,
+    "atelectasis_severity": 6.464,
+    "postop_hypoxemia": -1.943,
+    "icu_readmission": -1.634
+  },
+  {
+    "anesthesia_hours": 10.05,
+    "incentive_spirometry": 14.554,
+    "atelectasis_severity": 7.662,
+    "postop_hypoxemia": -3.523,
+    "icu_readmission": -3.197
+  },
+  {
+    "anesthesia_hours": 5.387,
+    "incentive_spirometry": 11.507,
+    "atelectasis_severity": 4.151,
+    "postop_hypoxemia": -4.372,
+    "icu_readmission": -4.052
+  },
+  {
+    "anesthesia_hours": 4.42,
+    "incentive_spirometry": 1.464,
+    "atelectasis_severity": 3.371,
+    "postop_hypoxemia": 1.895,
+    "icu_readmission": 1.706
+  },
+  {
+    "anesthesia_hours": 8.613,
+    "incentive_spirometry": 8.626,
+    "atelectasis_severity": 6.429,
+    "postop_hypoxemia": -0.45,
+    "icu_readmission": -0.482
+  },
+  {
+    "anesthesia_hours": 10.343,
+    "incentive_spirometry": 11.461,
+    "atelectasis_severity": 7.843,
+    "postop_hypoxemia": -1.063,
+    "icu_readmission": -0.946
+  },
+  {
+    "anesthesia_hours": 3.496,
+    "incentive_spirometry": 5.552,
+    "atelectasis_severity": 2.567,
+    "postop_hypoxemia": -1.237,
+    "icu_readmission": -0.998
+  },
+  {
+    "anesthesia_hours": 14.398,
+    "incentive_spirometry": 7.888,
+    "atelectasis_severity": 10.364,
+    "postop_hypoxemia": 2.882,
+    "icu_readmission": 2.673
+  },
+  {
+    "anesthesia_hours": 12.85,
+    "incentive_spirometry": 10.163,
+    "atelectasis_severity": 9.77,
+    "postop_hypoxemia": 1.053,
+    "icu_readmission": 0.852
+  },
+  {
+    "anesthesia_hours": 14.425,
+    "incentive_spirometry": 9.163,
+    "atelectasis_severity": 10.837,
+    "postop_hypoxemia": 2.514,
+    "icu_readmission": 2.04
+  },
+  {
+    "anesthesia_hours": 14.176,
+    "incentive_spirometry": 11.54,
+    "atelectasis_severity": 10.584,
+    "postop_hypoxemia": 0.9,
+    "icu_readmission": 1.089
+  },
+  {
+    "anesthesia_hours": 10.797,
+    "incentive_spirometry": 10.614,
+    "atelectasis_severity": 8.651,
+    "postop_hypoxemia": 0.078,
+    "icu_readmission": 0.142
+  },
+  {
+    "anesthesia_hours": 8.129,
+    "incentive_spirometry": 9.846,
+    "atelectasis_severity": 5.951,
+    "postop_hypoxemia": -1.872,
+    "icu_readmission": -1.554
+  },
+  {
+    "anesthesia_hours": 13.815,
+    "incentive_spirometry": 16.875,
+    "atelectasis_severity": 10.525,
+    "postop_hypoxemia": -2.453,
+    "icu_readmission": -2.021
+  },
+  {
+    "anesthesia_hours": 10.427,
+    "incentive_spirometry": 9.113,
+    "atelectasis_severity": 7.774,
+    "postop_hypoxemia": 0.277,
+    "icu_readmission": 0.306
+  },
+  {
+    "anesthesia_hours": 12.698,
+    "incentive_spirometry": 13.645,
+    "atelectasis_severity": 9.419,
+    "postop_hypoxemia": -1.433,
+    "icu_readmission": -0.759
+  },
+  {
+    "anesthesia_hours": 10.751,
+    "incentive_spirometry": 11.334,
+    "atelectasis_severity": 7.851,
+    "postop_hypoxemia": -1.429,
+    "icu_readmission": -1.067
+  },
+  {
+    "anesthesia_hours": 14.422,
+    "incentive_spirometry": 18.003,
+    "atelectasis_severity": 10.451,
+    "postop_hypoxemia": -3.279,
+    "icu_readmission": -3.015
+  },
+  {
+    "anesthesia_hours": 13.449,
+    "incentive_spirometry": 9.357,
+    "atelectasis_severity": 10.088,
+    "postop_hypoxemia": 1.874,
+    "icu_readmission": 2.104
+  },
+  {
+    "anesthesia_hours": 6.801,
+    "incentive_spirometry": 5.724,
+    "atelectasis_severity": 5.178,
+    "postop_hypoxemia": 0.418,
+    "icu_readmission": 0.379
+  },
+  {
+    "anesthesia_hours": 7.668,
+    "incentive_spirometry": 9.818,
+    "atelectasis_severity": 5.629,
+    "postop_hypoxemia": -2.064,
+    "icu_readmission": -2.016
+  },
+  {
+    "anesthesia_hours": 11.013,
+    "incentive_spirometry": 13.356,
+    "atelectasis_severity": 8.272,
+    "postop_hypoxemia": -1.94,
+    "icu_readmission": -1.624
+  },
+  {
+    "anesthesia_hours": 10.436,
+    "incentive_spirometry": 11.701,
+    "atelectasis_severity": 8.019,
+    "postop_hypoxemia": -0.771,
+    "icu_readmission": -0.658
+  },
+  {
+    "anesthesia_hours": 14.137,
+    "incentive_spirometry": 11.417,
+    "atelectasis_severity": 10.804,
+    "postop_hypoxemia": 1.31,
+    "icu_readmission": 1.011
+  },
+  {
+    "anesthesia_hours": 13.93,
+    "incentive_spirometry": 9.776,
+    "atelectasis_severity": 10.531,
+    "postop_hypoxemia": 1.894,
+    "icu_readmission": 1.579
+  },
+  {
+    "anesthesia_hours": 9.503,
+    "incentive_spirometry": 6.413,
+    "atelectasis_severity": 6.652,
+    "postop_hypoxemia": 1.206,
+    "icu_readmission": 1.138
+  },
+  {
+    "anesthesia_hours": 15.044,
+    "incentive_spirometry": 15.018,
+    "atelectasis_severity": 11.336,
+    "postop_hypoxemia": -0.559,
+    "icu_readmission": -0.874
+  },
+  {
+    "anesthesia_hours": 2.236,
+    "incentive_spirometry": 2.323,
+    "atelectasis_severity": 1.979,
+    "postop_hypoxemia": 0.017,
+    "icu_readmission": -0.253
+  },
+  {
+    "anesthesia_hours": 9.878,
+    "incentive_spirometry": 10.369,
+    "atelectasis_severity": 7.724,
+    "postop_hypoxemia": -0.631,
+    "icu_readmission": -0.781
+  },
+  {
+    "anesthesia_hours": 9.481,
+    "incentive_spirometry": 11.468,
+    "atelectasis_severity": 6.857,
+    "postop_hypoxemia": -2.024,
+    "icu_readmission": -1.847
+  },
+  {
+    "anesthesia_hours": 12.093,
+    "incentive_spirometry": 8.65,
+    "atelectasis_severity": 9.702,
+    "postop_hypoxemia": 1.838,
+    "icu_readmission": 1.478
+  },
+  {
+    "anesthesia_hours": 8.773,
+    "incentive_spirometry": 11.153,
+    "atelectasis_severity": 6.577,
+    "postop_hypoxemia": -2.113,
+    "icu_readmission": -1.84
+  },
+  {
+    "anesthesia_hours": 8.118,
+    "incentive_spirometry": 10.228,
+    "atelectasis_severity": 6.077,
+    "postop_hypoxemia": -1.827,
+    "icu_readmission": -1.834
+  },
+  {
+    "anesthesia_hours": 8.288,
+    "incentive_spirometry": 11.143,
+    "atelectasis_severity": 6.227,
+    "postop_hypoxemia": -2.132,
+    "icu_readmission": -1.763
+  },
+  {
+    "anesthesia_hours": 7.234,
+    "incentive_spirometry": 6.797,
+    "atelectasis_severity": 5.023,
+    "postop_hypoxemia": -0.945,
+    "icu_readmission": -0.786
+  },
+  {
+    "anesthesia_hours": 14.38,
+    "incentive_spirometry": 12.339,
+    "atelectasis_severity": 10.785,
+    "postop_hypoxemia": 0.52,
+    "icu_readmission": 0.174
+  },
+  {
+    "anesthesia_hours": 8.092,
+    "incentive_spirometry": 11.985,
+    "atelectasis_severity": 5.94,
+    "postop_hypoxemia": -3.074,
+    "icu_readmission": -2.631
+  },
+  {
+    "anesthesia_hours": 16.137,
+    "incentive_spirometry": 14.099,
+    "atelectasis_severity": 12.371,
+    "postop_hypoxemia": 0.942,
+    "icu_readmission": 0.995
+  },
+  {
+    "anesthesia_hours": 17.615,
+    "incentive_spirometry": 17.747,
+    "atelectasis_severity": 13.171,
+    "postop_hypoxemia": -1.294,
+    "icu_readmission": -1.029
+  },
+  {
+    "anesthesia_hours": 3.703,
+    "incentive_spirometry": 1.549,
+    "atelectasis_severity": 3.037,
+    "postop_hypoxemia": 1.394,
+    "icu_readmission": 0.893
+  },
+  {
+    "anesthesia_hours": 10.011,
+    "incentive_spirometry": 6.786,
+    "atelectasis_severity": 7.484,
+    "postop_hypoxemia": 1.651,
+    "icu_readmission": 1.696
+  },
+  {
+    "anesthesia_hours": 16.09,
+    "incentive_spirometry": 11.694,
+    "atelectasis_severity": 12.11,
+    "postop_hypoxemia": 2.078,
+    "icu_readmission": 1.829
+  },
+  {
+    "anesthesia_hours": 13.098,
+    "incentive_spirometry": 13.652,
+    "atelectasis_severity": 9.761,
+    "postop_hypoxemia": -1.148,
+    "icu_readmission": -0.995
+  },
+  {
+    "anesthesia_hours": 8.254,
+    "incentive_spirometry": 6.795,
+    "atelectasis_severity": 6.056,
+    "postop_hypoxemia": 0.461,
+    "icu_readmission": 0.008
+  },
+  {
+    "anesthesia_hours": 8.796,
+    "incentive_spirometry": 8.862,
+    "atelectasis_severity": 6.51,
+    "postop_hypoxemia": -0.518,
+    "icu_readmission": -0.598
+  },
+  {
+    "anesthesia_hours": 19.439,
+    "incentive_spirometry": 19.204,
+    "atelectasis_severity": 14.656,
+    "postop_hypoxemia": -0.488,
+    "icu_readmission": -0.419
+  },
+  {
+    "anesthesia_hours": 10.498,
+    "incentive_spirometry": 11.207,
+    "atelectasis_severity": 7.781,
+    "postop_hypoxemia": -1.017,
+    "icu_readmission": -0.521
+  },
+  {
+    "anesthesia_hours": 12.148,
+    "incentive_spirometry": 10.338,
+    "atelectasis_severity": 8.972,
+    "postop_hypoxemia": 0.885,
+    "icu_readmission": 0.509
+  },
+  {
+    "anesthesia_hours": 2.684,
+    "incentive_spirometry": 5.732,
+    "atelectasis_severity": 1.935,
+    "postop_hypoxemia": -2.341,
+    "icu_readmission": -1.832
+  },
+  {
+    "anesthesia_hours": 10.061,
+    "incentive_spirometry": 12.519,
+    "atelectasis_severity": 7.4,
+    "postop_hypoxemia": -2.176,
+    "icu_readmission": -1.994
+  },
+  {
+    "anesthesia_hours": 11.594,
+    "incentive_spirometry": 11.865,
+    "atelectasis_severity": 9.022,
+    "postop_hypoxemia": -0.453,
+    "icu_readmission": -0.241
+  },
+  {
+    "anesthesia_hours": 9.192,
+    "incentive_spirometry": 6.365,
+    "atelectasis_severity": 7.012,
+    "postop_hypoxemia": 1.291,
+    "icu_readmission": 0.832
+  },
+  {
+    "anesthesia_hours": 12.208,
+    "incentive_spirometry": 10.025,
+    "atelectasis_severity": 9.28,
+    "postop_hypoxemia": 0.996,
+    "icu_readmission": 0.755
+  },
+  {
+    "anesthesia_hours": 8.337,
+    "incentive_spirometry": 6.388,
+    "atelectasis_severity": 6.13,
+    "postop_hypoxemia": 0.603,
+    "icu_readmission": 0.44
+  },
+  {
+    "anesthesia_hours": 10.466,
+    "incentive_spirometry": 13.332,
+    "atelectasis_severity": 7.655,
+    "postop_hypoxemia": -2.641,
+    "icu_readmission": -2.409
+  },
+  {
+    "anesthesia_hours": 14.889,
+    "incentive_spirometry": 15.838,
+    "atelectasis_severity": 11.299,
+    "postop_hypoxemia": -1.742,
+    "icu_readmission": -1.535
+  },
+  {
+    "anesthesia_hours": 16.824,
+    "incentive_spirometry": 15.113,
+    "atelectasis_severity": 12.511,
+    "postop_hypoxemia": -0.246,
+    "icu_readmission": 0.091
+  },
+  {
+    "anesthesia_hours": 4.012,
+    "incentive_spirometry": 0.677,
+    "atelectasis_severity": 3.212,
+    "postop_hypoxemia": 2.206,
+    "icu_readmission": 1.736
+  },
+  {
+    "anesthesia_hours": 13.074,
+    "incentive_spirometry": 9.052,
+    "atelectasis_severity": 9.824,
+    "postop_hypoxemia": 1.923,
+    "icu_readmission": 1.47
+  },
+  {
+    "anesthesia_hours": 11.877,
+    "incentive_spirometry": 9.72,
+    "atelectasis_severity": 9.368,
+    "postop_hypoxemia": 1.112,
+    "icu_readmission": 1.069
+  },
+  {
+    "anesthesia_hours": 6.078,
+    "incentive_spirometry": 11.545,
+    "atelectasis_severity": 4.366,
+    "postop_hypoxemia": -3.981,
+    "icu_readmission": -3.728
+  },
+  {
+    "anesthesia_hours": 9.521,
+    "incentive_spirometry": 11.227,
+    "atelectasis_severity": 7.153,
+    "postop_hypoxemia": -1.688,
+    "icu_readmission": -0.981
+  },
+  {
+    "anesthesia_hours": 10.516,
+    "incentive_spirometry": 13.827,
+    "atelectasis_severity": 8.003,
+    "postop_hypoxemia": -2.618,
+    "icu_readmission": -2.157
+  },
+  {
+    "anesthesia_hours": 17.183,
+    "incentive_spirometry": 12.704,
+    "atelectasis_severity": 12.88,
+    "postop_hypoxemia": 1.998,
+    "icu_readmission": 1.75
+  },
+  {
+    "anesthesia_hours": 17.655,
+    "incentive_spirometry": 14.576,
+    "atelectasis_severity": 13.099,
+    "postop_hypoxemia": 1.34,
+    "icu_readmission": 0.967
+  },
+  {
+    "anesthesia_hours": 1.742,
+    "incentive_spirometry": -0.645,
+    "atelectasis_severity": 1.484,
+    "postop_hypoxemia": 1.541,
+    "icu_readmission": 1.446
+  },
+  {
+    "anesthesia_hours": 8.605,
+    "incentive_spirometry": 10.399,
+    "atelectasis_severity": 6.725,
+    "postop_hypoxemia": -1.376,
+    "icu_readmission": -1.397
+  },
+  {
+    "anesthesia_hours": 8.787,
+    "incentive_spirometry": 9.303,
+    "atelectasis_severity": 6.629,
+    "postop_hypoxemia": -0.454,
+    "icu_readmission": -0.344
+  },
+  {
+    "anesthesia_hours": 15.307,
+    "incentive_spirometry": 11.642,
+    "atelectasis_severity": 11.39,
+    "postop_hypoxemia": 1.195,
+    "icu_readmission": 0.893
+  },
+  {
+    "anesthesia_hours": 11.951,
+    "incentive_spirometry": 13.717,
+    "atelectasis_severity": 8.695,
+    "postop_hypoxemia": -1.86,
+    "icu_readmission": -1.323
+  },
+  {
+    "anesthesia_hours": 7.322,
+    "incentive_spirometry": 1.544,
+    "atelectasis_severity": 5.291,
+    "postop_hypoxemia": 3.412,
+    "icu_readmission": 2.985
+  },
+  {
+    "anesthesia_hours": 13.276,
+    "incentive_spirometry": 15.181,
+    "atelectasis_severity": 9.789,
+    "postop_hypoxemia": -1.82,
+    "icu_readmission": -1.685
+  },
+  {
+    "anesthesia_hours": 11.081,
+    "incentive_spirometry": 6.571,
+    "atelectasis_severity": 8.456,
+    "postop_hypoxemia": 2.551,
+    "icu_readmission": 2.459
+  },
+  {
+    "anesthesia_hours": 11.466,
+    "incentive_spirometry": 9.787,
+    "atelectasis_severity": 8.751,
+    "postop_hypoxemia": 0.869,
+    "icu_readmission": 0.608
+  },
+  {
+    "anesthesia_hours": 11.811,
+    "incentive_spirometry": 14.745,
+    "atelectasis_severity": 8.946,
+    "postop_hypoxemia": -2.449,
+    "icu_readmission": -1.929
+  },
+  {
+    "anesthesia_hours": 6.206,
+    "incentive_spirometry": 6.433,
+    "atelectasis_severity": 4.726,
+    "postop_hypoxemia": -0.565,
+    "icu_readmission": -0.199
+  },
+  {
+    "anesthesia_hours": 10.797,
+    "incentive_spirometry": 15.25,
+    "atelectasis_severity": 8.49,
+    "postop_hypoxemia": -3.131,
+    "icu_readmission": -2.677
+  },
+  {
+    "anesthesia_hours": 7.986,
+    "incentive_spirometry": 11.506,
+    "atelectasis_severity": 5.84,
+    "postop_hypoxemia": -2.689,
+    "icu_readmission": -2.384
+  },
+  {
+    "anesthesia_hours": 11.611,
+    "incentive_spirometry": 10.123,
+    "atelectasis_severity": 8.569,
+    "postop_hypoxemia": 0.32,
+    "icu_readmission": 0.382
+  },
+  {
+    "anesthesia_hours": 8.531,
+    "incentive_spirometry": 10.243,
+    "atelectasis_severity": 6.474,
+    "postop_hypoxemia": -1.351,
+    "icu_readmission": -1.168
+  },
+  {
+    "anesthesia_hours": 10.553,
+    "incentive_spirometry": 17.294,
+    "atelectasis_severity": 8.063,
+    "postop_hypoxemia": -4.941,
+    "icu_readmission": -3.749
+  },
+  {
+    "anesthesia_hours": 10.902,
+    "incentive_spirometry": 9.649,
+    "atelectasis_severity": 8.554,
+    "postop_hypoxemia": 0.863,
+    "icu_readmission": 0.782
+  },
+  {
+    "anesthesia_hours": 7.129,
+    "incentive_spirometry": 9.013,
+    "atelectasis_severity": 4.866,
+    "postop_hypoxemia": -2.067,
+    "icu_readmission": -1.657
+  },
+  {
+    "anesthesia_hours": 12.596,
+    "incentive_spirometry": 13.645,
+    "atelectasis_severity": 9.096,
+    "postop_hypoxemia": -1.892,
+    "icu_readmission": -1.608
+  },
+  {
+    "anesthesia_hours": 4.874,
+    "incentive_spirometry": 8.219,
+    "atelectasis_severity": 3.401,
+    "postop_hypoxemia": -2.225,
+    "icu_readmission": -1.952
+  },
+  {
+    "anesthesia_hours": 11.984,
+    "incentive_spirometry": 15.225,
+    "atelectasis_severity": 9.028,
+    "postop_hypoxemia": -2.562,
+    "icu_readmission": -2.553
+  },
+  {
+    "anesthesia_hours": 12.774,
+    "incentive_spirometry": 9.455,
+    "atelectasis_severity": 9.628,
+    "postop_hypoxemia": 1.212,
+    "icu_readmission": 1.141
+  },
+  {
+    "anesthesia_hours": 12.052,
+    "incentive_spirometry": 17.161,
+    "atelectasis_severity": 9.157,
+    "postop_hypoxemia": -4.09,
+    "icu_readmission": -3.639
+  },
+  {
+    "anesthesia_hours": 11.985,
+    "incentive_spirometry": 10.715,
+    "atelectasis_severity": 8.94,
+    "postop_hypoxemia": 0.283,
+    "icu_readmission": -0.178
+  },
+  {
+    "anesthesia_hours": 5.327,
+    "incentive_spirometry": 4.351,
+    "atelectasis_severity": 4.11,
+    "postop_hypoxemia": 0.518,
+    "icu_readmission": 0.435
+  },
+  {
+    "anesthesia_hours": 8.594,
+    "incentive_spirometry": 5.771,
+    "atelectasis_severity": 6.556,
+    "postop_hypoxemia": 1.572,
+    "icu_readmission": 1.292
+  },
+  {
+    "anesthesia_hours": 6.585,
+    "incentive_spirometry": 7.319,
+    "atelectasis_severity": 4.775,
+    "postop_hypoxemia": -0.876,
+    "icu_readmission": -0.746
+  },
+  {
+    "anesthesia_hours": 2.355,
+    "incentive_spirometry": 7.995,
+    "atelectasis_severity": 1.951,
+    "postop_hypoxemia": -3.381,
+    "icu_readmission": -2.484
+  },
+  {
+    "anesthesia_hours": 16.621,
+    "incentive_spirometry": 11.492,
+    "atelectasis_severity": 12.386,
+    "postop_hypoxemia": 2.317,
+    "icu_readmission": 1.819
+  },
+  {
+    "anesthesia_hours": 7.492,
+    "incentive_spirometry": 5.758,
+    "atelectasis_severity": 5.422,
+    "postop_hypoxemia": 0.809,
+    "icu_readmission": 1.177
+  },
+  {
+    "anesthesia_hours": 7.688,
+    "incentive_spirometry": 9.706,
+    "atelectasis_severity": 5.642,
+    "postop_hypoxemia": -1.708,
+    "icu_readmission": -1.683
+  },
+  {
+    "anesthesia_hours": 2.676,
+    "incentive_spirometry": 3.089,
+    "atelectasis_severity": 1.722,
+    "postop_hypoxemia": -0.589,
+    "icu_readmission": -0.13
+  },
+  {
+    "anesthesia_hours": 8.221,
+    "incentive_spirometry": 5.721,
+    "atelectasis_severity": 6.632,
+    "postop_hypoxemia": 1.817,
+    "icu_readmission": 1.336
+  },
+  {
+    "anesthesia_hours": 20.647,
+    "incentive_spirometry": 15.994,
+    "atelectasis_severity": 15.896,
+    "postop_hypoxemia": 1.976,
+    "icu_readmission": 1.733
+  },
+  {
+    "anesthesia_hours": 5.502,
+    "incentive_spirometry": 4.127,
+    "atelectasis_severity": 4.351,
+    "postop_hypoxemia": 0.582,
+    "icu_readmission": 0.313
+  },
+  {
+    "anesthesia_hours": 8.917,
+    "incentive_spirometry": 15.421,
+    "atelectasis_severity": 7.009,
+    "postop_hypoxemia": -4.222,
+    "icu_readmission": -3.687
+  },
+  {
+    "anesthesia_hours": -0.185,
+    "incentive_spirometry": 0.55,
+    "atelectasis_severity": -0.045,
+    "postop_hypoxemia": -0.628,
+    "icu_readmission": -0.565
+  },
+  {
+    "anesthesia_hours": 12.435,
+    "incentive_spirometry": 10.725,
+    "atelectasis_severity": 9.067,
+    "postop_hypoxemia": 0.265,
+    "icu_readmission": 0.405
+  },
+  {
+    "anesthesia_hours": 6.053,
+    "incentive_spirometry": 6.642,
+    "atelectasis_severity": 4.522,
+    "postop_hypoxemia": -0.524,
+    "icu_readmission": -0.274
+  },
+  {
+    "anesthesia_hours": 11.256,
+    "incentive_spirometry": 11.91,
+    "atelectasis_severity": 8.291,
+    "postop_hypoxemia": -1.556,
+    "icu_readmission": -1.57
+  },
+  {
+    "anesthesia_hours": 15.796,
+    "incentive_spirometry": 13.44,
+    "atelectasis_severity": 11.668,
+    "postop_hypoxemia": 0.913,
+    "icu_readmission": 1.072
+  },
+  {
+    "anesthesia_hours": 15.771,
+    "incentive_spirometry": 18.424,
+    "atelectasis_severity": 11.786,
+    "postop_hypoxemia": -2.591,
+    "icu_readmission": -2.448
+  },
+  {
+    "anesthesia_hours": 18.167,
+    "incentive_spirometry": 15.797,
+    "atelectasis_severity": 13.473,
+    "postop_hypoxemia": 0.408,
+    "icu_readmission": 0.495
+  },
+  {
+    "anesthesia_hours": 13.237,
+    "incentive_spirometry": 11.559,
+    "atelectasis_severity": 10.112,
+    "postop_hypoxemia": 0.347,
+    "icu_readmission": 0.213
+  },
+  {
+    "anesthesia_hours": 11.271,
+    "incentive_spirometry": 12.021,
+    "atelectasis_severity": 8.167,
+    "postop_hypoxemia": -1.112,
+    "icu_readmission": -0.627
+  },
+  {
+    "anesthesia_hours": 11.644,
+    "incentive_spirometry": 6.92,
+    "atelectasis_severity": 8.402,
+    "postop_hypoxemia": 2.208,
+    "icu_readmission": 1.925
+  },
+  {
+    "anesthesia_hours": 10.339,
+    "incentive_spirometry": 10.315,
+    "atelectasis_severity": 7.797,
+    "postop_hypoxemia": -0.262,
+    "icu_readmission": -0.291
+  },
+  {
+    "anesthesia_hours": 8.916,
+    "incentive_spirometry": 7.474,
+    "atelectasis_severity": 6.759,
+    "postop_hypoxemia": 0.715,
+    "icu_readmission": 0.555
+  },
+  {
+    "anesthesia_hours": 12.226,
+    "incentive_spirometry": 12.879,
+    "atelectasis_severity": 8.906,
+    "postop_hypoxemia": -1.457,
+    "icu_readmission": -1.521
+  },
+  {
+    "anesthesia_hours": 17.13,
+    "incentive_spirometry": 11.181,
+    "atelectasis_severity": 12.74,
+    "postop_hypoxemia": 3.001,
+    "icu_readmission": 2.658
+  },
+  {
+    "anesthesia_hours": 6.011,
+    "incentive_spirometry": 5.251,
+    "atelectasis_severity": 4.493,
+    "postop_hypoxemia": 0.341,
+    "icu_readmission": 0.642
+  },
+  {
+    "anesthesia_hours": 5.98,
+    "incentive_spirometry": 8.587,
+    "atelectasis_severity": 4.591,
+    "postop_hypoxemia": -1.804,
+    "icu_readmission": -1.149
+  },
+  {
+    "anesthesia_hours": 14.134,
+    "incentive_spirometry": 12.873,
+    "atelectasis_severity": 10.399,
+    "postop_hypoxemia": 0.143,
+    "icu_readmission": 0.532
+  },
+  {
+    "anesthesia_hours": 1.315,
+    "incentive_spirometry": -1.715,
+    "atelectasis_severity": 0.991,
+    "postop_hypoxemia": 2.016,
+    "icu_readmission": 1.792
+  },
+  {
+    "anesthesia_hours": 12.716,
+    "incentive_spirometry": 9.677,
+    "atelectasis_severity": 9.837,
+    "postop_hypoxemia": 1.495,
+    "icu_readmission": 1.139
+  },
+  {
+    "anesthesia_hours": 8.185,
+    "incentive_spirometry": 11.228,
+    "atelectasis_severity": 5.968,
+    "postop_hypoxemia": -2.9,
+    "icu_readmission": -2.636
+  },
+  {
+    "anesthesia_hours": 7.448,
+    "incentive_spirometry": 7.12,
+    "atelectasis_severity": 6.029,
+    "postop_hypoxemia": 0.154,
+    "icu_readmission": -0.003
+  },
+  {
+    "anesthesia_hours": 10.165,
+    "incentive_spirometry": 9.484,
+    "atelectasis_severity": 7.824,
+    "postop_hypoxemia": 0.228,
+    "icu_readmission": 0.257
+  },
+  {
+    "anesthesia_hours": 16.232,
+    "incentive_spirometry": 15.663,
+    "atelectasis_severity": 12.138,
+    "postop_hypoxemia": -0.391,
+    "icu_readmission": -0.572
+  },
+  {
+    "anesthesia_hours": 10.972,
+    "incentive_spirometry": 10.104,
+    "atelectasis_severity": 8.942,
+    "postop_hypoxemia": 0.385,
+    "icu_readmission": 0.565
+  },
+  {
+    "anesthesia_hours": 11.989,
+    "incentive_spirometry": 5.263,
+    "atelectasis_severity": 8.838,
+    "postop_hypoxemia": 3.971,
+    "icu_readmission": 3.241
+  },
+  {
+    "anesthesia_hours": 2.129,
+    "incentive_spirometry": 6.795,
+    "atelectasis_severity": 1.595,
+    "postop_hypoxemia": -3.136,
+    "icu_readmission": -2.686
+  },
+  {
+    "anesthesia_hours": 11.39,
+    "incentive_spirometry": 11.113,
+    "atelectasis_severity": 8.679,
+    "postop_hypoxemia": -0.315,
+    "icu_readmission": -0.613
+  },
+  {
+    "anesthesia_hours": 4.882,
+    "incentive_spirometry": -0.642,
+    "atelectasis_severity": 3.954,
+    "postop_hypoxemia": 3.328,
+    "icu_readmission": 2.952
+  },
+  {
+    "anesthesia_hours": 9.352,
+    "incentive_spirometry": 9.259,
+    "atelectasis_severity": 7.052,
+    "postop_hypoxemia": -0.268,
+    "icu_readmission": -0.356
+  },
+  {
+    "anesthesia_hours": 8.512,
+    "incentive_spirometry": 5.904,
+    "atelectasis_severity": 6.072,
+    "postop_hypoxemia": 1.359,
+    "icu_readmission": 1.359
+  },
+  {
+    "anesthesia_hours": 6.939,
+    "incentive_spirometry": 9.141,
+    "atelectasis_severity": 5.43,
+    "postop_hypoxemia": -1.716,
+    "icu_readmission": -1.591
+  },
+  {
+    "anesthesia_hours": 9.107,
+    "incentive_spirometry": 11.338,
+    "atelectasis_severity": 6.728,
+    "postop_hypoxemia": -2.25,
+    "icu_readmission": -1.628
+  },
+  {
+    "anesthesia_hours": 15.944,
+    "incentive_spirometry": 12.701,
+    "atelectasis_severity": 11.645,
+    "postop_hypoxemia": 1.271,
+    "icu_readmission": 1.263
+  },
+  {
+    "anesthesia_hours": 20.99,
+    "incentive_spirometry": 19.715,
+    "atelectasis_severity": 15.524,
+    "postop_hypoxemia": -0.514,
+    "icu_readmission": -0.835
+  },
+  {
+    "anesthesia_hours": 10.823,
+    "incentive_spirometry": 11.035,
+    "atelectasis_severity": 8.072,
+    "postop_hypoxemia": -0.564,
+    "icu_readmission": -0.473
+  },
+  {
+    "anesthesia_hours": 15.89,
+    "incentive_spirometry": 19.244,
+    "atelectasis_severity": 11.932,
+    "postop_hypoxemia": -3.139,
+    "icu_readmission": -2.852
+  },
+  {
+    "anesthesia_hours": 11.598,
+    "incentive_spirometry": 8.237,
+    "atelectasis_severity": 8.692,
+    "postop_hypoxemia": 1.927,
+    "icu_readmission": 1.884
+  },
+  {
+    "anesthesia_hours": 13.455,
+    "incentive_spirometry": 8.852,
+    "atelectasis_severity": 10.35,
+    "postop_hypoxemia": 2.53,
+    "icu_readmission": 1.971
+  },
+  {
+    "anesthesia_hours": 8.977,
+    "incentive_spirometry": 7.683,
+    "atelectasis_severity": 6.87,
+    "postop_hypoxemia": 0.418,
+    "icu_readmission": 0.641
+  },
+  {
+    "anesthesia_hours": 8.9,
+    "incentive_spirometry": 12.171,
+    "atelectasis_severity": 6.607,
+    "postop_hypoxemia": -2.317,
+    "icu_readmission": -1.923
+  },
+  {
+    "anesthesia_hours": 8.501,
+    "incentive_spirometry": 15.838,
+    "atelectasis_severity": 6.774,
+    "postop_hypoxemia": -4.894,
+    "icu_readmission": -4.298
+  },
+  {
+    "anesthesia_hours": 11.111,
+    "incentive_spirometry": 7.31,
+    "atelectasis_severity": 8.667,
+    "postop_hypoxemia": 2.083,
+    "icu_readmission": 1.964
+  },
+  {
+    "anesthesia_hours": 8.596,
+    "incentive_spirometry": 8.378,
+    "atelectasis_severity": 6.728,
+    "postop_hypoxemia": -0.007,
+    "icu_readmission": -0.143
+  },
+  {
+    "anesthesia_hours": 16.307,
+    "incentive_spirometry": 14.137,
+    "atelectasis_severity": 11.927,
+    "postop_hypoxemia": 0.404,
+    "icu_readmission": 0.224
+  },
+  {
+    "anesthesia_hours": 13.866,
+    "incentive_spirometry": 15.815,
+    "atelectasis_severity": 10.159,
+    "postop_hypoxemia": -2.064,
+    "icu_readmission": -1.692
+  },
+  {
+    "anesthesia_hours": 6.583,
+    "incentive_spirometry": 6.783,
+    "atelectasis_severity": 5.082,
+    "postop_hypoxemia": -0.52,
+    "icu_readmission": -0.325
+  },
+  {
+    "anesthesia_hours": 2.829,
+    "incentive_spirometry": 5.512,
+    "atelectasis_severity": 2.018,
+    "postop_hypoxemia": -1.59,
+    "icu_readmission": -1.328
+  },
+  {
+    "anesthesia_hours": 6.111,
+    "incentive_spirometry": 2.445,
+    "atelectasis_severity": 4.783,
+    "postop_hypoxemia": 2.339,
+    "icu_readmission": 1.794
+  },
+  {
+    "anesthesia_hours": 13.425,
+    "incentive_spirometry": 11.48,
+    "atelectasis_severity": 10.335,
+    "postop_hypoxemia": 1.0,
+    "icu_readmission": 0.724
+  },
+  {
+    "anesthesia_hours": 11.765,
+    "incentive_spirometry": 10.963,
+    "atelectasis_severity": 8.622,
+    "postop_hypoxemia": -0.361,
+    "icu_readmission": -0.679
+  },
+  {
+    "anesthesia_hours": 5.967,
+    "incentive_spirometry": 8.377,
+    "atelectasis_severity": 4.685,
+    "postop_hypoxemia": -1.824,
+    "icu_readmission": -1.479
+  },
+  {
+    "anesthesia_hours": 9.842,
+    "incentive_spirometry": 10.086,
+    "atelectasis_severity": 7.475,
+    "postop_hypoxemia": -0.353,
+    "icu_readmission": -0.319
+  },
+  {
+    "anesthesia_hours": 9.434,
+    "incentive_spirometry": 4.237,
+    "atelectasis_severity": 7.138,
+    "postop_hypoxemia": 3.094,
+    "icu_readmission": 2.627
+  },
+  {
+    "anesthesia_hours": 8.157,
+    "incentive_spirometry": 7.861,
+    "atelectasis_severity": 5.859,
+    "postop_hypoxemia": -0.778,
+    "icu_readmission": -0.893
+  },
+  {
+    "anesthesia_hours": 8.23,
+    "incentive_spirometry": 7.989,
+    "atelectasis_severity": 5.975,
+    "postop_hypoxemia": -0.562,
+    "icu_readmission": -0.773
+  },
+  {
+    "anesthesia_hours": 11.287,
+    "incentive_spirometry": 9.314,
+    "atelectasis_severity": 8.458,
+    "postop_hypoxemia": 0.684,
+    "icu_readmission": 0.771
+  },
+  {
+    "anesthesia_hours": 6.166,
+    "incentive_spirometry": 7.652,
+    "atelectasis_severity": 4.56,
+    "postop_hypoxemia": -0.928,
+    "icu_readmission": -0.801
+  },
+  {
+    "anesthesia_hours": 7.328,
+    "incentive_spirometry": 3.315,
+    "atelectasis_severity": 5.327,
+    "postop_hypoxemia": 1.668,
+    "icu_readmission": 1.307
+  },
+  {
+    "anesthesia_hours": 6.926,
+    "incentive_spirometry": 10.427,
+    "atelectasis_severity": 5.149,
+    "postop_hypoxemia": -2.245,
+    "icu_readmission": -1.668
+  },
+  {
+    "anesthesia_hours": 10.178,
+    "incentive_spirometry": 9.5,
+    "atelectasis_severity": 7.318,
+    "postop_hypoxemia": -0.224,
+    "icu_readmission": -0.179
+  },
+  {
+    "anesthesia_hours": 7.175,
+    "incentive_spirometry": 5.463,
+    "atelectasis_severity": 5.303,
+    "postop_hypoxemia": 0.983,
+    "icu_readmission": 0.973
+  },
+  {
+    "anesthesia_hours": 19.355,
+    "incentive_spirometry": 14.719,
+    "atelectasis_severity": 14.434,
+    "postop_hypoxemia": 2.004,
+    "icu_readmission": 1.704
+  },
+  {
+    "anesthesia_hours": 7.57,
+    "incentive_spirometry": 8.336,
+    "atelectasis_severity": 5.973,
+    "postop_hypoxemia": -0.485,
+    "icu_readmission": -0.433
+  },
+  {
+    "anesthesia_hours": -1.179,
+    "incentive_spirometry": -0.163,
+    "atelectasis_severity": -0.86,
+    "postop_hypoxemia": -0.32,
+    "icu_readmission": -0.275
+  },
+  {
+    "anesthesia_hours": 15.411,
+    "incentive_spirometry": 16.355,
+    "atelectasis_severity": 11.143,
+    "postop_hypoxemia": -1.57,
+    "icu_readmission": -1.345
+  },
+  {
+    "anesthesia_hours": 12.87,
+    "incentive_spirometry": 13.591,
+    "atelectasis_severity": 9.561,
+    "postop_hypoxemia": -1.008,
+    "icu_readmission": -0.755
+  },
+  {
+    "anesthesia_hours": 0.486,
+    "incentive_spirometry": 1.002,
+    "atelectasis_severity": 0.339,
+    "postop_hypoxemia": -0.442,
+    "icu_readmission": -0.82
+  },
+  {
+    "anesthesia_hours": 11.497,
+    "incentive_spirometry": 8.041,
+    "atelectasis_severity": 8.611,
+    "postop_hypoxemia": 2.178,
+    "icu_readmission": 2.199
+  },
+  {
+    "anesthesia_hours": 7.545,
+    "incentive_spirometry": 7.11,
+    "atelectasis_severity": 5.12,
+    "postop_hypoxemia": -0.512,
+    "icu_readmission": -0.458
+  },
+  {
+    "anesthesia_hours": 19.943,
+    "incentive_spirometry": 15.208,
+    "atelectasis_severity": 14.792,
+    "postop_hypoxemia": 2.029,
+    "icu_readmission": 1.516
+  },
+  {
+    "anesthesia_hours": 8.213,
+    "incentive_spirometry": 5.88,
+    "atelectasis_severity": 5.954,
+    "postop_hypoxemia": 0.908,
+    "icu_readmission": 0.618
+  },
+  {
+    "anesthesia_hours": 12.593,
+    "incentive_spirometry": 10.743,
+    "atelectasis_severity": 9.09,
+    "postop_hypoxemia": 0.293,
+    "icu_readmission": 0.565
+  },
+  {
+    "anesthesia_hours": 11.597,
+    "incentive_spirometry": 6.344,
+    "atelectasis_severity": 8.818,
+    "postop_hypoxemia": 2.762,
+    "icu_readmission": 1.943
+  },
+  {
+    "anesthesia_hours": 10.485,
+    "incentive_spirometry": 10.283,
+    "atelectasis_severity": 7.895,
+    "postop_hypoxemia": -0.414,
+    "icu_readmission": -0.273
+  },
+  {
+    "anesthesia_hours": 11.831,
+    "incentive_spirometry": 7.921,
+    "atelectasis_severity": 9.177,
+    "postop_hypoxemia": 2.507,
+    "icu_readmission": 1.962
+  },
+  {
+    "anesthesia_hours": 4.434,
+    "incentive_spirometry": 6.903,
+    "atelectasis_severity": 3.46,
+    "postop_hypoxemia": -1.331,
+    "icu_readmission": -1.391
+  },
+  {
+    "anesthesia_hours": 11.191,
+    "incentive_spirometry": 6.886,
+    "atelectasis_severity": 8.333,
+    "postop_hypoxemia": 2.299,
+    "icu_readmission": 1.86
+  },
+  {
+    "anesthesia_hours": 13.591,
+    "incentive_spirometry": 8.035,
+    "atelectasis_severity": 10.227,
+    "postop_hypoxemia": 3.135,
+    "icu_readmission": 2.477
+  },
+  {
+    "anesthesia_hours": 10.448,
+    "incentive_spirometry": 11.396,
+    "atelectasis_severity": 7.751,
+    "postop_hypoxemia": -1.151,
+    "icu_readmission": -1.101
+  },
+  {
+    "anesthesia_hours": 5.3,
+    "incentive_spirometry": 9.023,
+    "atelectasis_severity": 3.87,
+    "postop_hypoxemia": -2.816,
+    "icu_readmission": -2.114
+  },
+  {
+    "anesthesia_hours": 14.963,
+    "incentive_spirometry": 15.265,
+    "atelectasis_severity": 11.385,
+    "postop_hypoxemia": -0.766,
+    "icu_readmission": -0.742
+  },
+  {
+    "anesthesia_hours": 11.304,
+    "incentive_spirometry": 12.807,
+    "atelectasis_severity": 8.605,
+    "postop_hypoxemia": -1.539,
+    "icu_readmission": -1.386
+  },
+  {
+    "anesthesia_hours": 15.383,
+    "incentive_spirometry": 15.473,
+    "atelectasis_severity": 11.406,
+    "postop_hypoxemia": -1.126,
+    "icu_readmission": -0.778
+  },
+  {
+    "anesthesia_hours": 6.844,
+    "incentive_spirometry": 7.983,
+    "atelectasis_severity": 5.573,
+    "postop_hypoxemia": -0.527,
+    "icu_readmission": -0.501
+  },
+  {
+    "anesthesia_hours": 7.292,
+    "incentive_spirometry": 4.998,
+    "atelectasis_severity": 5.213,
+    "postop_hypoxemia": 0.798,
+    "icu_readmission": 0.566
+  },
+  {
+    "anesthesia_hours": 12.958,
+    "incentive_spirometry": 13.187,
+    "atelectasis_severity": 9.432,
+    "postop_hypoxemia": -0.874,
+    "icu_readmission": -0.502
+  },
+  {
+    "anesthesia_hours": 13.416,
+    "incentive_spirometry": 18.194,
+    "atelectasis_severity": 10.676,
+    "postop_hypoxemia": -3.525,
+    "icu_readmission": -3.284
+  },
+  {
+    "anesthesia_hours": 9.952,
+    "incentive_spirometry": 6.015,
+    "atelectasis_severity": 7.477,
+    "postop_hypoxemia": 1.712,
+    "icu_readmission": 1.269
+  },
+  {
+    "anesthesia_hours": 8.165,
+    "incentive_spirometry": 9.49,
+    "atelectasis_severity": 6.342,
+    "postop_hypoxemia": -0.989,
+    "icu_readmission": -0.679
+  },
+  {
+    "anesthesia_hours": 6.573,
+    "incentive_spirometry": 8.472,
+    "atelectasis_severity": 5.002,
+    "postop_hypoxemia": -1.845,
+    "icu_readmission": -1.121
+  },
+  {
+    "anesthesia_hours": 13.041,
+    "incentive_spirometry": 6.326,
+    "atelectasis_severity": 9.739,
+    "postop_hypoxemia": 3.503,
+    "icu_readmission": 2.804
+  },
+  {
+    "anesthesia_hours": 14.109,
+    "incentive_spirometry": 11.575,
+    "atelectasis_severity": 10.69,
+    "postop_hypoxemia": 0.821,
+    "icu_readmission": 0.691
+  },
+  {
+    "anesthesia_hours": 11.715,
+    "incentive_spirometry": 9.368,
+    "atelectasis_severity": 8.868,
+    "postop_hypoxemia": 0.954,
+    "icu_readmission": 0.799
+  },
+  {
+    "anesthesia_hours": 13.626,
+    "incentive_spirometry": 8.902,
+    "atelectasis_severity": 10.352,
+    "postop_hypoxemia": 2.191,
+    "icu_readmission": 1.842
+  },
+  {
+    "anesthesia_hours": 13.263,
+    "incentive_spirometry": 11.274,
+    "atelectasis_severity": 9.932,
+    "postop_hypoxemia": 0.598,
+    "icu_readmission": 0.612
+  },
+  {
+    "anesthesia_hours": 7.664,
+    "incentive_spirometry": 8.785,
+    "atelectasis_severity": 5.756,
+    "postop_hypoxemia": -1.006,
+    "icu_readmission": -1.086
+  },
+  {
+    "anesthesia_hours": 6.965,
+    "incentive_spirometry": 7.254,
+    "atelectasis_severity": 5.134,
+    "postop_hypoxemia": -0.659,
+    "icu_readmission": -0.541
+  },
+  {
+    "anesthesia_hours": 13.293,
+    "incentive_spirometry": 15.751,
+    "atelectasis_severity": 9.908,
+    "postop_hypoxemia": -2.299,
+    "icu_readmission": -1.85
+  },
+  {
+    "anesthesia_hours": 6.542,
+    "incentive_spirometry": 9.072,
+    "atelectasis_severity": 4.905,
+    "postop_hypoxemia": -1.78,
+    "icu_readmission": -1.648
+  },
+  {
+    "anesthesia_hours": 13.893,
+    "incentive_spirometry": 12.092,
+    "atelectasis_severity": 10.384,
+    "postop_hypoxemia": 0.896,
+    "icu_readmission": 0.974
+  },
+  {
+    "anesthesia_hours": 4.471,
+    "incentive_spirometry": 7.133,
+    "atelectasis_severity": 3.218,
+    "postop_hypoxemia": -2.344,
+    "icu_readmission": -1.986
+  },
+  {
+    "anesthesia_hours": 9.153,
+    "incentive_spirometry": 13.709,
+    "atelectasis_severity": 6.967,
+    "postop_hypoxemia": -3.215,
+    "icu_readmission": -2.516
+  },
+  {
+    "anesthesia_hours": 14.949,
+    "incentive_spirometry": 14.149,
+    "atelectasis_severity": 11.113,
+    "postop_hypoxemia": -0.338,
+    "icu_readmission": -0.278
+  },
+  {
+    "anesthesia_hours": 18.72,
+    "incentive_spirometry": 17.94,
+    "atelectasis_severity": 13.932,
+    "postop_hypoxemia": -0.797,
+    "icu_readmission": -0.657
+  },
+  {
+    "anesthesia_hours": 5.587,
+    "incentive_spirometry": 1.164,
+    "atelectasis_severity": 3.839,
+    "postop_hypoxemia": 2.357,
+    "icu_readmission": 1.999
+  },
+  {
+    "anesthesia_hours": 10.268,
+    "incentive_spirometry": 11.329,
+    "atelectasis_severity": 7.716,
+    "postop_hypoxemia": -1.152,
+    "icu_readmission": -0.789
+  },
+  {
+    "anesthesia_hours": 6.017,
+    "incentive_spirometry": 7.525,
+    "atelectasis_severity": 4.471,
+    "postop_hypoxemia": -1.316,
+    "icu_readmission": -0.743
+  },
+  {
+    "anesthesia_hours": 5.177,
+    "incentive_spirometry": 5.365,
+    "atelectasis_severity": 4.088,
+    "postop_hypoxemia": 0.071,
+    "icu_readmission": -0.033
+  },
+  {
+    "anesthesia_hours": 18.202,
+    "incentive_spirometry": 15.623,
+    "atelectasis_severity": 13.49,
+    "postop_hypoxemia": 0.853,
+    "icu_readmission": 0.661
+  },
+  {
+    "anesthesia_hours": 9.672,
+    "incentive_spirometry": 12.029,
+    "atelectasis_severity": 7.061,
+    "postop_hypoxemia": -2.018,
+    "icu_readmission": -1.612
+  },
+  {
+    "anesthesia_hours": 15.925,
+    "incentive_spirometry": 11.775,
+    "atelectasis_severity": 12.56,
+    "postop_hypoxemia": 2.246,
+    "icu_readmission": 2.042
+  },
+  {
+    "anesthesia_hours": 15.279,
+    "incentive_spirometry": 9.028,
+    "atelectasis_severity": 11.641,
+    "postop_hypoxemia": 3.749,
+    "icu_readmission": 3.075
+  },
+  {
+    "anesthesia_hours": 12.58,
+    "incentive_spirometry": 14.839,
+    "atelectasis_severity": 9.359,
+    "postop_hypoxemia": -2.343,
+    "icu_readmission": -1.877
+  },
+  {
+    "anesthesia_hours": 15.585,
+    "incentive_spirometry": 13.643,
+    "atelectasis_severity": 11.88,
+    "postop_hypoxemia": 0.531,
+    "icu_readmission": 0.326
+  },
+  {
+    "anesthesia_hours": 12.272,
+    "incentive_spirometry": 10.113,
+    "atelectasis_severity": 9.06,
+    "postop_hypoxemia": 0.628,
+    "icu_readmission": 0.381
+  },
+  {
+    "anesthesia_hours": 11.091,
+    "incentive_spirometry": 8.809,
+    "atelectasis_severity": 8.708,
+    "postop_hypoxemia": 0.974,
+    "icu_readmission": 0.67
+  },
+  {
+    "anesthesia_hours": 6.172,
+    "incentive_spirometry": 6.39,
+    "atelectasis_severity": 4.577,
+    "postop_hypoxemia": -0.528,
+    "icu_readmission": -0.65
+  },
+  {
+    "anesthesia_hours": 15.671,
+    "incentive_spirometry": 15.579,
+    "atelectasis_severity": 11.693,
+    "postop_hypoxemia": -0.617,
+    "icu_readmission": -0.576
+  },
+  {
+    "anesthesia_hours": 6.291,
+    "incentive_spirometry": 6.354,
+    "atelectasis_severity": 4.907,
+    "postop_hypoxemia": -0.244,
+    "icu_readmission": 0.233
+  },
+  {
+    "anesthesia_hours": 15.791,
+    "incentive_spirometry": 7.46,
+    "atelectasis_severity": 11.86,
+    "postop_hypoxemia": 4.757,
+    "icu_readmission": 4.236
+  },
+  {
+    "anesthesia_hours": 12.053,
+    "incentive_spirometry": 8.7,
+    "atelectasis_severity": 8.677,
+    "postop_hypoxemia": 1.281,
+    "icu_readmission": 1.443
+  },
+  {
+    "anesthesia_hours": 9.02,
+    "incentive_spirometry": 13.92,
+    "atelectasis_severity": 6.439,
+    "postop_hypoxemia": -3.907,
+    "icu_readmission": -2.963
+  },
+  {
+    "anesthesia_hours": 8.67,
+    "incentive_spirometry": 12.929,
+    "atelectasis_severity": 6.723,
+    "postop_hypoxemia": -2.818,
+    "icu_readmission": -2.244
+  },
+  {
+    "anesthesia_hours": 12.777,
+    "incentive_spirometry": 14.885,
+    "atelectasis_severity": 9.564,
+    "postop_hypoxemia": -2.133,
+    "icu_readmission": -1.582
+  },
+  {
+    "anesthesia_hours": 12.43,
+    "incentive_spirometry": 6.478,
+    "atelectasis_severity": 9.477,
+    "postop_hypoxemia": 3.552,
+    "icu_readmission": 3.367
+  },
+  {
+    "anesthesia_hours": 7.489,
+    "incentive_spirometry": 9.259,
+    "atelectasis_severity": 5.512,
+    "postop_hypoxemia": -1.526,
+    "icu_readmission": -0.975
+  },
+  {
+    "anesthesia_hours": 9.807,
+    "incentive_spirometry": 7.678,
+    "atelectasis_severity": 7.522,
+    "postop_hypoxemia": 1.059,
+    "icu_readmission": 0.705
+  },
+  {
+    "anesthesia_hours": 8.132,
+    "incentive_spirometry": 6.053,
+    "atelectasis_severity": 6.21,
+    "postop_hypoxemia": 0.928,
+    "icu_readmission": 0.637
+  },
+  {
+    "anesthesia_hours": 8.42,
+    "incentive_spirometry": 9.323,
+    "atelectasis_severity": 6.172,
+    "postop_hypoxemia": -0.806,
+    "icu_readmission": -0.672
+  },
+  {
+    "anesthesia_hours": 10.408,
+    "incentive_spirometry": 8.776,
+    "atelectasis_severity": 7.651,
+    "postop_hypoxemia": 0.463,
+    "icu_readmission": 0.28
+  },
+  {
+    "anesthesia_hours": 10.445,
+    "incentive_spirometry": 13.545,
+    "atelectasis_severity": 7.706,
+    "postop_hypoxemia": -2.578,
+    "icu_readmission": -2.18
+  },
+  {
+    "anesthesia_hours": 8.234,
+    "incentive_spirometry": 13.199,
+    "atelectasis_severity": 6.384,
+    "postop_hypoxemia": -3.476,
+    "icu_readmission": -2.718
+  },
+  {
+    "anesthesia_hours": 5.8,
+    "incentive_spirometry": 7.589,
+    "atelectasis_severity": 4.029,
+    "postop_hypoxemia": -1.803,
+    "icu_readmission": -1.853
+  },
+  {
+    "anesthesia_hours": 5.214,
+    "incentive_spirometry": 2.938,
+    "atelectasis_severity": 3.623,
+    "postop_hypoxemia": 1.202,
+    "icu_readmission": 1.13
+  },
+  {
+    "anesthesia_hours": 9.396,
+    "incentive_spirometry": 9.194,
+    "atelectasis_severity": 7.063,
+    "postop_hypoxemia": -0.224,
+    "icu_readmission": 0.233
+  },
+  {
+    "anesthesia_hours": 7.944,
+    "incentive_spirometry": 10.395,
+    "atelectasis_severity": 5.6,
+    "postop_hypoxemia": -2.524,
+    "icu_readmission": -2.212
+  },
+  {
+    "anesthesia_hours": 9.244,
+    "incentive_spirometry": 9.442,
+    "atelectasis_severity": 7.027,
+    "postop_hypoxemia": -0.501,
+    "icu_readmission": -0.237
+  },
+  {
+    "anesthesia_hours": 16.258,
+    "incentive_spirometry": 16.746,
+    "atelectasis_severity": 12.651,
+    "postop_hypoxemia": -1.189,
+    "icu_readmission": -1.158
+  },
+  {
+    "anesthesia_hours": 8.602,
+    "incentive_spirometry": 7.89,
+    "atelectasis_severity": 6.446,
+    "postop_hypoxemia": -0.129,
+    "icu_readmission": -0.035
+  },
+  {
+    "anesthesia_hours": 6.794,
+    "incentive_spirometry": 6.603,
+    "atelectasis_severity": 4.736,
+    "postop_hypoxemia": -0.205,
+    "icu_readmission": -0.163
+  },
+  {
+    "anesthesia_hours": 9.368,
+    "incentive_spirometry": 8.508,
+    "atelectasis_severity": 7.246,
+    "postop_hypoxemia": 0.329,
+    "icu_readmission": 0.141
+  },
+  {
+    "anesthesia_hours": 15.963,
+    "incentive_spirometry": 14.934,
+    "atelectasis_severity": 11.667,
+    "postop_hypoxemia": -0.649,
+    "icu_readmission": -0.645
+  },
+  {
+    "anesthesia_hours": 7.918,
+    "incentive_spirometry": 6.786,
+    "atelectasis_severity": 5.558,
+    "postop_hypoxemia": 0.248,
+    "icu_readmission": 0.278
+  },
+  {
+    "anesthesia_hours": 1.119,
+    "incentive_spirometry": -1.644,
+    "atelectasis_severity": 1.227,
+    "postop_hypoxemia": 2.212,
+    "icu_readmission": 2.094
+  },
+  {
+    "anesthesia_hours": 14.103,
+    "incentive_spirometry": 16.971,
+    "atelectasis_severity": 10.6,
+    "postop_hypoxemia": -2.563,
+    "icu_readmission": -2.163
+  },
+  {
+    "anesthesia_hours": 9.923,
+    "incentive_spirometry": 10.739,
+    "atelectasis_severity": 7.46,
+    "postop_hypoxemia": -1.071,
+    "icu_readmission": -1.325
+  },
+  {
+    "anesthesia_hours": 11.345,
+    "incentive_spirometry": 12.254,
+    "atelectasis_severity": 8.426,
+    "postop_hypoxemia": -1.303,
+    "icu_readmission": -1.119
+  },
+  {
+    "anesthesia_hours": 15.006,
+    "incentive_spirometry": 17.701,
+    "atelectasis_severity": 11.355,
+    "postop_hypoxemia": -2.43,
+    "icu_readmission": -1.913
+  },
+  {
+    "anesthesia_hours": 11.616,
+    "incentive_spirometry": 9.299,
+    "atelectasis_severity": 8.801,
+    "postop_hypoxemia": 0.86,
+    "icu_readmission": 0.745
+  },
+  {
+    "anesthesia_hours": 7.493,
+    "incentive_spirometry": 6.986,
+    "atelectasis_severity": 5.718,
+    "postop_hypoxemia": 0.009,
+    "icu_readmission": -0.143
+  },
+  {
+    "anesthesia_hours": 12.935,
+    "incentive_spirometry": 10.474,
+    "atelectasis_severity": 9.918,
+    "postop_hypoxemia": 1.474,
+    "icu_readmission": 1.531
+  },
+  {
+    "anesthesia_hours": 4.256,
+    "incentive_spirometry": 7.267,
+    "atelectasis_severity": 3.349,
+    "postop_hypoxemia": -2.297,
+    "icu_readmission": -2.142
+  },
+  {
+    "anesthesia_hours": 10.101,
+    "incentive_spirometry": 5.649,
+    "atelectasis_severity": 8.008,
+    "postop_hypoxemia": 2.907,
+    "icu_readmission": 2.802
+  },
+  {
+    "anesthesia_hours": 16.803,
+    "incentive_spirometry": 15.345,
+    "atelectasis_severity": 12.528,
+    "postop_hypoxemia": -0.021,
+    "icu_readmission": -0.417
+  },
+  {
+    "anesthesia_hours": 9.376,
+    "incentive_spirometry": 9.564,
+    "atelectasis_severity": 6.842,
+    "postop_hypoxemia": -0.896,
+    "icu_readmission": -0.705
+  },
+  {
+    "anesthesia_hours": 2.39,
+    "incentive_spirometry": 4.298,
+    "atelectasis_severity": 1.949,
+    "postop_hypoxemia": -1.143,
+    "icu_readmission": -1.106
+  },
+  {
+    "anesthesia_hours": 2.764,
+    "incentive_spirometry": 7.696,
+    "atelectasis_severity": 1.872,
+    "postop_hypoxemia": -3.304,
+    "icu_readmission": -2.317
+  },
+  {
+    "anesthesia_hours": 8.114,
+    "incentive_spirometry": 8.522,
+    "atelectasis_severity": 6.035,
+    "postop_hypoxemia": -0.891,
+    "icu_readmission": -0.442
+  },
+  {
+    "anesthesia_hours": 9.709,
+    "incentive_spirometry": 8.751,
+    "atelectasis_severity": 7.329,
+    "postop_hypoxemia": 0.209,
+    "icu_readmission": -0.311
+  },
+  {
+    "anesthesia_hours": 4.444,
+    "incentive_spirometry": 7.361,
+    "atelectasis_severity": 3.074,
+    "postop_hypoxemia": -2.609,
+    "icu_readmission": -2.061
+  },
+  {
+    "anesthesia_hours": 8.403,
+    "incentive_spirometry": 7.619,
+    "atelectasis_severity": 6.37,
+    "postop_hypoxemia": 0.025,
+    "icu_readmission": 0.08
+  },
+  {
+    "anesthesia_hours": 12.957,
+    "incentive_spirometry": 14.14,
+    "atelectasis_severity": 9.848,
+    "postop_hypoxemia": -0.866,
+    "icu_readmission": -0.715
+  },
+  {
+    "anesthesia_hours": 14.028,
+    "incentive_spirometry": 14.645,
+    "atelectasis_severity": 10.096,
+    "postop_hypoxemia": -1.468,
+    "icu_readmission": -1.187
+  },
+  {
+    "anesthesia_hours": 12.06,
+    "incentive_spirometry": 8.636,
+    "atelectasis_severity": 9.323,
+    "postop_hypoxemia": 1.914,
+    "icu_readmission": 1.744
+  },
+  {
+    "anesthesia_hours": 15.777,
+    "incentive_spirometry": 16.618,
+    "atelectasis_severity": 11.714,
+    "postop_hypoxemia": -1.301,
+    "icu_readmission": -1.015
+  },
+  {
+    "anesthesia_hours": 11.002,
+    "incentive_spirometry": 12.761,
+    "atelectasis_severity": 8.082,
+    "postop_hypoxemia": -1.806,
+    "icu_readmission": -1.746
+  },
+  {
+    "anesthesia_hours": 15.415,
+    "incentive_spirometry": 14.638,
+    "atelectasis_severity": 11.619,
+    "postop_hypoxemia": -0.072,
+    "icu_readmission": 0.079
+  },
+  {
+    "anesthesia_hours": 8.209,
+    "incentive_spirometry": 12.258,
+    "atelectasis_severity": 6.503,
+    "postop_hypoxemia": -2.506,
+    "icu_readmission": -2.634
+  },
+  {
+    "anesthesia_hours": 6.973,
+    "incentive_spirometry": 8.718,
+    "atelectasis_severity": 5.359,
+    "postop_hypoxemia": -1.456,
+    "icu_readmission": -1.117
+  },
+  {
+    "anesthesia_hours": 8.504,
+    "incentive_spirometry": 12.673,
+    "atelectasis_severity": 6.656,
+    "postop_hypoxemia": -2.878,
+    "icu_readmission": -2.675
+  },
+  {
+    "anesthesia_hours": 10.633,
+    "incentive_spirometry": 9.189,
+    "atelectasis_severity": 7.787,
+    "postop_hypoxemia": 0.34,
+    "icu_readmission": 0.155
+  },
+  {
+    "anesthesia_hours": 13.431,
+    "incentive_spirometry": 12.202,
+    "atelectasis_severity": 9.886,
+    "postop_hypoxemia": 0.033,
+    "icu_readmission": 0.303
+  },
+  {
+    "anesthesia_hours": 12.422,
+    "incentive_spirometry": 16.966,
+    "atelectasis_severity": 9.168,
+    "postop_hypoxemia": -3.722,
+    "icu_readmission": -2.931
+  },
+  {
+    "anesthesia_hours": 7.171,
+    "incentive_spirometry": 7.164,
+    "atelectasis_severity": 5.813,
+    "postop_hypoxemia": 0.082,
+    "icu_readmission": -0.096
+  },
+  {
+    "anesthesia_hours": 8.215,
+    "incentive_spirometry": 8.831,
+    "atelectasis_severity": 6.545,
+    "postop_hypoxemia": -0.877,
+    "icu_readmission": -0.771
+  },
+  {
+    "anesthesia_hours": 6.638,
+    "incentive_spirometry": 6.144,
+    "atelectasis_severity": 5.285,
+    "postop_hypoxemia": 0.346,
+    "icu_readmission": 0.201
+  },
+  {
+    "anesthesia_hours": 10.201,
+    "incentive_spirometry": 11.539,
+    "atelectasis_severity": 7.818,
+    "postop_hypoxemia": -1.072,
+    "icu_readmission": -0.944
+  },
+  {
+    "anesthesia_hours": 14.064,
+    "incentive_spirometry": 13.216,
+    "atelectasis_severity": 10.311,
+    "postop_hypoxemia": -0.141,
+    "icu_readmission": -0.166
+  },
+  {
+    "anesthesia_hours": 8.964,
+    "incentive_spirometry": 14.171,
+    "atelectasis_severity": 6.488,
+    "postop_hypoxemia": -3.863,
+    "icu_readmission": -3.57
+  },
+  {
+    "anesthesia_hours": 14.582,
+    "incentive_spirometry": 10.064,
+    "atelectasis_severity": 11.029,
+    "postop_hypoxemia": 2.18,
+    "icu_readmission": 2.082
+  },
+  {
+    "anesthesia_hours": 8.915,
+    "incentive_spirometry": 13.877,
+    "atelectasis_severity": 6.547,
+    "postop_hypoxemia": -3.965,
+    "icu_readmission": -3.911
+  },
+  {
+    "anesthesia_hours": 9.393,
+    "incentive_spirometry": 11.557,
+    "atelectasis_severity": 7.239,
+    "postop_hypoxemia": -1.616,
+    "icu_readmission": -1.356
+  },
+  {
+    "anesthesia_hours": 8.911,
+    "incentive_spirometry": 10.302,
+    "atelectasis_severity": 6.297,
+    "postop_hypoxemia": -1.839,
+    "icu_readmission": -1.537
+  },
+  {
+    "anesthesia_hours": 13.463,
+    "incentive_spirometry": 13.206,
+    "atelectasis_severity": 10.418,
+    "postop_hypoxemia": -0.32,
+    "icu_readmission": -0.183
+  },
+  {
+    "anesthesia_hours": 9.344,
+    "incentive_spirometry": 16.687,
+    "atelectasis_severity": 6.719,
+    "postop_hypoxemia": -5.225,
+    "icu_readmission": -4.29
+  },
+  {
+    "anesthesia_hours": 13.211,
+    "incentive_spirometry": 15.344,
+    "atelectasis_severity": 9.926,
+    "postop_hypoxemia": -1.722,
+    "icu_readmission": -1.746
+  },
+  {
+    "anesthesia_hours": 10.026,
+    "incentive_spirometry": 10.948,
+    "atelectasis_severity": 7.62,
+    "postop_hypoxemia": -1.212,
+    "icu_readmission": -1.077
+  },
+  {
+    "anesthesia_hours": 2.04,
+    "incentive_spirometry": 7.395,
+    "atelectasis_severity": 1.42,
+    "postop_hypoxemia": -3.964,
+    "icu_readmission": -3.038
+  },
+  {
+    "anesthesia_hours": 13.402,
+    "incentive_spirometry": 14.547,
+    "atelectasis_severity": 10.003,
+    "postop_hypoxemia": -1.628,
+    "icu_readmission": -1.212
+  },
+  {
+    "anesthesia_hours": 8.1,
+    "incentive_spirometry": 11.827,
+    "atelectasis_severity": 5.703,
+    "postop_hypoxemia": -3.262,
+    "icu_readmission": -2.837
+  },
+  {
+    "anesthesia_hours": 18.301,
+    "incentive_spirometry": 19.769,
+    "atelectasis_severity": 13.852,
+    "postop_hypoxemia": -1.779,
+    "icu_readmission": -1.653
+  },
+  {
+    "anesthesia_hours": 16.456,
+    "incentive_spirometry": 11.823,
+    "atelectasis_severity": 12.5,
+    "postop_hypoxemia": 2.156,
+    "icu_readmission": 1.785
+  },
+  {
+    "anesthesia_hours": 6.1,
+    "incentive_spirometry": 5.382,
+    "atelectasis_severity": 4.304,
+    "postop_hypoxemia": 0.008,
+    "icu_readmission": -0.311
+  },
+  {
+    "anesthesia_hours": 15.172,
+    "incentive_spirometry": 13.94,
+    "atelectasis_severity": 11.487,
+    "postop_hypoxemia": 0.052,
+    "icu_readmission": 0.024
+  },
+  {
+    "anesthesia_hours": 11.775,
+    "incentive_spirometry": 12.093,
+    "atelectasis_severity": 8.86,
+    "postop_hypoxemia": -0.754,
+    "icu_readmission": -0.883
+  },
+  {
+    "anesthesia_hours": 10.857,
+    "incentive_spirometry": 9.003,
+    "atelectasis_severity": 7.639,
+    "postop_hypoxemia": 0.356,
+    "icu_readmission": 0.303
+  },
+  {
+    "anesthesia_hours": 3.709,
+    "incentive_spirometry": 12.551,
+    "atelectasis_severity": 2.872,
+    "postop_hypoxemia": -6.161,
+    "icu_readmission": -5.446
+  },
+  {
+    "anesthesia_hours": 9.784,
+    "incentive_spirometry": 9.234,
+    "atelectasis_severity": 7.757,
+    "postop_hypoxemia": 0.463,
+    "icu_readmission": 0.074
+  },
+  {
+    "anesthesia_hours": 11.586,
+    "incentive_spirometry": 13.823,
+    "atelectasis_severity": 8.312,
+    "postop_hypoxemia": -2.212,
+    "icu_readmission": -1.925
+  },
+  {
+    "anesthesia_hours": 12.703,
+    "incentive_spirometry": 9.602,
+    "atelectasis_severity": 9.51,
+    "postop_hypoxemia": 1.323,
+    "icu_readmission": 0.652
+  },
+  {
+    "anesthesia_hours": 11.947,
+    "incentive_spirometry": 11.17,
+    "atelectasis_severity": 8.844,
+    "postop_hypoxemia": -0.424,
+    "icu_readmission": -0.624
+  },
+  {
+    "anesthesia_hours": 14.776,
+    "incentive_spirometry": 12.523,
+    "atelectasis_severity": 11.36,
+    "postop_hypoxemia": 0.809,
+    "icu_readmission": 0.782
+  },
+  {
+    "anesthesia_hours": 13.249,
+    "incentive_spirometry": 13.023,
+    "atelectasis_severity": 9.936,
+    "postop_hypoxemia": -0.482,
+    "icu_readmission": -0.708
+  },
+  {
+    "anesthesia_hours": 10.286,
+    "incentive_spirometry": 15.293,
+    "atelectasis_severity": 7.362,
+    "postop_hypoxemia": -4.024,
+    "icu_readmission": -3.342
+  },
+  {
+    "anesthesia_hours": 11.767,
+    "incentive_spirometry": 14.356,
+    "atelectasis_severity": 9.216,
+    "postop_hypoxemia": -1.828,
+    "icu_readmission": -1.161
+  },
+  {
+    "anesthesia_hours": 9.898,
+    "incentive_spirometry": 9.566,
+    "atelectasis_severity": 7.301,
+    "postop_hypoxemia": -0.199,
+    "icu_readmission": -0.575
+  },
+  {
+    "anesthesia_hours": 9.735,
+    "incentive_spirometry": 9.618,
+    "atelectasis_severity": 7.219,
+    "postop_hypoxemia": -0.422,
+    "icu_readmission": -0.254
+  },
+  {
+    "anesthesia_hours": 6.111,
+    "incentive_spirometry": 7.818,
+    "atelectasis_severity": 4.677,
+    "postop_hypoxemia": -1.347,
+    "icu_readmission": -1.108
+  },
+  {
+    "anesthesia_hours": 11.649,
+    "incentive_spirometry": 5.894,
+    "atelectasis_severity": 8.783,
+    "postop_hypoxemia": 2.852,
+    "icu_readmission": 2.588
+  },
+  {
+    "anesthesia_hours": 6.108,
+    "incentive_spirometry": 6.941,
+    "atelectasis_severity": 4.409,
+    "postop_hypoxemia": -0.806,
+    "icu_readmission": -0.802
+  },
+  {
+    "anesthesia_hours": 20.997,
+    "incentive_spirometry": 17.814,
+    "atelectasis_severity": 15.966,
+    "postop_hypoxemia": 1.194,
+    "icu_readmission": 1.337
+  },
+  {
+    "anesthesia_hours": 15.457,
+    "incentive_spirometry": 12.803,
+    "atelectasis_severity": 11.482,
+    "postop_hypoxemia": 1.059,
+    "icu_readmission": 0.973
+  },
+  {
+    "anesthesia_hours": 13.114,
+    "incentive_spirometry": 8.337,
+    "atelectasis_severity": 9.843,
+    "postop_hypoxemia": 2.343,
+    "icu_readmission": 1.965
+  },
+  {
+    "anesthesia_hours": 21.306,
+    "incentive_spirometry": 16.978,
+    "atelectasis_severity": 16.208,
+    "postop_hypoxemia": 2.159,
+    "icu_readmission": 1.637
+  },
+  {
+    "anesthesia_hours": 13.429,
+    "incentive_spirometry": 13.785,
+    "atelectasis_severity": 9.955,
+    "postop_hypoxemia": -0.912,
+    "icu_readmission": -0.809
+  },
+  {
+    "anesthesia_hours": 5.021,
+    "incentive_spirometry": 5.614,
+    "atelectasis_severity": 3.819,
+    "postop_hypoxemia": -0.731,
+    "icu_readmission": -0.774
+  },
+  {
+    "anesthesia_hours": 10.536,
+    "incentive_spirometry": 14.255,
+    "atelectasis_severity": 8.12,
+    "postop_hypoxemia": -2.743,
+    "icu_readmission": -2.4
+  },
+  {
+    "anesthesia_hours": 10.584,
+    "incentive_spirometry": 14.044,
+    "atelectasis_severity": 8.191,
+    "postop_hypoxemia": -2.563,
+    "icu_readmission": -1.873
+  },
+  {
+    "anesthesia_hours": 7.063,
+    "incentive_spirometry": 5.592,
+    "atelectasis_severity": 5.634,
+    "postop_hypoxemia": 1.038,
+    "icu_readmission": 1.07
+  },
+  {
+    "anesthesia_hours": 15.785,
+    "incentive_spirometry": 12.795,
+    "atelectasis_severity": 11.806,
+    "postop_hypoxemia": 1.221,
+    "icu_readmission": 0.771
+  },
+  {
+    "anesthesia_hours": 6.154,
+    "incentive_spirometry": 3.923,
+    "atelectasis_severity": 4.445,
+    "postop_hypoxemia": 1.303,
+    "icu_readmission": 1.754
+  },
+  {
+    "anesthesia_hours": 10.664,
+    "incentive_spirometry": 8.639,
+    "atelectasis_severity": 8.347,
+    "postop_hypoxemia": 0.819,
+    "icu_readmission": 0.579
+  },
+  {
+    "anesthesia_hours": 5.783,
+    "incentive_spirometry": 3.522,
+    "atelectasis_severity": 4.17,
+    "postop_hypoxemia": 0.982,
+    "icu_readmission": 0.819
+  },
+  {
+    "anesthesia_hours": 9.722,
+    "incentive_spirometry": 9.542,
+    "atelectasis_severity": 6.828,
+    "postop_hypoxemia": -1.035,
+    "icu_readmission": -1.01
+  },
+  {
+    "anesthesia_hours": 7.076,
+    "incentive_spirometry": 6.897,
+    "atelectasis_severity": 5.449,
+    "postop_hypoxemia": -0.124,
+    "icu_readmission": -0.006
+  },
+  {
+    "anesthesia_hours": 10.517,
+    "incentive_spirometry": 14.178,
+    "atelectasis_severity": 7.903,
+    "postop_hypoxemia": -2.724,
+    "icu_readmission": -2.495
+  },
+  {
+    "anesthesia_hours": 13.138,
+    "incentive_spirometry": 11.575,
+    "atelectasis_severity": 9.866,
+    "postop_hypoxemia": 0.446,
+    "icu_readmission": 0.5
+  },
+  {
+    "anesthesia_hours": 8.919,
+    "incentive_spirometry": 9.225,
+    "atelectasis_severity": 6.761,
+    "postop_hypoxemia": -0.429,
+    "icu_readmission": -0.252
+  },
+  {
+    "anesthesia_hours": 7.698,
+    "incentive_spirometry": 7.677,
+    "atelectasis_severity": 5.701,
+    "postop_hypoxemia": -0.643,
+    "icu_readmission": -0.433
+  },
+  {
+    "anesthesia_hours": 13.238,
+    "incentive_spirometry": 13.663,
+    "atelectasis_severity": 10.06,
+    "postop_hypoxemia": -0.997,
+    "icu_readmission": -0.708
+  },
+  {
+    "anesthesia_hours": 4.039,
+    "incentive_spirometry": 5.879,
+    "atelectasis_severity": 3.115,
+    "postop_hypoxemia": -1.516,
+    "icu_readmission": -1.595
+  },
+  {
+    "anesthesia_hours": 9.749,
+    "incentive_spirometry": 8.08,
+    "atelectasis_severity": 7.147,
+    "postop_hypoxemia": 0.879,
+    "icu_readmission": 0.878
+  },
+  {
+    "anesthesia_hours": 15.357,
+    "incentive_spirometry": 14.317,
+    "atelectasis_severity": 11.178,
+    "postop_hypoxemia": -0.693,
+    "icu_readmission": -0.391
+  },
+  {
+    "anesthesia_hours": 9.876,
+    "incentive_spirometry": 9.829,
+    "atelectasis_severity": 7.285,
+    "postop_hypoxemia": -0.663,
+    "icu_readmission": -0.604
+  },
+  {
+    "anesthesia_hours": 10.724,
+    "incentive_spirometry": 8.081,
+    "atelectasis_severity": 8.371,
+    "postop_hypoxemia": 1.187,
+    "icu_readmission": 0.994
+  },
+  {
+    "anesthesia_hours": 4.471,
+    "incentive_spirometry": 5.474,
+    "atelectasis_severity": 3.59,
+    "postop_hypoxemia": -0.59,
+    "icu_readmission": -0.784
+  },
+  {
+    "anesthesia_hours": 11.546,
+    "incentive_spirometry": 11.774,
+    "atelectasis_severity": 8.568,
+    "postop_hypoxemia": -0.721,
+    "icu_readmission": -0.614
+  },
+  {
+    "anesthesia_hours": 4.719,
+    "incentive_spirometry": 4.289,
+    "atelectasis_severity": 3.731,
+    "postop_hypoxemia": 0.331,
+    "icu_readmission": 0.332
+  },
+  {
+    "anesthesia_hours": 8.941,
+    "incentive_spirometry": 9.4,
+    "atelectasis_severity": 6.842,
+    "postop_hypoxemia": -0.329,
+    "icu_readmission": -0.609
+  },
+  {
+    "anesthesia_hours": 7.757,
+    "incentive_spirometry": 11.832,
+    "atelectasis_severity": 6.102,
+    "postop_hypoxemia": -2.765,
+    "icu_readmission": -2.183
+  },
+  {
+    "anesthesia_hours": 13.302,
+    "incentive_spirometry": 16.838,
+    "atelectasis_severity": 10.398,
+    "postop_hypoxemia": -2.903,
+    "icu_readmission": -2.542
+  },
+  {
+    "anesthesia_hours": 7.827,
+    "incentive_spirometry": 10.652,
+    "atelectasis_severity": 6.176,
+    "postop_hypoxemia": -1.861,
+    "icu_readmission": -1.738
+  },
+  {
+    "anesthesia_hours": 8.699,
+    "incentive_spirometry": 4.796,
+    "atelectasis_severity": 6.621,
+    "postop_hypoxemia": 1.941,
+    "icu_readmission": 1.695
+  },
+  {
+    "anesthesia_hours": 11.53,
+    "incentive_spirometry": 11.275,
+    "atelectasis_severity": 8.945,
+    "postop_hypoxemia": -0.221,
+    "icu_readmission": -0.333
+  },
+  {
+    "anesthesia_hours": 14.719,
+    "incentive_spirometry": 5.613,
+    "atelectasis_severity": 11.041,
+    "postop_hypoxemia": 4.988,
+    "icu_readmission": 4.346
+  },
+  {
+    "anesthesia_hours": 7.755,
+    "incentive_spirometry": 6.485,
+    "atelectasis_severity": 5.685,
+    "postop_hypoxemia": 0.236,
+    "icu_readmission": 0.012
+  },
+  {
+    "anesthesia_hours": 7.347,
+    "incentive_spirometry": 7.404,
+    "atelectasis_severity": 5.718,
+    "postop_hypoxemia": -0.642,
+    "icu_readmission": -0.274
+  },
+  {
+    "anesthesia_hours": 8.334,
+    "incentive_spirometry": 8.451,
+    "atelectasis_severity": 6.345,
+    "postop_hypoxemia": -0.507,
+    "icu_readmission": -0.505
+  },
+  {
+    "anesthesia_hours": 16.591,
+    "incentive_spirometry": 18.298,
+    "atelectasis_severity": 12.44,
+    "postop_hypoxemia": -1.769,
+    "icu_readmission": -1.709
+  },
+  {
+    "anesthesia_hours": 3.604,
+    "incentive_spirometry": 5.82,
+    "atelectasis_severity": 2.901,
+    "postop_hypoxemia": -1.653,
+    "icu_readmission": -1.575
+  },
+  {
+    "anesthesia_hours": 9.309,
+    "incentive_spirometry": 10.942,
+    "atelectasis_severity": 7.001,
+    "postop_hypoxemia": -1.508,
+    "icu_readmission": -1.187
+  },
+  {
+    "anesthesia_hours": 17.079,
+    "incentive_spirometry": 18.115,
+    "atelectasis_severity": 12.716,
+    "postop_hypoxemia": -1.854,
+    "icu_readmission": -1.598
+  },
+  {
+    "anesthesia_hours": 11.375,
+    "incentive_spirometry": 13.592,
+    "atelectasis_severity": 8.813,
+    "postop_hypoxemia": -1.482,
+    "icu_readmission": -1.279
+  },
+  {
+    "anesthesia_hours": 9.512,
+    "incentive_spirometry": 9.439,
+    "atelectasis_severity": 6.771,
+    "postop_hypoxemia": -0.472,
+    "icu_readmission": -0.337
+  },
+  {
+    "anesthesia_hours": 12.264,
+    "incentive_spirometry": 12.239,
+    "atelectasis_severity": 9.166,
+    "postop_hypoxemia": -0.672,
+    "icu_readmission": -0.705
+  },
+  {
+    "anesthesia_hours": 7.826,
+    "incentive_spirometry": 9.043,
+    "atelectasis_severity": 6.136,
+    "postop_hypoxemia": -0.971,
+    "icu_readmission": -0.565
+  },
+  {
+    "anesthesia_hours": 6.55,
+    "incentive_spirometry": 7.431,
+    "atelectasis_severity": 4.677,
+    "postop_hypoxemia": -0.997,
+    "icu_readmission": -0.63
+  },
+  {
+    "anesthesia_hours": 10.925,
+    "incentive_spirometry": 6.788,
+    "atelectasis_severity": 8.09,
+    "postop_hypoxemia": 1.848,
+    "icu_readmission": 1.574
+  },
+  {
+    "anesthesia_hours": 9.069,
+    "incentive_spirometry": 14.309,
+    "atelectasis_severity": 6.355,
+    "postop_hypoxemia": -4.579,
+    "icu_readmission": -3.83
+  },
+  {
+    "anesthesia_hours": 11.988,
+    "incentive_spirometry": 12.221,
+    "atelectasis_severity": 9.201,
+    "postop_hypoxemia": -0.427,
+    "icu_readmission": -0.192
+  },
+  {
+    "anesthesia_hours": 13.391,
+    "incentive_spirometry": 14.108,
+    "atelectasis_severity": 9.86,
+    "postop_hypoxemia": -1.714,
+    "icu_readmission": -1.653
+  },
+  {
+    "anesthesia_hours": 17.109,
+    "incentive_spirometry": 17.833,
+    "atelectasis_severity": 12.647,
+    "postop_hypoxemia": -1.411,
+    "icu_readmission": -1.195
+  },
+  {
+    "anesthesia_hours": -0.023,
+    "incentive_spirometry": 3.557,
+    "atelectasis_severity": -0.228,
+    "postop_hypoxemia": -2.373,
+    "icu_readmission": -2.394
+  },
+  {
+    "anesthesia_hours": 7.029,
+    "incentive_spirometry": 8.492,
+    "atelectasis_severity": 5.39,
+    "postop_hypoxemia": -1.128,
+    "icu_readmission": -0.741
+  },
+  {
+    "anesthesia_hours": 8.953,
+    "incentive_spirometry": 12.173,
+    "atelectasis_severity": 6.568,
+    "postop_hypoxemia": -2.563,
+    "icu_readmission": -2.395
+  },
+  {
+    "anesthesia_hours": 10.4,
+    "incentive_spirometry": 12.221,
+    "atelectasis_severity": 7.804,
+    "postop_hypoxemia": -1.795,
+    "icu_readmission": -1.089
+  },
+  {
+    "anesthesia_hours": 6.614,
+    "incentive_spirometry": 9.044,
+    "atelectasis_severity": 4.816,
+    "postop_hypoxemia": -1.995,
+    "icu_readmission": -1.67
+  },
+  {
+    "anesthesia_hours": 4.702,
+    "incentive_spirometry": 4.353,
+    "atelectasis_severity": 3.358,
+    "postop_hypoxemia": 0.325,
+    "icu_readmission": 0.259
+  },
+  {
+    "anesthesia_hours": 9.096,
+    "incentive_spirometry": 4.155,
+    "atelectasis_severity": 6.846,
+    "postop_hypoxemia": 2.616,
+    "icu_readmission": 2.274
+  },
+  {
+    "anesthesia_hours": 16.244,
+    "incentive_spirometry": 16.277,
+    "atelectasis_severity": 12.473,
+    "postop_hypoxemia": -0.556,
+    "icu_readmission": -0.378
+  },
+  {
+    "anesthesia_hours": 14.009,
+    "incentive_spirometry": 12.448,
+    "atelectasis_severity": 10.605,
+    "postop_hypoxemia": 0.759,
+    "icu_readmission": 0.715
+  },
+  {
+    "anesthesia_hours": 9.898,
+    "incentive_spirometry": 7.214,
+    "atelectasis_severity": 7.246,
+    "postop_hypoxemia": 0.953,
+    "icu_readmission": 0.762
+  },
+  {
+    "anesthesia_hours": 13.119,
+    "incentive_spirometry": 10.405,
+    "atelectasis_severity": 9.789,
+    "postop_hypoxemia": 0.985,
+    "icu_readmission": 0.687
+  },
+  {
+    "anesthesia_hours": 14.001,
+    "incentive_spirometry": 9.307,
+    "atelectasis_severity": 10.636,
+    "postop_hypoxemia": 2.527,
+    "icu_readmission": 1.882
+  },
+  {
+    "anesthesia_hours": 9.287,
+    "incentive_spirometry": 10.166,
+    "atelectasis_severity": 7.452,
+    "postop_hypoxemia": -0.746,
+    "icu_readmission": -0.495
+  },
+  {
+    "anesthesia_hours": 4.893,
+    "incentive_spirometry": 5.105,
+    "atelectasis_severity": 3.557,
+    "postop_hypoxemia": -0.63,
+    "icu_readmission": -0.54
+  },
+  {
+    "anesthesia_hours": 13.475,
+    "incentive_spirometry": 10.091,
+    "atelectasis_severity": 10.336,
+    "postop_hypoxemia": 1.402,
+    "icu_readmission": 0.989
+  },
+  {
+    "anesthesia_hours": 7.375,
+    "incentive_spirometry": 9.062,
+    "atelectasis_severity": 5.199,
+    "postop_hypoxemia": -1.65,
+    "icu_readmission": -1.618
+  },
+  {
+    "anesthesia_hours": 11.688,
+    "incentive_spirometry": 11.328,
+    "atelectasis_severity": 9.097,
+    "postop_hypoxemia": -0.3,
+    "icu_readmission": -0.478
+  },
+  {
+    "anesthesia_hours": 6.196,
+    "incentive_spirometry": 10.117,
+    "atelectasis_severity": 4.633,
+    "postop_hypoxemia": -3.151,
+    "icu_readmission": -2.81
+  },
+  {
+    "anesthesia_hours": 11.46,
+    "incentive_spirometry": 14.631,
+    "atelectasis_severity": 8.263,
+    "postop_hypoxemia": -2.887,
+    "icu_readmission": -2.397
+  },
+  {
+    "anesthesia_hours": 10.487,
+    "incentive_spirometry": 10.668,
+    "atelectasis_severity": 7.657,
+    "postop_hypoxemia": -0.67,
+    "icu_readmission": -0.787
+  },
+  {
+    "anesthesia_hours": 10.847,
+    "incentive_spirometry": 13.342,
+    "atelectasis_severity": 8.016,
+    "postop_hypoxemia": -2.258,
+    "icu_readmission": -2.24
+  },
+  {
+    "anesthesia_hours": 7.129,
+    "incentive_spirometry": 7.782,
+    "atelectasis_severity": 5.565,
+    "postop_hypoxemia": -0.877,
+    "icu_readmission": -0.682
+  },
+  {
+    "anesthesia_hours": 9.541,
+    "incentive_spirometry": 7.731,
+    "atelectasis_severity": 7.034,
+    "postop_hypoxemia": 0.451,
+    "icu_readmission": 0.568
+  },
+  {
+    "anesthesia_hours": 10.467,
+    "incentive_spirometry": 6.574,
+    "atelectasis_severity": 7.463,
+    "postop_hypoxemia": 1.632,
+    "icu_readmission": 1.229
+  },
+  {
+    "anesthesia_hours": 12.342,
+    "incentive_spirometry": 14.212,
+    "atelectasis_severity": 9.326,
+    "postop_hypoxemia": -2.029,
+    "icu_readmission": -1.704
+  },
+  {
+    "anesthesia_hours": 10.756,
+    "incentive_spirometry": 8.14,
+    "atelectasis_severity": 8.345,
+    "postop_hypoxemia": 1.643,
+    "icu_readmission": 1.487
+  },
+  {
+    "anesthesia_hours": 7.678,
+    "incentive_spirometry": 5.605,
+    "atelectasis_severity": 5.826,
+    "postop_hypoxemia": 0.879,
+    "icu_readmission": 1.004
+  },
+  {
+    "anesthesia_hours": 9.03,
+    "incentive_spirometry": 8.098,
+    "atelectasis_severity": 6.578,
+    "postop_hypoxemia": 0.087,
+    "icu_readmission": 0.322
+  },
+  {
+    "anesthesia_hours": 8.917,
+    "incentive_spirometry": 10.444,
+    "atelectasis_severity": 6.574,
+    "postop_hypoxemia": -1.488,
+    "icu_readmission": -0.826
+  },
+  {
+    "anesthesia_hours": 12.744,
+    "incentive_spirometry": 11.575,
+    "atelectasis_severity": 9.728,
+    "postop_hypoxemia": -0.052,
+    "icu_readmission": 0.154
+  },
+  {
+    "anesthesia_hours": 12.45,
+    "incentive_spirometry": 12.261,
+    "atelectasis_severity": 9.021,
+    "postop_hypoxemia": -0.909,
+    "icu_readmission": -1.279
+  },
+  {
+    "anesthesia_hours": 9.482,
+    "incentive_spirometry": 10.85,
+    "atelectasis_severity": 6.996,
+    "postop_hypoxemia": -1.239,
+    "icu_readmission": -0.912
+  },
+  {
+    "anesthesia_hours": 8.559,
+    "incentive_spirometry": 8.912,
+    "atelectasis_severity": 6.218,
+    "postop_hypoxemia": -0.664,
+    "icu_readmission": -0.767
+  },
+  {
+    "anesthesia_hours": 12.177,
+    "incentive_spirometry": 14.697,
+    "atelectasis_severity": 9.446,
+    "postop_hypoxemia": -1.863,
+    "icu_readmission": -1.532
+  },
+  {
+    "anesthesia_hours": 16.036,
+    "incentive_spirometry": 13.393,
+    "atelectasis_severity": 12.02,
+    "postop_hypoxemia": 0.738,
+    "icu_readmission": 0.521
+  },
+  {
+    "anesthesia_hours": 10.829,
+    "incentive_spirometry": 13.721,
+    "atelectasis_severity": 8.353,
+    "postop_hypoxemia": -2.294,
+    "icu_readmission": -2.56
+  },
+  {
+    "anesthesia_hours": 14.874,
+    "incentive_spirometry": 14.436,
+    "atelectasis_severity": 11.415,
+    "postop_hypoxemia": -0.388,
+    "icu_readmission": -0.729
+  },
+  {
+    "anesthesia_hours": 17.731,
+    "incentive_spirometry": 17.246,
+    "atelectasis_severity": 13.22,
+    "postop_hypoxemia": -0.436,
+    "icu_readmission": -0.071
+  },
+  {
+    "anesthesia_hours": 21.379,
+    "incentive_spirometry": 18.7,
+    "atelectasis_severity": 16.419,
+    "postop_hypoxemia": 1.035,
+    "icu_readmission": 0.786
+  },
+  {
+    "anesthesia_hours": 12.587,
+    "incentive_spirometry": 9.601,
+    "atelectasis_severity": 9.346,
+    "postop_hypoxemia": 1.241,
+    "icu_readmission": 1.157
+  },
+  {
+    "anesthesia_hours": 11.674,
+    "incentive_spirometry": 10.758,
+    "atelectasis_severity": 8.739,
+    "postop_hypoxemia": -0.054,
+    "icu_readmission": -0.171
+  },
+  {
+    "anesthesia_hours": -0.623,
+    "incentive_spirometry": 0.989,
+    "atelectasis_severity": -0.341,
+    "postop_hypoxemia": -1.072,
+    "icu_readmission": -0.827
+  },
+  {
+    "anesthesia_hours": 1.452,
+    "incentive_spirometry": 0.58,
+    "atelectasis_severity": 1.099,
+    "postop_hypoxemia": 0.535,
+    "icu_readmission": 0.549
+  },
+  {
+    "anesthesia_hours": 4.271,
+    "incentive_spirometry": 3.979,
+    "atelectasis_severity": 3.509,
+    "postop_hypoxemia": 0.273,
+    "icu_readmission": 0.361
+  },
+  {
+    "anesthesia_hours": 9.431,
+    "incentive_spirometry": 8.233,
+    "atelectasis_severity": 6.996,
+    "postop_hypoxemia": -0.121,
+    "icu_readmission": -0.275
+  },
+  {
+    "anesthesia_hours": 3.814,
+    "incentive_spirometry": 5.909,
+    "atelectasis_severity": 3.102,
+    "postop_hypoxemia": -1.284,
+    "icu_readmission": -0.958
+  },
+  {
+    "anesthesia_hours": 13.978,
+    "incentive_spirometry": 9.25,
+    "atelectasis_severity": 10.467,
+    "postop_hypoxemia": 2.085,
+    "icu_readmission": 1.731
+  },
+  {
+    "anesthesia_hours": 11.536,
+    "incentive_spirometry": 11.385,
+    "atelectasis_severity": 8.466,
+    "postop_hypoxemia": -0.691,
+    "icu_readmission": -0.854
+  },
+  {
+    "anesthesia_hours": 11.528,
+    "incentive_spirometry": 16.668,
+    "atelectasis_severity": 8.556,
+    "postop_hypoxemia": -4.141,
+    "icu_readmission": -3.38
+  },
+  {
+    "anesthesia_hours": 6.092,
+    "incentive_spirometry": 4.764,
+    "atelectasis_severity": 4.501,
+    "postop_hypoxemia": 0.697,
+    "icu_readmission": 0.464
+  },
+  {
+    "anesthesia_hours": 9.599,
+    "incentive_spirometry": 10.767,
+    "atelectasis_severity": 7.409,
+    "postop_hypoxemia": -0.858,
+    "icu_readmission": -0.679
+  },
+  {
+    "anesthesia_hours": 9.909,
+    "incentive_spirometry": 15.091,
+    "atelectasis_severity": 7.596,
+    "postop_hypoxemia": -3.673,
+    "icu_readmission": -3.404
+  },
+  {
+    "anesthesia_hours": 7.379,
+    "incentive_spirometry": 4.217,
+    "atelectasis_severity": 5.6,
+    "postop_hypoxemia": 1.791,
+    "icu_readmission": 1.451
+  },
+  {
+    "anesthesia_hours": 12.284,
+    "incentive_spirometry": 12.363,
+    "atelectasis_severity": 9.563,
+    "postop_hypoxemia": -0.143,
+    "icu_readmission": 0.042
+  },
+  {
+    "anesthesia_hours": 12.726,
+    "incentive_spirometry": 10.039,
+    "atelectasis_severity": 9.574,
+    "postop_hypoxemia": 0.926,
+    "icu_readmission": 0.935
+  },
+  {
+    "anesthesia_hours": 11.551,
+    "incentive_spirometry": 7.421,
+    "atelectasis_severity": 8.775,
+    "postop_hypoxemia": 2.402,
+    "icu_readmission": 2.355
+  },
+  {
+    "anesthesia_hours": 7.29,
+    "incentive_spirometry": 10.517,
+    "atelectasis_severity": 5.676,
+    "postop_hypoxemia": -2.459,
+    "icu_readmission": -2.183
+  },
+  {
+    "anesthesia_hours": 13.457,
+    "incentive_spirometry": 11.177,
+    "atelectasis_severity": 9.759,
+    "postop_hypoxemia": 0.727,
+    "icu_readmission": 0.899
+  },
+  {
+    "anesthesia_hours": 9.604,
+    "incentive_spirometry": 6.511,
+    "atelectasis_severity": 7.596,
+    "postop_hypoxemia": 2.112,
+    "icu_readmission": 1.92
+  },
+  {
+    "anesthesia_hours": 7.15,
+    "incentive_spirometry": 9.161,
+    "atelectasis_severity": 4.994,
+    "postop_hypoxemia": -1.746,
+    "icu_readmission": -1.831
+  },
+  {
+    "anesthesia_hours": 11.297,
+    "incentive_spirometry": 12.743,
+    "atelectasis_severity": 8.519,
+    "postop_hypoxemia": -1.505,
+    "icu_readmission": -1.415
+  },
+  {
+    "anesthesia_hours": 6.235,
+    "incentive_spirometry": 7.964,
+    "atelectasis_severity": 4.467,
+    "postop_hypoxemia": -1.536,
+    "icu_readmission": -1.356
+  },
+  {
+    "anesthesia_hours": 14.25,
+    "incentive_spirometry": 17.878,
+    "atelectasis_severity": 10.717,
+    "postop_hypoxemia": -2.883,
+    "icu_readmission": -2.005
+  },
+  {
+    "anesthesia_hours": 14.057,
+    "incentive_spirometry": 16.862,
+    "atelectasis_severity": 10.616,
+    "postop_hypoxemia": -2.215,
+    "icu_readmission": -1.846
+  },
+  {
+    "anesthesia_hours": 9.333,
+    "incentive_spirometry": 4.609,
+    "atelectasis_severity": 6.539,
+    "postop_hypoxemia": 2.313,
+    "icu_readmission": 1.869
+  },
+  {
+    "anesthesia_hours": 12.268,
+    "incentive_spirometry": 10.72,
+    "atelectasis_severity": 9.052,
+    "postop_hypoxemia": 0.643,
+    "icu_readmission": 0.608
+  },
+  {
+    "anesthesia_hours": 10.637,
+    "incentive_spirometry": 10.041,
+    "atelectasis_severity": 8.58,
+    "postop_hypoxemia": 0.276,
+    "icu_readmission": 0.168
+  },
+  {
+    "anesthesia_hours": 7.463,
+    "incentive_spirometry": 8.198,
+    "atelectasis_severity": 5.933,
+    "postop_hypoxemia": -0.804,
+    "icu_readmission": -1.016
+  },
+  {
+    "anesthesia_hours": 9.586,
+    "incentive_spirometry": 8.482,
+    "atelectasis_severity": 7.076,
+    "postop_hypoxemia": 0.368,
+    "icu_readmission": 0.01
+  },
+  {
+    "anesthesia_hours": 9.222,
+    "incentive_spirometry": 11.201,
+    "atelectasis_severity": 6.788,
+    "postop_hypoxemia": -2.253,
+    "icu_readmission": -1.605
+  },
+  {
+    "anesthesia_hours": 14.122,
+    "incentive_spirometry": 13.326,
+    "atelectasis_severity": 10.764,
+    "postop_hypoxemia": 0.352,
+    "icu_readmission": 0.148
+  },
+  {
+    "anesthesia_hours": 11.979,
+    "incentive_spirometry": 7.834,
+    "atelectasis_severity": 8.848,
+    "postop_hypoxemia": 2.281,
+    "icu_readmission": 2.141
+  },
+  {
+    "anesthesia_hours": 8.338,
+    "incentive_spirometry": 8.437,
+    "atelectasis_severity": 5.981,
+    "postop_hypoxemia": -0.396,
+    "icu_readmission": -0.177
+  },
+  {
+    "anesthesia_hours": 14.142,
+    "incentive_spirometry": 13.792,
+    "atelectasis_severity": 10.616,
+    "postop_hypoxemia": 0.002,
+    "icu_readmission": 0.242
+  },
+  {
+    "anesthesia_hours": 7.572,
+    "incentive_spirometry": 5.963,
+    "atelectasis_severity": 5.772,
+    "postop_hypoxemia": 0.896,
+    "icu_readmission": 0.701
+  },
+  {
+    "anesthesia_hours": 17.171,
+    "incentive_spirometry": 14.788,
+    "atelectasis_severity": 12.799,
+    "postop_hypoxemia": 0.659,
+    "icu_readmission": 0.457
+  },
+  {
+    "anesthesia_hours": 15.618,
+    "incentive_spirometry": 8.611,
+    "atelectasis_severity": 11.768,
+    "postop_hypoxemia": 3.587,
+    "icu_readmission": 2.916
+  },
+  {
+    "anesthesia_hours": 2.886,
+    "incentive_spirometry": 3.885,
+    "atelectasis_severity": 1.756,
+    "postop_hypoxemia": -0.643,
+    "icu_readmission": -0.715
+  },
+  {
+    "anesthesia_hours": 8.907,
+    "incentive_spirometry": 10.534,
+    "atelectasis_severity": 6.874,
+    "postop_hypoxemia": -1.093,
+    "icu_readmission": -0.97
+  },
+  {
+    "anesthesia_hours": 11.232,
+    "incentive_spirometry": 14.953,
+    "atelectasis_severity": 8.693,
+    "postop_hypoxemia": -2.8,
+    "icu_readmission": -2.245
+  },
+  {
+    "anesthesia_hours": 11.32,
+    "incentive_spirometry": 14.076,
+    "atelectasis_severity": 8.245,
+    "postop_hypoxemia": -2.376,
+    "icu_readmission": -2.396
+  },
+  {
+    "anesthesia_hours": 9.472,
+    "incentive_spirometry": 8.98,
+    "atelectasis_severity": 7.133,
+    "postop_hypoxemia": -0.074,
+    "icu_readmission": 0.119
+  },
+  {
+    "anesthesia_hours": 7.771,
+    "incentive_spirometry": 5.486,
+    "atelectasis_severity": 5.873,
+    "postop_hypoxemia": 1.077,
+    "icu_readmission": 0.758
+  },
+  {
+    "anesthesia_hours": 11.366,
+    "incentive_spirometry": 12.233,
+    "atelectasis_severity": 8.612,
+    "postop_hypoxemia": -1.068,
+    "icu_readmission": -0.684
+  },
+  {
+    "anesthesia_hours": 9.646,
+    "incentive_spirometry": 17.14,
+    "atelectasis_severity": 7.291,
+    "postop_hypoxemia": -5.153,
+    "icu_readmission": -4.353
+  },
+  {
+    "anesthesia_hours": 8.995,
+    "incentive_spirometry": 8.249,
+    "atelectasis_severity": 6.674,
+    "postop_hypoxemia": -0.281,
+    "icu_readmission": -0.319
+  },
+  {
+    "anesthesia_hours": 9.728,
+    "incentive_spirometry": 16.943,
+    "atelectasis_severity": 7.433,
+    "postop_hypoxemia": -5.282,
+    "icu_readmission": -4.264
+  },
+  {
+    "anesthesia_hours": 13.07,
+    "incentive_spirometry": 9.123,
+    "atelectasis_severity": 9.586,
+    "postop_hypoxemia": 1.619,
+    "icu_readmission": 1.506
+  },
+  {
+    "anesthesia_hours": 7.775,
+    "incentive_spirometry": 6.966,
+    "atelectasis_severity": 5.768,
+    "postop_hypoxemia": -0.099,
+    "icu_readmission": 0.312
+  },
+  {
+    "anesthesia_hours": 14.453,
+    "incentive_spirometry": 10.029,
+    "atelectasis_severity": 10.639,
+    "postop_hypoxemia": 1.927,
+    "icu_readmission": 1.735
+  },
+  {
+    "anesthesia_hours": 11.474,
+    "incentive_spirometry": 5.652,
+    "atelectasis_severity": 8.689,
+    "postop_hypoxemia": 3.469,
+    "icu_readmission": 3.019
+  },
+  {
+    "anesthesia_hours": 1.663,
+    "incentive_spirometry": 2.104,
+    "atelectasis_severity": 1.156,
+    "postop_hypoxemia": -0.468,
+    "icu_readmission": -0.016
+  }
+]

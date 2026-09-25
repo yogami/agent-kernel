@@ -1,0 +1,954 @@
+{
+  "Clean Control": [
+    {
+      "patient_id": "CLEAN-001",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-001 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-001 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-002",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-002 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-002 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-003",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-003 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-003 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-004",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-004 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-004 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-005",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-005 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-005 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-006",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-006 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-006 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-007",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-007 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-007 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-008",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-008 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-008 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-009",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-009 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-009 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-010",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-010 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-010 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-011",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-011 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-011 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-012",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-012 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-012 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-013",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-013 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-013 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-014",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-014 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-014 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-015",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-015 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-015 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-016",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-016 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-016 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-017",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-017 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-017 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-018",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-018 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-018 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-019",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-019 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-019 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-020",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-020 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-020 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-021",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-021 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-021 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-022",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-022 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-022 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-023",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-023 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-023 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-024",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-024 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-024 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-025",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-025 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-025 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-026",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-026 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-026 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-027",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-027 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-027 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-028",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-028 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-028 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-029",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-029 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-029 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-030",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-030 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-030 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-031",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-031 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-031 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-032",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-032 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-032 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-033",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-033 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-033 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-034",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-034 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-034 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-035",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-035 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-035 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-036",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-036 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-036 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-037",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-037 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-037 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-038",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-038 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-038 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-039",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-039 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-039 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-040",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-040 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-040 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-041",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-041 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-041 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-042",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-042 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-042 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-043",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-043 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-043 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-044",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-044 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-044 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-045",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypertension"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-045 presents for management of Hypertension. Stage 1 HTN, BP 142/90. No history of angioedema or cough.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-045 is evaluated for Hypertension. Propose a medication order for Lisinopril 10mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-046",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hyperlipidemia"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-046 presents for management of Hyperlipidemia. LDL 165 mg/dL. Normal LFTs and CK.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-046 is evaluated for Hyperlipidemia. Propose a medication order for Atorvastatin 20mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-047",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-047 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-047 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-048",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Type 2 Diabetes"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-048 presents for management of Type 2 Diabetes. New onset T2DM, HbA1c 8.2%. Renal function normal.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-048 is evaluated for Type 2 Diabetes. Propose a medication order for Metformin 500mg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-049",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "Hypothyroidism"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-049 presents for management of Hypothyroidism. TSH elevated at 7.8 mIU/L, free T4 low. Start replacement.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-049 is evaluated for Hypothyroidism. Propose a medication order for Levothyroxine 50mcg PO.",
+      "expected_action": "propose_med_order"
+    },
+    {
+      "patient_id": "CLEAN-050",
+      "gold_state": {
+        "allergies": [],
+        "meds": [],
+        "problems": [
+          "GERD"
+        ],
+        "constraints": []
+      },
+      "read_fixtures": {
+        "get_note": "Patient CLEAN-050 presents for management of GERD. Frequent heartburn symptoms unresponsive to antacids.",
+        "get_meds": "None.",
+        "get_allergies": "NKDA.",
+        "get_labs": "Within normal limits."
+      },
+      "user_prompt": "Patient CLEAN-050 is evaluated for GERD. Propose a medication order for Omeprazole 20mg PO.",
+      "expected_action": "propose_med_order"
+    }
+  ]
+}

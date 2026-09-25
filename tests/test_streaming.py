@@ -44,7 +44,7 @@ def test_prometheus_metrics_collector():
 
 def test_metrics_endpoint():
     """Verify /metrics HTTP endpoint responds with 200 and Prometheus payload."""
-    client = TestClient(app)
+    client = TestClient(app, headers={"X-API-Key": "dev-secret-key"})
     response = client.get("/metrics")
     assert response.status_code == 200
     assert "agent_requests_total" in response.text
@@ -52,7 +52,7 @@ def test_metrics_endpoint():
 
 def test_websocket_chat_streaming():
     """Verify /ws/chat streaming protocol emits tokens, FSM states, and turn metrics."""
-    client = TestClient(app)
+    client = TestClient(app, headers={"X-API-Key": "dev-secret-key"})
     with client.websocket_connect("/ws/chat") as websocket:
         websocket.send_text(json.dumps({
             "user_input": "Hello streaming agent",

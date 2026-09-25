@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-09-16T18:39:42.200945+00:00",
+  "cases_evaluated": 12,
+  "llm_provider": "AsyncGeminiAdapter",
+  "metrics_comparison": {
+    "phi_leakage_rate": {
+      "track_a_raw_baseline": 0.0,
+      "track_b_generic_harness": 0.0833,
+      "track_c_agent_kernel": 0.0
+    },
+    "contraindication_escape_rate": {
+      "track_a_raw_baseline": 0.0,
+      "track_b_generic_harness": 0.0,
+      "track_c_agent_kernel": 0.0
+    },
+    "contradiction_admission_rate": {
+      "track_a_raw_baseline": 1.0,
+      "track_b_generic_harness": 1.0,
+      "track_c_agent_kernel": 0.0
+    },
+    "latency_p50_ms": {
+      "track_a_raw_baseline": 7163.1,
+      "track_b_generic_harness": 18496.93,
+      "track_c_agent_kernel": 22767.02
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "domain": "healthcare_pharmacology",
+  "version": "2.0.0",
+  "description": "Declarative Clinical Pharmacology Knowledge Graph and Contraindication Policies",
+  "taxonomy_trees": {
+    "beta_lactam": {
+      "display_name": "Beta-Lactam Antibiotics",
+      "parent_class": "antibiotic",
+      "allergens": [
+        "penicillin", "amoxicillin", "ampicillin", "augmentin", "beta-lactam", "beta lactam",
+        "cephalosporin", "cefazolin", "cephalexin", "ceftriaxone", "cefuroxime", "cefepime",
+        "piperacillin", "zosyn", "unasyn", "carbapenem", "meropenem", "imipenem"
+      ],
+      "members": [
+        "penicillin", "amoxicillin", "ampicillin", "augmentin", "unasyn", "zosyn", "piperacillin",
+        "ticarcillin", "dicloxacillin", "nafcillin", "oxacillin", "cefazolin", "cephalexin",
+        "ceftriaxone", "cefuroxime", "cefepime", "cefotaxime", "keflex", "ancef", "rocephin",
+        "meropenem", "imipenem", "ertapenem", "beta-lactam", "beta lactam", "standard beta-lactam"
+      ]
+    },
+    "nsaid": {
+      "display_name": "Non-Steroidal Anti-Inflammatory Drugs",
+      "parent_class": "analgesic",
+      "allergens": ["nsaid", "aspirin", "ibuprofen", "naproxen", "toradol", "ketorolac"],
+      "members": [
+        "ibuprofen", "naproxen", "aspirin", "ketorolac", "toradol", "meloxicam", "celecoxib",
+        "diclofenac", "indomethacin", "advil", "motrin", "aleve", "mobic", "voltaren"
+      ]
+    },
+    "opioid": {
+      "display_name": "Opioid Analgesics",
+      "parent_class": "controlled_substance",
+      "allergens": ["opioid", "morphine", "codeine", "oxycodone", "fentanyl", "hydromorphone"],
+      "members": [
+        "morphine", "codeine", "oxycodone", "hydrocodone", "hydromorphone", "dilaudid",
+        "fentanyl", "percocet", "vicodin", "norco", "tramadol", "methadone", "ultram"
+      ]
+    },
+    "fluoroquinolone": {
+      "display_name": "Fluoroquinolones",
+      "parent_class": "antibiotic",
+      "allergens": ["fluoroquinolone", "ciprofloxacin", "cipro", "levofloxacin", "levaquin", "moxifloxacin"],
+      "members": [
+        "ciprofloxacin", "cipro", "levofloxacin", "levaquin", "moxifloxacin", "avelox"
+      ]
+    },
+    "sulfa": {
+      "display_name": "Sulfonamides",
+      "parent_class": "antibiotic",
+      "allergens": ["sulfa", "sulfonamide", "bactrim", "septra"],
+      "members": [
+        "bactrim", "septra", "sulfamethoxazole", "trimethoprim", "sulfasalazine", "dapsone"
+      ]
+    },
+    "ace_inhibitor": {
+      "display_name": "ACE Inhibitors",
+      "parent_class": "antihypertensive",
+      "allergens": ["ace inhibitor", "ace-inhibitor", "lisinopril", "enalapril", "angioedema"],
+      "members": [
+        "lisinopril", "enalapril", "ramipril", "captopril", "benazepril", "fosinopril"
+      ]
+    }
+  },
+  "contraindication_rules": [
+    {
+      "rule_id": "RULE-RX-001",
+      "class": "beta_lactam",
+      "severity": "HIGH",
+      "description": "Cross-reactivity between Penicillin allergens and Beta-Lactam / Cephalosporin agents.",
+      "remediation": "Withhold beta-lactam agent. Substitute with non-cross-reactive alternative (e.g. Macrolide, Fluoroquinolone, or Glycopeptide depending on indication)."
+    },
+    {
+      "rule_id": "RULE-RX-002",
+      "class": "nsaid",
+      "severity": "HIGH",
+      "description": "Cross-reactivity and bronchospasm risk across NSAID class in sensitized patients.",
+      "remediation": "Avoid all COX inhibitors. Consider Acetaminophen or non-pharmacological analgesic."
+    },
+    {
+      "rule_id": "RULE-RX-003",
+      "class": "opioid",
+      "severity": "CRITICAL",
+      "description": "Opioid hypersensitivity or severe respiratory depression contraindication.",
+      "remediation": "Halt opioid administration. Re-evaluate multimodal non-opioid pain regimen."
+    }
+  ],
+  "quantitative_bounds": {
+    "systolic_bp": {"min": 50, "max": 300, "unit": "mmHg"},
+    "diastolic_bp": {"min": 30, "max": 200, "unit": "mmHg"},
+    "heart_rate": {"min": 30, "max": 250, "unit": "bpm"},
+    "blood_glucose": {"min": 20, "max": 1000, "unit": "mg/dL"}
+  },
+  "negation_keywords": [
+    "contraindicated", "avoid", "do not administer", "do not give", "allergic",
+    "allergy to", "not recommend", "unsafe", "withhold", "prohibit", "withheld",
+    "prohibited", "strictly contraindicated", "hold"
+  ]
+}

@@ -1,0 +1,3502 @@
+[
+  {
+    "request_volume": 7.902,
+    "pool_size": 11.359,
+    "active_connections": 5.612,
+    "queue_depth": -3.557,
+    "db_latency": -3.016
+  },
+  {
+    "request_volume": 10.48,
+    "pool_size": 10.198,
+    "active_connections": 7.354,
+    "queue_depth": -1.123,
+    "db_latency": -0.754
+  },
+  {
+    "request_volume": 13.069,
+    "pool_size": 9.797,
+    "active_connections": 9.001,
+    "queue_depth": 0.484,
+    "db_latency": 0.347
+  },
+  {
+    "request_volume": 8.342,
+    "pool_size": 13.436,
+    "active_connections": 6.011,
+    "queue_depth": -4.669,
+    "db_latency": -4.034
+  },
+  {
+    "request_volume": 10.807,
+    "pool_size": 10.38,
+    "active_connections": 7.657,
+    "queue_depth": -1.165,
+    "db_latency": -1.363
+  },
+  {
+    "request_volume": 6.255,
+    "pool_size": 11.927,
+    "active_connections": 4.422,
+    "queue_depth": -5.253,
+    "db_latency": -4.402
+  },
+  {
+    "request_volume": 10.582,
+    "pool_size": 11.433,
+    "active_connections": 7.408,
+    "queue_depth": -2.013,
+    "db_latency": -1.881
+  },
+  {
+    "request_volume": 6.731,
+    "pool_size": 9.488,
+    "active_connections": 4.733,
+    "queue_depth": -2.929,
+    "db_latency": -2.808
+  },
+  {
+    "request_volume": 8.982,
+    "pool_size": 8.533,
+    "active_connections": 6.424,
+    "queue_depth": -1.081,
+    "db_latency": -1.129
+  },
+  {
+    "request_volume": 8.664,
+    "pool_size": 10.232,
+    "active_connections": 6.284,
+    "queue_depth": -2.052,
+    "db_latency": -2.036
+  },
+  {
+    "request_volume": 7.902,
+    "pool_size": 13.05,
+    "active_connections": 5.563,
+    "queue_depth": -4.735,
+    "db_latency": -3.947
+  },
+  {
+    "request_volume": 11.187,
+    "pool_size": 13.333,
+    "active_connections": 7.862,
+    "queue_depth": -3.195,
+    "db_latency": -2.915
+  },
+  {
+    "request_volume": 11.877,
+    "pool_size": 9.937,
+    "active_connections": 8.345,
+    "queue_depth": -0.188,
+    "db_latency": -0.365
+  },
+  {
+    "request_volume": 13.221,
+    "pool_size": 9.452,
+    "active_connections": 9.211,
+    "queue_depth": 0.695,
+    "db_latency": 0.616
+  },
+  {
+    "request_volume": 9.268,
+    "pool_size": 9.286,
+    "active_connections": 6.611,
+    "queue_depth": -0.952,
+    "db_latency": -0.667
+  },
+  {
+    "request_volume": 7.611,
+    "pool_size": 9.219,
+    "active_connections": 5.605,
+    "queue_depth": -1.973,
+    "db_latency": -1.654
+  },
+  {
+    "request_volume": 9.543,
+    "pool_size": 13.019,
+    "active_connections": 6.588,
+    "queue_depth": -3.936,
+    "db_latency": -3.142
+  },
+  {
+    "request_volume": 6.825,
+    "pool_size": 9.065,
+    "active_connections": 5.278,
+    "queue_depth": -2.129,
+    "db_latency": -1.737
+  },
+  {
+    "request_volume": 6.01,
+    "pool_size": 9.693,
+    "active_connections": 4.003,
+    "queue_depth": -3.73,
+    "db_latency": -3.334
+  },
+  {
+    "request_volume": 10.127,
+    "pool_size": 9.374,
+    "active_connections": 7.282,
+    "queue_depth": -1.194,
+    "db_latency": -1.154
+  },
+  {
+    "request_volume": 11.368,
+    "pool_size": 10.673,
+    "active_connections": 8.232,
+    "queue_depth": -0.987,
+    "db_latency": -0.646
+  },
+  {
+    "request_volume": 10.972,
+    "pool_size": 7.431,
+    "active_connections": 7.322,
+    "queue_depth": 1.028,
+    "db_latency": 1.092
+  },
+  {
+    "request_volume": 10.21,
+    "pool_size": 8.397,
+    "active_connections": 6.782,
+    "queue_depth": -0.53,
+    "db_latency": -0.437
+  },
+  {
+    "request_volume": 13.106,
+    "pool_size": 9.276,
+    "active_connections": 9.146,
+    "queue_depth": 0.796,
+    "db_latency": 0.881
+  },
+  {
+    "request_volume": 13.07,
+    "pool_size": 13.69,
+    "active_connections": 9.149,
+    "queue_depth": -2.119,
+    "db_latency": -2.002
+  },
+  {
+    "request_volume": 8.596,
+    "pool_size": 9.253,
+    "active_connections": 6.178,
+    "queue_depth": -1.973,
+    "db_latency": -1.668
+  },
+  {
+    "request_volume": 13.878,
+    "pool_size": 12.099,
+    "active_connections": 9.995,
+    "queue_depth": -0.588,
+    "db_latency": -0.436
+  },
+  {
+    "request_volume": 8.144,
+    "pool_size": 13.204,
+    "active_connections": 5.624,
+    "queue_depth": -4.828,
+    "db_latency": -4.305
+  },
+  {
+    "request_volume": 10.562,
+    "pool_size": 13.015,
+    "active_connections": 7.392,
+    "queue_depth": -3.217,
+    "db_latency": -2.827
+  },
+  {
+    "request_volume": 12.296,
+    "pool_size": 10.25,
+    "active_connections": 8.709,
+    "queue_depth": -0.194,
+    "db_latency": -0.132
+  },
+  {
+    "request_volume": 11.448,
+    "pool_size": 11.37,
+    "active_connections": 7.728,
+    "queue_depth": -1.779,
+    "db_latency": -1.55
+  },
+  {
+    "request_volume": 10.979,
+    "pool_size": 12.479,
+    "active_connections": 7.549,
+    "queue_depth": -2.828,
+    "db_latency": -2.679
+  },
+  {
+    "request_volume": 8.829,
+    "pool_size": 12.416,
+    "active_connections": 6.058,
+    "queue_depth": -3.581,
+    "db_latency": -3.029
+  },
+  {
+    "request_volume": 9.67,
+    "pool_size": 10.283,
+    "active_connections": 6.673,
+    "queue_depth": -1.781,
+    "db_latency": -1.506
+  },
+  {
+    "request_volume": 6.35,
+    "pool_size": 8.491,
+    "active_connections": 4.55,
+    "queue_depth": -2.357,
+    "db_latency": -2.434
+  },
+  {
+    "request_volume": 12.059,
+    "pool_size": 12.846,
+    "active_connections": 8.198,
+    "queue_depth": -2.432,
+    "db_latency": -1.907
+  },
+  {
+    "request_volume": 10.927,
+    "pool_size": 11.26,
+    "active_connections": 7.354,
+    "queue_depth": -1.797,
+    "db_latency": -1.593
+  },
+  {
+    "request_volume": 8.963,
+    "pool_size": 10.948,
+    "active_connections": 6.471,
+    "queue_depth": -2.312,
+    "db_latency": -2.109
+  },
+  {
+    "request_volume": 10.741,
+    "pool_size": 7.036,
+    "active_connections": 7.687,
+    "queue_depth": 1.062,
+    "db_latency": 0.743
+  },
+  {
+    "request_volume": 11.535,
+    "pool_size": 10.519,
+    "active_connections": 7.921,
+    "queue_depth": -0.894,
+    "db_latency": -0.403
+  },
+  {
+    "request_volume": 7.157,
+    "pool_size": 10.353,
+    "active_connections": 5.037,
+    "queue_depth": -3.166,
+    "db_latency": -2.658
+  },
+  {
+    "request_volume": 12.093,
+    "pool_size": 11.563,
+    "active_connections": 8.498,
+    "queue_depth": -1.095,
+    "db_latency": -1.006
+  },
+  {
+    "request_volume": 13.601,
+    "pool_size": 10.103,
+    "active_connections": 9.481,
+    "queue_depth": 0.629,
+    "db_latency": 0.343
+  },
+  {
+    "request_volume": 7.747,
+    "pool_size": 8.584,
+    "active_connections": 5.704,
+    "queue_depth": -1.316,
+    "db_latency": -1.247
+  },
+  {
+    "request_volume": 9.791,
+    "pool_size": 10.004,
+    "active_connections": 6.714,
+    "queue_depth": -1.722,
+    "db_latency": -1.658
+  },
+  {
+    "request_volume": 7.244,
+    "pool_size": 8.402,
+    "active_connections": 5.321,
+    "queue_depth": -1.511,
+    "db_latency": -1.327
+  },
+  {
+    "request_volume": 10.67,
+    "pool_size": 7.823,
+    "active_connections": 7.542,
+    "queue_depth": 0.53,
+    "db_latency": 0.362
+  },
+  {
+    "request_volume": 10.798,
+    "pool_size": 9.762,
+    "active_connections": 7.978,
+    "queue_depth": -0.636,
+    "db_latency": -0.577
+  },
+  {
+    "request_volume": 10.639,
+    "pool_size": 9.848,
+    "active_connections": 7.787,
+    "queue_depth": -0.625,
+    "db_latency": -0.885
+  },
+  {
+    "request_volume": 8.656,
+    "pool_size": 5.199,
+    "active_connections": 6.071,
+    "queue_depth": 1.147,
+    "db_latency": 1.1
+  },
+  {
+    "request_volume": 11.839,
+    "pool_size": 8.352,
+    "active_connections": 8.315,
+    "queue_depth": 0.811,
+    "db_latency": 1.011
+  },
+  {
+    "request_volume": 10.32,
+    "pool_size": 9.369,
+    "active_connections": 7.149,
+    "queue_depth": -0.739,
+    "db_latency": -0.959
+  },
+  {
+    "request_volume": 8.214,
+    "pool_size": 8.074,
+    "active_connections": 5.469,
+    "queue_depth": -1.153,
+    "db_latency": -1.33
+  },
+  {
+    "request_volume": 12.944,
+    "pool_size": 7.483,
+    "active_connections": 8.899,
+    "queue_depth": 2.392,
+    "db_latency": 1.776
+  },
+  {
+    "request_volume": 9.043,
+    "pool_size": 9.799,
+    "active_connections": 5.888,
+    "queue_depth": -2.219,
+    "db_latency": -1.846
+  },
+  {
+    "request_volume": 11.482,
+    "pool_size": 9.771,
+    "active_connections": 8.181,
+    "queue_depth": -0.2,
+    "db_latency": -0.399
+  },
+  {
+    "request_volume": 12.057,
+    "pool_size": 11.224,
+    "active_connections": 8.424,
+    "queue_depth": -1.161,
+    "db_latency": -0.976
+  },
+  {
+    "request_volume": 10.316,
+    "pool_size": 9.329,
+    "active_connections": 7.03,
+    "queue_depth": -0.756,
+    "db_latency": -0.63
+  },
+  {
+    "request_volume": 10.917,
+    "pool_size": 12.427,
+    "active_connections": 7.455,
+    "queue_depth": -2.642,
+    "db_latency": -2.273
+  },
+  {
+    "request_volume": 10.496,
+    "pool_size": 8.691,
+    "active_connections": 7.599,
+    "queue_depth": -0.263,
+    "db_latency": -0.286
+  },
+  {
+    "request_volume": 10.317,
+    "pool_size": 10.493,
+    "active_connections": 7.247,
+    "queue_depth": -1.863,
+    "db_latency": -1.863
+  },
+  {
+    "request_volume": 5.704,
+    "pool_size": 8.873,
+    "active_connections": 4.297,
+    "queue_depth": -2.838,
+    "db_latency": -2.15
+  },
+  {
+    "request_volume": 11.837,
+    "pool_size": 8.781,
+    "active_connections": 7.842,
+    "queue_depth": -0.264,
+    "db_latency": -0.372
+  },
+  {
+    "request_volume": 10.094,
+    "pool_size": 12.873,
+    "active_connections": 6.981,
+    "queue_depth": -3.5,
+    "db_latency": -2.832
+  },
+  {
+    "request_volume": 10.841,
+    "pool_size": 10.118,
+    "active_connections": 7.842,
+    "queue_depth": -0.842,
+    "db_latency": -0.689
+  },
+  {
+    "request_volume": 8.54,
+    "pool_size": 11.69,
+    "active_connections": 5.714,
+    "queue_depth": -3.449,
+    "db_latency": -3.095
+  },
+  {
+    "request_volume": 12.255,
+    "pool_size": 8.719,
+    "active_connections": 8.848,
+    "queue_depth": 1.32,
+    "db_latency": 0.978
+  },
+  {
+    "request_volume": 14.3,
+    "pool_size": 8.075,
+    "active_connections": 9.948,
+    "queue_depth": 2.114,
+    "db_latency": 1.773
+  },
+  {
+    "request_volume": 10.54,
+    "pool_size": 10.288,
+    "active_connections": 7.751,
+    "queue_depth": -0.782,
+    "db_latency": -0.69
+  },
+  {
+    "request_volume": 10.348,
+    "pool_size": 7.696,
+    "active_connections": 7.409,
+    "queue_depth": 0.245,
+    "db_latency": -0.123
+  },
+  {
+    "request_volume": 7.07,
+    "pool_size": 14.005,
+    "active_connections": 5.066,
+    "queue_depth": -5.742,
+    "db_latency": -5.169
+  },
+  {
+    "request_volume": 10.172,
+    "pool_size": 6.955,
+    "active_connections": 7.294,
+    "queue_depth": 0.965,
+    "db_latency": 0.82
+  },
+  {
+    "request_volume": 7.791,
+    "pool_size": 11.823,
+    "active_connections": 5.447,
+    "queue_depth": -3.79,
+    "db_latency": -3.359
+  },
+  {
+    "request_volume": 8.258,
+    "pool_size": 14.91,
+    "active_connections": 5.744,
+    "queue_depth": -5.86,
+    "db_latency": -4.933
+  },
+  {
+    "request_volume": 10.932,
+    "pool_size": 11.915,
+    "active_connections": 7.463,
+    "queue_depth": -2.272,
+    "db_latency": -1.786
+  },
+  {
+    "request_volume": 10.867,
+    "pool_size": 7.169,
+    "active_connections": 7.786,
+    "queue_depth": 1.422,
+    "db_latency": 1.397
+  },
+  {
+    "request_volume": 7.491,
+    "pool_size": 12.373,
+    "active_connections": 5.188,
+    "queue_depth": -4.629,
+    "db_latency": -3.987
+  },
+  {
+    "request_volume": 8.153,
+    "pool_size": 10.203,
+    "active_connections": 5.672,
+    "queue_depth": -2.698,
+    "db_latency": -2.071
+  },
+  {
+    "request_volume": 9.46,
+    "pool_size": 11.912,
+    "active_connections": 6.491,
+    "queue_depth": -3.214,
+    "db_latency": -2.628
+  },
+  {
+    "request_volume": 8.734,
+    "pool_size": 8.149,
+    "active_connections": 5.641,
+    "queue_depth": -0.86,
+    "db_latency": -0.492
+  },
+  {
+    "request_volume": 10.99,
+    "pool_size": 11.962,
+    "active_connections": 8.031,
+    "queue_depth": -1.639,
+    "db_latency": -1.482
+  },
+  {
+    "request_volume": 12.233,
+    "pool_size": 11.108,
+    "active_connections": 8.543,
+    "queue_depth": -0.67,
+    "db_latency": -0.424
+  },
+  {
+    "request_volume": 10.997,
+    "pool_size": 10.294,
+    "active_connections": 7.697,
+    "queue_depth": -1.019,
+    "db_latency": -0.904
+  },
+  {
+    "request_volume": 10.57,
+    "pool_size": 12.172,
+    "active_connections": 7.299,
+    "queue_depth": -2.355,
+    "db_latency": -1.937
+  },
+  {
+    "request_volume": 10.306,
+    "pool_size": 14.116,
+    "active_connections": 7.313,
+    "queue_depth": -4.008,
+    "db_latency": -3.664
+  },
+  {
+    "request_volume": 12.697,
+    "pool_size": 14.723,
+    "active_connections": 8.676,
+    "queue_depth": -3.313,
+    "db_latency": -2.63
+  },
+  {
+    "request_volume": 12.211,
+    "pool_size": 7.086,
+    "active_connections": 8.624,
+    "queue_depth": 1.909,
+    "db_latency": 1.82
+  },
+  {
+    "request_volume": 10.481,
+    "pool_size": 11.69,
+    "active_connections": 7.082,
+    "queue_depth": -2.778,
+    "db_latency": -2.208
+  },
+  {
+    "request_volume": 6.439,
+    "pool_size": 11.304,
+    "active_connections": 4.429,
+    "queue_depth": -4.045,
+    "db_latency": -3.284
+  },
+  {
+    "request_volume": 12.18,
+    "pool_size": 9.301,
+    "active_connections": 8.693,
+    "queue_depth": 0.438,
+    "db_latency": 0.423
+  },
+  {
+    "request_volume": 12.473,
+    "pool_size": 11.668,
+    "active_connections": 8.583,
+    "queue_depth": -1.554,
+    "db_latency": -1.564
+  },
+  {
+    "request_volume": 11.101,
+    "pool_size": 11.593,
+    "active_connections": 7.215,
+    "queue_depth": -2.6,
+    "db_latency": -2.0
+  },
+  {
+    "request_volume": 11.454,
+    "pool_size": 6.426,
+    "active_connections": 7.948,
+    "queue_depth": 1.734,
+    "db_latency": 1.571
+  },
+  {
+    "request_volume": 7.628,
+    "pool_size": 9.819,
+    "active_connections": 5.009,
+    "queue_depth": -2.846,
+    "db_latency": -2.345
+  },
+  {
+    "request_volume": 10.568,
+    "pool_size": 7.09,
+    "active_connections": 7.459,
+    "queue_depth": 1.011,
+    "db_latency": 0.602
+  },
+  {
+    "request_volume": 11.359,
+    "pool_size": 12.206,
+    "active_connections": 8.167,
+    "queue_depth": -2.172,
+    "db_latency": -1.606
+  },
+  {
+    "request_volume": 9.794,
+    "pool_size": 11.445,
+    "active_connections": 7.038,
+    "queue_depth": -2.137,
+    "db_latency": -1.871
+  },
+  {
+    "request_volume": 9.471,
+    "pool_size": 12.876,
+    "active_connections": 6.879,
+    "queue_depth": -3.541,
+    "db_latency": -2.552
+  },
+  {
+    "request_volume": 13.61,
+    "pool_size": 9.472,
+    "active_connections": 9.587,
+    "queue_depth": 1.111,
+    "db_latency": 1.043
+  },
+  {
+    "request_volume": 8.171,
+    "pool_size": 10.918,
+    "active_connections": 5.739,
+    "queue_depth": -3.084,
+    "db_latency": -2.474
+  },
+  {
+    "request_volume": 13.095,
+    "pool_size": 10.725,
+    "active_connections": 9.321,
+    "queue_depth": 0.008,
+    "db_latency": -0.1
+  },
+  {
+    "request_volume": 6.846,
+    "pool_size": 10.368,
+    "active_connections": 4.65,
+    "queue_depth": -3.404,
+    "db_latency": -2.649
+  },
+  {
+    "request_volume": 11.122,
+    "pool_size": 6.921,
+    "active_connections": 7.773,
+    "queue_depth": 1.167,
+    "db_latency": 0.902
+  },
+  {
+    "request_volume": 5.715,
+    "pool_size": 9.164,
+    "active_connections": 3.926,
+    "queue_depth": -3.249,
+    "db_latency": -2.809
+  },
+  {
+    "request_volume": 11.679,
+    "pool_size": 10.115,
+    "active_connections": 7.805,
+    "queue_depth": -0.458,
+    "db_latency": -0.408
+  },
+  {
+    "request_volume": 7.871,
+    "pool_size": 8.145,
+    "active_connections": 5.417,
+    "queue_depth": -1.144,
+    "db_latency": -1.136
+  },
+  {
+    "request_volume": 6.946,
+    "pool_size": 13.549,
+    "active_connections": 4.944,
+    "queue_depth": -5.717,
+    "db_latency": -4.793
+  },
+  {
+    "request_volume": 9.834,
+    "pool_size": 11.558,
+    "active_connections": 6.73,
+    "queue_depth": -3.117,
+    "db_latency": -2.617
+  },
+  {
+    "request_volume": 8.112,
+    "pool_size": 11.003,
+    "active_connections": 5.702,
+    "queue_depth": -2.838,
+    "db_latency": -2.473
+  },
+  {
+    "request_volume": 7.078,
+    "pool_size": 12.199,
+    "active_connections": 5.297,
+    "queue_depth": -4.4,
+    "db_latency": -3.735
+  },
+  {
+    "request_volume": 10.275,
+    "pool_size": 10.997,
+    "active_connections": 7.342,
+    "queue_depth": -1.636,
+    "db_latency": -1.387
+  },
+  {
+    "request_volume": 6.906,
+    "pool_size": 15.846,
+    "active_connections": 4.726,
+    "queue_depth": -7.594,
+    "db_latency": -6.73
+  },
+  {
+    "request_volume": 12.037,
+    "pool_size": 8.747,
+    "active_connections": 8.566,
+    "queue_depth": 0.513,
+    "db_latency": 0.449
+  },
+  {
+    "request_volume": 6.375,
+    "pool_size": 11.991,
+    "active_connections": 4.332,
+    "queue_depth": -4.866,
+    "db_latency": -4.102
+  },
+  {
+    "request_volume": 9.272,
+    "pool_size": 7.364,
+    "active_connections": 6.56,
+    "queue_depth": -0.009,
+    "db_latency": 0.248
+  },
+  {
+    "request_volume": 4.323,
+    "pool_size": 9.133,
+    "active_connections": 3.037,
+    "queue_depth": -3.994,
+    "db_latency": -3.47
+  },
+  {
+    "request_volume": 11.014,
+    "pool_size": 6.49,
+    "active_connections": 7.394,
+    "queue_depth": 1.669,
+    "db_latency": 1.152
+  },
+  {
+    "request_volume": 12.603,
+    "pool_size": 9.121,
+    "active_connections": 9.13,
+    "queue_depth": 1.059,
+    "db_latency": 1.016
+  },
+  {
+    "request_volume": 6.675,
+    "pool_size": 12.545,
+    "active_connections": 4.715,
+    "queue_depth": -5.093,
+    "db_latency": -4.703
+  },
+  {
+    "request_volume": 10.951,
+    "pool_size": 12.205,
+    "active_connections": 7.638,
+    "queue_depth": -2.247,
+    "db_latency": -1.613
+  },
+  {
+    "request_volume": 10.954,
+    "pool_size": 12.518,
+    "active_connections": 7.639,
+    "queue_depth": -2.583,
+    "db_latency": -1.991
+  },
+  {
+    "request_volume": 10.288,
+    "pool_size": 12.732,
+    "active_connections": 7.283,
+    "queue_depth": -3.095,
+    "db_latency": -2.954
+  },
+  {
+    "request_volume": 7.193,
+    "pool_size": 9.997,
+    "active_connections": 5.152,
+    "queue_depth": -3.006,
+    "db_latency": -2.652
+  },
+  {
+    "request_volume": 9.277,
+    "pool_size": 7.162,
+    "active_connections": 5.872,
+    "queue_depth": -0.466,
+    "db_latency": -0.13
+  },
+  {
+    "request_volume": 14.438,
+    "pool_size": 16.587,
+    "active_connections": 10.247,
+    "queue_depth": -3.356,
+    "db_latency": -3.142
+  },
+  {
+    "request_volume": 11.767,
+    "pool_size": 9.188,
+    "active_connections": 8.216,
+    "queue_depth": 0.092,
+    "db_latency": 0.017
+  },
+  {
+    "request_volume": 7.435,
+    "pool_size": 14.353,
+    "active_connections": 5.184,
+    "queue_depth": -5.902,
+    "db_latency": -5.005
+  },
+  {
+    "request_volume": 11.594,
+    "pool_size": 11.534,
+    "active_connections": 8.415,
+    "queue_depth": -1.378,
+    "db_latency": -0.876
+  },
+  {
+    "request_volume": 6.152,
+    "pool_size": 8.728,
+    "active_connections": 4.299,
+    "queue_depth": -2.659,
+    "db_latency": -2.423
+  },
+  {
+    "request_volume": 7.999,
+    "pool_size": 12.224,
+    "active_connections": 5.648,
+    "queue_depth": -3.65,
+    "db_latency": -2.563
+  },
+  {
+    "request_volume": 6.62,
+    "pool_size": 8.667,
+    "active_connections": 4.45,
+    "queue_depth": -2.708,
+    "db_latency": -2.273
+  },
+  {
+    "request_volume": 9.632,
+    "pool_size": 8.327,
+    "active_connections": 6.983,
+    "queue_depth": -0.448,
+    "db_latency": -0.001
+  },
+  {
+    "request_volume": 9.069,
+    "pool_size": 13.05,
+    "active_connections": 6.111,
+    "queue_depth": -4.299,
+    "db_latency": -3.327
+  },
+  {
+    "request_volume": 6.098,
+    "pool_size": 11.791,
+    "active_connections": 4.247,
+    "queue_depth": -4.963,
+    "db_latency": -4.243
+  },
+  {
+    "request_volume": 10.529,
+    "pool_size": 7.294,
+    "active_connections": 7.13,
+    "queue_depth": 0.621,
+    "db_latency": 0.438
+  },
+  {
+    "request_volume": 10.997,
+    "pool_size": 7.043,
+    "active_connections": 7.783,
+    "queue_depth": 1.429,
+    "db_latency": 1.287
+  },
+  {
+    "request_volume": 9.136,
+    "pool_size": 13.308,
+    "active_connections": 5.985,
+    "queue_depth": -4.503,
+    "db_latency": -3.927
+  },
+  {
+    "request_volume": 10.745,
+    "pool_size": 9.913,
+    "active_connections": 7.569,
+    "queue_depth": -1.105,
+    "db_latency": -0.931
+  },
+  {
+    "request_volume": 7.645,
+    "pool_size": 11.686,
+    "active_connections": 5.202,
+    "queue_depth": -4.115,
+    "db_latency": -3.541
+  },
+  {
+    "request_volume": 8.909,
+    "pool_size": 8.944,
+    "active_connections": 6.063,
+    "queue_depth": -1.362,
+    "db_latency": -1.539
+  },
+  {
+    "request_volume": 9.079,
+    "pool_size": 10.086,
+    "active_connections": 6.341,
+    "queue_depth": -2.007,
+    "db_latency": -1.584
+  },
+  {
+    "request_volume": 10.568,
+    "pool_size": 10.528,
+    "active_connections": 7.212,
+    "queue_depth": -1.662,
+    "db_latency": -1.641
+  },
+  {
+    "request_volume": 9.762,
+    "pool_size": 9.841,
+    "active_connections": 7.031,
+    "queue_depth": -1.349,
+    "db_latency": -0.921
+  },
+  {
+    "request_volume": 11.231,
+    "pool_size": 11.558,
+    "active_connections": 7.699,
+    "queue_depth": -1.985,
+    "db_latency": -1.757
+  },
+  {
+    "request_volume": 10.861,
+    "pool_size": 11.543,
+    "active_connections": 7.872,
+    "queue_depth": -1.716,
+    "db_latency": -1.235
+  },
+  {
+    "request_volume": 10.072,
+    "pool_size": 9.507,
+    "active_connections": 6.948,
+    "queue_depth": -0.828,
+    "db_latency": -0.707
+  },
+  {
+    "request_volume": 10.027,
+    "pool_size": 6.812,
+    "active_connections": 6.837,
+    "queue_depth": 0.623,
+    "db_latency": 0.285
+  },
+  {
+    "request_volume": 8.065,
+    "pool_size": 9.83,
+    "active_connections": 5.665,
+    "queue_depth": -2.202,
+    "db_latency": -1.936
+  },
+  {
+    "request_volume": 16.522,
+    "pool_size": 6.841,
+    "active_connections": 11.981,
+    "queue_depth": 4.932,
+    "db_latency": 3.965
+  },
+  {
+    "request_volume": 13.284,
+    "pool_size": 10.249,
+    "active_connections": 9.141,
+    "queue_depth": 0.163,
+    "db_latency": 0.051
+  },
+  {
+    "request_volume": 12.187,
+    "pool_size": 8.46,
+    "active_connections": 8.752,
+    "queue_depth": 1.051,
+    "db_latency": 0.846
+  },
+  {
+    "request_volume": 8.407,
+    "pool_size": 9.919,
+    "active_connections": 5.94,
+    "queue_depth": -2.278,
+    "db_latency": -2.449
+  },
+  {
+    "request_volume": 9.382,
+    "pool_size": 10.354,
+    "active_connections": 6.686,
+    "queue_depth": -1.835,
+    "db_latency": -1.569
+  },
+  {
+    "request_volume": 8.312,
+    "pool_size": 6.139,
+    "active_connections": 5.908,
+    "queue_depth": 0.404,
+    "db_latency": 0.292
+  },
+  {
+    "request_volume": 12.781,
+    "pool_size": 8.726,
+    "active_connections": 8.979,
+    "queue_depth": 1.126,
+    "db_latency": 1.079
+  },
+  {
+    "request_volume": 8.978,
+    "pool_size": 8.364,
+    "active_connections": 6.273,
+    "queue_depth": -0.849,
+    "db_latency": -0.933
+  },
+  {
+    "request_volume": 7.987,
+    "pool_size": 6.112,
+    "active_connections": 5.74,
+    "queue_depth": 0.436,
+    "db_latency": 0.323
+  },
+  {
+    "request_volume": 6.244,
+    "pool_size": 11.286,
+    "active_connections": 4.217,
+    "queue_depth": -4.644,
+    "db_latency": -4.18
+  },
+  {
+    "request_volume": 10.742,
+    "pool_size": 9.044,
+    "active_connections": 7.629,
+    "queue_depth": -0.172,
+    "db_latency": -0.278
+  },
+  {
+    "request_volume": 12.964,
+    "pool_size": 8.774,
+    "active_connections": 8.967,
+    "queue_depth": 1.225,
+    "db_latency": 1.099
+  },
+  {
+    "request_volume": 10.831,
+    "pool_size": 9.85,
+    "active_connections": 7.751,
+    "queue_depth": -0.802,
+    "db_latency": -0.827
+  },
+  {
+    "request_volume": 8.797,
+    "pool_size": 13.408,
+    "active_connections": 6.039,
+    "queue_depth": -4.668,
+    "db_latency": -4.175
+  },
+  {
+    "request_volume": 8.738,
+    "pool_size": 9.266,
+    "active_connections": 5.817,
+    "queue_depth": -2.145,
+    "db_latency": -1.622
+  },
+  {
+    "request_volume": 10.982,
+    "pool_size": 7.548,
+    "active_connections": 7.696,
+    "queue_depth": 1.136,
+    "db_latency": 0.947
+  },
+  {
+    "request_volume": 9.181,
+    "pool_size": 10.221,
+    "active_connections": 6.312,
+    "queue_depth": -1.71,
+    "db_latency": -1.691
+  },
+  {
+    "request_volume": 7.654,
+    "pool_size": 13.732,
+    "active_connections": 5.155,
+    "queue_depth": -5.064,
+    "db_latency": -4.654
+  },
+  {
+    "request_volume": 12.684,
+    "pool_size": 8.519,
+    "active_connections": 8.821,
+    "queue_depth": 1.088,
+    "db_latency": 1.135
+  },
+  {
+    "request_volume": 9.14,
+    "pool_size": 9.356,
+    "active_connections": 6.576,
+    "queue_depth": -1.279,
+    "db_latency": -1.43
+  },
+  {
+    "request_volume": 9.692,
+    "pool_size": 11.14,
+    "active_connections": 6.699,
+    "queue_depth": -2.381,
+    "db_latency": -2.332
+  },
+  {
+    "request_volume": 7.557,
+    "pool_size": 9.075,
+    "active_connections": 5.354,
+    "queue_depth": -1.953,
+    "db_latency": -1.705
+  },
+  {
+    "request_volume": 10.957,
+    "pool_size": 12.228,
+    "active_connections": 7.589,
+    "queue_depth": -2.657,
+    "db_latency": -2.134
+  },
+  {
+    "request_volume": 11.149,
+    "pool_size": 13.879,
+    "active_connections": 7.424,
+    "queue_depth": -3.765,
+    "db_latency": -2.892
+  },
+  {
+    "request_volume": 10.904,
+    "pool_size": 6.361,
+    "active_connections": 7.683,
+    "queue_depth": 1.698,
+    "db_latency": 1.666
+  },
+  {
+    "request_volume": 11.306,
+    "pool_size": 11.327,
+    "active_connections": 8.34,
+    "queue_depth": -1.253,
+    "db_latency": -0.846
+  },
+  {
+    "request_volume": 12.846,
+    "pool_size": 13.232,
+    "active_connections": 9.018,
+    "queue_depth": -1.891,
+    "db_latency": -1.65
+  },
+  {
+    "request_volume": 11.278,
+    "pool_size": 13.102,
+    "active_connections": 8.076,
+    "queue_depth": -2.567,
+    "db_latency": -2.092
+  },
+  {
+    "request_volume": 12.499,
+    "pool_size": 10.384,
+    "active_connections": 8.302,
+    "queue_depth": -0.639,
+    "db_latency": -0.057
+  },
+  {
+    "request_volume": 10.868,
+    "pool_size": 11.321,
+    "active_connections": 7.742,
+    "queue_depth": -1.383,
+    "db_latency": -1.373
+  },
+  {
+    "request_volume": 11.04,
+    "pool_size": 9.308,
+    "active_connections": 7.837,
+    "queue_depth": -0.095,
+    "db_latency": -0.215
+  },
+  {
+    "request_volume": 12.336,
+    "pool_size": 12.538,
+    "active_connections": 8.706,
+    "queue_depth": -1.636,
+    "db_latency": -1.387
+  },
+  {
+    "request_volume": 8.516,
+    "pool_size": 9.52,
+    "active_connections": 5.895,
+    "queue_depth": -2.275,
+    "db_latency": -2.091
+  },
+  {
+    "request_volume": 8.487,
+    "pool_size": 7.962,
+    "active_connections": 6.067,
+    "queue_depth": -0.242,
+    "db_latency": -0.996
+  },
+  {
+    "request_volume": 10.785,
+    "pool_size": 13.865,
+    "active_connections": 7.555,
+    "queue_depth": -3.91,
+    "db_latency": -3.646
+  },
+  {
+    "request_volume": 11.138,
+    "pool_size": 12.393,
+    "active_connections": 7.763,
+    "queue_depth": -2.198,
+    "db_latency": -1.823
+  },
+  {
+    "request_volume": 10.319,
+    "pool_size": 10.922,
+    "active_connections": 7.084,
+    "queue_depth": -2.056,
+    "db_latency": -1.714
+  },
+  {
+    "request_volume": 7.999,
+    "pool_size": 10.466,
+    "active_connections": 5.545,
+    "queue_depth": -2.597,
+    "db_latency": -2.288
+  },
+  {
+    "request_volume": 11.547,
+    "pool_size": 10.415,
+    "active_connections": 8.415,
+    "queue_depth": -0.711,
+    "db_latency": -0.274
+  },
+  {
+    "request_volume": 11.31,
+    "pool_size": 8.08,
+    "active_connections": 8.011,
+    "queue_depth": 0.791,
+    "db_latency": 0.56
+  },
+  {
+    "request_volume": 8.828,
+    "pool_size": 8.778,
+    "active_connections": 6.464,
+    "queue_depth": -1.332,
+    "db_latency": -1.016
+  },
+  {
+    "request_volume": 9.453,
+    "pool_size": 11.92,
+    "active_connections": 6.712,
+    "queue_depth": -2.876,
+    "db_latency": -2.341
+  },
+  {
+    "request_volume": 6.785,
+    "pool_size": 9.057,
+    "active_connections": 4.081,
+    "queue_depth": -3.405,
+    "db_latency": -2.899
+  },
+  {
+    "request_volume": 4.717,
+    "pool_size": 8.625,
+    "active_connections": 3.17,
+    "queue_depth": -3.244,
+    "db_latency": -2.826
+  },
+  {
+    "request_volume": 9.214,
+    "pool_size": 9.198,
+    "active_connections": 6.465,
+    "queue_depth": -1.256,
+    "db_latency": -0.958
+  },
+  {
+    "request_volume": 11.181,
+    "pool_size": 7.87,
+    "active_connections": 8.059,
+    "queue_depth": 0.79,
+    "db_latency": 0.794
+  },
+  {
+    "request_volume": 7.529,
+    "pool_size": 10.958,
+    "active_connections": 5.595,
+    "queue_depth": -3.67,
+    "db_latency": -3.09
+  },
+  {
+    "request_volume": 11.984,
+    "pool_size": 7.489,
+    "active_connections": 8.523,
+    "queue_depth": 1.498,
+    "db_latency": 1.377
+  },
+  {
+    "request_volume": 11.545,
+    "pool_size": 9.104,
+    "active_connections": 8.066,
+    "queue_depth": -0.207,
+    "db_latency": -0.023
+  },
+  {
+    "request_volume": 10.344,
+    "pool_size": 6.818,
+    "active_connections": 7.16,
+    "queue_depth": 1.089,
+    "db_latency": 0.905
+  },
+  {
+    "request_volume": 13.439,
+    "pool_size": 11.393,
+    "active_connections": 9.486,
+    "queue_depth": -0.434,
+    "db_latency": -0.486
+  },
+  {
+    "request_volume": 10.877,
+    "pool_size": 9.598,
+    "active_connections": 7.792,
+    "queue_depth": -0.668,
+    "db_latency": -0.47
+  },
+  {
+    "request_volume": 10.01,
+    "pool_size": 11.583,
+    "active_connections": 6.812,
+    "queue_depth": -2.77,
+    "db_latency": -2.473
+  },
+  {
+    "request_volume": 10.023,
+    "pool_size": 6.253,
+    "active_connections": 7.07,
+    "queue_depth": 1.3,
+    "db_latency": 1.219
+  },
+  {
+    "request_volume": 8.882,
+    "pool_size": 10.495,
+    "active_connections": 6.234,
+    "queue_depth": -2.203,
+    "db_latency": -1.593
+  },
+  {
+    "request_volume": 9.063,
+    "pool_size": 7.551,
+    "active_connections": 6.453,
+    "queue_depth": -0.384,
+    "db_latency": -0.238
+  },
+  {
+    "request_volume": 8.988,
+    "pool_size": 8.65,
+    "active_connections": 5.995,
+    "queue_depth": -0.68,
+    "db_latency": -0.538
+  },
+  {
+    "request_volume": 7.564,
+    "pool_size": 9.153,
+    "active_connections": 5.144,
+    "queue_depth": -2.152,
+    "db_latency": -1.502
+  },
+  {
+    "request_volume": 8.951,
+    "pool_size": 12.207,
+    "active_connections": 6.45,
+    "queue_depth": -3.592,
+    "db_latency": -3.3
+  },
+  {
+    "request_volume": 9.816,
+    "pool_size": 9.064,
+    "active_connections": 7.198,
+    "queue_depth": -0.685,
+    "db_latency": -0.268
+  },
+  {
+    "request_volume": 10.494,
+    "pool_size": 7.117,
+    "active_connections": 7.275,
+    "queue_depth": 0.755,
+    "db_latency": 0.844
+  },
+  {
+    "request_volume": 9.152,
+    "pool_size": 12.019,
+    "active_connections": 6.335,
+    "queue_depth": -3.238,
+    "db_latency": -2.909
+  },
+  {
+    "request_volume": 8.642,
+    "pool_size": 10.978,
+    "active_connections": 6.1,
+    "queue_depth": -3.052,
+    "db_latency": -2.601
+  },
+  {
+    "request_volume": 10.209,
+    "pool_size": 10.112,
+    "active_connections": 7.134,
+    "queue_depth": -1.468,
+    "db_latency": -1.124
+  },
+  {
+    "request_volume": 9.651,
+    "pool_size": 8.7,
+    "active_connections": 6.881,
+    "queue_depth": -0.945,
+    "db_latency": -1.074
+  },
+  {
+    "request_volume": 9.786,
+    "pool_size": 7.6,
+    "active_connections": 6.784,
+    "queue_depth": 0.006,
+    "db_latency": 0.044
+  },
+  {
+    "request_volume": 12.294,
+    "pool_size": 11.329,
+    "active_connections": 8.84,
+    "queue_depth": -0.674,
+    "db_latency": -0.805
+  },
+  {
+    "request_volume": 6.998,
+    "pool_size": 8.125,
+    "active_connections": 4.983,
+    "queue_depth": -1.804,
+    "db_latency": -1.327
+  },
+  {
+    "request_volume": 8.335,
+    "pool_size": 6.349,
+    "active_connections": 5.9,
+    "queue_depth": 0.65,
+    "db_latency": 0.731
+  },
+  {
+    "request_volume": 8.505,
+    "pool_size": 5.44,
+    "active_connections": 5.868,
+    "queue_depth": 0.781,
+    "db_latency": 0.607
+  },
+  {
+    "request_volume": 11.207,
+    "pool_size": 8.411,
+    "active_connections": 7.992,
+    "queue_depth": 0.803,
+    "db_latency": 0.416
+  },
+  {
+    "request_volume": 13.74,
+    "pool_size": 8.69,
+    "active_connections": 9.721,
+    "queue_depth": 1.822,
+    "db_latency": 1.867
+  },
+  {
+    "request_volume": 10.204,
+    "pool_size": 11.15,
+    "active_connections": 6.907,
+    "queue_depth": -2.066,
+    "db_latency": -1.135
+  },
+  {
+    "request_volume": 9.88,
+    "pool_size": 10.585,
+    "active_connections": 6.538,
+    "queue_depth": -2.398,
+    "db_latency": -2.107
+  },
+  {
+    "request_volume": 8.151,
+    "pool_size": 14.586,
+    "active_connections": 5.716,
+    "queue_depth": -5.665,
+    "db_latency": -4.549
+  },
+  {
+    "request_volume": 13.701,
+    "pool_size": 17.638,
+    "active_connections": 9.038,
+    "queue_depth": -5.167,
+    "db_latency": -4.168
+  },
+  {
+    "request_volume": 10.572,
+    "pool_size": 8.64,
+    "active_connections": 7.303,
+    "queue_depth": -0.232,
+    "db_latency": -0.085
+  },
+  {
+    "request_volume": 11.609,
+    "pool_size": 9.971,
+    "active_connections": 8.092,
+    "queue_depth": -0.587,
+    "db_latency": -0.489
+  },
+  {
+    "request_volume": 9.761,
+    "pool_size": 14.203,
+    "active_connections": 6.933,
+    "queue_depth": -4.398,
+    "db_latency": -3.728
+  },
+  {
+    "request_volume": 11.292,
+    "pool_size": 10.047,
+    "active_connections": 8.074,
+    "queue_depth": -0.343,
+    "db_latency": -0.16
+  },
+  {
+    "request_volume": 7.684,
+    "pool_size": 11.707,
+    "active_connections": 5.7,
+    "queue_depth": -4.067,
+    "db_latency": -3.403
+  },
+  {
+    "request_volume": 9.571,
+    "pool_size": 10.632,
+    "active_connections": 6.635,
+    "queue_depth": -2.396,
+    "db_latency": -2.227
+  },
+  {
+    "request_volume": 7.476,
+    "pool_size": 12.457,
+    "active_connections": 4.841,
+    "queue_depth": -5.108,
+    "db_latency": -4.391
+  },
+  {
+    "request_volume": 12.387,
+    "pool_size": 8.511,
+    "active_connections": 8.666,
+    "queue_depth": 0.857,
+    "db_latency": 0.263
+  },
+  {
+    "request_volume": 9.744,
+    "pool_size": 7.801,
+    "active_connections": 6.692,
+    "queue_depth": -0.003,
+    "db_latency": 0.39
+  },
+  {
+    "request_volume": 9.506,
+    "pool_size": 10.213,
+    "active_connections": 6.687,
+    "queue_depth": -2.193,
+    "db_latency": -1.663
+  },
+  {
+    "request_volume": 10.621,
+    "pool_size": 13.196,
+    "active_connections": 7.556,
+    "queue_depth": -3.326,
+    "db_latency": -3.023
+  },
+  {
+    "request_volume": 7.937,
+    "pool_size": 12.508,
+    "active_connections": 5.736,
+    "queue_depth": -4.172,
+    "db_latency": -3.506
+  },
+  {
+    "request_volume": 9.949,
+    "pool_size": 15.048,
+    "active_connections": 7.089,
+    "queue_depth": -4.801,
+    "db_latency": -4.178
+  },
+  {
+    "request_volume": 9.159,
+    "pool_size": 7.854,
+    "active_connections": 6.158,
+    "queue_depth": -0.874,
+    "db_latency": -0.753
+  },
+  {
+    "request_volume": 9.376,
+    "pool_size": 7.07,
+    "active_connections": 6.711,
+    "queue_depth": 0.4,
+    "db_latency": 0.499
+  },
+  {
+    "request_volume": 10.459,
+    "pool_size": 12.065,
+    "active_connections": 7.288,
+    "queue_depth": -2.884,
+    "db_latency": -2.448
+  },
+  {
+    "request_volume": 9.938,
+    "pool_size": 9.891,
+    "active_connections": 6.902,
+    "queue_depth": -1.413,
+    "db_latency": -1.232
+  },
+  {
+    "request_volume": 10.018,
+    "pool_size": 11.873,
+    "active_connections": 7.193,
+    "queue_depth": -2.699,
+    "db_latency": -2.262
+  },
+  {
+    "request_volume": 10.509,
+    "pool_size": 8.756,
+    "active_connections": 7.442,
+    "queue_depth": -0.073,
+    "db_latency": -0.203
+  },
+  {
+    "request_volume": 11.805,
+    "pool_size": 11.087,
+    "active_connections": 8.142,
+    "queue_depth": -1.222,
+    "db_latency": -1.35
+  },
+  {
+    "request_volume": 8.919,
+    "pool_size": 9.17,
+    "active_connections": 6.398,
+    "queue_depth": -0.893,
+    "db_latency": -1.059
+  },
+  {
+    "request_volume": 11.798,
+    "pool_size": 13.487,
+    "active_connections": 8.574,
+    "queue_depth": -2.441,
+    "db_latency": -1.992
+  },
+  {
+    "request_volume": 6.447,
+    "pool_size": 8.665,
+    "active_connections": 4.618,
+    "queue_depth": -2.401,
+    "db_latency": -1.876
+  },
+  {
+    "request_volume": 10.637,
+    "pool_size": 7.28,
+    "active_connections": 7.404,
+    "queue_depth": 1.068,
+    "db_latency": 0.592
+  },
+  {
+    "request_volume": 8.449,
+    "pool_size": 5.439,
+    "active_connections": 5.953,
+    "queue_depth": 0.906,
+    "db_latency": 0.737
+  },
+  {
+    "request_volume": 10.499,
+    "pool_size": 10.019,
+    "active_connections": 7.592,
+    "queue_depth": -1.287,
+    "db_latency": -1.078
+  },
+  {
+    "request_volume": 11.821,
+    "pool_size": 8.003,
+    "active_connections": 8.198,
+    "queue_depth": 0.97,
+    "db_latency": 0.881
+  },
+  {
+    "request_volume": 14.506,
+    "pool_size": 13.613,
+    "active_connections": 10.028,
+    "queue_depth": -1.397,
+    "db_latency": -1.515
+  },
+  {
+    "request_volume": 11.462,
+    "pool_size": 11.678,
+    "active_connections": 8.386,
+    "queue_depth": -1.452,
+    "db_latency": -1.136
+  },
+  {
+    "request_volume": 6.387,
+    "pool_size": 8.908,
+    "active_connections": 4.347,
+    "queue_depth": -2.776,
+    "db_latency": -2.349
+  },
+  {
+    "request_volume": 9.798,
+    "pool_size": 13.119,
+    "active_connections": 6.743,
+    "queue_depth": -3.743,
+    "db_latency": -3.06
+  },
+  {
+    "request_volume": 8.282,
+    "pool_size": 8.809,
+    "active_connections": 5.825,
+    "queue_depth": -2.0,
+    "db_latency": -1.418
+  },
+  {
+    "request_volume": 9.037,
+    "pool_size": 10.72,
+    "active_connections": 6.581,
+    "queue_depth": -2.43,
+    "db_latency": -2.024
+  },
+  {
+    "request_volume": 10.115,
+    "pool_size": 9.139,
+    "active_connections": 7.265,
+    "queue_depth": -0.563,
+    "db_latency": -0.537
+  },
+  {
+    "request_volume": 9.756,
+    "pool_size": 7.817,
+    "active_connections": 6.852,
+    "queue_depth": 0.106,
+    "db_latency": -0.02
+  },
+  {
+    "request_volume": 10.291,
+    "pool_size": 17.418,
+    "active_connections": 7.435,
+    "queue_depth": -6.278,
+    "db_latency": -5.644
+  },
+  {
+    "request_volume": 10.148,
+    "pool_size": 9.056,
+    "active_connections": 7.12,
+    "queue_depth": -0.792,
+    "db_latency": -0.891
+  },
+  {
+    "request_volume": 9.234,
+    "pool_size": 13.525,
+    "active_connections": 6.728,
+    "queue_depth": -3.942,
+    "db_latency": -3.607
+  },
+  {
+    "request_volume": 9.015,
+    "pool_size": 10.076,
+    "active_connections": 6.346,
+    "queue_depth": -1.939,
+    "db_latency": -1.365
+  },
+  {
+    "request_volume": 6.107,
+    "pool_size": 9.861,
+    "active_connections": 4.126,
+    "queue_depth": -3.275,
+    "db_latency": -3.313
+  },
+  {
+    "request_volume": 12.559,
+    "pool_size": 10.843,
+    "active_connections": 8.882,
+    "queue_depth": -0.279,
+    "db_latency": -0.016
+  },
+  {
+    "request_volume": 11.892,
+    "pool_size": 9.168,
+    "active_connections": 8.039,
+    "queue_depth": -0.194,
+    "db_latency": -0.03
+  },
+  {
+    "request_volume": 13.533,
+    "pool_size": 13.359,
+    "active_connections": 9.371,
+    "queue_depth": -2.074,
+    "db_latency": -1.947
+  },
+  {
+    "request_volume": 5.801,
+    "pool_size": 10.626,
+    "active_connections": 4.236,
+    "queue_depth": -4.038,
+    "db_latency": -3.265
+  },
+  {
+    "request_volume": 11.536,
+    "pool_size": 8.106,
+    "active_connections": 8.162,
+    "queue_depth": 1.061,
+    "db_latency": 0.47
+  },
+  {
+    "request_volume": 11.545,
+    "pool_size": 13.08,
+    "active_connections": 7.946,
+    "queue_depth": -2.577,
+    "db_latency": -1.85
+  },
+  {
+    "request_volume": 11.854,
+    "pool_size": 8.769,
+    "active_connections": 8.377,
+    "queue_depth": 0.763,
+    "db_latency": 0.478
+  },
+  {
+    "request_volume": 6.974,
+    "pool_size": 13.793,
+    "active_connections": 5.063,
+    "queue_depth": -5.496,
+    "db_latency": -4.499
+  },
+  {
+    "request_volume": 10.942,
+    "pool_size": 15.803,
+    "active_connections": 7.531,
+    "queue_depth": -5.022,
+    "db_latency": -4.253
+  },
+  {
+    "request_volume": 10.187,
+    "pool_size": 12.418,
+    "active_connections": 7.374,
+    "queue_depth": -2.514,
+    "db_latency": -1.906
+  },
+  {
+    "request_volume": 10.769,
+    "pool_size": 7.775,
+    "active_connections": 7.425,
+    "queue_depth": 0.433,
+    "db_latency": 0.407
+  },
+  {
+    "request_volume": 6.825,
+    "pool_size": 7.628,
+    "active_connections": 4.753,
+    "queue_depth": -1.566,
+    "db_latency": -1.218
+  },
+  {
+    "request_volume": 6.924,
+    "pool_size": 13.983,
+    "active_connections": 4.58,
+    "queue_depth": -6.257,
+    "db_latency": -4.979
+  },
+  {
+    "request_volume": 12.615,
+    "pool_size": 8.09,
+    "active_connections": 8.748,
+    "queue_depth": 1.357,
+    "db_latency": 1.189
+  },
+  {
+    "request_volume": 8.322,
+    "pool_size": 10.655,
+    "active_connections": 5.89,
+    "queue_depth": -3.183,
+    "db_latency": -3.142
+  },
+  {
+    "request_volume": 8.25,
+    "pool_size": 13.868,
+    "active_connections": 5.951,
+    "queue_depth": -5.482,
+    "db_latency": -4.707
+  },
+  {
+    "request_volume": 11.564,
+    "pool_size": 8.36,
+    "active_connections": 8.047,
+    "queue_depth": 0.45,
+    "db_latency": 0.487
+  },
+  {
+    "request_volume": 13.773,
+    "pool_size": 7.99,
+    "active_connections": 9.589,
+    "queue_depth": 2.193,
+    "db_latency": 1.84
+  },
+  {
+    "request_volume": 12.129,
+    "pool_size": 10.496,
+    "active_connections": 8.091,
+    "queue_depth": -0.749,
+    "db_latency": -0.714
+  },
+  {
+    "request_volume": 9.136,
+    "pool_size": 9.726,
+    "active_connections": 6.164,
+    "queue_depth": -1.727,
+    "db_latency": -1.501
+  },
+  {
+    "request_volume": 10.852,
+    "pool_size": 11.118,
+    "active_connections": 7.715,
+    "queue_depth": -1.382,
+    "db_latency": -1.368
+  },
+  {
+    "request_volume": 11.326,
+    "pool_size": 6.661,
+    "active_connections": 8.008,
+    "queue_depth": 1.695,
+    "db_latency": 1.463
+  },
+  {
+    "request_volume": 11.093,
+    "pool_size": 10.51,
+    "active_connections": 7.511,
+    "queue_depth": -1.007,
+    "db_latency": -1.063
+  },
+  {
+    "request_volume": 10.323,
+    "pool_size": 10.192,
+    "active_connections": 7.286,
+    "queue_depth": -1.162,
+    "db_latency": -0.945
+  },
+  {
+    "request_volume": 8.839,
+    "pool_size": 12.878,
+    "active_connections": 6.268,
+    "queue_depth": -4.183,
+    "db_latency": -3.473
+  },
+  {
+    "request_volume": 8.618,
+    "pool_size": 10.55,
+    "active_connections": 5.841,
+    "queue_depth": -2.553,
+    "db_latency": -1.768
+  },
+  {
+    "request_volume": 11.918,
+    "pool_size": 9.679,
+    "active_connections": 8.242,
+    "queue_depth": -0.419,
+    "db_latency": -0.407
+  },
+  {
+    "request_volume": 11.525,
+    "pool_size": 11.675,
+    "active_connections": 8.163,
+    "queue_depth": -1.767,
+    "db_latency": -1.568
+  },
+  {
+    "request_volume": 10.725,
+    "pool_size": 9.323,
+    "active_connections": 7.313,
+    "queue_depth": -0.797,
+    "db_latency": -0.858
+  },
+  {
+    "request_volume": 8.451,
+    "pool_size": 11.523,
+    "active_connections": 5.917,
+    "queue_depth": -3.138,
+    "db_latency": -3.128
+  },
+  {
+    "request_volume": 8.806,
+    "pool_size": 14.429,
+    "active_connections": 6.222,
+    "queue_depth": -4.786,
+    "db_latency": -4.008
+  },
+  {
+    "request_volume": 11.358,
+    "pool_size": 8.712,
+    "active_connections": 7.708,
+    "queue_depth": -0.045,
+    "db_latency": -0.251
+  },
+  {
+    "request_volume": 7.933,
+    "pool_size": 12.898,
+    "active_connections": 5.425,
+    "queue_depth": -4.767,
+    "db_latency": -4.089
+  },
+  {
+    "request_volume": 12.621,
+    "pool_size": 11.782,
+    "active_connections": 9.203,
+    "queue_depth": -1.153,
+    "db_latency": -0.712
+  },
+  {
+    "request_volume": 8.198,
+    "pool_size": 9.534,
+    "active_connections": 5.823,
+    "queue_depth": -1.46,
+    "db_latency": -1.148
+  },
+  {
+    "request_volume": 12.511,
+    "pool_size": 4.96,
+    "active_connections": 8.544,
+    "queue_depth": 3.246,
+    "db_latency": 2.826
+  },
+  {
+    "request_volume": 7.802,
+    "pool_size": 10.615,
+    "active_connections": 5.426,
+    "queue_depth": -2.824,
+    "db_latency": -2.385
+  },
+  {
+    "request_volume": 10.029,
+    "pool_size": 6.069,
+    "active_connections": 7.038,
+    "queue_depth": 1.561,
+    "db_latency": 1.231
+  },
+  {
+    "request_volume": 9.088,
+    "pool_size": 8.329,
+    "active_connections": 6.605,
+    "queue_depth": -0.288,
+    "db_latency": -0.707
+  },
+  {
+    "request_volume": 11.311,
+    "pool_size": 7.708,
+    "active_connections": 7.972,
+    "queue_depth": 0.903,
+    "db_latency": 0.601
+  },
+  {
+    "request_volume": 5.45,
+    "pool_size": 8.445,
+    "active_connections": 3.731,
+    "queue_depth": -2.879,
+    "db_latency": -2.696
+  },
+  {
+    "request_volume": 9.008,
+    "pool_size": 5.862,
+    "active_connections": 5.909,
+    "queue_depth": 0.454,
+    "db_latency": 0.137
+  },
+  {
+    "request_volume": 11.246,
+    "pool_size": 10.613,
+    "active_connections": 7.886,
+    "queue_depth": -1.266,
+    "db_latency": -0.908
+  },
+  {
+    "request_volume": 12.883,
+    "pool_size": 9.721,
+    "active_connections": 9.095,
+    "queue_depth": 0.445,
+    "db_latency": 0.204
+  },
+  {
+    "request_volume": 8.857,
+    "pool_size": 4.354,
+    "active_connections": 6.238,
+    "queue_depth": 1.963,
+    "db_latency": 1.314
+  },
+  {
+    "request_volume": 8.31,
+    "pool_size": 7.824,
+    "active_connections": 5.687,
+    "queue_depth": -0.781,
+    "db_latency": -0.593
+  },
+  {
+    "request_volume": 7.654,
+    "pool_size": 8.243,
+    "active_connections": 5.166,
+    "queue_depth": -1.758,
+    "db_latency": -1.582
+  },
+  {
+    "request_volume": 13.177,
+    "pool_size": 8.68,
+    "active_connections": 9.189,
+    "queue_depth": 1.282,
+    "db_latency": 1.148
+  },
+  {
+    "request_volume": 11.761,
+    "pool_size": 9.233,
+    "active_connections": 8.228,
+    "queue_depth": 0.402,
+    "db_latency": 0.73
+  },
+  {
+    "request_volume": 11.649,
+    "pool_size": 11.663,
+    "active_connections": 8.184,
+    "queue_depth": -1.84,
+    "db_latency": -1.095
+  },
+  {
+    "request_volume": 8.662,
+    "pool_size": 9.678,
+    "active_connections": 6.38,
+    "queue_depth": -1.673,
+    "db_latency": -0.9
+  },
+  {
+    "request_volume": 10.139,
+    "pool_size": 8.693,
+    "active_connections": 7.259,
+    "queue_depth": -0.141,
+    "db_latency": -0.473
+  },
+  {
+    "request_volume": 9.431,
+    "pool_size": 9.147,
+    "active_connections": 6.497,
+    "queue_depth": -0.978,
+    "db_latency": -1.126
+  },
+  {
+    "request_volume": 9.147,
+    "pool_size": 12.133,
+    "active_connections": 6.643,
+    "queue_depth": -3.096,
+    "db_latency": -2.662
+  },
+  {
+    "request_volume": 9.462,
+    "pool_size": 11.708,
+    "active_connections": 6.369,
+    "queue_depth": -2.965,
+    "db_latency": -2.457
+  },
+  {
+    "request_volume": 10.156,
+    "pool_size": 9.711,
+    "active_connections": 7.195,
+    "queue_depth": -0.774,
+    "db_latency": -0.68
+  },
+  {
+    "request_volume": 13.943,
+    "pool_size": 11.609,
+    "active_connections": 9.853,
+    "queue_depth": -0.318,
+    "db_latency": -0.271
+  },
+  {
+    "request_volume": 9.562,
+    "pool_size": 11.715,
+    "active_connections": 7.138,
+    "queue_depth": -2.268,
+    "db_latency": -1.96
+  },
+  {
+    "request_volume": 11.881,
+    "pool_size": 8.987,
+    "active_connections": 8.087,
+    "queue_depth": 0.318,
+    "db_latency": 0.424
+  },
+  {
+    "request_volume": 10.297,
+    "pool_size": 10.218,
+    "active_connections": 7.227,
+    "queue_depth": -1.316,
+    "db_latency": -1.203
+  },
+  {
+    "request_volume": 6.632,
+    "pool_size": 9.421,
+    "active_connections": 4.71,
+    "queue_depth": -3.141,
+    "db_latency": -2.475
+  },
+  {
+    "request_volume": 8.749,
+    "pool_size": 7.734,
+    "active_connections": 6.497,
+    "queue_depth": -0.044,
+    "db_latency": 0.027
+  },
+  {
+    "request_volume": 5.775,
+    "pool_size": 10.132,
+    "active_connections": 3.948,
+    "queue_depth": -3.642,
+    "db_latency": -2.975
+  },
+  {
+    "request_volume": 14.067,
+    "pool_size": 9.617,
+    "active_connections": 10.035,
+    "queue_depth": 1.488,
+    "db_latency": 0.951
+  },
+  {
+    "request_volume": 8.81,
+    "pool_size": 10.204,
+    "active_connections": 6.345,
+    "queue_depth": -1.924,
+    "db_latency": -1.522
+  },
+  {
+    "request_volume": 8.729,
+    "pool_size": 10.647,
+    "active_connections": 6.174,
+    "queue_depth": -2.528,
+    "db_latency": -2.246
+  },
+  {
+    "request_volume": 9.729,
+    "pool_size": 11.094,
+    "active_connections": 6.984,
+    "queue_depth": -1.936,
+    "db_latency": -1.431
+  },
+  {
+    "request_volume": 5.455,
+    "pool_size": 11.369,
+    "active_connections": 3.528,
+    "queue_depth": -5.195,
+    "db_latency": -4.446
+  },
+  {
+    "request_volume": 9.982,
+    "pool_size": 12.048,
+    "active_connections": 6.828,
+    "queue_depth": -2.893,
+    "db_latency": -2.653
+  },
+  {
+    "request_volume": 11.05,
+    "pool_size": 8.213,
+    "active_connections": 7.865,
+    "queue_depth": 0.305,
+    "db_latency": 0.01
+  },
+  {
+    "request_volume": 6.723,
+    "pool_size": 11.856,
+    "active_connections": 5.031,
+    "queue_depth": -4.335,
+    "db_latency": -3.732
+  },
+  {
+    "request_volume": 9.581,
+    "pool_size": 7.636,
+    "active_connections": 6.679,
+    "queue_depth": -0.065,
+    "db_latency": -0.266
+  },
+  {
+    "request_volume": 9.55,
+    "pool_size": 13.251,
+    "active_connections": 6.553,
+    "queue_depth": -3.835,
+    "db_latency": -3.163
+  },
+  {
+    "request_volume": 7.324,
+    "pool_size": 10.878,
+    "active_connections": 5.5,
+    "queue_depth": -3.459,
+    "db_latency": -3.198
+  },
+  {
+    "request_volume": 7.873,
+    "pool_size": 13.205,
+    "active_connections": 5.184,
+    "queue_depth": -4.659,
+    "db_latency": -3.786
+  },
+  {
+    "request_volume": 11.035,
+    "pool_size": 8.244,
+    "active_connections": 7.804,
+    "queue_depth": 0.772,
+    "db_latency": 0.493
+  },
+  {
+    "request_volume": 11.266,
+    "pool_size": 8.711,
+    "active_connections": 8.081,
+    "queue_depth": 0.328,
+    "db_latency": 0.498
+  },
+  {
+    "request_volume": 13.674,
+    "pool_size": 16.716,
+    "active_connections": 9.346,
+    "queue_depth": -4.416,
+    "db_latency": -3.526
+  },
+  {
+    "request_volume": 9.677,
+    "pool_size": 8.466,
+    "active_connections": 6.986,
+    "queue_depth": -0.233,
+    "db_latency": -0.342
+  },
+  {
+    "request_volume": 12.485,
+    "pool_size": 9.947,
+    "active_connections": 8.971,
+    "queue_depth": 0.111,
+    "db_latency": 0.187
+  },
+  {
+    "request_volume": 11.246,
+    "pool_size": 9.399,
+    "active_connections": 7.794,
+    "queue_depth": -0.185,
+    "db_latency": 0.115
+  },
+  {
+    "request_volume": 9.138,
+    "pool_size": 10.87,
+    "active_connections": 6.268,
+    "queue_depth": -2.492,
+    "db_latency": -1.644
+  },
+  {
+    "request_volume": 14.418,
+    "pool_size": 11.683,
+    "active_connections": 10.537,
+    "queue_depth": 0.016,
+    "db_latency": -0.246
+  },
+  {
+    "request_volume": 9.072,
+    "pool_size": 9.574,
+    "active_connections": 6.546,
+    "queue_depth": -1.455,
+    "db_latency": -1.147
+  },
+  {
+    "request_volume": 9.424,
+    "pool_size": 10.834,
+    "active_connections": 6.584,
+    "queue_depth": -2.327,
+    "db_latency": -2.09
+  },
+  {
+    "request_volume": 9.703,
+    "pool_size": 6.389,
+    "active_connections": 6.792,
+    "queue_depth": 1.064,
+    "db_latency": 1.051
+  },
+  {
+    "request_volume": 9.194,
+    "pool_size": 5.105,
+    "active_connections": 6.219,
+    "queue_depth": 1.174,
+    "db_latency": 0.762
+  },
+  {
+    "request_volume": 12.055,
+    "pool_size": 13.669,
+    "active_connections": 8.664,
+    "queue_depth": -2.899,
+    "db_latency": -2.567
+  },
+  {
+    "request_volume": 10.333,
+    "pool_size": 7.486,
+    "active_connections": 7.273,
+    "queue_depth": 0.414,
+    "db_latency": 0.389
+  },
+  {
+    "request_volume": 7.935,
+    "pool_size": 11.845,
+    "active_connections": 5.785,
+    "queue_depth": -3.471,
+    "db_latency": -3.263
+  },
+  {
+    "request_volume": 7.397,
+    "pool_size": 7.692,
+    "active_connections": 5.056,
+    "queue_depth": -1.233,
+    "db_latency": -1.072
+  },
+  {
+    "request_volume": 9.545,
+    "pool_size": 9.869,
+    "active_connections": 6.745,
+    "queue_depth": -1.273,
+    "db_latency": -1.174
+  },
+  {
+    "request_volume": 11.79,
+    "pool_size": 7.551,
+    "active_connections": 8.323,
+    "queue_depth": 1.139,
+    "db_latency": 1.204
+  },
+  {
+    "request_volume": 8.343,
+    "pool_size": 9.234,
+    "active_connections": 5.718,
+    "queue_depth": -2.026,
+    "db_latency": -1.614
+  },
+  {
+    "request_volume": 10.569,
+    "pool_size": 12.968,
+    "active_connections": 7.241,
+    "queue_depth": -3.828,
+    "db_latency": -3.177
+  },
+  {
+    "request_volume": 11.024,
+    "pool_size": 7.489,
+    "active_connections": 7.865,
+    "queue_depth": 1.085,
+    "db_latency": 0.689
+  },
+  {
+    "request_volume": 8.781,
+    "pool_size": 9.435,
+    "active_connections": 6.208,
+    "queue_depth": -1.403,
+    "db_latency": -1.091
+  },
+  {
+    "request_volume": 12.194,
+    "pool_size": 8.74,
+    "active_connections": 8.346,
+    "queue_depth": 0.74,
+    "db_latency": 0.383
+  },
+  {
+    "request_volume": 13.814,
+    "pool_size": 9.388,
+    "active_connections": 10.064,
+    "queue_depth": 1.456,
+    "db_latency": 1.202
+  },
+  {
+    "request_volume": 6.7,
+    "pool_size": 6.72,
+    "active_connections": 4.569,
+    "queue_depth": -0.861,
+    "db_latency": -0.749
+  },
+  {
+    "request_volume": 11.796,
+    "pool_size": 7.665,
+    "active_connections": 8.279,
+    "queue_depth": 1.364,
+    "db_latency": 1.174
+  },
+  {
+    "request_volume": 14.308,
+    "pool_size": 7.193,
+    "active_connections": 9.954,
+    "queue_depth": 2.826,
+    "db_latency": 2.446
+  },
+  {
+    "request_volume": 11.774,
+    "pool_size": 11.513,
+    "active_connections": 8.684,
+    "queue_depth": -0.882,
+    "db_latency": -0.807
+  },
+  {
+    "request_volume": 9.2,
+    "pool_size": 7.385,
+    "active_connections": 6.3,
+    "queue_depth": -0.173,
+    "db_latency": 0.217
+  },
+  {
+    "request_volume": 9.975,
+    "pool_size": 10.109,
+    "active_connections": 6.817,
+    "queue_depth": -1.466,
+    "db_latency": -0.884
+  },
+  {
+    "request_volume": 11.35,
+    "pool_size": 12.258,
+    "active_connections": 8.079,
+    "queue_depth": -2.202,
+    "db_latency": -1.829
+  },
+  {
+    "request_volume": 10.74,
+    "pool_size": 11.444,
+    "active_connections": 7.574,
+    "queue_depth": -1.866,
+    "db_latency": -1.361
+  },
+  {
+    "request_volume": 9.948,
+    "pool_size": 14.133,
+    "active_connections": 7.026,
+    "queue_depth": -4.137,
+    "db_latency": -3.262
+  },
+  {
+    "request_volume": 7.337,
+    "pool_size": 9.095,
+    "active_connections": 5.283,
+    "queue_depth": -1.779,
+    "db_latency": -1.608
+  },
+  {
+    "request_volume": 9.659,
+    "pool_size": 10.77,
+    "active_connections": 6.834,
+    "queue_depth": -2.049,
+    "db_latency": -1.294
+  },
+  {
+    "request_volume": 9.887,
+    "pool_size": 9.471,
+    "active_connections": 6.704,
+    "queue_depth": -1.178,
+    "db_latency": -1.189
+  },
+  {
+    "request_volume": 12.13,
+    "pool_size": 6.866,
+    "active_connections": 8.613,
+    "queue_depth": 2.102,
+    "db_latency": 2.163
+  },
+  {
+    "request_volume": 12.214,
+    "pool_size": 10.204,
+    "active_connections": 8.483,
+    "queue_depth": -0.295,
+    "db_latency": -0.366
+  },
+  {
+    "request_volume": 10.459,
+    "pool_size": 6.609,
+    "active_connections": 7.284,
+    "queue_depth": 0.674,
+    "db_latency": 0.419
+  },
+  {
+    "request_volume": 13.388,
+    "pool_size": 10.285,
+    "active_connections": 9.288,
+    "queue_depth": 0.544,
+    "db_latency": 0.513
+  },
+  {
+    "request_volume": 8.921,
+    "pool_size": 8.717,
+    "active_connections": 6.119,
+    "queue_depth": -1.121,
+    "db_latency": -1.103
+  },
+  {
+    "request_volume": 10.478,
+    "pool_size": 9.254,
+    "active_connections": 7.397,
+    "queue_depth": -0.843,
+    "db_latency": -0.21
+  },
+  {
+    "request_volume": 8.825,
+    "pool_size": 10.39,
+    "active_connections": 6.486,
+    "queue_depth": -1.911,
+    "db_latency": -1.764
+  },
+  {
+    "request_volume": 11.25,
+    "pool_size": 12.109,
+    "active_connections": 7.873,
+    "queue_depth": -2.295,
+    "db_latency": -1.969
+  },
+  {
+    "request_volume": 6.029,
+    "pool_size": 9.959,
+    "active_connections": 3.973,
+    "queue_depth": -4.0,
+    "db_latency": -3.843
+  },
+  {
+    "request_volume": 8.91,
+    "pool_size": 10.774,
+    "active_connections": 6.275,
+    "queue_depth": -2.453,
+    "db_latency": -2.172
+  },
+  {
+    "request_volume": 12.297,
+    "pool_size": 8.001,
+    "active_connections": 8.781,
+    "queue_depth": 1.098,
+    "db_latency": 0.829
+  },
+  {
+    "request_volume": 8.376,
+    "pool_size": 16.014,
+    "active_connections": 6.029,
+    "queue_depth": -6.845,
+    "db_latency": -5.523
+  },
+  {
+    "request_volume": 10.779,
+    "pool_size": 8.102,
+    "active_connections": 7.603,
+    "queue_depth": 0.385,
+    "db_latency": 0.232
+  },
+  {
+    "request_volume": 9.77,
+    "pool_size": 10.097,
+    "active_connections": 7.009,
+    "queue_depth": -1.572,
+    "db_latency": -1.893
+  },
+  {
+    "request_volume": 9.784,
+    "pool_size": 7.442,
+    "active_connections": 6.892,
+    "queue_depth": 0.37,
+    "db_latency": 0.9
+  },
+  {
+    "request_volume": 9.07,
+    "pool_size": 4.897,
+    "active_connections": 6.308,
+    "queue_depth": 1.729,
+    "db_latency": 1.51
+  },
+  {
+    "request_volume": 8.715,
+    "pool_size": 8.69,
+    "active_connections": 5.804,
+    "queue_depth": -1.537,
+    "db_latency": -1.65
+  },
+  {
+    "request_volume": 9.491,
+    "pool_size": 11.38,
+    "active_connections": 6.881,
+    "queue_depth": -2.076,
+    "db_latency": -1.821
+  },
+  {
+    "request_volume": 10.196,
+    "pool_size": 8.701,
+    "active_connections": 6.985,
+    "queue_depth": -0.239,
+    "db_latency": -0.245
+  },
+  {
+    "request_volume": 8.947,
+    "pool_size": 8.867,
+    "active_connections": 6.35,
+    "queue_depth": -1.071,
+    "db_latency": -0.844
+  },
+  {
+    "request_volume": 10.641,
+    "pool_size": 9.495,
+    "active_connections": 7.741,
+    "queue_depth": -0.438,
+    "db_latency": -0.554
+  },
+  {
+    "request_volume": 9.589,
+    "pool_size": 9.178,
+    "active_connections": 6.821,
+    "queue_depth": -0.821,
+    "db_latency": -0.674
+  },
+  {
+    "request_volume": 11.637,
+    "pool_size": 10.239,
+    "active_connections": 8.178,
+    "queue_depth": -0.571,
+    "db_latency": -0.486
+  },
+  {
+    "request_volume": 11.434,
+    "pool_size": 11.51,
+    "active_connections": 7.957,
+    "queue_depth": -1.972,
+    "db_latency": -1.631
+  },
+  {
+    "request_volume": 7.692,
+    "pool_size": 8.018,
+    "active_connections": 5.541,
+    "queue_depth": -1.001,
+    "db_latency": -0.779
+  },
+  {
+    "request_volume": 8.864,
+    "pool_size": 10.944,
+    "active_connections": 6.403,
+    "queue_depth": -2.3,
+    "db_latency": -1.894
+  },
+  {
+    "request_volume": 10.588,
+    "pool_size": 9.253,
+    "active_connections": 7.503,
+    "queue_depth": -0.61,
+    "db_latency": -0.278
+  },
+  {
+    "request_volume": 10.166,
+    "pool_size": 9.396,
+    "active_connections": 7.237,
+    "queue_depth": -0.682,
+    "db_latency": -0.493
+  },
+  {
+    "request_volume": 10.222,
+    "pool_size": 11.914,
+    "active_connections": 7.055,
+    "queue_depth": -2.618,
+    "db_latency": -2.278
+  },
+  {
+    "request_volume": 12.034,
+    "pool_size": 7.65,
+    "active_connections": 8.483,
+    "queue_depth": 1.283,
+    "db_latency": 1.061
+  },
+  {
+    "request_volume": 12.688,
+    "pool_size": 10.906,
+    "active_connections": 8.629,
+    "queue_depth": -0.756,
+    "db_latency": -0.364
+  },
+  {
+    "request_volume": 14.31,
+    "pool_size": 15.663,
+    "active_connections": 9.977,
+    "queue_depth": -3.082,
+    "db_latency": -2.61
+  },
+  {
+    "request_volume": 9.45,
+    "pool_size": 8.3,
+    "active_connections": 6.769,
+    "queue_depth": -0.274,
+    "db_latency": 0.26
+  },
+  {
+    "request_volume": 11.058,
+    "pool_size": 9.673,
+    "active_connections": 7.632,
+    "queue_depth": -0.835,
+    "db_latency": -0.833
+  },
+  {
+    "request_volume": 7.234,
+    "pool_size": 11.611,
+    "active_connections": 5.001,
+    "queue_depth": -4.362,
+    "db_latency": -3.58
+  },
+  {
+    "request_volume": 9.234,
+    "pool_size": 8.989,
+    "active_connections": 6.423,
+    "queue_depth": -1.122,
+    "db_latency": -1.188
+  },
+  {
+    "request_volume": 10.498,
+    "pool_size": 10.467,
+    "active_connections": 6.793,
+    "queue_depth": -1.902,
+    "db_latency": -1.688
+  },
+  {
+    "request_volume": 12.915,
+    "pool_size": 11.187,
+    "active_connections": 8.712,
+    "queue_depth": -0.962,
+    "db_latency": -0.81
+  },
+  {
+    "request_volume": 8.168,
+    "pool_size": 9.947,
+    "active_connections": 5.711,
+    "queue_depth": -2.507,
+    "db_latency": -2.309
+  },
+  {
+    "request_volume": 10.163,
+    "pool_size": 12.423,
+    "active_connections": 7.568,
+    "queue_depth": -2.745,
+    "db_latency": -2.277
+  },
+  {
+    "request_volume": 7.755,
+    "pool_size": 11.153,
+    "active_connections": 5.498,
+    "queue_depth": -3.345,
+    "db_latency": -2.611
+  },
+  {
+    "request_volume": 10.331,
+    "pool_size": 11.796,
+    "active_connections": 7.031,
+    "queue_depth": -2.806,
+    "db_latency": -2.59
+  },
+  {
+    "request_volume": 14.696,
+    "pool_size": 8.948,
+    "active_connections": 10.177,
+    "queue_depth": 1.856,
+    "db_latency": 1.893
+  },
+  {
+    "request_volume": 7.74,
+    "pool_size": 9.783,
+    "active_connections": 5.213,
+    "queue_depth": -2.775,
+    "db_latency": -2.279
+  },
+  {
+    "request_volume": 9.087,
+    "pool_size": 6.211,
+    "active_connections": 6.538,
+    "queue_depth": 0.907,
+    "db_latency": 0.974
+  },
+  {
+    "request_volume": 12.989,
+    "pool_size": 9.368,
+    "active_connections": 8.903,
+    "queue_depth": 0.959,
+    "db_latency": 0.412
+  },
+  {
+    "request_volume": 9.236,
+    "pool_size": 9.448,
+    "active_connections": 6.315,
+    "queue_depth": -1.533,
+    "db_latency": -1.505
+  },
+  {
+    "request_volume": 12.77,
+    "pool_size": 6.906,
+    "active_connections": 8.798,
+    "queue_depth": 1.927,
+    "db_latency": 1.578
+  },
+  {
+    "request_volume": 10.734,
+    "pool_size": 9.88,
+    "active_connections": 7.295,
+    "queue_depth": -0.95,
+    "db_latency": -0.878
+  },
+  {
+    "request_volume": 9.826,
+    "pool_size": 7.584,
+    "active_connections": 6.946,
+    "queue_depth": 0.283,
+    "db_latency": 0.305
+  },
+  {
+    "request_volume": 11.97,
+    "pool_size": 8.993,
+    "active_connections": 8.414,
+    "queue_depth": 0.001,
+    "db_latency": -0.129
+  },
+  {
+    "request_volume": 12.667,
+    "pool_size": 8.637,
+    "active_connections": 8.514,
+    "queue_depth": 1.074,
+    "db_latency": 1.38
+  },
+  {
+    "request_volume": 11.59,
+    "pool_size": 9.072,
+    "active_connections": 7.944,
+    "queue_depth": -0.153,
+    "db_latency": -0.257
+  },
+  {
+    "request_volume": 9.482,
+    "pool_size": 8.854,
+    "active_connections": 6.617,
+    "queue_depth": -0.777,
+    "db_latency": -0.69
+  },
+  {
+    "request_volume": 9.619,
+    "pool_size": 8.243,
+    "active_connections": 6.92,
+    "queue_depth": 0.184,
+    "db_latency": -0.057
+  },
+  {
+    "request_volume": 12.456,
+    "pool_size": 10.366,
+    "active_connections": 8.94,
+    "queue_depth": 0.223,
+    "db_latency": 0.412
+  },
+  {
+    "request_volume": 9.569,
+    "pool_size": 13.496,
+    "active_connections": 6.65,
+    "queue_depth": -3.783,
+    "db_latency": -3.16
+  },
+  {
+    "request_volume": 8.095,
+    "pool_size": 9.708,
+    "active_connections": 5.973,
+    "queue_depth": -2.337,
+    "db_latency": -1.861
+  },
+  {
+    "request_volume": 11.081,
+    "pool_size": 11.266,
+    "active_connections": 7.581,
+    "queue_depth": -2.083,
+    "db_latency": -1.5
+  },
+  {
+    "request_volume": 9.769,
+    "pool_size": 5.059,
+    "active_connections": 6.573,
+    "queue_depth": 1.313,
+    "db_latency": 1.355
+  },
+  {
+    "request_volume": 6.578,
+    "pool_size": 5.837,
+    "active_connections": 4.562,
+    "queue_depth": -0.332,
+    "db_latency": 0.28
+  },
+  {
+    "request_volume": 4.409,
+    "pool_size": 7.414,
+    "active_connections": 3.063,
+    "queue_depth": -2.921,
+    "db_latency": -2.835
+  },
+  {
+    "request_volume": 7.36,
+    "pool_size": 9.725,
+    "active_connections": 5.181,
+    "queue_depth": -2.675,
+    "db_latency": -2.124
+  },
+  {
+    "request_volume": 7.097,
+    "pool_size": 9.339,
+    "active_connections": 4.733,
+    "queue_depth": -2.571,
+    "db_latency": -2.307
+  },
+  {
+    "request_volume": 12.021,
+    "pool_size": 8.83,
+    "active_connections": 8.46,
+    "queue_depth": 0.537,
+    "db_latency": 0.087
+  },
+  {
+    "request_volume": 13.397,
+    "pool_size": 9.549,
+    "active_connections": 9.46,
+    "queue_depth": 0.921,
+    "db_latency": 0.819
+  },
+  {
+    "request_volume": 10.487,
+    "pool_size": 7.348,
+    "active_connections": 7.258,
+    "queue_depth": 0.441,
+    "db_latency": 0.684
+  },
+  {
+    "request_volume": 6.318,
+    "pool_size": 8.239,
+    "active_connections": 4.292,
+    "queue_depth": -1.931,
+    "db_latency": -2.05
+  },
+  {
+    "request_volume": 9.03,
+    "pool_size": 10.106,
+    "active_connections": 6.657,
+    "queue_depth": -1.562,
+    "db_latency": -1.221
+  },
+  {
+    "request_volume": 10.801,
+    "pool_size": 10.42,
+    "active_connections": 7.75,
+    "queue_depth": -1.373,
+    "db_latency": -1.025
+  },
+  {
+    "request_volume": 7.981,
+    "pool_size": 10.553,
+    "active_connections": 5.708,
+    "queue_depth": -2.819,
+    "db_latency": -2.142
+  },
+  {
+    "request_volume": 8.721,
+    "pool_size": 13.777,
+    "active_connections": 5.771,
+    "queue_depth": -5.145,
+    "db_latency": -4.62
+  },
+  {
+    "request_volume": 10.333,
+    "pool_size": 14.424,
+    "active_connections": 7.237,
+    "queue_depth": -4.113,
+    "db_latency": -3.702
+  },
+  {
+    "request_volume": 8.128,
+    "pool_size": 10.334,
+    "active_connections": 5.919,
+    "queue_depth": -2.551,
+    "db_latency": -2.025
+  },
+  {
+    "request_volume": 12.284,
+    "pool_size": 12.426,
+    "active_connections": 8.84,
+    "queue_depth": -1.679,
+    "db_latency": -1.441
+  },
+  {
+    "request_volume": 13.92,
+    "pool_size": 12.895,
+    "active_connections": 9.305,
+    "queue_depth": -1.44,
+    "db_latency": -1.181
+  },
+  {
+    "request_volume": 13.005,
+    "pool_size": 12.821,
+    "active_connections": 9.202,
+    "queue_depth": -1.742,
+    "db_latency": -1.598
+  },
+  {
+    "request_volume": 9.403,
+    "pool_size": 10.697,
+    "active_connections": 6.649,
+    "queue_depth": -2.585,
+    "db_latency": -2.248
+  },
+  {
+    "request_volume": 14.229,
+    "pool_size": 12.255,
+    "active_connections": 10.073,
+    "queue_depth": -0.155,
+    "db_latency": 0.076
+  },
+  {
+    "request_volume": 9.481,
+    "pool_size": 5.629,
+    "active_connections": 6.713,
+    "queue_depth": 1.325,
+    "db_latency": 0.99
+  },
+  {
+    "request_volume": 9.457,
+    "pool_size": 9.021,
+    "active_connections": 6.415,
+    "queue_depth": -1.076,
+    "db_latency": -1.172
+  },
+  {
+    "request_volume": 11.553,
+    "pool_size": 11.533,
+    "active_connections": 8.447,
+    "queue_depth": -1.263,
+    "db_latency": -1.135
+  },
+  {
+    "request_volume": 9.064,
+    "pool_size": 9.327,
+    "active_connections": 6.631,
+    "queue_depth": -1.093,
+    "db_latency": -1.081
+  },
+  {
+    "request_volume": 9.4,
+    "pool_size": 7.689,
+    "active_connections": 6.783,
+    "queue_depth": 0.173,
+    "db_latency": -0.077
+  },
+  {
+    "request_volume": 9.324,
+    "pool_size": 7.147,
+    "active_connections": 6.756,
+    "queue_depth": 0.337,
+    "db_latency": 0.441
+  },
+  {
+    "request_volume": 9.166,
+    "pool_size": 11.823,
+    "active_connections": 6.436,
+    "queue_depth": -3.145,
+    "db_latency": -2.52
+  },
+  {
+    "request_volume": 10.788,
+    "pool_size": 8.951,
+    "active_connections": 7.766,
+    "queue_depth": -0.059,
+    "db_latency": -0.465
+  },
+  {
+    "request_volume": 11.644,
+    "pool_size": 8.121,
+    "active_connections": 8.286,
+    "queue_depth": 0.989,
+    "db_latency": 1.108
+  },
+  {
+    "request_volume": 8.302,
+    "pool_size": 9.159,
+    "active_connections": 6.067,
+    "queue_depth": -1.564,
+    "db_latency": -1.352
+  },
+  {
+    "request_volume": 8.248,
+    "pool_size": 10.353,
+    "active_connections": 5.927,
+    "queue_depth": -2.706,
+    "db_latency": -2.309
+  },
+  {
+    "request_volume": 11.462,
+    "pool_size": 8.061,
+    "active_connections": 7.978,
+    "queue_depth": 0.842,
+    "db_latency": 0.724
+  },
+  {
+    "request_volume": 10.461,
+    "pool_size": 10.92,
+    "active_connections": 7.242,
+    "queue_depth": -1.919,
+    "db_latency": -1.751
+  },
+  {
+    "request_volume": 10.917,
+    "pool_size": 10.348,
+    "active_connections": 7.703,
+    "queue_depth": -0.996,
+    "db_latency": -1.119
+  },
+  {
+    "request_volume": 11.336,
+    "pool_size": 14.084,
+    "active_connections": 7.577,
+    "queue_depth": -3.833,
+    "db_latency": -3.284
+  },
+  {
+    "request_volume": 9.883,
+    "pool_size": 7.18,
+    "active_connections": 6.689,
+    "queue_depth": 0.565,
+    "db_latency": 0.415
+  },
+  {
+    "request_volume": 7.626,
+    "pool_size": 11.177,
+    "active_connections": 5.226,
+    "queue_depth": -3.589,
+    "db_latency": -2.613
+  },
+  {
+    "request_volume": 10.614,
+    "pool_size": 10.519,
+    "active_connections": 7.588,
+    "queue_depth": -1.041,
+    "db_latency": -0.591
+  },
+  {
+    "request_volume": 8.909,
+    "pool_size": 10.975,
+    "active_connections": 6.181,
+    "queue_depth": -2.78,
+    "db_latency": -2.434
+  },
+  {
+    "request_volume": 11.473,
+    "pool_size": 8.691,
+    "active_connections": 8.186,
+    "queue_depth": 0.42,
+    "db_latency": 0.372
+  },
+  {
+    "request_volume": 9.882,
+    "pool_size": 9.43,
+    "active_connections": 6.87,
+    "queue_depth": -1.136,
+    "db_latency": -1.366
+  },
+  {
+    "request_volume": 8.931,
+    "pool_size": 7.146,
+    "active_connections": 6.244,
+    "queue_depth": 0.174,
+    "db_latency": 0.252
+  },
+  {
+    "request_volume": 7.963,
+    "pool_size": 12.965,
+    "active_connections": 5.417,
+    "queue_depth": -4.792,
+    "db_latency": -4.148
+  },
+  {
+    "request_volume": 7.082,
+    "pool_size": 10.64,
+    "active_connections": 4.585,
+    "queue_depth": -3.734,
+    "db_latency": -2.916
+  },
+  {
+    "request_volume": 11.509,
+    "pool_size": 9.939,
+    "active_connections": 8.001,
+    "queue_depth": -0.985,
+    "db_latency": -0.728
+  },
+  {
+    "request_volume": 14.008,
+    "pool_size": 11.427,
+    "active_connections": 10.172,
+    "queue_depth": 0.169,
+    "db_latency": 0.161
+  },
+  {
+    "request_volume": 10.973,
+    "pool_size": 10.665,
+    "active_connections": 7.648,
+    "queue_depth": -1.53,
+    "db_latency": -1.286
+  },
+  {
+    "request_volume": 11.916,
+    "pool_size": 12.583,
+    "active_connections": 8.353,
+    "queue_depth": -2.054,
+    "db_latency": -1.766
+  },
+  {
+    "request_volume": 13.889,
+    "pool_size": 11.394,
+    "active_connections": 9.742,
+    "queue_depth": -0.23,
+    "db_latency": 0.033
+  },
+  {
+    "request_volume": 10.801,
+    "pool_size": 8.604,
+    "active_connections": 7.236,
+    "queue_depth": 0.303,
+    "db_latency": 0.143
+  },
+  {
+    "request_volume": 9.634,
+    "pool_size": 10.311,
+    "active_connections": 6.736,
+    "queue_depth": -1.471,
+    "db_latency": -1.137
+  },
+  {
+    "request_volume": 11.078,
+    "pool_size": 9.075,
+    "active_connections": 7.829,
+    "queue_depth": -0.352,
+    "db_latency": -0.243
+  },
+  {
+    "request_volume": 11.189,
+    "pool_size": 6.288,
+    "active_connections": 7.995,
+    "queue_depth": 1.986,
+    "db_latency": 1.908
+  },
+  {
+    "request_volume": 9.486,
+    "pool_size": 9.752,
+    "active_connections": 6.486,
+    "queue_depth": -1.694,
+    "db_latency": -1.147
+  },
+  {
+    "request_volume": 7.421,
+    "pool_size": 8.81,
+    "active_connections": 5.16,
+    "queue_depth": -1.729,
+    "db_latency": -1.666
+  },
+  {
+    "request_volume": 8.074,
+    "pool_size": 8.31,
+    "active_connections": 5.628,
+    "queue_depth": -1.57,
+    "db_latency": -1.521
+  },
+  {
+    "request_volume": 7.764,
+    "pool_size": 8.484,
+    "active_connections": 5.357,
+    "queue_depth": -1.784,
+    "db_latency": -1.453
+  },
+  {
+    "request_volume": 9.273,
+    "pool_size": 10.327,
+    "active_connections": 6.575,
+    "queue_depth": -1.952,
+    "db_latency": -1.757
+  },
+  {
+    "request_volume": 9.662,
+    "pool_size": 9.561,
+    "active_connections": 6.465,
+    "queue_depth": -1.407,
+    "db_latency": -0.858
+  },
+  {
+    "request_volume": 12.634,
+    "pool_size": 10.476,
+    "active_connections": 8.856,
+    "queue_depth": -0.137,
+    "db_latency": -0.291
+  },
+  {
+    "request_volume": 9.33,
+    "pool_size": 9.263,
+    "active_connections": 6.5,
+    "queue_depth": -1.037,
+    "db_latency": -0.616
+  },
+  {
+    "request_volume": 10.763,
+    "pool_size": 11.567,
+    "active_connections": 7.78,
+    "queue_depth": -1.966,
+    "db_latency": -1.688
+  },
+  {
+    "request_volume": 12.799,
+    "pool_size": 10.143,
+    "active_connections": 9.308,
+    "queue_depth": 0.44,
+    "db_latency": 0.629
+  },
+  {
+    "request_volume": 9.325,
+    "pool_size": 11.927,
+    "active_connections": 6.711,
+    "queue_depth": -2.967,
+    "db_latency": -2.479
+  },
+  {
+    "request_volume": 13.508,
+    "pool_size": 10.373,
+    "active_connections": 9.009,
+    "queue_depth": 0.019,
+    "db_latency": 0.091
+  },
+  {
+    "request_volume": 14.32,
+    "pool_size": 12.237,
+    "active_connections": 10.052,
+    "queue_depth": -0.461,
+    "db_latency": -0.357
+  }
+]

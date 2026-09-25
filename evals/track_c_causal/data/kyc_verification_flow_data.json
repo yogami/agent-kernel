@@ -1,0 +1,3002 @@
+[
+  {
+    "sanctions_screening": 10.664,
+    "document_confidence": 9.909,
+    "manual_review_decision": -5.98,
+    "regulatory_approval": -14.31
+  },
+  {
+    "sanctions_screening": 11.909,
+    "document_confidence": 9.268,
+    "manual_review_decision": -5.458,
+    "regulatory_approval": -14.869
+  },
+  {
+    "sanctions_screening": 12.063,
+    "document_confidence": 9.932,
+    "manual_review_decision": -5.884,
+    "regulatory_approval": -15.101
+  },
+  {
+    "sanctions_screening": 9.641,
+    "document_confidence": 9.614,
+    "manual_review_decision": -5.791,
+    "regulatory_approval": -13.001
+  },
+  {
+    "sanctions_screening": 11.108,
+    "document_confidence": 10.516,
+    "manual_review_decision": -6.29,
+    "regulatory_approval": -14.556
+  },
+  {
+    "sanctions_screening": 10.365,
+    "document_confidence": 7.958,
+    "manual_review_decision": -4.507,
+    "regulatory_approval": -13.043
+  },
+  {
+    "sanctions_screening": 13.843,
+    "document_confidence": 7.027,
+    "manual_review_decision": -4.481,
+    "regulatory_approval": -15.956
+  },
+  {
+    "sanctions_screening": 11.842,
+    "document_confidence": 8.302,
+    "manual_review_decision": -4.829,
+    "regulatory_approval": -14.091
+  },
+  {
+    "sanctions_screening": 8.764,
+    "document_confidence": 9.763,
+    "manual_review_decision": -5.751,
+    "regulatory_approval": -12.131
+  },
+  {
+    "sanctions_screening": 8.813,
+    "document_confidence": 6.539,
+    "manual_review_decision": -4.04,
+    "regulatory_approval": -11.137
+  },
+  {
+    "sanctions_screening": 10.182,
+    "document_confidence": 10.033,
+    "manual_review_decision": -6.158,
+    "regulatory_approval": -13.985
+  },
+  {
+    "sanctions_screening": 8.818,
+    "document_confidence": 10.33,
+    "manual_review_decision": -6.108,
+    "regulatory_approval": -12.429
+  },
+  {
+    "sanctions_screening": 11.87,
+    "document_confidence": 11.955,
+    "manual_review_decision": -7.262,
+    "regulatory_approval": -15.891
+  },
+  {
+    "sanctions_screening": 7.725,
+    "document_confidence": 11.084,
+    "manual_review_decision": -6.663,
+    "regulatory_approval": -12.298
+  },
+  {
+    "sanctions_screening": 12.987,
+    "document_confidence": 14.096,
+    "manual_review_decision": -8.234,
+    "regulatory_approval": -18.159
+  },
+  {
+    "sanctions_screening": 5.285,
+    "document_confidence": 11.434,
+    "manual_review_decision": -6.804,
+    "regulatory_approval": -9.996
+  },
+  {
+    "sanctions_screening": 8.498,
+    "document_confidence": 6.411,
+    "manual_review_decision": -3.839,
+    "regulatory_approval": -10.956
+  },
+  {
+    "sanctions_screening": 7.067,
+    "document_confidence": 9.458,
+    "manual_review_decision": -5.413,
+    "regulatory_approval": -10.284
+  },
+  {
+    "sanctions_screening": 11.947,
+    "document_confidence": 12.552,
+    "manual_review_decision": -7.374,
+    "regulatory_approval": -16.394
+  },
+  {
+    "sanctions_screening": 10.538,
+    "document_confidence": 10.254,
+    "manual_review_decision": -6.268,
+    "regulatory_approval": -14.197
+  },
+  {
+    "sanctions_screening": 9.812,
+    "document_confidence": 7.263,
+    "manual_review_decision": -4.656,
+    "regulatory_approval": -12.323
+  },
+  {
+    "sanctions_screening": 11.292,
+    "document_confidence": 11.798,
+    "manual_review_decision": -6.837,
+    "regulatory_approval": -15.218
+  },
+  {
+    "sanctions_screening": 10.312,
+    "document_confidence": 8.886,
+    "manual_review_decision": -5.573,
+    "regulatory_approval": -14.054
+  },
+  {
+    "sanctions_screening": 9.39,
+    "document_confidence": 11.223,
+    "manual_review_decision": -6.74,
+    "regulatory_approval": -13.127
+  },
+  {
+    "sanctions_screening": 13.025,
+    "document_confidence": 11.677,
+    "manual_review_decision": -7.031,
+    "regulatory_approval": -16.661
+  },
+  {
+    "sanctions_screening": 12.943,
+    "document_confidence": 7.473,
+    "manual_review_decision": -4.394,
+    "regulatory_approval": -14.709
+  },
+  {
+    "sanctions_screening": 8.338,
+    "document_confidence": 13.726,
+    "manual_review_decision": -8.27,
+    "regulatory_approval": -13.59
+  },
+  {
+    "sanctions_screening": 9.294,
+    "document_confidence": 10.473,
+    "manual_review_decision": -6.231,
+    "regulatory_approval": -12.731
+  },
+  {
+    "sanctions_screening": 9.407,
+    "document_confidence": 11.132,
+    "manual_review_decision": -6.536,
+    "regulatory_approval": -13.43
+  },
+  {
+    "sanctions_screening": 10.856,
+    "document_confidence": 7.087,
+    "manual_review_decision": -4.524,
+    "regulatory_approval": -13.263
+  },
+  {
+    "sanctions_screening": 6.647,
+    "document_confidence": 8.132,
+    "manual_review_decision": -4.934,
+    "regulatory_approval": -9.831
+  },
+  {
+    "sanctions_screening": 8.67,
+    "document_confidence": 8.026,
+    "manual_review_decision": -4.728,
+    "regulatory_approval": -11.395
+  },
+  {
+    "sanctions_screening": 5.017,
+    "document_confidence": 11.55,
+    "manual_review_decision": -6.636,
+    "regulatory_approval": -9.359
+  },
+  {
+    "sanctions_screening": 12.216,
+    "document_confidence": 8.387,
+    "manual_review_decision": -4.708,
+    "regulatory_approval": -14.404
+  },
+  {
+    "sanctions_screening": 9.798,
+    "document_confidence": 12.409,
+    "manual_review_decision": -7.375,
+    "regulatory_approval": -14.508
+  },
+  {
+    "sanctions_screening": 10.037,
+    "document_confidence": 10.996,
+    "manual_review_decision": -6.649,
+    "regulatory_approval": -13.943
+  },
+  {
+    "sanctions_screening": 8.716,
+    "document_confidence": 6.462,
+    "manual_review_decision": -3.647,
+    "regulatory_approval": -10.496
+  },
+  {
+    "sanctions_screening": 10.908,
+    "document_confidence": 6.652,
+    "manual_review_decision": -4.014,
+    "regulatory_approval": -12.583
+  },
+  {
+    "sanctions_screening": 9.001,
+    "document_confidence": 7.791,
+    "manual_review_decision": -4.235,
+    "regulatory_approval": -11.28
+  },
+  {
+    "sanctions_screening": 11.01,
+    "document_confidence": 9.779,
+    "manual_review_decision": -5.604,
+    "regulatory_approval": -14.071
+  },
+  {
+    "sanctions_screening": 8.617,
+    "document_confidence": 9.253,
+    "manual_review_decision": -5.537,
+    "regulatory_approval": -11.557
+  },
+  {
+    "sanctions_screening": 10.095,
+    "document_confidence": 9.684,
+    "manual_review_decision": -5.582,
+    "regulatory_approval": -13.05
+  },
+  {
+    "sanctions_screening": 8.977,
+    "document_confidence": 10.541,
+    "manual_review_decision": -6.155,
+    "regulatory_approval": -12.752
+  },
+  {
+    "sanctions_screening": 11.821,
+    "document_confidence": 10.963,
+    "manual_review_decision": -6.817,
+    "regulatory_approval": -15.591
+  },
+  {
+    "sanctions_screening": 10.08,
+    "document_confidence": 9.178,
+    "manual_review_decision": -5.931,
+    "regulatory_approval": -13.444
+  },
+  {
+    "sanctions_screening": 5.832,
+    "document_confidence": 10.359,
+    "manual_review_decision": -5.923,
+    "regulatory_approval": -9.903
+  },
+  {
+    "sanctions_screening": 9.437,
+    "document_confidence": 9.214,
+    "manual_review_decision": -5.36,
+    "regulatory_approval": -12.531
+  },
+  {
+    "sanctions_screening": 9.181,
+    "document_confidence": 12.222,
+    "manual_review_decision": -7.668,
+    "regulatory_approval": -14.089
+  },
+  {
+    "sanctions_screening": 5.629,
+    "document_confidence": 8.89,
+    "manual_review_decision": -5.269,
+    "regulatory_approval": -9.299
+  },
+  {
+    "sanctions_screening": 9.56,
+    "document_confidence": 12.811,
+    "manual_review_decision": -8.024,
+    "regulatory_approval": -14.624
+  },
+  {
+    "sanctions_screening": 9.456,
+    "document_confidence": 13.506,
+    "manual_review_decision": -8.132,
+    "regulatory_approval": -14.732
+  },
+  {
+    "sanctions_screening": 12.134,
+    "document_confidence": 9.129,
+    "manual_review_decision": -5.647,
+    "regulatory_approval": -15.09
+  },
+  {
+    "sanctions_screening": 7.276,
+    "document_confidence": 12.344,
+    "manual_review_decision": -7.208,
+    "regulatory_approval": -12.06
+  },
+  {
+    "sanctions_screening": 7.796,
+    "document_confidence": 9.551,
+    "manual_review_decision": -5.429,
+    "regulatory_approval": -10.797
+  },
+  {
+    "sanctions_screening": 9.592,
+    "document_confidence": 10.224,
+    "manual_review_decision": -6.117,
+    "regulatory_approval": -13.053
+  },
+  {
+    "sanctions_screening": 10.279,
+    "document_confidence": 8.779,
+    "manual_review_decision": -5.029,
+    "regulatory_approval": -12.662
+  },
+  {
+    "sanctions_screening": 8.426,
+    "document_confidence": 14.346,
+    "manual_review_decision": -8.521,
+    "regulatory_approval": -13.969
+  },
+  {
+    "sanctions_screening": 10.492,
+    "document_confidence": 11.929,
+    "manual_review_decision": -7.331,
+    "regulatory_approval": -14.984
+  },
+  {
+    "sanctions_screening": 14.68,
+    "document_confidence": 8.912,
+    "manual_review_decision": -5.878,
+    "regulatory_approval": -17.862
+  },
+  {
+    "sanctions_screening": 13.515,
+    "document_confidence": 5.842,
+    "manual_review_decision": -3.587,
+    "regulatory_approval": -14.903
+  },
+  {
+    "sanctions_screening": 9.423,
+    "document_confidence": 9.741,
+    "manual_review_decision": -6.387,
+    "regulatory_approval": -12.923
+  },
+  {
+    "sanctions_screening": 7.599,
+    "document_confidence": 11.867,
+    "manual_review_decision": -6.821,
+    "regulatory_approval": -12.051
+  },
+  {
+    "sanctions_screening": 8.224,
+    "document_confidence": 11.612,
+    "manual_review_decision": -6.716,
+    "regulatory_approval": -12.195
+  },
+  {
+    "sanctions_screening": 8.943,
+    "document_confidence": 8.58,
+    "manual_review_decision": -5.505,
+    "regulatory_approval": -12.017
+  },
+  {
+    "sanctions_screening": 11.342,
+    "document_confidence": 10.426,
+    "manual_review_decision": -6.502,
+    "regulatory_approval": -15.338
+  },
+  {
+    "sanctions_screening": 7.272,
+    "document_confidence": 9.275,
+    "manual_review_decision": -5.305,
+    "regulatory_approval": -10.507
+  },
+  {
+    "sanctions_screening": 9.266,
+    "document_confidence": 9.734,
+    "manual_review_decision": -5.991,
+    "regulatory_approval": -12.861
+  },
+  {
+    "sanctions_screening": 8.005,
+    "document_confidence": 12.924,
+    "manual_review_decision": -7.738,
+    "regulatory_approval": -13.035
+  },
+  {
+    "sanctions_screening": 12.436,
+    "document_confidence": 11.468,
+    "manual_review_decision": -6.63,
+    "regulatory_approval": -16.296
+  },
+  {
+    "sanctions_screening": 8.211,
+    "document_confidence": 12.78,
+    "manual_review_decision": -7.606,
+    "regulatory_approval": -13.133
+  },
+  {
+    "sanctions_screening": 12.089,
+    "document_confidence": 10.486,
+    "manual_review_decision": -6.348,
+    "regulatory_approval": -15.878
+  },
+  {
+    "sanctions_screening": 8.836,
+    "document_confidence": 10.167,
+    "manual_review_decision": -6.07,
+    "regulatory_approval": -12.454
+  },
+  {
+    "sanctions_screening": 8.474,
+    "document_confidence": 10.333,
+    "manual_review_decision": -6.396,
+    "regulatory_approval": -12.533
+  },
+  {
+    "sanctions_screening": 8.548,
+    "document_confidence": 13.07,
+    "manual_review_decision": -7.958,
+    "regulatory_approval": -13.471
+  },
+  {
+    "sanctions_screening": 7.013,
+    "document_confidence": 10.844,
+    "manual_review_decision": -6.18,
+    "regulatory_approval": -10.986
+  },
+  {
+    "sanctions_screening": 13.337,
+    "document_confidence": 10.007,
+    "manual_review_decision": -6.287,
+    "regulatory_approval": -16.761
+  },
+  {
+    "sanctions_screening": 10.34,
+    "document_confidence": 10.07,
+    "manual_review_decision": -5.942,
+    "regulatory_approval": -13.753
+  },
+  {
+    "sanctions_screening": 12.374,
+    "document_confidence": 12.066,
+    "manual_review_decision": -7.221,
+    "regulatory_approval": -16.756
+  },
+  {
+    "sanctions_screening": 10.458,
+    "document_confidence": 12.1,
+    "manual_review_decision": -7.148,
+    "regulatory_approval": -14.674
+  },
+  {
+    "sanctions_screening": 6.0,
+    "document_confidence": 11.436,
+    "manual_review_decision": -6.876,
+    "regulatory_approval": -10.654
+  },
+  {
+    "sanctions_screening": 11.654,
+    "document_confidence": 4.687,
+    "manual_review_decision": -2.719,
+    "regulatory_approval": -12.606
+  },
+  {
+    "sanctions_screening": 5.862,
+    "document_confidence": 7.501,
+    "manual_review_decision": -4.506,
+    "regulatory_approval": -8.394
+  },
+  {
+    "sanctions_screening": 6.535,
+    "document_confidence": 6.287,
+    "manual_review_decision": -3.669,
+    "regulatory_approval": -8.833
+  },
+  {
+    "sanctions_screening": 8.868,
+    "document_confidence": 9.261,
+    "manual_review_decision": -5.492,
+    "regulatory_approval": -12.235
+  },
+  {
+    "sanctions_screening": 9.43,
+    "document_confidence": 9.051,
+    "manual_review_decision": -5.486,
+    "regulatory_approval": -12.96
+  },
+  {
+    "sanctions_screening": 11.577,
+    "document_confidence": 11.298,
+    "manual_review_decision": -6.648,
+    "regulatory_approval": -15.2
+  },
+  {
+    "sanctions_screening": 10.44,
+    "document_confidence": 14.642,
+    "manual_review_decision": -8.749,
+    "regulatory_approval": -16.02
+  },
+  {
+    "sanctions_screening": 10.053,
+    "document_confidence": 11.571,
+    "manual_review_decision": -6.779,
+    "regulatory_approval": -13.938
+  },
+  {
+    "sanctions_screening": 9.579,
+    "document_confidence": 7.713,
+    "manual_review_decision": -4.75,
+    "regulatory_approval": -12.191
+  },
+  {
+    "sanctions_screening": 6.285,
+    "document_confidence": 11.031,
+    "manual_review_decision": -6.493,
+    "regulatory_approval": -10.458
+  },
+  {
+    "sanctions_screening": 7.671,
+    "document_confidence": 9.673,
+    "manual_review_decision": -5.69,
+    "regulatory_approval": -10.856
+  },
+  {
+    "sanctions_screening": 12.293,
+    "document_confidence": 9.771,
+    "manual_review_decision": -5.391,
+    "regulatory_approval": -15.14
+  },
+  {
+    "sanctions_screening": 10.001,
+    "document_confidence": 8.319,
+    "manual_review_decision": -5.433,
+    "regulatory_approval": -13.248
+  },
+  {
+    "sanctions_screening": 11.305,
+    "document_confidence": 8.146,
+    "manual_review_decision": -4.884,
+    "regulatory_approval": -13.683
+  },
+  {
+    "sanctions_screening": 7.217,
+    "document_confidence": 12.213,
+    "manual_review_decision": -7.533,
+    "regulatory_approval": -12.018
+  },
+  {
+    "sanctions_screening": 10.704,
+    "document_confidence": 12.032,
+    "manual_review_decision": -7.185,
+    "regulatory_approval": -14.97
+  },
+  {
+    "sanctions_screening": 10.647,
+    "document_confidence": 12.415,
+    "manual_review_decision": -7.641,
+    "regulatory_approval": -15.587
+  },
+  {
+    "sanctions_screening": 7.629,
+    "document_confidence": 11.843,
+    "manual_review_decision": -7.055,
+    "regulatory_approval": -12.183
+  },
+  {
+    "sanctions_screening": 8.642,
+    "document_confidence": 9.535,
+    "manual_review_decision": -5.612,
+    "regulatory_approval": -12.015
+  },
+  {
+    "sanctions_screening": 9.125,
+    "document_confidence": 11.685,
+    "manual_review_decision": -7.001,
+    "regulatory_approval": -13.763
+  },
+  {
+    "sanctions_screening": 12.165,
+    "document_confidence": 10.686,
+    "manual_review_decision": -6.477,
+    "regulatory_approval": -15.714
+  },
+  {
+    "sanctions_screening": 12.227,
+    "document_confidence": 10.393,
+    "manual_review_decision": -5.888,
+    "regulatory_approval": -16.257
+  },
+  {
+    "sanctions_screening": 10.299,
+    "document_confidence": 11.62,
+    "manual_review_decision": -7.148,
+    "regulatory_approval": -14.826
+  },
+  {
+    "sanctions_screening": 9.192,
+    "document_confidence": 10.839,
+    "manual_review_decision": -6.408,
+    "regulatory_approval": -13.248
+  },
+  {
+    "sanctions_screening": 9.387,
+    "document_confidence": 12.32,
+    "manual_review_decision": -7.198,
+    "regulatory_approval": -13.722
+  },
+  {
+    "sanctions_screening": 11.356,
+    "document_confidence": 11.158,
+    "manual_review_decision": -6.909,
+    "regulatory_approval": -15.645
+  },
+  {
+    "sanctions_screening": 13.013,
+    "document_confidence": 9.567,
+    "manual_review_decision": -5.506,
+    "regulatory_approval": -15.686
+  },
+  {
+    "sanctions_screening": 9.79,
+    "document_confidence": 11.424,
+    "manual_review_decision": -6.952,
+    "regulatory_approval": -14.177
+  },
+  {
+    "sanctions_screening": 11.836,
+    "document_confidence": 8.412,
+    "manual_review_decision": -4.992,
+    "regulatory_approval": -14.305
+  },
+  {
+    "sanctions_screening": 14.405,
+    "document_confidence": 11.366,
+    "manual_review_decision": -6.621,
+    "regulatory_approval": -18.031
+  },
+  {
+    "sanctions_screening": 12.785,
+    "document_confidence": 8.36,
+    "manual_review_decision": -5.062,
+    "regulatory_approval": -15.591
+  },
+  {
+    "sanctions_screening": 9.939,
+    "document_confidence": 9.192,
+    "manual_review_decision": -5.654,
+    "regulatory_approval": -13.36
+  },
+  {
+    "sanctions_screening": 8.969,
+    "document_confidence": 10.826,
+    "manual_review_decision": -6.715,
+    "regulatory_approval": -13.376
+  },
+  {
+    "sanctions_screening": 9.652,
+    "document_confidence": 9.4,
+    "manual_review_decision": -5.363,
+    "regulatory_approval": -12.619
+  },
+  {
+    "sanctions_screening": 9.514,
+    "document_confidence": 9.302,
+    "manual_review_decision": -5.187,
+    "regulatory_approval": -12.338
+  },
+  {
+    "sanctions_screening": 14.098,
+    "document_confidence": 9.781,
+    "manual_review_decision": -5.925,
+    "regulatory_approval": -17.181
+  },
+  {
+    "sanctions_screening": 9.353,
+    "document_confidence": 11.534,
+    "manual_review_decision": -7.331,
+    "regulatory_approval": -13.745
+  },
+  {
+    "sanctions_screening": 11.108,
+    "document_confidence": 9.492,
+    "manual_review_decision": -6.093,
+    "regulatory_approval": -14.674
+  },
+  {
+    "sanctions_screening": 12.472,
+    "document_confidence": 9.925,
+    "manual_review_decision": -5.854,
+    "regulatory_approval": -15.324
+  },
+  {
+    "sanctions_screening": 12.792,
+    "document_confidence": 11.865,
+    "manual_review_decision": -6.867,
+    "regulatory_approval": -16.982
+  },
+  {
+    "sanctions_screening": 10.021,
+    "document_confidence": 8.691,
+    "manual_review_decision": -5.36,
+    "regulatory_approval": -13.058
+  },
+  {
+    "sanctions_screening": 13.552,
+    "document_confidence": 10.929,
+    "manual_review_decision": -6.311,
+    "regulatory_approval": -16.821
+  },
+  {
+    "sanctions_screening": 8.983,
+    "document_confidence": 12.537,
+    "manual_review_decision": -7.681,
+    "regulatory_approval": -13.607
+  },
+  {
+    "sanctions_screening": 10.946,
+    "document_confidence": 9.605,
+    "manual_review_decision": -5.85,
+    "regulatory_approval": -14.459
+  },
+  {
+    "sanctions_screening": 11.511,
+    "document_confidence": 9.153,
+    "manual_review_decision": -5.237,
+    "regulatory_approval": -14.375
+  },
+  {
+    "sanctions_screening": 11.157,
+    "document_confidence": 10.186,
+    "manual_review_decision": -6.378,
+    "regulatory_approval": -14.863
+  },
+  {
+    "sanctions_screening": 11.999,
+    "document_confidence": 8.76,
+    "manual_review_decision": -5.089,
+    "regulatory_approval": -14.816
+  },
+  {
+    "sanctions_screening": 6.406,
+    "document_confidence": 12.115,
+    "manual_review_decision": -7.371,
+    "regulatory_approval": -11.39
+  },
+  {
+    "sanctions_screening": 9.142,
+    "document_confidence": 10.56,
+    "manual_review_decision": -6.09,
+    "regulatory_approval": -13.189
+  },
+  {
+    "sanctions_screening": 12.396,
+    "document_confidence": 9.764,
+    "manual_review_decision": -5.864,
+    "regulatory_approval": -15.255
+  },
+  {
+    "sanctions_screening": 5.892,
+    "document_confidence": 6.38,
+    "manual_review_decision": -4.11,
+    "regulatory_approval": -8.101
+  },
+  {
+    "sanctions_screening": 7.542,
+    "document_confidence": 10.704,
+    "manual_review_decision": -6.448,
+    "regulatory_approval": -11.858
+  },
+  {
+    "sanctions_screening": 11.249,
+    "document_confidence": 10.254,
+    "manual_review_decision": -6.288,
+    "regulatory_approval": -15.108
+  },
+  {
+    "sanctions_screening": 8.722,
+    "document_confidence": 11.436,
+    "manual_review_decision": -6.807,
+    "regulatory_approval": -13.105
+  },
+  {
+    "sanctions_screening": 10.727,
+    "document_confidence": 11.076,
+    "manual_review_decision": -6.842,
+    "regulatory_approval": -14.892
+  },
+  {
+    "sanctions_screening": 4.253,
+    "document_confidence": 12.301,
+    "manual_review_decision": -7.055,
+    "regulatory_approval": -9.054
+  },
+  {
+    "sanctions_screening": 9.419,
+    "document_confidence": 11.772,
+    "manual_review_decision": -7.049,
+    "regulatory_approval": -13.598
+  },
+  {
+    "sanctions_screening": 10.893,
+    "document_confidence": 10.203,
+    "manual_review_decision": -6.584,
+    "regulatory_approval": -14.542
+  },
+  {
+    "sanctions_screening": 12.713,
+    "document_confidence": 11.07,
+    "manual_review_decision": -6.672,
+    "regulatory_approval": -16.245
+  },
+  {
+    "sanctions_screening": 10.441,
+    "document_confidence": 12.675,
+    "manual_review_decision": -7.655,
+    "regulatory_approval": -14.977
+  },
+  {
+    "sanctions_screening": 11.386,
+    "document_confidence": 11.773,
+    "manual_review_decision": -7.052,
+    "regulatory_approval": -15.683
+  },
+  {
+    "sanctions_screening": 8.642,
+    "document_confidence": 9.396,
+    "manual_review_decision": -5.785,
+    "regulatory_approval": -12.068
+  },
+  {
+    "sanctions_screening": 10.212,
+    "document_confidence": 9.055,
+    "manual_review_decision": -5.423,
+    "regulatory_approval": -13.315
+  },
+  {
+    "sanctions_screening": 9.217,
+    "document_confidence": 8.583,
+    "manual_review_decision": -5.256,
+    "regulatory_approval": -12.158
+  },
+  {
+    "sanctions_screening": 7.968,
+    "document_confidence": 11.957,
+    "manual_review_decision": -7.373,
+    "regulatory_approval": -12.917
+  },
+  {
+    "sanctions_screening": 10.485,
+    "document_confidence": 12.355,
+    "manual_review_decision": -7.269,
+    "regulatory_approval": -15.064
+  },
+  {
+    "sanctions_screening": 11.902,
+    "document_confidence": 6.973,
+    "manual_review_decision": -3.979,
+    "regulatory_approval": -13.559
+  },
+  {
+    "sanctions_screening": 7.707,
+    "document_confidence": 12.185,
+    "manual_review_decision": -7.007,
+    "regulatory_approval": -12.106
+  },
+  {
+    "sanctions_screening": 13.869,
+    "document_confidence": 9.017,
+    "manual_review_decision": -5.301,
+    "regulatory_approval": -16.474
+  },
+  {
+    "sanctions_screening": 8.544,
+    "document_confidence": 11.023,
+    "manual_review_decision": -6.642,
+    "regulatory_approval": -12.765
+  },
+  {
+    "sanctions_screening": 12.047,
+    "document_confidence": 9.79,
+    "manual_review_decision": -5.939,
+    "regulatory_approval": -15.014
+  },
+  {
+    "sanctions_screening": 7.449,
+    "document_confidence": 7.415,
+    "manual_review_decision": -4.542,
+    "regulatory_approval": -9.847
+  },
+  {
+    "sanctions_screening": 8.124,
+    "document_confidence": 10.775,
+    "manual_review_decision": -6.81,
+    "regulatory_approval": -12.711
+  },
+  {
+    "sanctions_screening": 14.871,
+    "document_confidence": 10.88,
+    "manual_review_decision": -6.56,
+    "regulatory_approval": -18.074
+  },
+  {
+    "sanctions_screening": 7.921,
+    "document_confidence": 8.302,
+    "manual_review_decision": -4.893,
+    "regulatory_approval": -10.921
+  },
+  {
+    "sanctions_screening": 7.112,
+    "document_confidence": 10.239,
+    "manual_review_decision": -6.027,
+    "regulatory_approval": -10.755
+  },
+  {
+    "sanctions_screening": 9.731,
+    "document_confidence": 9.516,
+    "manual_review_decision": -5.555,
+    "regulatory_approval": -12.825
+  },
+  {
+    "sanctions_screening": 8.015,
+    "document_confidence": 9.15,
+    "manual_review_decision": -5.628,
+    "regulatory_approval": -11.63
+  },
+  {
+    "sanctions_screening": 7.491,
+    "document_confidence": 6.437,
+    "manual_review_decision": -3.848,
+    "regulatory_approval": -9.741
+  },
+  {
+    "sanctions_screening": 11.372,
+    "document_confidence": 11.714,
+    "manual_review_decision": -6.926,
+    "regulatory_approval": -15.25
+  },
+  {
+    "sanctions_screening": 11.772,
+    "document_confidence": 11.318,
+    "manual_review_decision": -6.798,
+    "regulatory_approval": -15.488
+  },
+  {
+    "sanctions_screening": 12.191,
+    "document_confidence": 5.974,
+    "manual_review_decision": -3.365,
+    "regulatory_approval": -13.342
+  },
+  {
+    "sanctions_screening": 10.53,
+    "document_confidence": 8.573,
+    "manual_review_decision": -4.991,
+    "regulatory_approval": -13.33
+  },
+  {
+    "sanctions_screening": 11.889,
+    "document_confidence": 9.694,
+    "manual_review_decision": -6.071,
+    "regulatory_approval": -15.417
+  },
+  {
+    "sanctions_screening": 6.99,
+    "document_confidence": 12.483,
+    "manual_review_decision": -7.261,
+    "regulatory_approval": -11.492
+  },
+  {
+    "sanctions_screening": 10.957,
+    "document_confidence": 5.597,
+    "manual_review_decision": -3.661,
+    "regulatory_approval": -12.806
+  },
+  {
+    "sanctions_screening": 11.596,
+    "document_confidence": 13.112,
+    "manual_review_decision": -7.497,
+    "regulatory_approval": -15.777
+  },
+  {
+    "sanctions_screening": 10.489,
+    "document_confidence": 9.836,
+    "manual_review_decision": -5.645,
+    "regulatory_approval": -13.81
+  },
+  {
+    "sanctions_screening": 9.935,
+    "document_confidence": 4.097,
+    "manual_review_decision": -2.764,
+    "regulatory_approval": -11.01
+  },
+  {
+    "sanctions_screening": 10.455,
+    "document_confidence": 7.559,
+    "manual_review_decision": -4.453,
+    "regulatory_approval": -13.219
+  },
+  {
+    "sanctions_screening": 11.45,
+    "document_confidence": 6.064,
+    "manual_review_decision": -3.689,
+    "regulatory_approval": -13.117
+  },
+  {
+    "sanctions_screening": 12.722,
+    "document_confidence": 12.395,
+    "manual_review_decision": -7.495,
+    "regulatory_approval": -17.471
+  },
+  {
+    "sanctions_screening": 9.618,
+    "document_confidence": 12.723,
+    "manual_review_decision": -7.336,
+    "regulatory_approval": -13.654
+  },
+  {
+    "sanctions_screening": 11.303,
+    "document_confidence": 6.592,
+    "manual_review_decision": -3.562,
+    "regulatory_approval": -13.052
+  },
+  {
+    "sanctions_screening": 12.379,
+    "document_confidence": 11.759,
+    "manual_review_decision": -7.274,
+    "regulatory_approval": -16.445
+  },
+  {
+    "sanctions_screening": 11.538,
+    "document_confidence": 11.491,
+    "manual_review_decision": -6.612,
+    "regulatory_approval": -15.39
+  },
+  {
+    "sanctions_screening": 9.345,
+    "document_confidence": 6.577,
+    "manual_review_decision": -3.96,
+    "regulatory_approval": -11.467
+  },
+  {
+    "sanctions_screening": 7.083,
+    "document_confidence": 9.538,
+    "manual_review_decision": -5.664,
+    "regulatory_approval": -10.817
+  },
+  {
+    "sanctions_screening": 11.532,
+    "document_confidence": 10.8,
+    "manual_review_decision": -6.465,
+    "regulatory_approval": -15.391
+  },
+  {
+    "sanctions_screening": 14.469,
+    "document_confidence": 10.781,
+    "manual_review_decision": -6.417,
+    "regulatory_approval": -17.964
+  },
+  {
+    "sanctions_screening": 10.061,
+    "document_confidence": 7.405,
+    "manual_review_decision": -4.419,
+    "regulatory_approval": -12.46
+  },
+  {
+    "sanctions_screening": 9.708,
+    "document_confidence": 5.823,
+    "manual_review_decision": -3.57,
+    "regulatory_approval": -11.996
+  },
+  {
+    "sanctions_screening": 9.214,
+    "document_confidence": 12.779,
+    "manual_review_decision": -7.628,
+    "regulatory_approval": -13.98
+  },
+  {
+    "sanctions_screening": 11.404,
+    "document_confidence": 13.23,
+    "manual_review_decision": -7.46,
+    "regulatory_approval": -15.986
+  },
+  {
+    "sanctions_screening": 9.89,
+    "document_confidence": 9.364,
+    "manual_review_decision": -5.549,
+    "regulatory_approval": -13.41
+  },
+  {
+    "sanctions_screening": 10.673,
+    "document_confidence": 11.024,
+    "manual_review_decision": -6.438,
+    "regulatory_approval": -14.012
+  },
+  {
+    "sanctions_screening": 10.431,
+    "document_confidence": 12.738,
+    "manual_review_decision": -7.495,
+    "regulatory_approval": -14.967
+  },
+  {
+    "sanctions_screening": 12.636,
+    "document_confidence": 8.722,
+    "manual_review_decision": -5.833,
+    "regulatory_approval": -15.284
+  },
+  {
+    "sanctions_screening": 6.533,
+    "document_confidence": 12.305,
+    "manual_review_decision": -7.338,
+    "regulatory_approval": -11.361
+  },
+  {
+    "sanctions_screening": 9.798,
+    "document_confidence": 8.158,
+    "manual_review_decision": -5.27,
+    "regulatory_approval": -12.691
+  },
+  {
+    "sanctions_screening": 12.287,
+    "document_confidence": 13.86,
+    "manual_review_decision": -8.317,
+    "regulatory_approval": -17.453
+  },
+  {
+    "sanctions_screening": 12.189,
+    "document_confidence": 9.475,
+    "manual_review_decision": -5.63,
+    "regulatory_approval": -15.177
+  },
+  {
+    "sanctions_screening": 5.415,
+    "document_confidence": 16.835,
+    "manual_review_decision": -9.944,
+    "regulatory_approval": -12.414
+  },
+  {
+    "sanctions_screening": 10.554,
+    "document_confidence": 5.386,
+    "manual_review_decision": -3.239,
+    "regulatory_approval": -11.989
+  },
+  {
+    "sanctions_screening": 12.178,
+    "document_confidence": 9.2,
+    "manual_review_decision": -5.508,
+    "regulatory_approval": -15.071
+  },
+  {
+    "sanctions_screening": 10.019,
+    "document_confidence": 8.839,
+    "manual_review_decision": -5.315,
+    "regulatory_approval": -12.878
+  },
+  {
+    "sanctions_screening": 11.149,
+    "document_confidence": 9.59,
+    "manual_review_decision": -5.795,
+    "regulatory_approval": -14.417
+  },
+  {
+    "sanctions_screening": 7.729,
+    "document_confidence": 10.069,
+    "manual_review_decision": -5.748,
+    "regulatory_approval": -11.375
+  },
+  {
+    "sanctions_screening": 8.571,
+    "document_confidence": 9.652,
+    "manual_review_decision": -5.667,
+    "regulatory_approval": -11.776
+  },
+  {
+    "sanctions_screening": 9.022,
+    "document_confidence": 11.234,
+    "manual_review_decision": -6.715,
+    "regulatory_approval": -12.97
+  },
+  {
+    "sanctions_screening": 10.083,
+    "document_confidence": 10.21,
+    "manual_review_decision": -5.933,
+    "regulatory_approval": -13.062
+  },
+  {
+    "sanctions_screening": 11.674,
+    "document_confidence": 9.044,
+    "manual_review_decision": -5.245,
+    "regulatory_approval": -14.338
+  },
+  {
+    "sanctions_screening": 9.383,
+    "document_confidence": 9.827,
+    "manual_review_decision": -6.043,
+    "regulatory_approval": -12.839
+  },
+  {
+    "sanctions_screening": 10.448,
+    "document_confidence": 12.109,
+    "manual_review_decision": -7.244,
+    "regulatory_approval": -14.767
+  },
+  {
+    "sanctions_screening": 10.749,
+    "document_confidence": 10.561,
+    "manual_review_decision": -6.237,
+    "regulatory_approval": -14.26
+  },
+  {
+    "sanctions_screening": 7.613,
+    "document_confidence": 12.338,
+    "manual_review_decision": -7.514,
+    "regulatory_approval": -12.362
+  },
+  {
+    "sanctions_screening": 7.789,
+    "document_confidence": 9.503,
+    "manual_review_decision": -5.77,
+    "regulatory_approval": -11.115
+  },
+  {
+    "sanctions_screening": 8.046,
+    "document_confidence": 11.616,
+    "manual_review_decision": -7.03,
+    "regulatory_approval": -12.54
+  },
+  {
+    "sanctions_screening": 11.319,
+    "document_confidence": 9.523,
+    "manual_review_decision": -5.588,
+    "regulatory_approval": -14.473
+  },
+  {
+    "sanctions_screening": 7.611,
+    "document_confidence": 9.243,
+    "manual_review_decision": -5.286,
+    "regulatory_approval": -10.853
+  },
+  {
+    "sanctions_screening": 13.247,
+    "document_confidence": 10.32,
+    "manual_review_decision": -6.244,
+    "regulatory_approval": -16.569
+  },
+  {
+    "sanctions_screening": 13.634,
+    "document_confidence": 12.106,
+    "manual_review_decision": -7.343,
+    "regulatory_approval": -17.78
+  },
+  {
+    "sanctions_screening": 10.592,
+    "document_confidence": 7.583,
+    "manual_review_decision": -4.855,
+    "regulatory_approval": -13.293
+  },
+  {
+    "sanctions_screening": 13.259,
+    "document_confidence": 8.451,
+    "manual_review_decision": -4.906,
+    "regulatory_approval": -15.637
+  },
+  {
+    "sanctions_screening": 9.702,
+    "document_confidence": 8.882,
+    "manual_review_decision": -5.404,
+    "regulatory_approval": -12.456
+  },
+  {
+    "sanctions_screening": 9.623,
+    "document_confidence": 10.414,
+    "manual_review_decision": -5.759,
+    "regulatory_approval": -13.142
+  },
+  {
+    "sanctions_screening": 10.317,
+    "document_confidence": 7.743,
+    "manual_review_decision": -4.384,
+    "regulatory_approval": -12.84
+  },
+  {
+    "sanctions_screening": 10.95,
+    "document_confidence": 9.969,
+    "manual_review_decision": -6.075,
+    "regulatory_approval": -14.361
+  },
+  {
+    "sanctions_screening": 8.826,
+    "document_confidence": 11.33,
+    "manual_review_decision": -6.852,
+    "regulatory_approval": -12.986
+  },
+  {
+    "sanctions_screening": 10.256,
+    "document_confidence": 9.628,
+    "manual_review_decision": -5.744,
+    "regulatory_approval": -13.432
+  },
+  {
+    "sanctions_screening": 11.291,
+    "document_confidence": 9.35,
+    "manual_review_decision": -5.77,
+    "regulatory_approval": -14.341
+  },
+  {
+    "sanctions_screening": 5.047,
+    "document_confidence": 9.653,
+    "manual_review_decision": -5.78,
+    "regulatory_approval": -8.913
+  },
+  {
+    "sanctions_screening": 11.737,
+    "document_confidence": 8.931,
+    "manual_review_decision": -5.136,
+    "regulatory_approval": -14.44
+  },
+  {
+    "sanctions_screening": 13.05,
+    "document_confidence": 5.893,
+    "manual_review_decision": -3.653,
+    "regulatory_approval": -14.388
+  },
+  {
+    "sanctions_screening": 11.147,
+    "document_confidence": 9.13,
+    "manual_review_decision": -5.55,
+    "regulatory_approval": -14.069
+  },
+  {
+    "sanctions_screening": 10.117,
+    "document_confidence": 11.678,
+    "manual_review_decision": -6.816,
+    "regulatory_approval": -13.993
+  },
+  {
+    "sanctions_screening": 14.486,
+    "document_confidence": 9.907,
+    "manual_review_decision": -5.947,
+    "regulatory_approval": -17.534
+  },
+  {
+    "sanctions_screening": 13.814,
+    "document_confidence": 11.105,
+    "manual_review_decision": -6.439,
+    "regulatory_approval": -17.205
+  },
+  {
+    "sanctions_screening": 6.243,
+    "document_confidence": 7.129,
+    "manual_review_decision": -4.355,
+    "regulatory_approval": -8.633
+  },
+  {
+    "sanctions_screening": 13.83,
+    "document_confidence": 12.327,
+    "manual_review_decision": -7.772,
+    "regulatory_approval": -18.346
+  },
+  {
+    "sanctions_screening": 12.837,
+    "document_confidence": 14.131,
+    "manual_review_decision": -8.72,
+    "regulatory_approval": -18.094
+  },
+  {
+    "sanctions_screening": 10.652,
+    "document_confidence": 9.201,
+    "manual_review_decision": -5.374,
+    "regulatory_approval": -13.827
+  },
+  {
+    "sanctions_screening": 7.815,
+    "document_confidence": 10.102,
+    "manual_review_decision": -6.27,
+    "regulatory_approval": -11.761
+  },
+  {
+    "sanctions_screening": 10.62,
+    "document_confidence": 10.873,
+    "manual_review_decision": -6.266,
+    "regulatory_approval": -14.229
+  },
+  {
+    "sanctions_screening": 7.331,
+    "document_confidence": 11.184,
+    "manual_review_decision": -7.002,
+    "regulatory_approval": -12.261
+  },
+  {
+    "sanctions_screening": 10.372,
+    "document_confidence": 12.714,
+    "manual_review_decision": -7.454,
+    "regulatory_approval": -14.791
+  },
+  {
+    "sanctions_screening": 9.91,
+    "document_confidence": 7.874,
+    "manual_review_decision": -5.183,
+    "regulatory_approval": -12.214
+  },
+  {
+    "sanctions_screening": 5.845,
+    "document_confidence": 10.052,
+    "manual_review_decision": -5.788,
+    "regulatory_approval": -9.304
+  },
+  {
+    "sanctions_screening": 8.824,
+    "document_confidence": 10.891,
+    "manual_review_decision": -6.466,
+    "regulatory_approval": -12.925
+  },
+  {
+    "sanctions_screening": 8.818,
+    "document_confidence": 10.18,
+    "manual_review_decision": -6.098,
+    "regulatory_approval": -12.607
+  },
+  {
+    "sanctions_screening": 9.907,
+    "document_confidence": 8.172,
+    "manual_review_decision": -4.777,
+    "regulatory_approval": -12.484
+  },
+  {
+    "sanctions_screening": 13.363,
+    "document_confidence": 11.424,
+    "manual_review_decision": -6.878,
+    "regulatory_approval": -17.421
+  },
+  {
+    "sanctions_screening": 7.451,
+    "document_confidence": 9.727,
+    "manual_review_decision": -5.763,
+    "regulatory_approval": -11.339
+  },
+  {
+    "sanctions_screening": 9.65,
+    "document_confidence": 9.886,
+    "manual_review_decision": -6.044,
+    "regulatory_approval": -13.024
+  },
+  {
+    "sanctions_screening": 8.526,
+    "document_confidence": 8.243,
+    "manual_review_decision": -4.983,
+    "regulatory_approval": -11.268
+  },
+  {
+    "sanctions_screening": 12.991,
+    "document_confidence": 11.375,
+    "manual_review_decision": -7.127,
+    "regulatory_approval": -16.601
+  },
+  {
+    "sanctions_screening": 12.045,
+    "document_confidence": 9.3,
+    "manual_review_decision": -5.589,
+    "regulatory_approval": -15.116
+  },
+  {
+    "sanctions_screening": 11.353,
+    "document_confidence": 14.128,
+    "manual_review_decision": -8.856,
+    "regulatory_approval": -16.667
+  },
+  {
+    "sanctions_screening": 12.787,
+    "document_confidence": 7.081,
+    "manual_review_decision": -4.086,
+    "regulatory_approval": -14.565
+  },
+  {
+    "sanctions_screening": 9.755,
+    "document_confidence": 8.129,
+    "manual_review_decision": -5.294,
+    "regulatory_approval": -12.86
+  },
+  {
+    "sanctions_screening": 9.525,
+    "document_confidence": 9.851,
+    "manual_review_decision": -6.245,
+    "regulatory_approval": -13.413
+  },
+  {
+    "sanctions_screening": 6.564,
+    "document_confidence": 9.996,
+    "manual_review_decision": -5.882,
+    "regulatory_approval": -10.319
+  },
+  {
+    "sanctions_screening": 6.337,
+    "document_confidence": 12.971,
+    "manual_review_decision": -7.857,
+    "regulatory_approval": -11.674
+  },
+  {
+    "sanctions_screening": 10.574,
+    "document_confidence": 8.475,
+    "manual_review_decision": -5.127,
+    "regulatory_approval": -13.297
+  },
+  {
+    "sanctions_screening": 12.301,
+    "document_confidence": 9.774,
+    "manual_review_decision": -5.607,
+    "regulatory_approval": -15.228
+  },
+  {
+    "sanctions_screening": 10.229,
+    "document_confidence": 12.512,
+    "manual_review_decision": -7.353,
+    "regulatory_approval": -14.558
+  },
+  {
+    "sanctions_screening": 11.766,
+    "document_confidence": 7.16,
+    "manual_review_decision": -4.336,
+    "regulatory_approval": -13.71
+  },
+  {
+    "sanctions_screening": 9.926,
+    "document_confidence": 8.007,
+    "manual_review_decision": -4.605,
+    "regulatory_approval": -12.317
+  },
+  {
+    "sanctions_screening": 9.47,
+    "document_confidence": 13.774,
+    "manual_review_decision": -8.041,
+    "regulatory_approval": -14.355
+  },
+  {
+    "sanctions_screening": 9.886,
+    "document_confidence": 8.917,
+    "manual_review_decision": -5.516,
+    "regulatory_approval": -13.071
+  },
+  {
+    "sanctions_screening": 10.54,
+    "document_confidence": 9.806,
+    "manual_review_decision": -5.561,
+    "regulatory_approval": -13.453
+  },
+  {
+    "sanctions_screening": 7.657,
+    "document_confidence": 8.839,
+    "manual_review_decision": -5.316,
+    "regulatory_approval": -10.837
+  },
+  {
+    "sanctions_screening": 7.163,
+    "document_confidence": 9.281,
+    "manual_review_decision": -5.708,
+    "regulatory_approval": -10.809
+  },
+  {
+    "sanctions_screening": 8.977,
+    "document_confidence": 11.843,
+    "manual_review_decision": -6.7,
+    "regulatory_approval": -13.238
+  },
+  {
+    "sanctions_screening": 11.099,
+    "document_confidence": 10.768,
+    "manual_review_decision": -6.507,
+    "regulatory_approval": -14.942
+  },
+  {
+    "sanctions_screening": 9.739,
+    "document_confidence": 8.242,
+    "manual_review_decision": -4.905,
+    "regulatory_approval": -12.757
+  },
+  {
+    "sanctions_screening": 6.928,
+    "document_confidence": 9.859,
+    "manual_review_decision": -6.143,
+    "regulatory_approval": -11.07
+  },
+  {
+    "sanctions_screening": 11.57,
+    "document_confidence": 10.407,
+    "manual_review_decision": -6.213,
+    "regulatory_approval": -15.155
+  },
+  {
+    "sanctions_screening": 9.725,
+    "document_confidence": 12.292,
+    "manual_review_decision": -7.53,
+    "regulatory_approval": -14.157
+  },
+  {
+    "sanctions_screening": 5.651,
+    "document_confidence": 9.459,
+    "manual_review_decision": -5.583,
+    "regulatory_approval": -9.376
+  },
+  {
+    "sanctions_screening": 5.158,
+    "document_confidence": 9.907,
+    "manual_review_decision": -5.818,
+    "regulatory_approval": -8.426
+  },
+  {
+    "sanctions_screening": 7.635,
+    "document_confidence": 8.766,
+    "manual_review_decision": -5.39,
+    "regulatory_approval": -11.188
+  },
+  {
+    "sanctions_screening": 13.735,
+    "document_confidence": 9.28,
+    "manual_review_decision": -5.346,
+    "regulatory_approval": -16.195
+  },
+  {
+    "sanctions_screening": 9.81,
+    "document_confidence": 10.451,
+    "manual_review_decision": -5.912,
+    "regulatory_approval": -13.325
+  },
+  {
+    "sanctions_screening": 10.878,
+    "document_confidence": 10.136,
+    "manual_review_decision": -6.425,
+    "regulatory_approval": -14.586
+  },
+  {
+    "sanctions_screening": 11.173,
+    "document_confidence": 9.221,
+    "manual_review_decision": -5.471,
+    "regulatory_approval": -14.072
+  },
+  {
+    "sanctions_screening": 10.561,
+    "document_confidence": 11.079,
+    "manual_review_decision": -7.147,
+    "regulatory_approval": -14.874
+  },
+  {
+    "sanctions_screening": 9.623,
+    "document_confidence": 9.287,
+    "manual_review_decision": -5.513,
+    "regulatory_approval": -12.58
+  },
+  {
+    "sanctions_screening": 11.684,
+    "document_confidence": 7.418,
+    "manual_review_decision": -4.349,
+    "regulatory_approval": -13.577
+  },
+  {
+    "sanctions_screening": 10.009,
+    "document_confidence": 8.62,
+    "manual_review_decision": -5.134,
+    "regulatory_approval": -12.919
+  },
+  {
+    "sanctions_screening": 8.649,
+    "document_confidence": 8.941,
+    "manual_review_decision": -5.406,
+    "regulatory_approval": -12.105
+  },
+  {
+    "sanctions_screening": 12.969,
+    "document_confidence": 8.077,
+    "manual_review_decision": -4.916,
+    "regulatory_approval": -15.343
+  },
+  {
+    "sanctions_screening": 6.633,
+    "document_confidence": 9.347,
+    "manual_review_decision": -5.768,
+    "regulatory_approval": -9.944
+  },
+  {
+    "sanctions_screening": 9.247,
+    "document_confidence": 9.684,
+    "manual_review_decision": -6.084,
+    "regulatory_approval": -12.766
+  },
+  {
+    "sanctions_screening": 9.815,
+    "document_confidence": 14.248,
+    "manual_review_decision": -8.506,
+    "regulatory_approval": -15.212
+  },
+  {
+    "sanctions_screening": 9.567,
+    "document_confidence": 6.868,
+    "manual_review_decision": -4.651,
+    "regulatory_approval": -12.149
+  },
+  {
+    "sanctions_screening": 8.043,
+    "document_confidence": 9.195,
+    "manual_review_decision": -5.687,
+    "regulatory_approval": -11.734
+  },
+  {
+    "sanctions_screening": 10.97,
+    "document_confidence": 10.526,
+    "manual_review_decision": -6.178,
+    "regulatory_approval": -14.217
+  },
+  {
+    "sanctions_screening": 7.255,
+    "document_confidence": 12.083,
+    "manual_review_decision": -7.309,
+    "regulatory_approval": -11.554
+  },
+  {
+    "sanctions_screening": 12.905,
+    "document_confidence": 12.325,
+    "manual_review_decision": -7.464,
+    "regulatory_approval": -17.316
+  },
+  {
+    "sanctions_screening": 11.027,
+    "document_confidence": 11.672,
+    "manual_review_decision": -7.176,
+    "regulatory_approval": -15.678
+  },
+  {
+    "sanctions_screening": 11.338,
+    "document_confidence": 10.665,
+    "manual_review_decision": -6.23,
+    "regulatory_approval": -14.881
+  },
+  {
+    "sanctions_screening": 9.317,
+    "document_confidence": 10.993,
+    "manual_review_decision": -6.384,
+    "regulatory_approval": -13.347
+  },
+  {
+    "sanctions_screening": 7.893,
+    "document_confidence": 11.246,
+    "manual_review_decision": -6.673,
+    "regulatory_approval": -12.25
+  },
+  {
+    "sanctions_screening": 15.566,
+    "document_confidence": 14.162,
+    "manual_review_decision": -8.399,
+    "regulatory_approval": -20.125
+  },
+  {
+    "sanctions_screening": 7.307,
+    "document_confidence": 12.783,
+    "manual_review_decision": -7.656,
+    "regulatory_approval": -12.396
+  },
+  {
+    "sanctions_screening": 9.43,
+    "document_confidence": 10.117,
+    "manual_review_decision": -6.185,
+    "regulatory_approval": -12.987
+  },
+  {
+    "sanctions_screening": 7.222,
+    "document_confidence": 10.869,
+    "manual_review_decision": -6.054,
+    "regulatory_approval": -11.137
+  },
+  {
+    "sanctions_screening": 11.796,
+    "document_confidence": 9.709,
+    "manual_review_decision": -5.956,
+    "regulatory_approval": -15.21
+  },
+  {
+    "sanctions_screening": 10.912,
+    "document_confidence": 11.058,
+    "manual_review_decision": -6.709,
+    "regulatory_approval": -14.955
+  },
+  {
+    "sanctions_screening": 8.682,
+    "document_confidence": 11.985,
+    "manual_review_decision": -7.421,
+    "regulatory_approval": -13.44
+  },
+  {
+    "sanctions_screening": 8.696,
+    "document_confidence": 10.068,
+    "manual_review_decision": -6.225,
+    "regulatory_approval": -12.267
+  },
+  {
+    "sanctions_screening": 11.13,
+    "document_confidence": 8.575,
+    "manual_review_decision": -5.375,
+    "regulatory_approval": -13.545
+  },
+  {
+    "sanctions_screening": 13.123,
+    "document_confidence": 10.627,
+    "manual_review_decision": -6.154,
+    "regulatory_approval": -16.164
+  },
+  {
+    "sanctions_screening": 10.417,
+    "document_confidence": 10.126,
+    "manual_review_decision": -5.984,
+    "regulatory_approval": -13.938
+  },
+  {
+    "sanctions_screening": 10.267,
+    "document_confidence": 9.699,
+    "manual_review_decision": -5.53,
+    "regulatory_approval": -13.536
+  },
+  {
+    "sanctions_screening": 9.846,
+    "document_confidence": 7.683,
+    "manual_review_decision": -4.746,
+    "regulatory_approval": -12.585
+  },
+  {
+    "sanctions_screening": 7.994,
+    "document_confidence": 13.591,
+    "manual_review_decision": -8.123,
+    "regulatory_approval": -13.529
+  },
+  {
+    "sanctions_screening": 10.096,
+    "document_confidence": 9.565,
+    "manual_review_decision": -6.032,
+    "regulatory_approval": -13.45
+  },
+  {
+    "sanctions_screening": 10.995,
+    "document_confidence": 9.696,
+    "manual_review_decision": -6.239,
+    "regulatory_approval": -14.25
+  },
+  {
+    "sanctions_screening": 11.156,
+    "document_confidence": 10.566,
+    "manual_review_decision": -6.537,
+    "regulatory_approval": -15.025
+  },
+  {
+    "sanctions_screening": 9.971,
+    "document_confidence": 10.283,
+    "manual_review_decision": -6.06,
+    "regulatory_approval": -13.481
+  },
+  {
+    "sanctions_screening": 10.901,
+    "document_confidence": 9.204,
+    "manual_review_decision": -5.424,
+    "regulatory_approval": -13.955
+  },
+  {
+    "sanctions_screening": 7.144,
+    "document_confidence": 8.85,
+    "manual_review_decision": -5.395,
+    "regulatory_approval": -10.423
+  },
+  {
+    "sanctions_screening": 6.377,
+    "document_confidence": 12.363,
+    "manual_review_decision": -7.418,
+    "regulatory_approval": -10.936
+  },
+  {
+    "sanctions_screening": 9.116,
+    "document_confidence": 11.047,
+    "manual_review_decision": -6.621,
+    "regulatory_approval": -13.149
+  },
+  {
+    "sanctions_screening": 13.087,
+    "document_confidence": 9.778,
+    "manual_review_decision": -5.959,
+    "regulatory_approval": -16.585
+  },
+  {
+    "sanctions_screening": 12.92,
+    "document_confidence": 10.246,
+    "manual_review_decision": -6.278,
+    "regulatory_approval": -16.221
+  },
+  {
+    "sanctions_screening": 9.949,
+    "document_confidence": 7.929,
+    "manual_review_decision": -4.936,
+    "regulatory_approval": -12.683
+  },
+  {
+    "sanctions_screening": 10.301,
+    "document_confidence": 8.015,
+    "manual_review_decision": -5.025,
+    "regulatory_approval": -12.711
+  },
+  {
+    "sanctions_screening": 9.958,
+    "document_confidence": 9.879,
+    "manual_review_decision": -5.934,
+    "regulatory_approval": -13.384
+  },
+  {
+    "sanctions_screening": 7.649,
+    "document_confidence": 9.423,
+    "manual_review_decision": -5.428,
+    "regulatory_approval": -11.029
+  },
+  {
+    "sanctions_screening": 11.328,
+    "document_confidence": 10.952,
+    "manual_review_decision": -6.605,
+    "regulatory_approval": -15.282
+  },
+  {
+    "sanctions_screening": 9.441,
+    "document_confidence": 10.787,
+    "manual_review_decision": -6.505,
+    "regulatory_approval": -13.464
+  },
+  {
+    "sanctions_screening": 7.572,
+    "document_confidence": 11.58,
+    "manual_review_decision": -7.116,
+    "regulatory_approval": -11.956
+  },
+  {
+    "sanctions_screening": 9.829,
+    "document_confidence": 5.476,
+    "manual_review_decision": -3.624,
+    "regulatory_approval": -11.986
+  },
+  {
+    "sanctions_screening": 10.447,
+    "document_confidence": 8.773,
+    "manual_review_decision": -5.02,
+    "regulatory_approval": -12.976
+  },
+  {
+    "sanctions_screening": 9.136,
+    "document_confidence": 5.101,
+    "manual_review_decision": -3.093,
+    "regulatory_approval": -10.211
+  },
+  {
+    "sanctions_screening": 7.146,
+    "document_confidence": 7.327,
+    "manual_review_decision": -4.369,
+    "regulatory_approval": -9.516
+  },
+  {
+    "sanctions_screening": 12.528,
+    "document_confidence": 10.407,
+    "manual_review_decision": -6.511,
+    "regulatory_approval": -16.306
+  },
+  {
+    "sanctions_screening": 8.637,
+    "document_confidence": 7.281,
+    "manual_review_decision": -4.387,
+    "regulatory_approval": -10.998
+  },
+  {
+    "sanctions_screening": 6.733,
+    "document_confidence": 9.837,
+    "manual_review_decision": -5.764,
+    "regulatory_approval": -10.267
+  },
+  {
+    "sanctions_screening": 7.833,
+    "document_confidence": 13.929,
+    "manual_review_decision": -8.258,
+    "regulatory_approval": -13.163
+  },
+  {
+    "sanctions_screening": 7.015,
+    "document_confidence": 9.07,
+    "manual_review_decision": -5.218,
+    "regulatory_approval": -10.224
+  },
+  {
+    "sanctions_screening": 9.531,
+    "document_confidence": 14.051,
+    "manual_review_decision": -8.323,
+    "regulatory_approval": -14.938
+  },
+  {
+    "sanctions_screening": 12.423,
+    "document_confidence": 11.273,
+    "manual_review_decision": -6.826,
+    "regulatory_approval": -16.447
+  },
+  {
+    "sanctions_screening": 9.584,
+    "document_confidence": 7.482,
+    "manual_review_decision": -4.213,
+    "regulatory_approval": -11.938
+  },
+  {
+    "sanctions_screening": 6.822,
+    "document_confidence": 7.402,
+    "manual_review_decision": -4.594,
+    "regulatory_approval": -9.515
+  },
+  {
+    "sanctions_screening": 11.405,
+    "document_confidence": 10.365,
+    "manual_review_decision": -6.268,
+    "regulatory_approval": -15.299
+  },
+  {
+    "sanctions_screening": 12.426,
+    "document_confidence": 9.617,
+    "manual_review_decision": -5.915,
+    "regulatory_approval": -15.561
+  },
+  {
+    "sanctions_screening": 16.318,
+    "document_confidence": 7.365,
+    "manual_review_decision": -4.298,
+    "regulatory_approval": -18.102
+  },
+  {
+    "sanctions_screening": 9.383,
+    "document_confidence": 11.584,
+    "manual_review_decision": -7.048,
+    "regulatory_approval": -13.918
+  },
+  {
+    "sanctions_screening": 7.441,
+    "document_confidence": 9.692,
+    "manual_review_decision": -6.04,
+    "regulatory_approval": -11.316
+  },
+  {
+    "sanctions_screening": 8.751,
+    "document_confidence": 10.942,
+    "manual_review_decision": -6.557,
+    "regulatory_approval": -12.634
+  },
+  {
+    "sanctions_screening": 8.663,
+    "document_confidence": 10.762,
+    "manual_review_decision": -6.164,
+    "regulatory_approval": -12.751
+  },
+  {
+    "sanctions_screening": 10.08,
+    "document_confidence": 9.202,
+    "manual_review_decision": -5.277,
+    "regulatory_approval": -12.891
+  },
+  {
+    "sanctions_screening": 10.028,
+    "document_confidence": 10.26,
+    "manual_review_decision": -5.889,
+    "regulatory_approval": -12.967
+  },
+  {
+    "sanctions_screening": 10.718,
+    "document_confidence": 11.546,
+    "manual_review_decision": -7.022,
+    "regulatory_approval": -15.016
+  },
+  {
+    "sanctions_screening": 9.449,
+    "document_confidence": 8.492,
+    "manual_review_decision": -5.319,
+    "regulatory_approval": -12.593
+  },
+  {
+    "sanctions_screening": 10.104,
+    "document_confidence": 12.924,
+    "manual_review_decision": -7.5,
+    "regulatory_approval": -14.751
+  },
+  {
+    "sanctions_screening": 10.864,
+    "document_confidence": 10.436,
+    "manual_review_decision": -6.474,
+    "regulatory_approval": -14.658
+  },
+  {
+    "sanctions_screening": 7.395,
+    "document_confidence": 11.039,
+    "manual_review_decision": -6.702,
+    "regulatory_approval": -11.826
+  },
+  {
+    "sanctions_screening": 8.347,
+    "document_confidence": 7.507,
+    "manual_review_decision": -4.494,
+    "regulatory_approval": -10.867
+  },
+  {
+    "sanctions_screening": 7.54,
+    "document_confidence": 8.055,
+    "manual_review_decision": -5.109,
+    "regulatory_approval": -10.72
+  },
+  {
+    "sanctions_screening": 12.457,
+    "document_confidence": 8.329,
+    "manual_review_decision": -5.065,
+    "regulatory_approval": -15.019
+  },
+  {
+    "sanctions_screening": 11.843,
+    "document_confidence": 10.857,
+    "manual_review_decision": -6.636,
+    "regulatory_approval": -15.432
+  },
+  {
+    "sanctions_screening": 7.437,
+    "document_confidence": 9.763,
+    "manual_review_decision": -5.87,
+    "regulatory_approval": -10.73
+  },
+  {
+    "sanctions_screening": 8.475,
+    "document_confidence": 15.019,
+    "manual_review_decision": -9.104,
+    "regulatory_approval": -14.192
+  },
+  {
+    "sanctions_screening": 8.619,
+    "document_confidence": 11.656,
+    "manual_review_decision": -7.102,
+    "regulatory_approval": -13.023
+  },
+  {
+    "sanctions_screening": 8.853,
+    "document_confidence": 11.411,
+    "manual_review_decision": -7.122,
+    "regulatory_approval": -13.305
+  },
+  {
+    "sanctions_screening": 13.023,
+    "document_confidence": 10.493,
+    "manual_review_decision": -6.161,
+    "regulatory_approval": -16.046
+  },
+  {
+    "sanctions_screening": 11.822,
+    "document_confidence": 10.901,
+    "manual_review_decision": -6.394,
+    "regulatory_approval": -15.275
+  },
+  {
+    "sanctions_screening": 10.941,
+    "document_confidence": 7.213,
+    "manual_review_decision": -4.272,
+    "regulatory_approval": -12.899
+  },
+  {
+    "sanctions_screening": 10.245,
+    "document_confidence": 9.416,
+    "manual_review_decision": -5.281,
+    "regulatory_approval": -12.859
+  },
+  {
+    "sanctions_screening": 14.039,
+    "document_confidence": 8.359,
+    "manual_review_decision": -5.132,
+    "regulatory_approval": -16.257
+  },
+  {
+    "sanctions_screening": 11.398,
+    "document_confidence": 7.885,
+    "manual_review_decision": -4.696,
+    "regulatory_approval": -13.788
+  },
+  {
+    "sanctions_screening": 8.144,
+    "document_confidence": 13.751,
+    "manual_review_decision": -8.06,
+    "regulatory_approval": -13.27
+  },
+  {
+    "sanctions_screening": 8.008,
+    "document_confidence": 8.161,
+    "manual_review_decision": -4.766,
+    "regulatory_approval": -10.88
+  },
+  {
+    "sanctions_screening": 8.749,
+    "document_confidence": 9.956,
+    "manual_review_decision": -6.145,
+    "regulatory_approval": -12.558
+  },
+  {
+    "sanctions_screening": 12.991,
+    "document_confidence": 5.392,
+    "manual_review_decision": -3.213,
+    "regulatory_approval": -13.756
+  },
+  {
+    "sanctions_screening": 14.097,
+    "document_confidence": 8.552,
+    "manual_review_decision": -5.014,
+    "regulatory_approval": -16.455
+  },
+  {
+    "sanctions_screening": 7.582,
+    "document_confidence": 9.803,
+    "manual_review_decision": -5.612,
+    "regulatory_approval": -11.261
+  },
+  {
+    "sanctions_screening": 11.713,
+    "document_confidence": 5.055,
+    "manual_review_decision": -3.166,
+    "regulatory_approval": -13.01
+  },
+  {
+    "sanctions_screening": 12.698,
+    "document_confidence": 9.664,
+    "manual_review_decision": -5.685,
+    "regulatory_approval": -15.532
+  },
+  {
+    "sanctions_screening": 12.17,
+    "document_confidence": 10.556,
+    "manual_review_decision": -6.4,
+    "regulatory_approval": -15.601
+  },
+  {
+    "sanctions_screening": 11.942,
+    "document_confidence": 7.171,
+    "manual_review_decision": -4.348,
+    "regulatory_approval": -13.893
+  },
+  {
+    "sanctions_screening": 12.214,
+    "document_confidence": 11.585,
+    "manual_review_decision": -6.934,
+    "regulatory_approval": -16.235
+  },
+  {
+    "sanctions_screening": 11.402,
+    "document_confidence": 13.77,
+    "manual_review_decision": -8.351,
+    "regulatory_approval": -16.544
+  },
+  {
+    "sanctions_screening": 8.07,
+    "document_confidence": 10.485,
+    "manual_review_decision": -6.529,
+    "regulatory_approval": -11.901
+  },
+  {
+    "sanctions_screening": 9.772,
+    "document_confidence": 8.869,
+    "manual_review_decision": -5.256,
+    "regulatory_approval": -12.669
+  },
+  {
+    "sanctions_screening": 8.194,
+    "document_confidence": 6.888,
+    "manual_review_decision": -4.153,
+    "regulatory_approval": -10.119
+  },
+  {
+    "sanctions_screening": 9.997,
+    "document_confidence": 9.942,
+    "manual_review_decision": -5.682,
+    "regulatory_approval": -13.221
+  },
+  {
+    "sanctions_screening": 8.723,
+    "document_confidence": 7.934,
+    "manual_review_decision": -4.592,
+    "regulatory_approval": -11.236
+  },
+  {
+    "sanctions_screening": 10.165,
+    "document_confidence": 10.495,
+    "manual_review_decision": -6.548,
+    "regulatory_approval": -14.132
+  },
+  {
+    "sanctions_screening": 9.348,
+    "document_confidence": 8.389,
+    "manual_review_decision": -5.424,
+    "regulatory_approval": -12.203
+  },
+  {
+    "sanctions_screening": 10.594,
+    "document_confidence": 8.603,
+    "manual_review_decision": -5.094,
+    "regulatory_approval": -13.41
+  },
+  {
+    "sanctions_screening": 12.656,
+    "document_confidence": 6.342,
+    "manual_review_decision": -4.037,
+    "regulatory_approval": -14.282
+  },
+  {
+    "sanctions_screening": 9.303,
+    "document_confidence": 8.567,
+    "manual_review_decision": -5.122,
+    "regulatory_approval": -12.01
+  },
+  {
+    "sanctions_screening": 7.505,
+    "document_confidence": 8.624,
+    "manual_review_decision": -5.411,
+    "regulatory_approval": -10.776
+  },
+  {
+    "sanctions_screening": 7.285,
+    "document_confidence": 11.903,
+    "manual_review_decision": -7.381,
+    "regulatory_approval": -12.014
+  },
+  {
+    "sanctions_screening": 8.947,
+    "document_confidence": 7.181,
+    "manual_review_decision": -4.691,
+    "regulatory_approval": -11.637
+  },
+  {
+    "sanctions_screening": 10.209,
+    "document_confidence": 7.485,
+    "manual_review_decision": -4.389,
+    "regulatory_approval": -12.435
+  },
+  {
+    "sanctions_screening": 7.032,
+    "document_confidence": 10.836,
+    "manual_review_decision": -6.75,
+    "regulatory_approval": -11.695
+  },
+  {
+    "sanctions_screening": 13.013,
+    "document_confidence": 11.0,
+    "manual_review_decision": -6.615,
+    "regulatory_approval": -16.399
+  },
+  {
+    "sanctions_screening": 7.772,
+    "document_confidence": 10.022,
+    "manual_review_decision": -6.291,
+    "regulatory_approval": -11.717
+  },
+  {
+    "sanctions_screening": 5.714,
+    "document_confidence": 11.084,
+    "manual_review_decision": -6.62,
+    "regulatory_approval": -10.006
+  },
+  {
+    "sanctions_screening": 15.019,
+    "document_confidence": 12.367,
+    "manual_review_decision": -7.522,
+    "regulatory_approval": -18.918
+  },
+  {
+    "sanctions_screening": 7.837,
+    "document_confidence": 9.126,
+    "manual_review_decision": -5.423,
+    "regulatory_approval": -10.988
+  },
+  {
+    "sanctions_screening": 5.02,
+    "document_confidence": 9.8,
+    "manual_review_decision": -6.006,
+    "regulatory_approval": -9.106
+  },
+  {
+    "sanctions_screening": 8.104,
+    "document_confidence": 9.314,
+    "manual_review_decision": -5.382,
+    "regulatory_approval": -11.321
+  },
+  {
+    "sanctions_screening": 10.586,
+    "document_confidence": 7.122,
+    "manual_review_decision": -4.404,
+    "regulatory_approval": -12.812
+  },
+  {
+    "sanctions_screening": 7.473,
+    "document_confidence": 8.504,
+    "manual_review_decision": -5.346,
+    "regulatory_approval": -10.661
+  },
+  {
+    "sanctions_screening": 9.304,
+    "document_confidence": 7.861,
+    "manual_review_decision": -4.692,
+    "regulatory_approval": -11.763
+  },
+  {
+    "sanctions_screening": 7.218,
+    "document_confidence": 8.023,
+    "manual_review_decision": -5.08,
+    "regulatory_approval": -9.913
+  },
+  {
+    "sanctions_screening": 11.131,
+    "document_confidence": 10.345,
+    "manual_review_decision": -6.109,
+    "regulatory_approval": -14.343
+  },
+  {
+    "sanctions_screening": 10.168,
+    "document_confidence": 7.659,
+    "manual_review_decision": -4.588,
+    "regulatory_approval": -12.429
+  },
+  {
+    "sanctions_screening": 8.376,
+    "document_confidence": 10.987,
+    "manual_review_decision": -6.334,
+    "regulatory_approval": -12.859
+  },
+  {
+    "sanctions_screening": 9.434,
+    "document_confidence": 12.518,
+    "manual_review_decision": -7.255,
+    "regulatory_approval": -13.779
+  },
+  {
+    "sanctions_screening": 11.877,
+    "document_confidence": 9.008,
+    "manual_review_decision": -5.631,
+    "regulatory_approval": -14.928
+  },
+  {
+    "sanctions_screening": 11.139,
+    "document_confidence": 9.88,
+    "manual_review_decision": -5.861,
+    "regulatory_approval": -14.217
+  },
+  {
+    "sanctions_screening": 7.704,
+    "document_confidence": 8.794,
+    "manual_review_decision": -5.228,
+    "regulatory_approval": -10.953
+  },
+  {
+    "sanctions_screening": 9.703,
+    "document_confidence": 12.0,
+    "manual_review_decision": -7.088,
+    "regulatory_approval": -14.058
+  },
+  {
+    "sanctions_screening": 9.742,
+    "document_confidence": 14.288,
+    "manual_review_decision": -8.375,
+    "regulatory_approval": -14.848
+  },
+  {
+    "sanctions_screening": 9.521,
+    "document_confidence": 4.778,
+    "manual_review_decision": -2.987,
+    "regulatory_approval": -10.803
+  },
+  {
+    "sanctions_screening": 7.897,
+    "document_confidence": 8.675,
+    "manual_review_decision": -5.221,
+    "regulatory_approval": -10.994
+  },
+  {
+    "sanctions_screening": 9.34,
+    "document_confidence": 7.392,
+    "manual_review_decision": -4.531,
+    "regulatory_approval": -11.479
+  },
+  {
+    "sanctions_screening": 9.339,
+    "document_confidence": 11.5,
+    "manual_review_decision": -6.844,
+    "regulatory_approval": -13.875
+  },
+  {
+    "sanctions_screening": 12.01,
+    "document_confidence": 7.176,
+    "manual_review_decision": -4.235,
+    "regulatory_approval": -14.217
+  },
+  {
+    "sanctions_screening": 9.755,
+    "document_confidence": 10.694,
+    "manual_review_decision": -6.231,
+    "regulatory_approval": -13.666
+  },
+  {
+    "sanctions_screening": 11.419,
+    "document_confidence": 7.563,
+    "manual_review_decision": -4.68,
+    "regulatory_approval": -13.304
+  },
+  {
+    "sanctions_screening": 7.103,
+    "document_confidence": 7.879,
+    "manual_review_decision": -4.888,
+    "regulatory_approval": -10.236
+  },
+  {
+    "sanctions_screening": 5.616,
+    "document_confidence": 5.364,
+    "manual_review_decision": -3.576,
+    "regulatory_approval": -7.689
+  },
+  {
+    "sanctions_screening": 9.448,
+    "document_confidence": 10.048,
+    "manual_review_decision": -5.893,
+    "regulatory_approval": -13.06
+  },
+  {
+    "sanctions_screening": 11.695,
+    "document_confidence": 8.818,
+    "manual_review_decision": -5.27,
+    "regulatory_approval": -14.539
+  },
+  {
+    "sanctions_screening": 7.643,
+    "document_confidence": 11.259,
+    "manual_review_decision": -6.917,
+    "regulatory_approval": -12.115
+  },
+  {
+    "sanctions_screening": 9.207,
+    "document_confidence": 8.473,
+    "manual_review_decision": -5.318,
+    "regulatory_approval": -12.388
+  },
+  {
+    "sanctions_screening": 7.454,
+    "document_confidence": 9.783,
+    "manual_review_decision": -5.91,
+    "regulatory_approval": -10.681
+  },
+  {
+    "sanctions_screening": 9.033,
+    "document_confidence": 7.348,
+    "manual_review_decision": -4.131,
+    "regulatory_approval": -11.21
+  },
+  {
+    "sanctions_screening": 10.169,
+    "document_confidence": 11.282,
+    "manual_review_decision": -6.836,
+    "regulatory_approval": -14.184
+  },
+  {
+    "sanctions_screening": 11.889,
+    "document_confidence": 9.423,
+    "manual_review_decision": -5.475,
+    "regulatory_approval": -14.783
+  },
+  {
+    "sanctions_screening": 12.06,
+    "document_confidence": 11.673,
+    "manual_review_decision": -7.586,
+    "regulatory_approval": -16.423
+  },
+  {
+    "sanctions_screening": 8.917,
+    "document_confidence": 10.14,
+    "manual_review_decision": -5.867,
+    "regulatory_approval": -12.409
+  },
+  {
+    "sanctions_screening": 10.219,
+    "document_confidence": 11.012,
+    "manual_review_decision": -6.812,
+    "regulatory_approval": -14.515
+  },
+  {
+    "sanctions_screening": 9.554,
+    "document_confidence": 6.052,
+    "manual_review_decision": -3.794,
+    "regulatory_approval": -11.061
+  },
+  {
+    "sanctions_screening": 11.896,
+    "document_confidence": 9.076,
+    "manual_review_decision": -5.429,
+    "regulatory_approval": -14.903
+  },
+  {
+    "sanctions_screening": 8.07,
+    "document_confidence": 9.181,
+    "manual_review_decision": -5.598,
+    "regulatory_approval": -11.579
+  },
+  {
+    "sanctions_screening": 10.63,
+    "document_confidence": 8.234,
+    "manual_review_decision": -4.682,
+    "regulatory_approval": -12.996
+  },
+  {
+    "sanctions_screening": 10.031,
+    "document_confidence": 10.298,
+    "manual_review_decision": -6.017,
+    "regulatory_approval": -13.461
+  },
+  {
+    "sanctions_screening": 9.403,
+    "document_confidence": 9.038,
+    "manual_review_decision": -5.582,
+    "regulatory_approval": -12.429
+  },
+  {
+    "sanctions_screening": 9.996,
+    "document_confidence": 11.213,
+    "manual_review_decision": -6.843,
+    "regulatory_approval": -14.558
+  },
+  {
+    "sanctions_screening": 7.555,
+    "document_confidence": 7.003,
+    "manual_review_decision": -3.943,
+    "regulatory_approval": -9.936
+  },
+  {
+    "sanctions_screening": 7.116,
+    "document_confidence": 10.392,
+    "manual_review_decision": -6.427,
+    "regulatory_approval": -11.319
+  },
+  {
+    "sanctions_screening": 9.297,
+    "document_confidence": 6.661,
+    "manual_review_decision": -3.869,
+    "regulatory_approval": -11.11
+  },
+  {
+    "sanctions_screening": 10.64,
+    "document_confidence": 14.096,
+    "manual_review_decision": -8.186,
+    "regulatory_approval": -15.656
+  },
+  {
+    "sanctions_screening": 9.036,
+    "document_confidence": 3.363,
+    "manual_review_decision": -2.085,
+    "regulatory_approval": -9.55
+  },
+  {
+    "sanctions_screening": 11.297,
+    "document_confidence": 9.609,
+    "manual_review_decision": -5.766,
+    "regulatory_approval": -14.727
+  },
+  {
+    "sanctions_screening": 10.713,
+    "document_confidence": 12.485,
+    "manual_review_decision": -7.919,
+    "regulatory_approval": -15.491
+  },
+  {
+    "sanctions_screening": 12.2,
+    "document_confidence": 11.147,
+    "manual_review_decision": -6.646,
+    "regulatory_approval": -16.077
+  },
+  {
+    "sanctions_screening": 9.615,
+    "document_confidence": 11.983,
+    "manual_review_decision": -7.051,
+    "regulatory_approval": -13.822
+  },
+  {
+    "sanctions_screening": 6.984,
+    "document_confidence": 10.817,
+    "manual_review_decision": -6.269,
+    "regulatory_approval": -10.753
+  },
+  {
+    "sanctions_screening": 10.823,
+    "document_confidence": 8.408,
+    "manual_review_decision": -4.668,
+    "regulatory_approval": -13.207
+  },
+  {
+    "sanctions_screening": 7.192,
+    "document_confidence": 11.242,
+    "manual_review_decision": -6.908,
+    "regulatory_approval": -11.431
+  },
+  {
+    "sanctions_screening": 13.544,
+    "document_confidence": 11.13,
+    "manual_review_decision": -6.71,
+    "regulatory_approval": -17.008
+  },
+  {
+    "sanctions_screening": 9.215,
+    "document_confidence": 13.367,
+    "manual_review_decision": -8.051,
+    "regulatory_approval": -14.753
+  },
+  {
+    "sanctions_screening": 10.4,
+    "document_confidence": 14.989,
+    "manual_review_decision": -9.34,
+    "regulatory_approval": -16.657
+  },
+  {
+    "sanctions_screening": 9.635,
+    "document_confidence": 12.516,
+    "manual_review_decision": -7.565,
+    "regulatory_approval": -14.374
+  },
+  {
+    "sanctions_screening": 10.508,
+    "document_confidence": 7.602,
+    "manual_review_decision": -4.765,
+    "regulatory_approval": -12.845
+  },
+  {
+    "sanctions_screening": 11.342,
+    "document_confidence": 13.074,
+    "manual_review_decision": -7.778,
+    "regulatory_approval": -15.909
+  },
+  {
+    "sanctions_screening": 6.983,
+    "document_confidence": 7.761,
+    "manual_review_decision": -4.54,
+    "regulatory_approval": -9.718
+  },
+  {
+    "sanctions_screening": 12.506,
+    "document_confidence": 6.027,
+    "manual_review_decision": -3.579,
+    "regulatory_approval": -13.749
+  },
+  {
+    "sanctions_screening": 8.354,
+    "document_confidence": 11.907,
+    "manual_review_decision": -7.152,
+    "regulatory_approval": -12.733
+  },
+  {
+    "sanctions_screening": 7.169,
+    "document_confidence": 10.602,
+    "manual_review_decision": -6.443,
+    "regulatory_approval": -11.416
+  },
+  {
+    "sanctions_screening": 7.506,
+    "document_confidence": 12.45,
+    "manual_review_decision": -7.562,
+    "regulatory_approval": -12.831
+  },
+  {
+    "sanctions_screening": 12.456,
+    "document_confidence": 6.573,
+    "manual_review_decision": -3.941,
+    "regulatory_approval": -14.357
+  },
+  {
+    "sanctions_screening": 9.857,
+    "document_confidence": 7.864,
+    "manual_review_decision": -4.605,
+    "regulatory_approval": -12.632
+  },
+  {
+    "sanctions_screening": 10.914,
+    "document_confidence": 12.218,
+    "manual_review_decision": -7.223,
+    "regulatory_approval": -15.286
+  },
+  {
+    "sanctions_screening": 6.63,
+    "document_confidence": 10.066,
+    "manual_review_decision": -5.899,
+    "regulatory_approval": -10.389
+  },
+  {
+    "sanctions_screening": 7.751,
+    "document_confidence": 7.203,
+    "manual_review_decision": -4.16,
+    "regulatory_approval": -10.184
+  },
+  {
+    "sanctions_screening": 9.297,
+    "document_confidence": 10.002,
+    "manual_review_decision": -6.14,
+    "regulatory_approval": -12.847
+  },
+  {
+    "sanctions_screening": 11.438,
+    "document_confidence": 8.959,
+    "manual_review_decision": -5.482,
+    "regulatory_approval": -14.511
+  },
+  {
+    "sanctions_screening": 11.693,
+    "document_confidence": 6.878,
+    "manual_review_decision": -4.362,
+    "regulatory_approval": -14.157
+  },
+  {
+    "sanctions_screening": 14.397,
+    "document_confidence": 12.648,
+    "manual_review_decision": -7.725,
+    "regulatory_approval": -18.984
+  },
+  {
+    "sanctions_screening": 14.265,
+    "document_confidence": 11.614,
+    "manual_review_decision": -6.855,
+    "regulatory_approval": -18.208
+  },
+  {
+    "sanctions_screening": 7.882,
+    "document_confidence": 10.911,
+    "manual_review_decision": -6.609,
+    "regulatory_approval": -12.363
+  },
+  {
+    "sanctions_screening": 13.759,
+    "document_confidence": 8.319,
+    "manual_review_decision": -5.117,
+    "regulatory_approval": -16.096
+  },
+  {
+    "sanctions_screening": 14.65,
+    "document_confidence": 9.646,
+    "manual_review_decision": -5.71,
+    "regulatory_approval": -17.831
+  },
+  {
+    "sanctions_screening": 10.835,
+    "document_confidence": 9.035,
+    "manual_review_decision": -5.127,
+    "regulatory_approval": -13.846
+  },
+  {
+    "sanctions_screening": 9.341,
+    "document_confidence": 14.21,
+    "manual_review_decision": -8.482,
+    "regulatory_approval": -14.765
+  },
+  {
+    "sanctions_screening": 11.027,
+    "document_confidence": 15.054,
+    "manual_review_decision": -9.134,
+    "regulatory_approval": -16.681
+  },
+  {
+    "sanctions_screening": 12.185,
+    "document_confidence": 9.082,
+    "manual_review_decision": -5.472,
+    "regulatory_approval": -15.102
+  },
+  {
+    "sanctions_screening": 11.344,
+    "document_confidence": 9.721,
+    "manual_review_decision": -5.704,
+    "regulatory_approval": -14.75
+  },
+  {
+    "sanctions_screening": 11.619,
+    "document_confidence": 11.038,
+    "manual_review_decision": -6.519,
+    "regulatory_approval": -15.279
+  },
+  {
+    "sanctions_screening": 9.372,
+    "document_confidence": 8.015,
+    "manual_review_decision": -4.804,
+    "regulatory_approval": -12.16
+  },
+  {
+    "sanctions_screening": 11.257,
+    "document_confidence": 7.427,
+    "manual_review_decision": -4.158,
+    "regulatory_approval": -13.078
+  },
+  {
+    "sanctions_screening": 12.184,
+    "document_confidence": 12.915,
+    "manual_review_decision": -7.707,
+    "regulatory_approval": -16.847
+  },
+  {
+    "sanctions_screening": 11.179,
+    "document_confidence": 6.987,
+    "manual_review_decision": -4.305,
+    "regulatory_approval": -13.574
+  },
+  {
+    "sanctions_screening": 8.538,
+    "document_confidence": 8.413,
+    "manual_review_decision": -5.028,
+    "regulatory_approval": -11.519
+  },
+  {
+    "sanctions_screening": 12.055,
+    "document_confidence": 9.453,
+    "manual_review_decision": -5.74,
+    "regulatory_approval": -15.151
+  },
+  {
+    "sanctions_screening": 9.636,
+    "document_confidence": 10.78,
+    "manual_review_decision": -6.496,
+    "regulatory_approval": -13.469
+  },
+  {
+    "sanctions_screening": 7.529,
+    "document_confidence": 11.687,
+    "manual_review_decision": -7.084,
+    "regulatory_approval": -11.963
+  },
+  {
+    "sanctions_screening": 7.602,
+    "document_confidence": 7.685,
+    "manual_review_decision": -4.453,
+    "regulatory_approval": -10.042
+  },
+  {
+    "sanctions_screening": 6.556,
+    "document_confidence": 7.184,
+    "manual_review_decision": -4.217,
+    "regulatory_approval": -9.468
+  },
+  {
+    "sanctions_screening": 10.549,
+    "document_confidence": 11.833,
+    "manual_review_decision": -7.279,
+    "regulatory_approval": -14.921
+  },
+  {
+    "sanctions_screening": 8.308,
+    "document_confidence": 6.643,
+    "manual_review_decision": -4.022,
+    "regulatory_approval": -10.677
+  },
+  {
+    "sanctions_screening": 11.284,
+    "document_confidence": 13.159,
+    "manual_review_decision": -7.833,
+    "regulatory_approval": -15.942
+  },
+  {
+    "sanctions_screening": 10.538,
+    "document_confidence": 6.138,
+    "manual_review_decision": -3.782,
+    "regulatory_approval": -12.313
+  },
+  {
+    "sanctions_screening": 12.46,
+    "document_confidence": 8.073,
+    "manual_review_decision": -5.013,
+    "regulatory_approval": -14.87
+  },
+  {
+    "sanctions_screening": 9.104,
+    "document_confidence": 8.511,
+    "manual_review_decision": -5.346,
+    "regulatory_approval": -12.358
+  },
+  {
+    "sanctions_screening": 13.278,
+    "document_confidence": 7.487,
+    "manual_review_decision": -4.434,
+    "regulatory_approval": -15.76
+  },
+  {
+    "sanctions_screening": 9.753,
+    "document_confidence": 12.765,
+    "manual_review_decision": -7.617,
+    "regulatory_approval": -14.595
+  }
+]

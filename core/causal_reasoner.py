@@ -10,6 +10,7 @@ from __future__ import annotations
 
 from typing import Any
 from core.causal_graph import CausalNodeType, StructuralCausalModel
+from core.causal_verifier import CausalVerificationReport, ObservationalCausalVerifier
 
 
 class CausalReasoner:
@@ -164,3 +165,37 @@ class CausalReasoner:
             "explanation": attribution_explanation,
             "details": analysis,
         }
+
+    def load_scm_from_json(self, json_str_or_path: str) -> StructuralCausalModel:
+        """Load and set active SCM from JSON string or file path."""
+        self.scm = StructuralCausalModel.from_json(json_str_or_path)
+        return self.scm
+
+    def load_scm_from_graphml(self, xml_str_or_path: str) -> StructuralCausalModel:
+        """Load and set active SCM from GraphML XML string or file path."""
+        self.scm = StructuralCausalModel.from_graphml(xml_str_or_path)
+        return self.scm
+
+    def export_scm_to_json(self, filepath: str | None = None) -> str:
+        """Export current active SCM to JSON string or file."""
+        return self.scm.to_json(filepath=filepath)
+
+    def export_scm_to_graphml(self, filepath: str | None = None) -> str:
+        """Export current active SCM to GraphML XML string or file."""
+        return self.scm.to_graphml(filepath=filepath)
+
+    def verify_observational_data(
+        self,
+        data: list[dict[str, Any]],
+        alpha: float = 0.05,
+        custom_tests: list[dict[str, Any]] | None = None,
+        check_direct_edges: bool = True,
+    ) -> CausalVerificationReport:
+        """Verify observational dataset against current active SCM's d-separation structure."""
+        verifier = ObservationalCausalVerifier(alpha=alpha)
+        return verifier.verify_dataset(
+            scm=self.scm,
+            data=data,
+            custom_tests=custom_tests,
+            check_direct_edges=check_direct_edges,
+        )

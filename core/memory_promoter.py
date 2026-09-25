@@ -9,10 +9,16 @@ import uuid
 from domain.models import (
     AdmissionStatus,
     CandidateFact,
+    NLILabel,
     RejectionReason,
     SemanticFact,
 )
-from domain.ports import FactStorePort, VectorIndexPort
+from domain.ports import (
+    EmbeddingProviderPort,
+    FactStorePort,
+    NLIProviderPort,
+    VectorIndexPort,
+)
 
 
 class MemoryPromoter:
@@ -22,11 +28,15 @@ class MemoryPromoter:
         self,
         fact_store: FactStorePort,
         vector_index: VectorIndexPort | None = None,
+        embedding_provider: EmbeddingProviderPort | None = None,
+        nli_provider: NLIProviderPort | None = None,
         min_confidence: float = 0.85,
         causal_reasoner: Any | None = None,
     ) -> None:
         self.fact_store = fact_store
         self.vector_index = vector_index
+        self.embedding_provider = embedding_provider
+        self.nli_provider = nli_provider
         self.min_confidence = min_confidence
         self.causal_reasoner = causal_reasoner
 
@@ -38,9 +48,7 @@ class MemoryPromoter:
 
     def evaluate_and_promote(self, candidate_id: str) -> tuple[bool, str]:
         """Step 3: Evaluate admission criteria for a quarantined candidate."""
-        # Find candidate in quarantine records
-        quarantine_records = self.fact_store.get_quarantine_records(limit=200)
-        candidate = next((c for c in quarantine_records if c.candidate_id == candidate_id), None)
+        candidate = self.fact_store.get_candidate(candidate_id)
 
         if not candidate:
             return False, f"Candidate ID '{candidate_id}' not found in quarantine."
@@ -66,7 +74,10 @@ class MemoryPromoter:
             return False, "Rejected: Low confidence score."
 
         # Criteria C: Existing active facts check for near-duplicate or direct contradiction
-        existing_facts = self.fact_store.get_active_facts_for_subject(candidate.subject)
+        existing_facts = self.fact_store.get_active_facts_for_subject(
+            candidate.subject,
+            tenant_id=candidate.tenant_id,
+        )
 
         for ef in existing_facts:
             # Check near duplicate
@@ -112,11 +123,11 @@ class MemoryPromoter:
 
         # Admission granted: promote to semantic_facts
         promoted_fact = SemanticFact(
-
             fact_id=str(uuid.uuid4()),
             candidate_id=candidate.candidate_id,
             source_episode_id=candidate.source_episode_id,
             session_id=candidate.session_id,
+            tenant_id=candidate.tenant_id,
             subject=candidate.subject,
             predicate=candidate.predicate,
             object=candidate.object,
@@ -133,6 +144,24 @@ class MemoryPromoter:
         )
 
         self.fact_store.insert_semantic_fact(promoted_fact)
+
+        # Upsert dense vector embedding if vector index and embedding provider are active
+        if self.vector_index is not None and self.embedding_provider is not None:
+            fact_text = f"{promoted_fact.subject} {promoted_fact.predicate} {promoted_fact.object}"
+            vector = self.embedding_provider.embed_text(fact_text)
+            self.vector_index.upsert(
+                item_id=promoted_fact.fact_id,
+                vector=vector,
+                metadata={
+                    "fact_id": promoted_fact.fact_id,
+                    "subject": promoted_fact.subject,
+                    "predicate": promoted_fact.predicate,
+                    "object": promoted_fact.object,
+                    "confidence": promoted_fact.confidence,
+                },
+                tenant_id=promoted_fact.tenant_id,
+            )
+
         self.fact_store.update_candidate_status(
             candidate_id,
             status=AdmissionStatus.PROMOTED,
@@ -150,11 +179,14 @@ class MemoryPromoter:
         e_obj = existing.object.lower()
 
         # Negation / Polarity conflict
-        negation_terms = {"no", "none", "denies", "negative", "false", "absent", "zero"}
+        negation_terms = {"no", "none", "denies", "negative", "false", "absent", "zero", "not"}
         affirmative_terms = {"yes", "positive", "true", "present", "active", "has"}
 
-        c_is_neg = any(term in c_obj for term in negation_terms)
-        e_is_neg = any(term in e_obj for term in negation_terms)
+        c_tokens = set(c_obj.replace("-", " ").split())
+        e_tokens = set(e_obj.replace("-", " ").split())
+
+        c_is_neg = any(term in c_tokens for term in negation_terms) or "no known" in c_obj
+        e_is_neg = any(term in e_tokens for term in negation_terms) or "no known" in e_obj
 
         if c_pred == e_pred and c_is_neg != e_is_neg:
             return True, f"Polarity conflict on predicate '{c_pred}': '{c_obj}' contradicts existing '{e_obj}'."
@@ -170,6 +202,15 @@ class MemoryPromoter:
             mutually_exclusive_predicates = {"biological_sex", "blood_type", "rh_factor", "date_of_birth"}
             if c_pred in mutually_exclusive_predicates:
                 return True, f"Mutually exclusive value for '{c_pred}': '{c_obj}' vs '{e_obj}'."
+
+        # Natural Language Inference (NLI) cross-encoder evaluation
+        if self.nli_provider is not None:
+            premise = f"Subject {existing.subject} has {existing.predicate} {existing.object}."
+            hypothesis = f"Subject {candidate.subject} has {candidate.predicate} {candidate.object}."
+            nli_result = self.nli_provider.classify_pair(premise, hypothesis)
+            if nli_result.label == NLILabel.CONTRADICTION and nli_result.contradiction_score >= 0.70:
+                detail = nli_result.detail or f"NLI contradiction score {nli_result.contradiction_score:.2f}."
+                return True, f"NLI Contradiction: {detail}"
 
         return False, ""
 

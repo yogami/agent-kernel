@@ -1,0 +1,3002 @@
+[
+  {
+    "abnormal_call_volume": 19.877,
+    "options_skew": 15.101,
+    "investigation_priority": 12.346,
+    "finra_referral": 17.913
+  },
+  {
+    "abnormal_call_volume": 4.527,
+    "options_skew": 3.572,
+    "investigation_priority": 2.766,
+    "finra_referral": -3.036
+  },
+  {
+    "abnormal_call_volume": 5.594,
+    "options_skew": 4.04,
+    "investigation_priority": 3.364,
+    "finra_referral": 0.541
+  },
+  {
+    "abnormal_call_volume": 3.606,
+    "options_skew": 2.644,
+    "investigation_priority": 2.076,
+    "finra_referral": -1.913
+  },
+  {
+    "abnormal_call_volume": 13.77,
+    "options_skew": 9.983,
+    "investigation_priority": 7.823,
+    "finra_referral": 7.452
+  },
+  {
+    "abnormal_call_volume": 7.507,
+    "options_skew": 5.626,
+    "investigation_priority": 4.616,
+    "finra_referral": 5.067
+  },
+  {
+    "abnormal_call_volume": 8.384,
+    "options_skew": 6.334,
+    "investigation_priority": 4.984,
+    "finra_referral": 1.866
+  },
+  {
+    "abnormal_call_volume": 7.906,
+    "options_skew": 6.032,
+    "investigation_priority": 4.449,
+    "finra_referral": 2.639
+  },
+  {
+    "abnormal_call_volume": 13.304,
+    "options_skew": 9.82,
+    "investigation_priority": 7.918,
+    "finra_referral": 7.746
+  },
+  {
+    "abnormal_call_volume": 12.012,
+    "options_skew": 9.124,
+    "investigation_priority": 7.223,
+    "finra_referral": 10.034
+  },
+  {
+    "abnormal_call_volume": 9.207,
+    "options_skew": 6.895,
+    "investigation_priority": 5.884,
+    "finra_referral": 7.989
+  },
+  {
+    "abnormal_call_volume": 7.101,
+    "options_skew": 5.409,
+    "investigation_priority": 4.139,
+    "finra_referral": 0.836
+  },
+  {
+    "abnormal_call_volume": 6.191,
+    "options_skew": 4.545,
+    "investigation_priority": 3.605,
+    "finra_referral": -0.893
+  },
+  {
+    "abnormal_call_volume": 13.203,
+    "options_skew": 9.924,
+    "investigation_priority": 7.846,
+    "finra_referral": 11.64
+  },
+  {
+    "abnormal_call_volume": 8.639,
+    "options_skew": 6.351,
+    "investigation_priority": 5.245,
+    "finra_referral": 6.096
+  },
+  {
+    "abnormal_call_volume": 5.341,
+    "options_skew": 3.964,
+    "investigation_priority": 3.14,
+    "finra_referral": -1.778
+  },
+  {
+    "abnormal_call_volume": 10.161,
+    "options_skew": 7.814,
+    "investigation_priority": 6.187,
+    "finra_referral": 3.162
+  },
+  {
+    "abnormal_call_volume": 9.499,
+    "options_skew": 7.068,
+    "investigation_priority": 5.362,
+    "finra_referral": 2.579
+  },
+  {
+    "abnormal_call_volume": 6.743,
+    "options_skew": 5.04,
+    "investigation_priority": 4.009,
+    "finra_referral": 2.467
+  },
+  {
+    "abnormal_call_volume": 8.319,
+    "options_skew": 6.153,
+    "investigation_priority": 4.638,
+    "finra_referral": 3.563
+  },
+  {
+    "abnormal_call_volume": 9.013,
+    "options_skew": 6.894,
+    "investigation_priority": 5.899,
+    "finra_referral": 3.562
+  },
+  {
+    "abnormal_call_volume": 13.701,
+    "options_skew": 10.139,
+    "investigation_priority": 8.192,
+    "finra_referral": 10.794
+  },
+  {
+    "abnormal_call_volume": 11.798,
+    "options_skew": 8.679,
+    "investigation_priority": 7.029,
+    "finra_referral": 8.184
+  },
+  {
+    "abnormal_call_volume": 11.854,
+    "options_skew": 8.979,
+    "investigation_priority": 7.303,
+    "finra_referral": 9.727
+  },
+  {
+    "abnormal_call_volume": 16.621,
+    "options_skew": 12.424,
+    "investigation_priority": 9.957,
+    "finra_referral": 13.942
+  },
+  {
+    "abnormal_call_volume": 2.289,
+    "options_skew": 1.411,
+    "investigation_priority": 1.082,
+    "finra_referral": -4.329
+  },
+  {
+    "abnormal_call_volume": 8.448,
+    "options_skew": 6.59,
+    "investigation_priority": 5.27,
+    "finra_referral": -0.35
+  },
+  {
+    "abnormal_call_volume": 12.238,
+    "options_skew": 8.946,
+    "investigation_priority": 7.32,
+    "finra_referral": 9.005
+  },
+  {
+    "abnormal_call_volume": 9.449,
+    "options_skew": 6.712,
+    "investigation_priority": 5.611,
+    "finra_referral": 4.488
+  },
+  {
+    "abnormal_call_volume": 9.058,
+    "options_skew": 6.99,
+    "investigation_priority": 5.469,
+    "finra_referral": 1.886
+  },
+  {
+    "abnormal_call_volume": -1.405,
+    "options_skew": -1.201,
+    "investigation_priority": -1.163,
+    "finra_referral": -11.569
+  },
+  {
+    "abnormal_call_volume": 16.621,
+    "options_skew": 12.538,
+    "investigation_priority": 9.761,
+    "finra_referral": 9.788
+  },
+  {
+    "abnormal_call_volume": 9.057,
+    "options_skew": 6.927,
+    "investigation_priority": 5.262,
+    "finra_referral": 4.448
+  },
+  {
+    "abnormal_call_volume": 17.442,
+    "options_skew": 12.628,
+    "investigation_priority": 10.474,
+    "finra_referral": 12.539
+  },
+  {
+    "abnormal_call_volume": 8.987,
+    "options_skew": 7.004,
+    "investigation_priority": 5.747,
+    "finra_referral": 5.61
+  },
+  {
+    "abnormal_call_volume": 12.38,
+    "options_skew": 9.096,
+    "investigation_priority": 7.174,
+    "finra_referral": 7.97
+  },
+  {
+    "abnormal_call_volume": 11.418,
+    "options_skew": 8.224,
+    "investigation_priority": 6.434,
+    "finra_referral": 6.509
+  },
+  {
+    "abnormal_call_volume": 8.708,
+    "options_skew": 6.879,
+    "investigation_priority": 5.414,
+    "finra_referral": 4.846
+  },
+  {
+    "abnormal_call_volume": 15.018,
+    "options_skew": 11.034,
+    "investigation_priority": 8.6,
+    "finra_referral": 13.835
+  },
+  {
+    "abnormal_call_volume": 6.807,
+    "options_skew": 5.384,
+    "investigation_priority": 3.968,
+    "finra_referral": 1.913
+  },
+  {
+    "abnormal_call_volume": 15.037,
+    "options_skew": 11.007,
+    "investigation_priority": 8.634,
+    "finra_referral": 12.968
+  },
+  {
+    "abnormal_call_volume": 12.682,
+    "options_skew": 9.616,
+    "investigation_priority": 7.869,
+    "finra_referral": 5.749
+  },
+  {
+    "abnormal_call_volume": 7.771,
+    "options_skew": 6.139,
+    "investigation_priority": 4.88,
+    "finra_referral": 1.784
+  },
+  {
+    "abnormal_call_volume": 10.434,
+    "options_skew": 7.711,
+    "investigation_priority": 6.153,
+    "finra_referral": 4.691
+  },
+  {
+    "abnormal_call_volume": 10.155,
+    "options_skew": 6.989,
+    "investigation_priority": 5.499,
+    "finra_referral": 2.833
+  },
+  {
+    "abnormal_call_volume": 9.782,
+    "options_skew": 7.014,
+    "investigation_priority": 5.836,
+    "finra_referral": 3.334
+  },
+  {
+    "abnormal_call_volume": 8.459,
+    "options_skew": 6.31,
+    "investigation_priority": 4.99,
+    "finra_referral": 4.925
+  },
+  {
+    "abnormal_call_volume": 12.485,
+    "options_skew": 9.293,
+    "investigation_priority": 7.475,
+    "finra_referral": 9.041
+  },
+  {
+    "abnormal_call_volume": 13.365,
+    "options_skew": 10.202,
+    "investigation_priority": 8.155,
+    "finra_referral": 8.176
+  },
+  {
+    "abnormal_call_volume": 10.217,
+    "options_skew": 7.463,
+    "investigation_priority": 6.121,
+    "finra_referral": 5.462
+  },
+  {
+    "abnormal_call_volume": 12.7,
+    "options_skew": 9.985,
+    "investigation_priority": 7.923,
+    "finra_referral": 9.652
+  },
+  {
+    "abnormal_call_volume": 8.962,
+    "options_skew": 6.539,
+    "investigation_priority": 5.159,
+    "finra_referral": 5.189
+  },
+  {
+    "abnormal_call_volume": 10.135,
+    "options_skew": 7.569,
+    "investigation_priority": 6.127,
+    "finra_referral": 7.121
+  },
+  {
+    "abnormal_call_volume": 11.658,
+    "options_skew": 8.871,
+    "investigation_priority": 7.071,
+    "finra_referral": 6.185
+  },
+  {
+    "abnormal_call_volume": 8.13,
+    "options_skew": 5.96,
+    "investigation_priority": 4.627,
+    "finra_referral": 1.922
+  },
+  {
+    "abnormal_call_volume": 10.426,
+    "options_skew": 7.696,
+    "investigation_priority": 6.179,
+    "finra_referral": 4.472
+  },
+  {
+    "abnormal_call_volume": 10.951,
+    "options_skew": 7.925,
+    "investigation_priority": 6.318,
+    "finra_referral": 5.324
+  },
+  {
+    "abnormal_call_volume": 9.482,
+    "options_skew": 6.984,
+    "investigation_priority": 5.518,
+    "finra_referral": 5.867
+  },
+  {
+    "abnormal_call_volume": 19.374,
+    "options_skew": 14.449,
+    "investigation_priority": 11.879,
+    "finra_referral": 14.845
+  },
+  {
+    "abnormal_call_volume": 14.44,
+    "options_skew": 11.026,
+    "investigation_priority": 9.069,
+    "finra_referral": 13.364
+  },
+  {
+    "abnormal_call_volume": 6.008,
+    "options_skew": 4.377,
+    "investigation_priority": 3.583,
+    "finra_referral": 3.625
+  },
+  {
+    "abnormal_call_volume": 5.134,
+    "options_skew": 4.412,
+    "investigation_priority": 3.812,
+    "finra_referral": -1.062
+  },
+  {
+    "abnormal_call_volume": 4.745,
+    "options_skew": 3.426,
+    "investigation_priority": 2.839,
+    "finra_referral": -3.61
+  },
+  {
+    "abnormal_call_volume": 5.576,
+    "options_skew": 4.103,
+    "investigation_priority": 3.077,
+    "finra_referral": -1.801
+  },
+  {
+    "abnormal_call_volume": 17.506,
+    "options_skew": 12.911,
+    "investigation_priority": 10.395,
+    "finra_referral": 15.122
+  },
+  {
+    "abnormal_call_volume": 8.659,
+    "options_skew": 6.587,
+    "investigation_priority": 5.502,
+    "finra_referral": 2.547
+  },
+  {
+    "abnormal_call_volume": 15.3,
+    "options_skew": 11.559,
+    "investigation_priority": 8.926,
+    "finra_referral": 10.431
+  },
+  {
+    "abnormal_call_volume": 6.976,
+    "options_skew": 5.169,
+    "investigation_priority": 3.943,
+    "finra_referral": 2.731
+  },
+  {
+    "abnormal_call_volume": 12.799,
+    "options_skew": 9.615,
+    "investigation_priority": 7.508,
+    "finra_referral": 6.289
+  },
+  {
+    "abnormal_call_volume": 12.739,
+    "options_skew": 9.732,
+    "investigation_priority": 8.039,
+    "finra_referral": 9.299
+  },
+  {
+    "abnormal_call_volume": 13.671,
+    "options_skew": 10.23,
+    "investigation_priority": 8.035,
+    "finra_referral": 11.082
+  },
+  {
+    "abnormal_call_volume": 7.739,
+    "options_skew": 6.075,
+    "investigation_priority": 4.778,
+    "finra_referral": 0.834
+  },
+  {
+    "abnormal_call_volume": 8.981,
+    "options_skew": 6.86,
+    "investigation_priority": 5.385,
+    "finra_referral": 5.389
+  },
+  {
+    "abnormal_call_volume": 5.784,
+    "options_skew": 4.448,
+    "investigation_priority": 3.366,
+    "finra_referral": -0.945
+  },
+  {
+    "abnormal_call_volume": 5.365,
+    "options_skew": 4.186,
+    "investigation_priority": 3.382,
+    "finra_referral": -0.591
+  },
+  {
+    "abnormal_call_volume": 8.585,
+    "options_skew": 6.691,
+    "investigation_priority": 5.459,
+    "finra_referral": 3.525
+  },
+  {
+    "abnormal_call_volume": 6.717,
+    "options_skew": 5.423,
+    "investigation_priority": 4.772,
+    "finra_referral": 2.135
+  },
+  {
+    "abnormal_call_volume": 14.948,
+    "options_skew": 11.344,
+    "investigation_priority": 9.235,
+    "finra_referral": 12.262
+  },
+  {
+    "abnormal_call_volume": 8.254,
+    "options_skew": 6.453,
+    "investigation_priority": 5.227,
+    "finra_referral": 2.804
+  },
+  {
+    "abnormal_call_volume": 13.737,
+    "options_skew": 10.114,
+    "investigation_priority": 8.153,
+    "finra_referral": 13.083
+  },
+  {
+    "abnormal_call_volume": 6.723,
+    "options_skew": 4.821,
+    "investigation_priority": 3.891,
+    "finra_referral": 5.672
+  },
+  {
+    "abnormal_call_volume": 10.515,
+    "options_skew": 7.965,
+    "investigation_priority": 6.523,
+    "finra_referral": 5.77
+  },
+  {
+    "abnormal_call_volume": 18.699,
+    "options_skew": 14.14,
+    "investigation_priority": 10.806,
+    "finra_referral": 13.891
+  },
+  {
+    "abnormal_call_volume": 11.29,
+    "options_skew": 8.15,
+    "investigation_priority": 7.017,
+    "finra_referral": 7.134
+  },
+  {
+    "abnormal_call_volume": 14.714,
+    "options_skew": 11.002,
+    "investigation_priority": 8.672,
+    "finra_referral": 12.361
+  },
+  {
+    "abnormal_call_volume": 5.557,
+    "options_skew": 3.897,
+    "investigation_priority": 3.032,
+    "finra_referral": 1.515
+  },
+  {
+    "abnormal_call_volume": 9.402,
+    "options_skew": 7.172,
+    "investigation_priority": 6.07,
+    "finra_referral": 4.953
+  },
+  {
+    "abnormal_call_volume": 9.799,
+    "options_skew": 7.398,
+    "investigation_priority": 5.93,
+    "finra_referral": 3.956
+  },
+  {
+    "abnormal_call_volume": 16.577,
+    "options_skew": 12.298,
+    "investigation_priority": 9.786,
+    "finra_referral": 14.091
+  },
+  {
+    "abnormal_call_volume": 6.65,
+    "options_skew": 5.127,
+    "investigation_priority": 4.095,
+    "finra_referral": -0.107
+  },
+  {
+    "abnormal_call_volume": 8.256,
+    "options_skew": 6.394,
+    "investigation_priority": 5.233,
+    "finra_referral": 0.794
+  },
+  {
+    "abnormal_call_volume": 11.271,
+    "options_skew": 8.665,
+    "investigation_priority": 6.987,
+    "finra_referral": 4.34
+  },
+  {
+    "abnormal_call_volume": 9.103,
+    "options_skew": 6.729,
+    "investigation_priority": 4.914,
+    "finra_referral": 7.037
+  },
+  {
+    "abnormal_call_volume": 7.291,
+    "options_skew": 5.8,
+    "investigation_priority": 4.751,
+    "finra_referral": -1.576
+  },
+  {
+    "abnormal_call_volume": 3.919,
+    "options_skew": 2.995,
+    "investigation_priority": 2.565,
+    "finra_referral": -3.149
+  },
+  {
+    "abnormal_call_volume": 16.53,
+    "options_skew": 12.485,
+    "investigation_priority": 10.243,
+    "finra_referral": 15.359
+  },
+  {
+    "abnormal_call_volume": 10.246,
+    "options_skew": 7.319,
+    "investigation_priority": 6.037,
+    "finra_referral": 5.325
+  },
+  {
+    "abnormal_call_volume": 15.354,
+    "options_skew": 11.522,
+    "investigation_priority": 8.896,
+    "finra_referral": 10.933
+  },
+  {
+    "abnormal_call_volume": 12.695,
+    "options_skew": 9.493,
+    "investigation_priority": 7.623,
+    "finra_referral": 7.555
+  },
+  {
+    "abnormal_call_volume": 5.654,
+    "options_skew": 4.382,
+    "investigation_priority": 3.797,
+    "finra_referral": -2.877
+  },
+  {
+    "abnormal_call_volume": 7.829,
+    "options_skew": 5.896,
+    "investigation_priority": 4.963,
+    "finra_referral": 3.244
+  },
+  {
+    "abnormal_call_volume": 7.519,
+    "options_skew": 5.227,
+    "investigation_priority": 4.615,
+    "finra_referral": -0.026
+  },
+  {
+    "abnormal_call_volume": 5.16,
+    "options_skew": 3.575,
+    "investigation_priority": 2.765,
+    "finra_referral": -2.55
+  },
+  {
+    "abnormal_call_volume": 8.719,
+    "options_skew": 6.373,
+    "investigation_priority": 5.07,
+    "finra_referral": 3.703
+  },
+  {
+    "abnormal_call_volume": 13.499,
+    "options_skew": 10.181,
+    "investigation_priority": 7.848,
+    "finra_referral": 10.979
+  },
+  {
+    "abnormal_call_volume": 9.049,
+    "options_skew": 6.717,
+    "investigation_priority": 5.653,
+    "finra_referral": 2.238
+  },
+  {
+    "abnormal_call_volume": 17.106,
+    "options_skew": 12.63,
+    "investigation_priority": 9.718,
+    "finra_referral": 17.192
+  },
+  {
+    "abnormal_call_volume": 14.985,
+    "options_skew": 11.026,
+    "investigation_priority": 8.773,
+    "finra_referral": 12.162
+  },
+  {
+    "abnormal_call_volume": 7.614,
+    "options_skew": 5.656,
+    "investigation_priority": 4.698,
+    "finra_referral": 1.831
+  },
+  {
+    "abnormal_call_volume": 9.198,
+    "options_skew": 7.252,
+    "investigation_priority": 5.781,
+    "finra_referral": 4.474
+  },
+  {
+    "abnormal_call_volume": 8.447,
+    "options_skew": 6.359,
+    "investigation_priority": 4.983,
+    "finra_referral": 5.592
+  },
+  {
+    "abnormal_call_volume": 9.564,
+    "options_skew": 7.139,
+    "investigation_priority": 5.596,
+    "finra_referral": 5.839
+  },
+  {
+    "abnormal_call_volume": 12.843,
+    "options_skew": 9.766,
+    "investigation_priority": 7.777,
+    "finra_referral": 8.69
+  },
+  {
+    "abnormal_call_volume": 16.485,
+    "options_skew": 12.526,
+    "investigation_priority": 10.282,
+    "finra_referral": 12.483
+  },
+  {
+    "abnormal_call_volume": 9.4,
+    "options_skew": 7.085,
+    "investigation_priority": 5.835,
+    "finra_referral": 4.023
+  },
+  {
+    "abnormal_call_volume": 17.379,
+    "options_skew": 12.805,
+    "investigation_priority": 9.868,
+    "finra_referral": 16.021
+  },
+  {
+    "abnormal_call_volume": 3.758,
+    "options_skew": 2.937,
+    "investigation_priority": 2.769,
+    "finra_referral": -2.586
+  },
+  {
+    "abnormal_call_volume": 17.943,
+    "options_skew": 13.419,
+    "investigation_priority": 10.597,
+    "finra_referral": 16.622
+  },
+  {
+    "abnormal_call_volume": 15.347,
+    "options_skew": 11.192,
+    "investigation_priority": 8.81,
+    "finra_referral": 11.55
+  },
+  {
+    "abnormal_call_volume": 9.963,
+    "options_skew": 7.631,
+    "investigation_priority": 5.831,
+    "finra_referral": 5.937
+  },
+  {
+    "abnormal_call_volume": 10.346,
+    "options_skew": 7.879,
+    "investigation_priority": 6.756,
+    "finra_referral": 6.862
+  },
+  {
+    "abnormal_call_volume": 6.398,
+    "options_skew": 4.788,
+    "investigation_priority": 3.69,
+    "finra_referral": -1.177
+  },
+  {
+    "abnormal_call_volume": 13.171,
+    "options_skew": 9.934,
+    "investigation_priority": 7.835,
+    "finra_referral": 7.952
+  },
+  {
+    "abnormal_call_volume": 9.486,
+    "options_skew": 7.167,
+    "investigation_priority": 5.81,
+    "finra_referral": 5.337
+  },
+  {
+    "abnormal_call_volume": 13.826,
+    "options_skew": 10.557,
+    "investigation_priority": 8.248,
+    "finra_referral": 7.514
+  },
+  {
+    "abnormal_call_volume": 6.987,
+    "options_skew": 5.064,
+    "investigation_priority": 3.715,
+    "finra_referral": 1.991
+  },
+  {
+    "abnormal_call_volume": 12.553,
+    "options_skew": 9.501,
+    "investigation_priority": 7.834,
+    "finra_referral": 7.227
+  },
+  {
+    "abnormal_call_volume": 16.102,
+    "options_skew": 11.978,
+    "investigation_priority": 10.098,
+    "finra_referral": 13.664
+  },
+  {
+    "abnormal_call_volume": 16.583,
+    "options_skew": 12.612,
+    "investigation_priority": 9.982,
+    "finra_referral": 12.773
+  },
+  {
+    "abnormal_call_volume": 5.407,
+    "options_skew": 4.268,
+    "investigation_priority": 3.195,
+    "finra_referral": -0.591
+  },
+  {
+    "abnormal_call_volume": 8.571,
+    "options_skew": 6.61,
+    "investigation_priority": 5.284,
+    "finra_referral": 2.57
+  },
+  {
+    "abnormal_call_volume": 6.948,
+    "options_skew": 5.285,
+    "investigation_priority": 4.258,
+    "finra_referral": -1.343
+  },
+  {
+    "abnormal_call_volume": 12.28,
+    "options_skew": 9.113,
+    "investigation_priority": 7.372,
+    "finra_referral": 11.177
+  },
+  {
+    "abnormal_call_volume": 7.273,
+    "options_skew": 5.318,
+    "investigation_priority": 4.703,
+    "finra_referral": -1.221
+  },
+  {
+    "abnormal_call_volume": 7.092,
+    "options_skew": 5.333,
+    "investigation_priority": 4.439,
+    "finra_referral": 6.475
+  },
+  {
+    "abnormal_call_volume": 9.797,
+    "options_skew": 7.167,
+    "investigation_priority": 5.696,
+    "finra_referral": 6.831
+  },
+  {
+    "abnormal_call_volume": 9.692,
+    "options_skew": 6.983,
+    "investigation_priority": 5.437,
+    "finra_referral": 3.644
+  },
+  {
+    "abnormal_call_volume": 13.324,
+    "options_skew": 9.843,
+    "investigation_priority": 7.724,
+    "finra_referral": 7.992
+  },
+  {
+    "abnormal_call_volume": 8.561,
+    "options_skew": 6.647,
+    "investigation_priority": 5.233,
+    "finra_referral": 6.026
+  },
+  {
+    "abnormal_call_volume": 4.838,
+    "options_skew": 3.57,
+    "investigation_priority": 2.662,
+    "finra_referral": -0.21
+  },
+  {
+    "abnormal_call_volume": 7.111,
+    "options_skew": 5.514,
+    "investigation_priority": 4.514,
+    "finra_referral": 1.559
+  },
+  {
+    "abnormal_call_volume": 8.024,
+    "options_skew": 5.819,
+    "investigation_priority": 4.587,
+    "finra_referral": 3.921
+  },
+  {
+    "abnormal_call_volume": 10.905,
+    "options_skew": 8.39,
+    "investigation_priority": 7.207,
+    "finra_referral": 6.101
+  },
+  {
+    "abnormal_call_volume": 10.981,
+    "options_skew": 8.064,
+    "investigation_priority": 6.193,
+    "finra_referral": 6.179
+  },
+  {
+    "abnormal_call_volume": 16.118,
+    "options_skew": 12.146,
+    "investigation_priority": 9.648,
+    "finra_referral": 15.313
+  },
+  {
+    "abnormal_call_volume": 11.781,
+    "options_skew": 8.946,
+    "investigation_priority": 7.405,
+    "finra_referral": 2.57
+  },
+  {
+    "abnormal_call_volume": 8.918,
+    "options_skew": 6.735,
+    "investigation_priority": 5.256,
+    "finra_referral": 3.953
+  },
+  {
+    "abnormal_call_volume": 13.384,
+    "options_skew": 10.115,
+    "investigation_priority": 8.352,
+    "finra_referral": 7.991
+  },
+  {
+    "abnormal_call_volume": 15.037,
+    "options_skew": 11.556,
+    "investigation_priority": 9.342,
+    "finra_referral": 9.92
+  },
+  {
+    "abnormal_call_volume": 6.828,
+    "options_skew": 5.205,
+    "investigation_priority": 3.964,
+    "finra_referral": 7.117
+  },
+  {
+    "abnormal_call_volume": 9.183,
+    "options_skew": 6.971,
+    "investigation_priority": 5.286,
+    "finra_referral": 0.184
+  },
+  {
+    "abnormal_call_volume": 7.188,
+    "options_skew": 5.821,
+    "investigation_priority": 4.651,
+    "finra_referral": -1.586
+  },
+  {
+    "abnormal_call_volume": 10.031,
+    "options_skew": 7.462,
+    "investigation_priority": 6.183,
+    "finra_referral": 2.773
+  },
+  {
+    "abnormal_call_volume": 12.28,
+    "options_skew": 9.309,
+    "investigation_priority": 7.623,
+    "finra_referral": 7.951
+  },
+  {
+    "abnormal_call_volume": 10.109,
+    "options_skew": 7.428,
+    "investigation_priority": 5.712,
+    "finra_referral": 5.09
+  },
+  {
+    "abnormal_call_volume": 8.104,
+    "options_skew": 6.072,
+    "investigation_priority": 4.719,
+    "finra_referral": 3.434
+  },
+  {
+    "abnormal_call_volume": 19.352,
+    "options_skew": 14.157,
+    "investigation_priority": 11.128,
+    "finra_referral": 18.8
+  },
+  {
+    "abnormal_call_volume": 18.882,
+    "options_skew": 14.36,
+    "investigation_priority": 11.41,
+    "finra_referral": 17.853
+  },
+  {
+    "abnormal_call_volume": 12.176,
+    "options_skew": 9.085,
+    "investigation_priority": 7.426,
+    "finra_referral": 7.447
+  },
+  {
+    "abnormal_call_volume": 12.823,
+    "options_skew": 9.528,
+    "investigation_priority": 7.148,
+    "finra_referral": 7.223
+  },
+  {
+    "abnormal_call_volume": 1.172,
+    "options_skew": 0.941,
+    "investigation_priority": 0.974,
+    "finra_referral": -4.606
+  },
+  {
+    "abnormal_call_volume": 13.67,
+    "options_skew": 10.193,
+    "investigation_priority": 8.225,
+    "finra_referral": 10.351
+  },
+  {
+    "abnormal_call_volume": 15.522,
+    "options_skew": 11.758,
+    "investigation_priority": 9.145,
+    "finra_referral": 7.771
+  },
+  {
+    "abnormal_call_volume": 13.121,
+    "options_skew": 9.597,
+    "investigation_priority": 7.666,
+    "finra_referral": 6.409
+  },
+  {
+    "abnormal_call_volume": 7.257,
+    "options_skew": 5.201,
+    "investigation_priority": 4.325,
+    "finra_referral": 0.684
+  },
+  {
+    "abnormal_call_volume": 8.702,
+    "options_skew": 6.578,
+    "investigation_priority": 5.242,
+    "finra_referral": 1.994
+  },
+  {
+    "abnormal_call_volume": 8.609,
+    "options_skew": 6.558,
+    "investigation_priority": 5.285,
+    "finra_referral": 2.443
+  },
+  {
+    "abnormal_call_volume": 7.563,
+    "options_skew": 5.794,
+    "investigation_priority": 4.597,
+    "finra_referral": 0.726
+  },
+  {
+    "abnormal_call_volume": 11.329,
+    "options_skew": 8.457,
+    "investigation_priority": 6.361,
+    "finra_referral": 5.225
+  },
+  {
+    "abnormal_call_volume": 13.041,
+    "options_skew": 9.792,
+    "investigation_priority": 7.816,
+    "finra_referral": 6.457
+  },
+  {
+    "abnormal_call_volume": 9.435,
+    "options_skew": 6.921,
+    "investigation_priority": 5.341,
+    "finra_referral": 3.296
+  },
+  {
+    "abnormal_call_volume": -1.131,
+    "options_skew": -1.237,
+    "investigation_priority": -0.819,
+    "finra_referral": -9.873
+  },
+  {
+    "abnormal_call_volume": 8.637,
+    "options_skew": 6.247,
+    "investigation_priority": 4.992,
+    "finra_referral": 2.816
+  },
+  {
+    "abnormal_call_volume": 12.206,
+    "options_skew": 8.926,
+    "investigation_priority": 7.119,
+    "finra_referral": 9.408
+  },
+  {
+    "abnormal_call_volume": 13.301,
+    "options_skew": 9.739,
+    "investigation_priority": 7.67,
+    "finra_referral": 7.742
+  },
+  {
+    "abnormal_call_volume": 10.498,
+    "options_skew": 7.917,
+    "investigation_priority": 5.909,
+    "finra_referral": 7.049
+  },
+  {
+    "abnormal_call_volume": 10.601,
+    "options_skew": 8.353,
+    "investigation_priority": 6.703,
+    "finra_referral": 7.945
+  },
+  {
+    "abnormal_call_volume": 8.622,
+    "options_skew": 6.565,
+    "investigation_priority": 5.091,
+    "finra_referral": 3.026
+  },
+  {
+    "abnormal_call_volume": 10.897,
+    "options_skew": 8.717,
+    "investigation_priority": 6.973,
+    "finra_referral": 4.282
+  },
+  {
+    "abnormal_call_volume": 14.62,
+    "options_skew": 11.145,
+    "investigation_priority": 9.184,
+    "finra_referral": 8.979
+  },
+  {
+    "abnormal_call_volume": 9.268,
+    "options_skew": 7.066,
+    "investigation_priority": 5.806,
+    "finra_referral": 2.759
+  },
+  {
+    "abnormal_call_volume": 8.933,
+    "options_skew": 7.066,
+    "investigation_priority": 5.886,
+    "finra_referral": 4.634
+  },
+  {
+    "abnormal_call_volume": 15.964,
+    "options_skew": 11.959,
+    "investigation_priority": 9.686,
+    "finra_referral": 11.254
+  },
+  {
+    "abnormal_call_volume": 6.382,
+    "options_skew": 5.002,
+    "investigation_priority": 4.267,
+    "finra_referral": 2.535
+  },
+  {
+    "abnormal_call_volume": 12.708,
+    "options_skew": 9.567,
+    "investigation_priority": 7.364,
+    "finra_referral": 8.323
+  },
+  {
+    "abnormal_call_volume": 9.248,
+    "options_skew": 6.606,
+    "investigation_priority": 5.116,
+    "finra_referral": 3.008
+  },
+  {
+    "abnormal_call_volume": 4.915,
+    "options_skew": 3.668,
+    "investigation_priority": 2.861,
+    "finra_referral": -3.772
+  },
+  {
+    "abnormal_call_volume": 17.601,
+    "options_skew": 13.148,
+    "investigation_priority": 10.601,
+    "finra_referral": 12.003
+  },
+  {
+    "abnormal_call_volume": 7.603,
+    "options_skew": 5.833,
+    "investigation_priority": 4.618,
+    "finra_referral": 3.283
+  },
+  {
+    "abnormal_call_volume": 8.184,
+    "options_skew": 6.37,
+    "investigation_priority": 5.343,
+    "finra_referral": 5.761
+  },
+  {
+    "abnormal_call_volume": 9.101,
+    "options_skew": 6.626,
+    "investigation_priority": 5.297,
+    "finra_referral": 1.233
+  },
+  {
+    "abnormal_call_volume": 15.986,
+    "options_skew": 12.316,
+    "investigation_priority": 9.821,
+    "finra_referral": 8.583
+  },
+  {
+    "abnormal_call_volume": 11.895,
+    "options_skew": 9.018,
+    "investigation_priority": 7.285,
+    "finra_referral": 10.57
+  },
+  {
+    "abnormal_call_volume": 4.688,
+    "options_skew": 3.652,
+    "investigation_priority": 3.055,
+    "finra_referral": -1.55
+  },
+  {
+    "abnormal_call_volume": 14.795,
+    "options_skew": 11.055,
+    "investigation_priority": 8.661,
+    "finra_referral": 8.636
+  },
+  {
+    "abnormal_call_volume": 11.979,
+    "options_skew": 9.186,
+    "investigation_priority": 7.519,
+    "finra_referral": 8.528
+  },
+  {
+    "abnormal_call_volume": 13.799,
+    "options_skew": 10.333,
+    "investigation_priority": 8.554,
+    "finra_referral": 12.13
+  },
+  {
+    "abnormal_call_volume": 12.429,
+    "options_skew": 9.269,
+    "investigation_priority": 6.702,
+    "finra_referral": 8.536
+  },
+  {
+    "abnormal_call_volume": 10.456,
+    "options_skew": 7.668,
+    "investigation_priority": 5.919,
+    "finra_referral": 8.011
+  },
+  {
+    "abnormal_call_volume": 3.789,
+    "options_skew": 2.598,
+    "investigation_priority": 2.394,
+    "finra_referral": -3.14
+  },
+  {
+    "abnormal_call_volume": 16.713,
+    "options_skew": 12.64,
+    "investigation_priority": 9.918,
+    "finra_referral": 12.154
+  },
+  {
+    "abnormal_call_volume": 15.051,
+    "options_skew": 10.997,
+    "investigation_priority": 8.932,
+    "finra_referral": 10.374
+  },
+  {
+    "abnormal_call_volume": 13.133,
+    "options_skew": 9.935,
+    "investigation_priority": 8.142,
+    "finra_referral": 8.241
+  },
+  {
+    "abnormal_call_volume": 14.001,
+    "options_skew": 10.256,
+    "investigation_priority": 7.933,
+    "finra_referral": 10.528
+  },
+  {
+    "abnormal_call_volume": 10.592,
+    "options_skew": 7.982,
+    "investigation_priority": 6.438,
+    "finra_referral": 6.368
+  },
+  {
+    "abnormal_call_volume": 10.436,
+    "options_skew": 7.911,
+    "investigation_priority": 6.174,
+    "finra_referral": 5.312
+  },
+  {
+    "abnormal_call_volume": 11.692,
+    "options_skew": 8.849,
+    "investigation_priority": 6.832,
+    "finra_referral": 7.776
+  },
+  {
+    "abnormal_call_volume": 6.779,
+    "options_skew": 4.874,
+    "investigation_priority": 3.776,
+    "finra_referral": 0.472
+  },
+  {
+    "abnormal_call_volume": -0.774,
+    "options_skew": -0.469,
+    "investigation_priority": 0.206,
+    "finra_referral": -4.817
+  },
+  {
+    "abnormal_call_volume": 9.885,
+    "options_skew": 7.37,
+    "investigation_priority": 6.129,
+    "finra_referral": 4.766
+  },
+  {
+    "abnormal_call_volume": 11.521,
+    "options_skew": 8.6,
+    "investigation_priority": 6.664,
+    "finra_referral": 7.649
+  },
+  {
+    "abnormal_call_volume": 12.807,
+    "options_skew": 9.943,
+    "investigation_priority": 8.147,
+    "finra_referral": 8.633
+  },
+  {
+    "abnormal_call_volume": 9.877,
+    "options_skew": 7.696,
+    "investigation_priority": 5.948,
+    "finra_referral": 4.776
+  },
+  {
+    "abnormal_call_volume": 6.742,
+    "options_skew": 5.264,
+    "investigation_priority": 4.029,
+    "finra_referral": 1.916
+  },
+  {
+    "abnormal_call_volume": 13.478,
+    "options_skew": 10.533,
+    "investigation_priority": 8.47,
+    "finra_referral": 10.552
+  },
+  {
+    "abnormal_call_volume": 9.535,
+    "options_skew": 7.062,
+    "investigation_priority": 5.451,
+    "finra_referral": 4.233
+  },
+  {
+    "abnormal_call_volume": 12.344,
+    "options_skew": 9.273,
+    "investigation_priority": 7.344,
+    "finra_referral": 8.357
+  },
+  {
+    "abnormal_call_volume": 10.275,
+    "options_skew": 7.937,
+    "investigation_priority": 6.511,
+    "finra_referral": 7.35
+  },
+  {
+    "abnormal_call_volume": 7.656,
+    "options_skew": 5.303,
+    "investigation_priority": 4.39,
+    "finra_referral": 2.108
+  },
+  {
+    "abnormal_call_volume": 2.978,
+    "options_skew": 1.899,
+    "investigation_priority": 1.605,
+    "finra_referral": -4.046
+  },
+  {
+    "abnormal_call_volume": 4.829,
+    "options_skew": 3.667,
+    "investigation_priority": 2.782,
+    "finra_referral": 0.35
+  },
+  {
+    "abnormal_call_volume": 15.652,
+    "options_skew": 11.811,
+    "investigation_priority": 9.289,
+    "finra_referral": 13.306
+  },
+  {
+    "abnormal_call_volume": 9.809,
+    "options_skew": 7.275,
+    "investigation_priority": 6.01,
+    "finra_referral": 6.366
+  },
+  {
+    "abnormal_call_volume": 9.333,
+    "options_skew": 7.044,
+    "investigation_priority": 5.381,
+    "finra_referral": 3.464
+  },
+  {
+    "abnormal_call_volume": 7.6,
+    "options_skew": 5.39,
+    "investigation_priority": 4.517,
+    "finra_referral": 1.541
+  },
+  {
+    "abnormal_call_volume": 13.038,
+    "options_skew": 9.555,
+    "investigation_priority": 7.704,
+    "finra_referral": 9.315
+  },
+  {
+    "abnormal_call_volume": 5.31,
+    "options_skew": 3.792,
+    "investigation_priority": 3.352,
+    "finra_referral": -0.387
+  },
+  {
+    "abnormal_call_volume": 7.555,
+    "options_skew": 5.491,
+    "investigation_priority": 4.459,
+    "finra_referral": 3.013
+  },
+  {
+    "abnormal_call_volume": 4.862,
+    "options_skew": 3.284,
+    "investigation_priority": 2.593,
+    "finra_referral": 0.334
+  },
+  {
+    "abnormal_call_volume": 10.274,
+    "options_skew": 7.683,
+    "investigation_priority": 5.98,
+    "finra_referral": 8.962
+  },
+  {
+    "abnormal_call_volume": 7.446,
+    "options_skew": 5.825,
+    "investigation_priority": 4.639,
+    "finra_referral": -0.436
+  },
+  {
+    "abnormal_call_volume": 3.134,
+    "options_skew": 2.502,
+    "investigation_priority": 1.597,
+    "finra_referral": -4.314
+  },
+  {
+    "abnormal_call_volume": 6.835,
+    "options_skew": 5.039,
+    "investigation_priority": 4.031,
+    "finra_referral": 0.273
+  },
+  {
+    "abnormal_call_volume": 12.57,
+    "options_skew": 9.595,
+    "investigation_priority": 7.592,
+    "finra_referral": 9.523
+  },
+  {
+    "abnormal_call_volume": 12.958,
+    "options_skew": 10.055,
+    "investigation_priority": 8.193,
+    "finra_referral": 11.546
+  },
+  {
+    "abnormal_call_volume": 6.836,
+    "options_skew": 5.121,
+    "investigation_priority": 4.05,
+    "finra_referral": 2.409
+  },
+  {
+    "abnormal_call_volume": 7.118,
+    "options_skew": 5.38,
+    "investigation_priority": 4.284,
+    "finra_referral": 3.613
+  },
+  {
+    "abnormal_call_volume": 3.759,
+    "options_skew": 2.804,
+    "investigation_priority": 2.175,
+    "finra_referral": -1.525
+  },
+  {
+    "abnormal_call_volume": 10.528,
+    "options_skew": 8.072,
+    "investigation_priority": 6.401,
+    "finra_referral": 6.984
+  },
+  {
+    "abnormal_call_volume": 13.459,
+    "options_skew": 10.301,
+    "investigation_priority": 8.311,
+    "finra_referral": 9.243
+  },
+  {
+    "abnormal_call_volume": 9.314,
+    "options_skew": 7.079,
+    "investigation_priority": 5.789,
+    "finra_referral": 1.811
+  },
+  {
+    "abnormal_call_volume": 3.779,
+    "options_skew": 2.707,
+    "investigation_priority": 2.114,
+    "finra_referral": -3.19
+  },
+  {
+    "abnormal_call_volume": 11.984,
+    "options_skew": 9.09,
+    "investigation_priority": 7.365,
+    "finra_referral": 6.416
+  },
+  {
+    "abnormal_call_volume": 16.316,
+    "options_skew": 12.156,
+    "investigation_priority": 9.47,
+    "finra_referral": 12.112
+  },
+  {
+    "abnormal_call_volume": 10.004,
+    "options_skew": 7.404,
+    "investigation_priority": 6.021,
+    "finra_referral": 7.45
+  },
+  {
+    "abnormal_call_volume": 8.261,
+    "options_skew": 5.996,
+    "investigation_priority": 4.98,
+    "finra_referral": 2.946
+  },
+  {
+    "abnormal_call_volume": 8.488,
+    "options_skew": 6.651,
+    "investigation_priority": 5.42,
+    "finra_referral": 5.535
+  },
+  {
+    "abnormal_call_volume": 9.03,
+    "options_skew": 7.243,
+    "investigation_priority": 5.639,
+    "finra_referral": 3.226
+  },
+  {
+    "abnormal_call_volume": 9.738,
+    "options_skew": 7.312,
+    "investigation_priority": 5.456,
+    "finra_referral": 4.38
+  },
+  {
+    "abnormal_call_volume": 6.888,
+    "options_skew": 5.176,
+    "investigation_priority": 4.045,
+    "finra_referral": -0.788
+  },
+  {
+    "abnormal_call_volume": 8.938,
+    "options_skew": 6.926,
+    "investigation_priority": 5.434,
+    "finra_referral": 4.413
+  },
+  {
+    "abnormal_call_volume": 14.156,
+    "options_skew": 10.419,
+    "investigation_priority": 8.378,
+    "finra_referral": 7.131
+  },
+  {
+    "abnormal_call_volume": 15.051,
+    "options_skew": 11.207,
+    "investigation_priority": 8.827,
+    "finra_referral": 10.021
+  },
+  {
+    "abnormal_call_volume": 13.349,
+    "options_skew": 9.911,
+    "investigation_priority": 7.89,
+    "finra_referral": 5.59
+  },
+  {
+    "abnormal_call_volume": 10.229,
+    "options_skew": 7.289,
+    "investigation_priority": 6.005,
+    "finra_referral": 2.91
+  },
+  {
+    "abnormal_call_volume": 14.569,
+    "options_skew": 10.845,
+    "investigation_priority": 8.494,
+    "finra_referral": 13.31
+  },
+  {
+    "abnormal_call_volume": 15.318,
+    "options_skew": 11.574,
+    "investigation_priority": 9.221,
+    "finra_referral": 12.806
+  },
+  {
+    "abnormal_call_volume": -1.109,
+    "options_skew": -1.175,
+    "investigation_priority": -0.946,
+    "finra_referral": -10.358
+  },
+  {
+    "abnormal_call_volume": 5.119,
+    "options_skew": 3.784,
+    "investigation_priority": 3.217,
+    "finra_referral": 1.198
+  },
+  {
+    "abnormal_call_volume": 6.254,
+    "options_skew": 4.947,
+    "investigation_priority": 4.096,
+    "finra_referral": -1.005
+  },
+  {
+    "abnormal_call_volume": 7.498,
+    "options_skew": 5.708,
+    "investigation_priority": 4.804,
+    "finra_referral": 1.255
+  },
+  {
+    "abnormal_call_volume": 5.679,
+    "options_skew": 4.334,
+    "investigation_priority": 3.443,
+    "finra_referral": 1.634
+  },
+  {
+    "abnormal_call_volume": 17.699,
+    "options_skew": 13.192,
+    "investigation_priority": 10.412,
+    "finra_referral": 13.992
+  },
+  {
+    "abnormal_call_volume": 10.509,
+    "options_skew": 7.962,
+    "investigation_priority": 6.5,
+    "finra_referral": 9.314
+  },
+  {
+    "abnormal_call_volume": 6.594,
+    "options_skew": 5.018,
+    "investigation_priority": 4.107,
+    "finra_referral": 3.219
+  },
+  {
+    "abnormal_call_volume": 3.384,
+    "options_skew": 2.49,
+    "investigation_priority": 1.859,
+    "finra_referral": -3.048
+  },
+  {
+    "abnormal_call_volume": 7.819,
+    "options_skew": 5.837,
+    "investigation_priority": 4.684,
+    "finra_referral": -0.397
+  },
+  {
+    "abnormal_call_volume": 8.221,
+    "options_skew": 6.346,
+    "investigation_priority": 5.02,
+    "finra_referral": 4.635
+  },
+  {
+    "abnormal_call_volume": 8.302,
+    "options_skew": 6.49,
+    "investigation_priority": 5.181,
+    "finra_referral": 2.686
+  },
+  {
+    "abnormal_call_volume": 12.574,
+    "options_skew": 9.385,
+    "investigation_priority": 7.48,
+    "finra_referral": 9.532
+  },
+  {
+    "abnormal_call_volume": 4.378,
+    "options_skew": 3.067,
+    "investigation_priority": 2.269,
+    "finra_referral": -3.594
+  },
+  {
+    "abnormal_call_volume": 7.318,
+    "options_skew": 5.329,
+    "investigation_priority": 4.064,
+    "finra_referral": 0.696
+  },
+  {
+    "abnormal_call_volume": 8.916,
+    "options_skew": 6.693,
+    "investigation_priority": 5.351,
+    "finra_referral": 2.811
+  },
+  {
+    "abnormal_call_volume": 14.96,
+    "options_skew": 11.077,
+    "investigation_priority": 8.941,
+    "finra_referral": 12.899
+  },
+  {
+    "abnormal_call_volume": 17.767,
+    "options_skew": 13.706,
+    "investigation_priority": 11.021,
+    "finra_referral": 16.582
+  },
+  {
+    "abnormal_call_volume": 4.957,
+    "options_skew": 3.648,
+    "investigation_priority": 3.371,
+    "finra_referral": -3.905
+  },
+  {
+    "abnormal_call_volume": 7.564,
+    "options_skew": 5.464,
+    "investigation_priority": 4.445,
+    "finra_referral": 1.798
+  },
+  {
+    "abnormal_call_volume": 14.62,
+    "options_skew": 11.099,
+    "investigation_priority": 9.34,
+    "finra_referral": 11.184
+  },
+  {
+    "abnormal_call_volume": 12.716,
+    "options_skew": 9.599,
+    "investigation_priority": 7.944,
+    "finra_referral": 7.817
+  },
+  {
+    "abnormal_call_volume": 2.482,
+    "options_skew": 1.629,
+    "investigation_priority": 1.352,
+    "finra_referral": -5.417
+  },
+  {
+    "abnormal_call_volume": 5.462,
+    "options_skew": 3.707,
+    "investigation_priority": 2.72,
+    "finra_referral": -2.604
+  },
+  {
+    "abnormal_call_volume": 8.883,
+    "options_skew": 6.664,
+    "investigation_priority": 5.391,
+    "finra_referral": 5.683
+  },
+  {
+    "abnormal_call_volume": 8.377,
+    "options_skew": 6.201,
+    "investigation_priority": 4.902,
+    "finra_referral": 2.305
+  },
+  {
+    "abnormal_call_volume": 11.882,
+    "options_skew": 9.103,
+    "investigation_priority": 7.301,
+    "finra_referral": 6.584
+  },
+  {
+    "abnormal_call_volume": 13.005,
+    "options_skew": 9.99,
+    "investigation_priority": 7.73,
+    "finra_referral": 8.977
+  },
+  {
+    "abnormal_call_volume": 15.071,
+    "options_skew": 11.541,
+    "investigation_priority": 9.082,
+    "finra_referral": 10.765
+  },
+  {
+    "abnormal_call_volume": 16.557,
+    "options_skew": 12.483,
+    "investigation_priority": 9.517,
+    "finra_referral": 17.318
+  },
+  {
+    "abnormal_call_volume": 13.487,
+    "options_skew": 10.138,
+    "investigation_priority": 7.955,
+    "finra_referral": 11.538
+  },
+  {
+    "abnormal_call_volume": 7.345,
+    "options_skew": 5.196,
+    "investigation_priority": 4.408,
+    "finra_referral": 3.595
+  },
+  {
+    "abnormal_call_volume": 11.713,
+    "options_skew": 8.961,
+    "investigation_priority": 7.356,
+    "finra_referral": 11.7
+  },
+  {
+    "abnormal_call_volume": 15.108,
+    "options_skew": 11.438,
+    "investigation_priority": 8.924,
+    "finra_referral": 12.029
+  },
+  {
+    "abnormal_call_volume": 11.056,
+    "options_skew": 8.27,
+    "investigation_priority": 6.619,
+    "finra_referral": 1.907
+  },
+  {
+    "abnormal_call_volume": 6.072,
+    "options_skew": 4.546,
+    "investigation_priority": 3.832,
+    "finra_referral": 0.029
+  },
+  {
+    "abnormal_call_volume": 14.524,
+    "options_skew": 10.976,
+    "investigation_priority": 8.505,
+    "finra_referral": 8.532
+  },
+  {
+    "abnormal_call_volume": 12.051,
+    "options_skew": 8.911,
+    "investigation_priority": 6.863,
+    "finra_referral": 6.483
+  },
+  {
+    "abnormal_call_volume": 8.799,
+    "options_skew": 6.352,
+    "investigation_priority": 4.964,
+    "finra_referral": 3.316
+  },
+  {
+    "abnormal_call_volume": 5.24,
+    "options_skew": 3.977,
+    "investigation_priority": 3.286,
+    "finra_referral": -1.465
+  },
+  {
+    "abnormal_call_volume": 6.379,
+    "options_skew": 4.514,
+    "investigation_priority": 4.003,
+    "finra_referral": 0.344
+  },
+  {
+    "abnormal_call_volume": 8.824,
+    "options_skew": 7.082,
+    "investigation_priority": 5.781,
+    "finra_referral": 3.769
+  },
+  {
+    "abnormal_call_volume": 13.103,
+    "options_skew": 10.177,
+    "investigation_priority": 8.028,
+    "finra_referral": 12.344
+  },
+  {
+    "abnormal_call_volume": 7.801,
+    "options_skew": 6.009,
+    "investigation_priority": 4.428,
+    "finra_referral": 2.924
+  },
+  {
+    "abnormal_call_volume": 12.21,
+    "options_skew": 9.14,
+    "investigation_priority": 7.383,
+    "finra_referral": 6.788
+  },
+  {
+    "abnormal_call_volume": 18.815,
+    "options_skew": 13.683,
+    "investigation_priority": 10.633,
+    "finra_referral": 12.505
+  },
+  {
+    "abnormal_call_volume": 8.723,
+    "options_skew": 6.251,
+    "investigation_priority": 4.812,
+    "finra_referral": 2.445
+  },
+  {
+    "abnormal_call_volume": 10.647,
+    "options_skew": 8.27,
+    "investigation_priority": 6.63,
+    "finra_referral": 7.965
+  },
+  {
+    "abnormal_call_volume": 6.089,
+    "options_skew": 4.228,
+    "investigation_priority": 3.649,
+    "finra_referral": -0.637
+  },
+  {
+    "abnormal_call_volume": 1.844,
+    "options_skew": 1.117,
+    "investigation_priority": 0.988,
+    "finra_referral": -8.048
+  },
+  {
+    "abnormal_call_volume": 5.652,
+    "options_skew": 4.525,
+    "investigation_priority": 3.299,
+    "finra_referral": -0.289
+  },
+  {
+    "abnormal_call_volume": 4.652,
+    "options_skew": 3.482,
+    "investigation_priority": 2.742,
+    "finra_referral": -2.334
+  },
+  {
+    "abnormal_call_volume": 12.601,
+    "options_skew": 9.75,
+    "investigation_priority": 8.25,
+    "finra_referral": 9.476
+  },
+  {
+    "abnormal_call_volume": 15.329,
+    "options_skew": 11.647,
+    "investigation_priority": 9.485,
+    "finra_referral": 14.884
+  },
+  {
+    "abnormal_call_volume": 9.359,
+    "options_skew": 6.878,
+    "investigation_priority": 5.181,
+    "finra_referral": 3.381
+  },
+  {
+    "abnormal_call_volume": 10.722,
+    "options_skew": 7.935,
+    "investigation_priority": 6.457,
+    "finra_referral": 7.444
+  },
+  {
+    "abnormal_call_volume": 14.592,
+    "options_skew": 10.87,
+    "investigation_priority": 8.661,
+    "finra_referral": 10.471
+  },
+  {
+    "abnormal_call_volume": 13.506,
+    "options_skew": 10.505,
+    "investigation_priority": 8.516,
+    "finra_referral": 9.221
+  },
+  {
+    "abnormal_call_volume": 12.276,
+    "options_skew": 9.268,
+    "investigation_priority": 7.492,
+    "finra_referral": 11.417
+  },
+  {
+    "abnormal_call_volume": 12.097,
+    "options_skew": 9.296,
+    "investigation_priority": 7.527,
+    "finra_referral": 8.813
+  },
+  {
+    "abnormal_call_volume": 10.52,
+    "options_skew": 7.822,
+    "investigation_priority": 6.366,
+    "finra_referral": 7.143
+  },
+  {
+    "abnormal_call_volume": 12.897,
+    "options_skew": 10.091,
+    "investigation_priority": 8.285,
+    "finra_referral": 8.61
+  },
+  {
+    "abnormal_call_volume": 8.397,
+    "options_skew": 6.745,
+    "investigation_priority": 5.417,
+    "finra_referral": 3.441
+  },
+  {
+    "abnormal_call_volume": 5.341,
+    "options_skew": 3.881,
+    "investigation_priority": 3.082,
+    "finra_referral": 0.292
+  },
+  {
+    "abnormal_call_volume": 5.48,
+    "options_skew": 4.353,
+    "investigation_priority": 3.663,
+    "finra_referral": 0.479
+  },
+  {
+    "abnormal_call_volume": 13.121,
+    "options_skew": 9.758,
+    "investigation_priority": 7.776,
+    "finra_referral": 9.091
+  },
+  {
+    "abnormal_call_volume": 13.243,
+    "options_skew": 9.737,
+    "investigation_priority": 8.146,
+    "finra_referral": 8.127
+  },
+  {
+    "abnormal_call_volume": 10.606,
+    "options_skew": 7.845,
+    "investigation_priority": 6.108,
+    "finra_referral": 7.54
+  },
+  {
+    "abnormal_call_volume": 8.166,
+    "options_skew": 5.693,
+    "investigation_priority": 4.57,
+    "finra_referral": 4.206
+  },
+  {
+    "abnormal_call_volume": 15.846,
+    "options_skew": 11.925,
+    "investigation_priority": 9.303,
+    "finra_referral": 9.897
+  },
+  {
+    "abnormal_call_volume": 9.122,
+    "options_skew": 6.405,
+    "investigation_priority": 5.465,
+    "finra_referral": 7.026
+  },
+  {
+    "abnormal_call_volume": 12.038,
+    "options_skew": 9.16,
+    "investigation_priority": 7.43,
+    "finra_referral": 4.724
+  },
+  {
+    "abnormal_call_volume": 2.96,
+    "options_skew": 2.483,
+    "investigation_priority": 1.801,
+    "finra_referral": -4.035
+  },
+  {
+    "abnormal_call_volume": 9.614,
+    "options_skew": 6.878,
+    "investigation_priority": 5.521,
+    "finra_referral": 5.096
+  },
+  {
+    "abnormal_call_volume": 8.131,
+    "options_skew": 5.721,
+    "investigation_priority": 4.74,
+    "finra_referral": 2.632
+  },
+  {
+    "abnormal_call_volume": 4.194,
+    "options_skew": 3.185,
+    "investigation_priority": 2.849,
+    "finra_referral": -3.633
+  },
+  {
+    "abnormal_call_volume": 8.884,
+    "options_skew": 6.499,
+    "investigation_priority": 5.272,
+    "finra_referral": 6.687
+  },
+  {
+    "abnormal_call_volume": 7.507,
+    "options_skew": 5.593,
+    "investigation_priority": 4.667,
+    "finra_referral": 4.149
+  },
+  {
+    "abnormal_call_volume": 8.674,
+    "options_skew": 6.465,
+    "investigation_priority": 4.947,
+    "finra_referral": 1.853
+  },
+  {
+    "abnormal_call_volume": 17.683,
+    "options_skew": 13.376,
+    "investigation_priority": 10.711,
+    "finra_referral": 13.188
+  },
+  {
+    "abnormal_call_volume": 10.993,
+    "options_skew": 8.294,
+    "investigation_priority": 6.656,
+    "finra_referral": 5.722
+  },
+  {
+    "abnormal_call_volume": 9.105,
+    "options_skew": 6.992,
+    "investigation_priority": 5.875,
+    "finra_referral": 5.886
+  },
+  {
+    "abnormal_call_volume": 13.364,
+    "options_skew": 10.122,
+    "investigation_priority": 8.019,
+    "finra_referral": 7.042
+  },
+  {
+    "abnormal_call_volume": 11.363,
+    "options_skew": 8.56,
+    "investigation_priority": 6.825,
+    "finra_referral": 5.745
+  },
+  {
+    "abnormal_call_volume": 6.498,
+    "options_skew": 5.171,
+    "investigation_priority": 4.175,
+    "finra_referral": 0.26
+  },
+  {
+    "abnormal_call_volume": 5.667,
+    "options_skew": 4.366,
+    "investigation_priority": 3.078,
+    "finra_referral": -1.602
+  },
+  {
+    "abnormal_call_volume": 9.149,
+    "options_skew": 6.889,
+    "investigation_priority": 5.576,
+    "finra_referral": 1.86
+  },
+  {
+    "abnormal_call_volume": 2.598,
+    "options_skew": 1.924,
+    "investigation_priority": 1.459,
+    "finra_referral": -3.695
+  },
+  {
+    "abnormal_call_volume": 4.759,
+    "options_skew": 3.643,
+    "investigation_priority": 2.944,
+    "finra_referral": -0.906
+  },
+  {
+    "abnormal_call_volume": 7.863,
+    "options_skew": 5.975,
+    "investigation_priority": 4.751,
+    "finra_referral": 2.509
+  },
+  {
+    "abnormal_call_volume": 12.545,
+    "options_skew": 9.061,
+    "investigation_priority": 7.211,
+    "finra_referral": 7.428
+  },
+  {
+    "abnormal_call_volume": 13.874,
+    "options_skew": 10.676,
+    "investigation_priority": 8.66,
+    "finra_referral": 7.433
+  },
+  {
+    "abnormal_call_volume": 7.299,
+    "options_skew": 5.363,
+    "investigation_priority": 3.89,
+    "finra_referral": 3.524
+  },
+  {
+    "abnormal_call_volume": 13.551,
+    "options_skew": 10.417,
+    "investigation_priority": 8.402,
+    "finra_referral": 10.256
+  },
+  {
+    "abnormal_call_volume": 3.469,
+    "options_skew": 2.376,
+    "investigation_priority": 1.722,
+    "finra_referral": -2.017
+  },
+  {
+    "abnormal_call_volume": 12.336,
+    "options_skew": 8.923,
+    "investigation_priority": 6.732,
+    "finra_referral": 7.452
+  },
+  {
+    "abnormal_call_volume": 13.15,
+    "options_skew": 10.121,
+    "investigation_priority": 8.072,
+    "finra_referral": 9.215
+  },
+  {
+    "abnormal_call_volume": 10.187,
+    "options_skew": 7.911,
+    "investigation_priority": 6.745,
+    "finra_referral": 8.871
+  },
+  {
+    "abnormal_call_volume": 3.972,
+    "options_skew": 2.656,
+    "investigation_priority": 1.807,
+    "finra_referral": -0.286
+  },
+  {
+    "abnormal_call_volume": 11.952,
+    "options_skew": 9.267,
+    "investigation_priority": 7.37,
+    "finra_referral": 7.94
+  },
+  {
+    "abnormal_call_volume": 12.664,
+    "options_skew": 9.261,
+    "investigation_priority": 7.539,
+    "finra_referral": 8.044
+  },
+  {
+    "abnormal_call_volume": 10.582,
+    "options_skew": 8.119,
+    "investigation_priority": 6.723,
+    "finra_referral": 1.721
+  },
+  {
+    "abnormal_call_volume": 4.687,
+    "options_skew": 3.527,
+    "investigation_priority": 2.853,
+    "finra_referral": 1.327
+  },
+  {
+    "abnormal_call_volume": 6.105,
+    "options_skew": 4.619,
+    "investigation_priority": 3.45,
+    "finra_referral": 2.995
+  },
+  {
+    "abnormal_call_volume": 10.307,
+    "options_skew": 7.205,
+    "investigation_priority": 5.507,
+    "finra_referral": 3.92
+  },
+  {
+    "abnormal_call_volume": 5.805,
+    "options_skew": 4.385,
+    "investigation_priority": 3.462,
+    "finra_referral": -1.801
+  },
+  {
+    "abnormal_call_volume": 10.589,
+    "options_skew": 7.862,
+    "investigation_priority": 6.39,
+    "finra_referral": 6.139
+  },
+  {
+    "abnormal_call_volume": 9.347,
+    "options_skew": 7.017,
+    "investigation_priority": 5.63,
+    "finra_referral": 4.596
+  },
+  {
+    "abnormal_call_volume": 3.306,
+    "options_skew": 2.52,
+    "investigation_priority": 1.901,
+    "finra_referral": -4.724
+  },
+  {
+    "abnormal_call_volume": 12.998,
+    "options_skew": 9.711,
+    "investigation_priority": 8.056,
+    "finra_referral": 9.39
+  },
+  {
+    "abnormal_call_volume": 6.362,
+    "options_skew": 4.777,
+    "investigation_priority": 3.868,
+    "finra_referral": -3.806
+  },
+  {
+    "abnormal_call_volume": 5.93,
+    "options_skew": 4.279,
+    "investigation_priority": 3.492,
+    "finra_referral": -1.482
+  },
+  {
+    "abnormal_call_volume": 10.214,
+    "options_skew": 7.683,
+    "investigation_priority": 5.949,
+    "finra_referral": 7.793
+  },
+  {
+    "abnormal_call_volume": 10.732,
+    "options_skew": 8.06,
+    "investigation_priority": 6.696,
+    "finra_referral": 6.183
+  },
+  {
+    "abnormal_call_volume": 23.488,
+    "options_skew": 17.696,
+    "investigation_priority": 14.049,
+    "finra_referral": 23.432
+  },
+  {
+    "abnormal_call_volume": 9.98,
+    "options_skew": 7.832,
+    "investigation_priority": 6.135,
+    "finra_referral": 8.999
+  },
+  {
+    "abnormal_call_volume": 17.381,
+    "options_skew": 13.125,
+    "investigation_priority": 10.39,
+    "finra_referral": 12.502
+  },
+  {
+    "abnormal_call_volume": 6.976,
+    "options_skew": 5.461,
+    "investigation_priority": 4.278,
+    "finra_referral": 1.036
+  },
+  {
+    "abnormal_call_volume": 15.326,
+    "options_skew": 11.293,
+    "investigation_priority": 9.219,
+    "finra_referral": 11.347
+  },
+  {
+    "abnormal_call_volume": 11.189,
+    "options_skew": 8.368,
+    "investigation_priority": 6.862,
+    "finra_referral": 4.675
+  },
+  {
+    "abnormal_call_volume": 6.979,
+    "options_skew": 5.024,
+    "investigation_priority": 4.086,
+    "finra_referral": 0.62
+  },
+  {
+    "abnormal_call_volume": 2.806,
+    "options_skew": 2.059,
+    "investigation_priority": 1.67,
+    "finra_referral": -3.164
+  },
+  {
+    "abnormal_call_volume": 14.577,
+    "options_skew": 10.942,
+    "investigation_priority": 8.811,
+    "finra_referral": 9.377
+  },
+  {
+    "abnormal_call_volume": 8.144,
+    "options_skew": 6.265,
+    "investigation_priority": 4.753,
+    "finra_referral": 2.277
+  },
+  {
+    "abnormal_call_volume": 16.306,
+    "options_skew": 12.093,
+    "investigation_priority": 9.76,
+    "finra_referral": 11.233
+  },
+  {
+    "abnormal_call_volume": 13.801,
+    "options_skew": 10.067,
+    "investigation_priority": 8.295,
+    "finra_referral": 8.1
+  },
+  {
+    "abnormal_call_volume": 4.216,
+    "options_skew": 3.109,
+    "investigation_priority": 2.424,
+    "finra_referral": -0.071
+  },
+  {
+    "abnormal_call_volume": 7.271,
+    "options_skew": 5.587,
+    "investigation_priority": 4.48,
+    "finra_referral": 4.533
+  },
+  {
+    "abnormal_call_volume": 10.01,
+    "options_skew": 7.278,
+    "investigation_priority": 5.934,
+    "finra_referral": 3.516
+  },
+  {
+    "abnormal_call_volume": 5.755,
+    "options_skew": 4.064,
+    "investigation_priority": 3.212,
+    "finra_referral": -4.704
+  },
+  {
+    "abnormal_call_volume": 9.467,
+    "options_skew": 6.868,
+    "investigation_priority": 5.836,
+    "finra_referral": 2.714
+  },
+  {
+    "abnormal_call_volume": 15.896,
+    "options_skew": 12.018,
+    "investigation_priority": 9.708,
+    "finra_referral": 13.498
+  },
+  {
+    "abnormal_call_volume": 13.566,
+    "options_skew": 10.117,
+    "investigation_priority": 8.315,
+    "finra_referral": 9.476
+  },
+  {
+    "abnormal_call_volume": 13.755,
+    "options_skew": 10.072,
+    "investigation_priority": 8.032,
+    "finra_referral": 10.401
+  },
+  {
+    "abnormal_call_volume": 12.054,
+    "options_skew": 9.407,
+    "investigation_priority": 7.721,
+    "finra_referral": 6.056
+  },
+  {
+    "abnormal_call_volume": 6.997,
+    "options_skew": 5.566,
+    "investigation_priority": 4.843,
+    "finra_referral": 2.907
+  },
+  {
+    "abnormal_call_volume": 7.256,
+    "options_skew": 5.533,
+    "investigation_priority": 4.13,
+    "finra_referral": -0.124
+  },
+  {
+    "abnormal_call_volume": 7.507,
+    "options_skew": 5.382,
+    "investigation_priority": 4.596,
+    "finra_referral": -0.693
+  },
+  {
+    "abnormal_call_volume": 5.108,
+    "options_skew": 3.914,
+    "investigation_priority": 3.244,
+    "finra_referral": -1.72
+  },
+  {
+    "abnormal_call_volume": 10.489,
+    "options_skew": 7.629,
+    "investigation_priority": 6.028,
+    "finra_referral": 1.863
+  },
+  {
+    "abnormal_call_volume": 14.86,
+    "options_skew": 11.361,
+    "investigation_priority": 8.907,
+    "finra_referral": 10.289
+  },
+  {
+    "abnormal_call_volume": 16.719,
+    "options_skew": 12.603,
+    "investigation_priority": 10.241,
+    "finra_referral": 12.717
+  },
+  {
+    "abnormal_call_volume": 6.797,
+    "options_skew": 5.309,
+    "investigation_priority": 4.143,
+    "finra_referral": -2.096
+  },
+  {
+    "abnormal_call_volume": 10.897,
+    "options_skew": 7.997,
+    "investigation_priority": 6.316,
+    "finra_referral": 5.592
+  },
+  {
+    "abnormal_call_volume": 8.93,
+    "options_skew": 7.091,
+    "investigation_priority": 5.694,
+    "finra_referral": 6.496
+  },
+  {
+    "abnormal_call_volume": 7.993,
+    "options_skew": 6.144,
+    "investigation_priority": 4.632,
+    "finra_referral": -0.102
+  },
+  {
+    "abnormal_call_volume": 17.387,
+    "options_skew": 12.776,
+    "investigation_priority": 10.295,
+    "finra_referral": 14.183
+  },
+  {
+    "abnormal_call_volume": 9.258,
+    "options_skew": 6.972,
+    "investigation_priority": 5.438,
+    "finra_referral": 3.174
+  },
+  {
+    "abnormal_call_volume": 12.546,
+    "options_skew": 9.534,
+    "investigation_priority": 7.6,
+    "finra_referral": 9.911
+  },
+  {
+    "abnormal_call_volume": 7.109,
+    "options_skew": 5.483,
+    "investigation_priority": 4.163,
+    "finra_referral": -0.473
+  },
+  {
+    "abnormal_call_volume": 7.39,
+    "options_skew": 5.614,
+    "investigation_priority": 4.4,
+    "finra_referral": 1.65
+  },
+  {
+    "abnormal_call_volume": 8.229,
+    "options_skew": 6.092,
+    "investigation_priority": 4.91,
+    "finra_referral": 3.571
+  },
+  {
+    "abnormal_call_volume": 8.265,
+    "options_skew": 6.223,
+    "investigation_priority": 4.874,
+    "finra_referral": -0.375
+  },
+  {
+    "abnormal_call_volume": 8.388,
+    "options_skew": 5.823,
+    "investigation_priority": 4.648,
+    "finra_referral": 3.473
+  },
+  {
+    "abnormal_call_volume": 9.097,
+    "options_skew": 6.876,
+    "investigation_priority": 5.707,
+    "finra_referral": 2.713
+  },
+  {
+    "abnormal_call_volume": 11.354,
+    "options_skew": 8.498,
+    "investigation_priority": 7.096,
+    "finra_referral": 8.786
+  },
+  {
+    "abnormal_call_volume": 11.955,
+    "options_skew": 9.062,
+    "investigation_priority": 7.331,
+    "finra_referral": 5.55
+  },
+  {
+    "abnormal_call_volume": 7.641,
+    "options_skew": 5.544,
+    "investigation_priority": 4.239,
+    "finra_referral": 3.552
+  },
+  {
+    "abnormal_call_volume": 13.348,
+    "options_skew": 9.981,
+    "investigation_priority": 8.09,
+    "finra_referral": 8.228
+  },
+  {
+    "abnormal_call_volume": 11.284,
+    "options_skew": 8.488,
+    "investigation_priority": 6.68,
+    "finra_referral": 7.536
+  },
+  {
+    "abnormal_call_volume": 14.769,
+    "options_skew": 11.267,
+    "investigation_priority": 9.197,
+    "finra_referral": 10.319
+  },
+  {
+    "abnormal_call_volume": -0.883,
+    "options_skew": -0.553,
+    "investigation_priority": -0.635,
+    "finra_referral": -8.627
+  },
+  {
+    "abnormal_call_volume": 17.038,
+    "options_skew": 12.347,
+    "investigation_priority": 9.881,
+    "finra_referral": 11.73
+  },
+  {
+    "abnormal_call_volume": 18.04,
+    "options_skew": 13.545,
+    "investigation_priority": 10.795,
+    "finra_referral": 15.783
+  },
+  {
+    "abnormal_call_volume": 8.713,
+    "options_skew": 6.62,
+    "investigation_priority": 5.322,
+    "finra_referral": 2.562
+  },
+  {
+    "abnormal_call_volume": 5.539,
+    "options_skew": 3.991,
+    "investigation_priority": 3.17,
+    "finra_referral": -4.208
+  },
+  {
+    "abnormal_call_volume": 9.391,
+    "options_skew": 7.0,
+    "investigation_priority": 5.472,
+    "finra_referral": 5.091
+  },
+  {
+    "abnormal_call_volume": 4.795,
+    "options_skew": 3.383,
+    "investigation_priority": 2.79,
+    "finra_referral": -3.528
+  },
+  {
+    "abnormal_call_volume": 19.224,
+    "options_skew": 14.509,
+    "investigation_priority": 11.403,
+    "finra_referral": 18.895
+  },
+  {
+    "abnormal_call_volume": 5.141,
+    "options_skew": 3.83,
+    "investigation_priority": 3.394,
+    "finra_referral": -1.916
+  },
+  {
+    "abnormal_call_volume": 7.187,
+    "options_skew": 5.899,
+    "investigation_priority": 4.801,
+    "finra_referral": 1.022
+  },
+  {
+    "abnormal_call_volume": 12.273,
+    "options_skew": 9.358,
+    "investigation_priority": 7.467,
+    "finra_referral": 8.355
+  },
+  {
+    "abnormal_call_volume": 16.744,
+    "options_skew": 12.572,
+    "investigation_priority": 10.004,
+    "finra_referral": 13.056
+  },
+  {
+    "abnormal_call_volume": 4.15,
+    "options_skew": 2.957,
+    "investigation_priority": 2.383,
+    "finra_referral": -3.277
+  },
+  {
+    "abnormal_call_volume": 11.333,
+    "options_skew": 8.717,
+    "investigation_priority": 6.958,
+    "finra_referral": 7.581
+  },
+  {
+    "abnormal_call_volume": 9.307,
+    "options_skew": 7.243,
+    "investigation_priority": 5.723,
+    "finra_referral": 5.359
+  },
+  {
+    "abnormal_call_volume": 11.916,
+    "options_skew": 9.022,
+    "investigation_priority": 7.566,
+    "finra_referral": 3.773
+  },
+  {
+    "abnormal_call_volume": 4.18,
+    "options_skew": 3.316,
+    "investigation_priority": 2.684,
+    "finra_referral": -3.836
+  },
+  {
+    "abnormal_call_volume": 9.724,
+    "options_skew": 7.445,
+    "investigation_priority": 5.563,
+    "finra_referral": 5.397
+  },
+  {
+    "abnormal_call_volume": 13.203,
+    "options_skew": 9.997,
+    "investigation_priority": 7.72,
+    "finra_referral": 8.902
+  },
+  {
+    "abnormal_call_volume": 14.027,
+    "options_skew": 10.819,
+    "investigation_priority": 8.659,
+    "finra_referral": 12.709
+  },
+  {
+    "abnormal_call_volume": 2.9,
+    "options_skew": 2.023,
+    "investigation_priority": 1.693,
+    "finra_referral": -1.591
+  },
+  {
+    "abnormal_call_volume": 17.124,
+    "options_skew": 12.663,
+    "investigation_priority": 10.24,
+    "finra_referral": 14.39
+  },
+  {
+    "abnormal_call_volume": 3.315,
+    "options_skew": 2.489,
+    "investigation_priority": 1.771,
+    "finra_referral": -4.606
+  },
+  {
+    "abnormal_call_volume": 2.404,
+    "options_skew": 1.862,
+    "investigation_priority": 1.665,
+    "finra_referral": -5.618
+  },
+  {
+    "abnormal_call_volume": 13.397,
+    "options_skew": 9.966,
+    "investigation_priority": 7.873,
+    "finra_referral": 10.533
+  },
+  {
+    "abnormal_call_volume": 15.801,
+    "options_skew": 11.949,
+    "investigation_priority": 9.294,
+    "finra_referral": 14.363
+  },
+  {
+    "abnormal_call_volume": 9.097,
+    "options_skew": 6.862,
+    "investigation_priority": 5.46,
+    "finra_referral": -0.369
+  },
+  {
+    "abnormal_call_volume": 11.58,
+    "options_skew": 8.441,
+    "investigation_priority": 6.824,
+    "finra_referral": 8.157
+  },
+  {
+    "abnormal_call_volume": 15.161,
+    "options_skew": 11.072,
+    "investigation_priority": 8.835,
+    "finra_referral": 11.403
+  },
+  {
+    "abnormal_call_volume": 8.965,
+    "options_skew": 6.62,
+    "investigation_priority": 5.285,
+    "finra_referral": 5.071
+  },
+  {
+    "abnormal_call_volume": 13.095,
+    "options_skew": 10.085,
+    "investigation_priority": 8.021,
+    "finra_referral": 10.468
+  },
+  {
+    "abnormal_call_volume": 7.543,
+    "options_skew": 5.51,
+    "investigation_priority": 4.603,
+    "finra_referral": 2.001
+  },
+  {
+    "abnormal_call_volume": 10.364,
+    "options_skew": 7.907,
+    "investigation_priority": 6.372,
+    "finra_referral": 4.458
+  },
+  {
+    "abnormal_call_volume": 7.213,
+    "options_skew": 5.562,
+    "investigation_priority": 4.129,
+    "finra_referral": 2.685
+  },
+  {
+    "abnormal_call_volume": 7.18,
+    "options_skew": 5.453,
+    "investigation_priority": 4.049,
+    "finra_referral": -1.381
+  },
+  {
+    "abnormal_call_volume": 10.922,
+    "options_skew": 8.26,
+    "investigation_priority": 6.449,
+    "finra_referral": 5.318
+  },
+  {
+    "abnormal_call_volume": 5.806,
+    "options_skew": 4.084,
+    "investigation_priority": 3.193,
+    "finra_referral": 2.07
+  },
+  {
+    "abnormal_call_volume": 11.553,
+    "options_skew": 8.441,
+    "investigation_priority": 6.569,
+    "finra_referral": 4.503
+  },
+  {
+    "abnormal_call_volume": 8.724,
+    "options_skew": 6.34,
+    "investigation_priority": 4.969,
+    "finra_referral": 0.169
+  },
+  {
+    "abnormal_call_volume": 10.691,
+    "options_skew": 7.501,
+    "investigation_priority": 5.989,
+    "finra_referral": 6.422
+  },
+  {
+    "abnormal_call_volume": 10.973,
+    "options_skew": 7.887,
+    "investigation_priority": 6.306,
+    "finra_referral": 4.923
+  },
+  {
+    "abnormal_call_volume": 5.853,
+    "options_skew": 4.322,
+    "investigation_priority": 3.588,
+    "finra_referral": 0.258
+  },
+  {
+    "abnormal_call_volume": 8.21,
+    "options_skew": 6.24,
+    "investigation_priority": 4.665,
+    "finra_referral": 3.552
+  },
+  {
+    "abnormal_call_volume": 2.053,
+    "options_skew": 1.63,
+    "investigation_priority": 1.338,
+    "finra_referral": -7.4
+  },
+  {
+    "abnormal_call_volume": 6.629,
+    "options_skew": 4.92,
+    "investigation_priority": 4.365,
+    "finra_referral": -0.946
+  },
+  {
+    "abnormal_call_volume": 11.911,
+    "options_skew": 9.228,
+    "investigation_priority": 7.537,
+    "finra_referral": 8.79
+  },
+  {
+    "abnormal_call_volume": 11.983,
+    "options_skew": 9.316,
+    "investigation_priority": 7.299,
+    "finra_referral": 5.384
+  },
+  {
+    "abnormal_call_volume": 7.334,
+    "options_skew": 5.78,
+    "investigation_priority": 4.797,
+    "finra_referral": 0.768
+  },
+  {
+    "abnormal_call_volume": 1.48,
+    "options_skew": 1.364,
+    "investigation_priority": 1.381,
+    "finra_referral": -1.963
+  },
+  {
+    "abnormal_call_volume": 11.724,
+    "options_skew": 8.701,
+    "investigation_priority": 7.284,
+    "finra_referral": 5.691
+  },
+  {
+    "abnormal_call_volume": 10.895,
+    "options_skew": 7.906,
+    "investigation_priority": 5.851,
+    "finra_referral": 8.341
+  },
+  {
+    "abnormal_call_volume": 7.224,
+    "options_skew": 5.284,
+    "investigation_priority": 3.969,
+    "finra_referral": 2.189
+  },
+  {
+    "abnormal_call_volume": 11.557,
+    "options_skew": 8.804,
+    "investigation_priority": 7.079,
+    "finra_referral": 6.865
+  },
+  {
+    "abnormal_call_volume": 7.344,
+    "options_skew": 5.596,
+    "investigation_priority": 4.284,
+    "finra_referral": 0.669
+  },
+  {
+    "abnormal_call_volume": 10.707,
+    "options_skew": 7.807,
+    "investigation_priority": 6.544,
+    "finra_referral": 4.639
+  },
+  {
+    "abnormal_call_volume": 10.462,
+    "options_skew": 7.962,
+    "investigation_priority": 6.269,
+    "finra_referral": 4.419
+  },
+  {
+    "abnormal_call_volume": 7.673,
+    "options_skew": 5.525,
+    "investigation_priority": 4.457,
+    "finra_referral": -0.383
+  },
+  {
+    "abnormal_call_volume": 9.357,
+    "options_skew": 6.849,
+    "investigation_priority": 5.468,
+    "finra_referral": 3.946
+  },
+  {
+    "abnormal_call_volume": 9.557,
+    "options_skew": 7.222,
+    "investigation_priority": 5.571,
+    "finra_referral": 2.425
+  },
+  {
+    "abnormal_call_volume": 3.409,
+    "options_skew": 2.379,
+    "investigation_priority": 2.011,
+    "finra_referral": -5.293
+  },
+  {
+    "abnormal_call_volume": 3.866,
+    "options_skew": 2.947,
+    "investigation_priority": 2.423,
+    "finra_referral": -0.928
+  },
+  {
+    "abnormal_call_volume": 10.615,
+    "options_skew": 8.164,
+    "investigation_priority": 6.63,
+    "finra_referral": 6.572
+  },
+  {
+    "abnormal_call_volume": 1.807,
+    "options_skew": 1.268,
+    "investigation_priority": 1.183,
+    "finra_referral": -4.714
+  },
+  {
+    "abnormal_call_volume": 4.077,
+    "options_skew": 2.493,
+    "investigation_priority": 2.105,
+    "finra_referral": -2.417
+  },
+  {
+    "abnormal_call_volume": 11.039,
+    "options_skew": 8.232,
+    "investigation_priority": 6.627,
+    "finra_referral": 5.44
+  },
+  {
+    "abnormal_call_volume": 8.516,
+    "options_skew": 6.449,
+    "investigation_priority": 5.297,
+    "finra_referral": 5.43
+  },
+  {
+    "abnormal_call_volume": 9.695,
+    "options_skew": 7.52,
+    "investigation_priority": 6.287,
+    "finra_referral": 5.145
+  },
+  {
+    "abnormal_call_volume": 6.227,
+    "options_skew": 4.27,
+    "investigation_priority": 3.331,
+    "finra_referral": 0.094
+  },
+  {
+    "abnormal_call_volume": 11.184,
+    "options_skew": 8.368,
+    "investigation_priority": 6.452,
+    "finra_referral": 8.027
+  },
+  {
+    "abnormal_call_volume": 16.094,
+    "options_skew": 12.455,
+    "investigation_priority": 10.333,
+    "finra_referral": 13.533
+  },
+  {
+    "abnormal_call_volume": 11.062,
+    "options_skew": 8.209,
+    "investigation_priority": 6.49,
+    "finra_referral": 9.234
+  },
+  {
+    "abnormal_call_volume": 13.714,
+    "options_skew": 10.282,
+    "investigation_priority": 8.253,
+    "finra_referral": 8.726
+  },
+  {
+    "abnormal_call_volume": 14.355,
+    "options_skew": 11.075,
+    "investigation_priority": 8.974,
+    "finra_referral": 10.266
+  },
+  {
+    "abnormal_call_volume": 5.296,
+    "options_skew": 3.924,
+    "investigation_priority": 3.122,
+    "finra_referral": -1.009
+  },
+  {
+    "abnormal_call_volume": 2.088,
+    "options_skew": 1.735,
+    "investigation_priority": 1.472,
+    "finra_referral": -2.772
+  },
+  {
+    "abnormal_call_volume": 12.989,
+    "options_skew": 9.595,
+    "investigation_priority": 7.457,
+    "finra_referral": 8.889
+  },
+  {
+    "abnormal_call_volume": 8.37,
+    "options_skew": 6.739,
+    "investigation_priority": 5.657,
+    "finra_referral": 1.326
+  },
+  {
+    "abnormal_call_volume": 12.82,
+    "options_skew": 9.474,
+    "investigation_priority": 7.396,
+    "finra_referral": 7.818
+  },
+  {
+    "abnormal_call_volume": 1.575,
+    "options_skew": 1.064,
+    "investigation_priority": 1.313,
+    "finra_referral": -5.343
+  },
+  {
+    "abnormal_call_volume": 9.421,
+    "options_skew": 7.289,
+    "investigation_priority": 5.582,
+    "finra_referral": 2.698
+  },
+  {
+    "abnormal_call_volume": 12.005,
+    "options_skew": 9.003,
+    "investigation_priority": 7.497,
+    "finra_referral": 6.482
+  },
+  {
+    "abnormal_call_volume": 14.194,
+    "options_skew": 10.796,
+    "investigation_priority": 8.545,
+    "finra_referral": 10.935
+  }
+]

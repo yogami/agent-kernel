@@ -1,0 +1,3002 @@
+[
+  {
+    "vancomycin_trough": 9.34,
+    "serum_creatinine": 4.158,
+    "glomerular_filtration_rate": -3.703,
+    "acute_kidney_injury": 1.283
+  },
+  {
+    "vancomycin_trough": 9.003,
+    "serum_creatinine": 7.412,
+    "glomerular_filtration_rate": -5.556,
+    "acute_kidney_injury": 5.337
+  },
+  {
+    "vancomycin_trough": 8.034,
+    "serum_creatinine": 6.901,
+    "glomerular_filtration_rate": -5.589,
+    "acute_kidney_injury": 5.737
+  },
+  {
+    "vancomycin_trough": 12.274,
+    "serum_creatinine": 8.961,
+    "glomerular_filtration_rate": -7.306,
+    "acute_kidney_injury": 6.6
+  },
+  {
+    "vancomycin_trough": 11.762,
+    "serum_creatinine": 12.448,
+    "glomerular_filtration_rate": -9.919,
+    "acute_kidney_injury": 12.727
+  },
+  {
+    "vancomycin_trough": 7.547,
+    "serum_creatinine": 2.851,
+    "glomerular_filtration_rate": -2.25,
+    "acute_kidney_injury": -0.752
+  },
+  {
+    "vancomycin_trough": 11.832,
+    "serum_creatinine": 10.571,
+    "glomerular_filtration_rate": -8.224,
+    "acute_kidney_injury": 9.084
+  },
+  {
+    "vancomycin_trough": 9.989,
+    "serum_creatinine": 10.02,
+    "glomerular_filtration_rate": -8.389,
+    "acute_kidney_injury": 9.891
+  },
+  {
+    "vancomycin_trough": 8.583,
+    "serum_creatinine": 1.983,
+    "glomerular_filtration_rate": -1.744,
+    "acute_kidney_injury": -2.59
+  },
+  {
+    "vancomycin_trough": 11.208,
+    "serum_creatinine": 9.949,
+    "glomerular_filtration_rate": -8.129,
+    "acute_kidney_injury": 8.457
+  },
+  {
+    "vancomycin_trough": 9.145,
+    "serum_creatinine": 4.978,
+    "glomerular_filtration_rate": -4.142,
+    "acute_kidney_injury": 1.835
+  },
+  {
+    "vancomycin_trough": 6.89,
+    "serum_creatinine": 9.997,
+    "glomerular_filtration_rate": -7.648,
+    "acute_kidney_injury": 12.004
+  },
+  {
+    "vancomycin_trough": 9.292,
+    "serum_creatinine": 7.803,
+    "glomerular_filtration_rate": -6.248,
+    "acute_kidney_injury": 6.789
+  },
+  {
+    "vancomycin_trough": 14.508,
+    "serum_creatinine": 11.223,
+    "glomerular_filtration_rate": -9.232,
+    "acute_kidney_injury": 8.721
+  },
+  {
+    "vancomycin_trough": 8.414,
+    "serum_creatinine": 5.007,
+    "glomerular_filtration_rate": -3.976,
+    "acute_kidney_injury": 2.665
+  },
+  {
+    "vancomycin_trough": 13.936,
+    "serum_creatinine": 8.14,
+    "glomerular_filtration_rate": -5.952,
+    "acute_kidney_injury": 3.238
+  },
+  {
+    "vancomycin_trough": 10.984,
+    "serum_creatinine": 9.409,
+    "glomerular_filtration_rate": -7.162,
+    "acute_kidney_injury": 7.42
+  },
+  {
+    "vancomycin_trough": 10.148,
+    "serum_creatinine": 9.881,
+    "glomerular_filtration_rate": -7.716,
+    "acute_kidney_injury": 10.189
+  },
+  {
+    "vancomycin_trough": 8.52,
+    "serum_creatinine": 0.916,
+    "glomerular_filtration_rate": -0.662,
+    "acute_kidney_injury": -4.71
+  },
+  {
+    "vancomycin_trough": 6.6,
+    "serum_creatinine": 1.538,
+    "glomerular_filtration_rate": -1.518,
+    "acute_kidney_injury": -1.982
+  },
+  {
+    "vancomycin_trough": 10.498,
+    "serum_creatinine": 6.302,
+    "glomerular_filtration_rate": -5.092,
+    "acute_kidney_injury": 3.515
+  },
+  {
+    "vancomycin_trough": 11.28,
+    "serum_creatinine": 4.079,
+    "glomerular_filtration_rate": -3.175,
+    "acute_kidney_injury": -0.726
+  },
+  {
+    "vancomycin_trough": 6.488,
+    "serum_creatinine": 6.69,
+    "glomerular_filtration_rate": -5.453,
+    "acute_kidney_injury": 6.852
+  },
+  {
+    "vancomycin_trough": 11.428,
+    "serum_creatinine": 7.552,
+    "glomerular_filtration_rate": -6.054,
+    "acute_kidney_injury": 4.398
+  },
+  {
+    "vancomycin_trough": 9.087,
+    "serum_creatinine": 5.713,
+    "glomerular_filtration_rate": -4.478,
+    "acute_kidney_injury": 3.302
+  },
+  {
+    "vancomycin_trough": 13.611,
+    "serum_creatinine": 5.814,
+    "glomerular_filtration_rate": -4.969,
+    "acute_kidney_injury": 0.639
+  },
+  {
+    "vancomycin_trough": 10.849,
+    "serum_creatinine": 8.429,
+    "glomerular_filtration_rate": -6.547,
+    "acute_kidney_injury": 6.748
+  },
+  {
+    "vancomycin_trough": 10.78,
+    "serum_creatinine": 8.047,
+    "glomerular_filtration_rate": -6.818,
+    "acute_kidney_injury": 6.569
+  },
+  {
+    "vancomycin_trough": 10.789,
+    "serum_creatinine": 6.342,
+    "glomerular_filtration_rate": -4.665,
+    "acute_kidney_injury": 2.888
+  },
+  {
+    "vancomycin_trough": 7.977,
+    "serum_creatinine": 8.574,
+    "glomerular_filtration_rate": -7.0,
+    "acute_kidney_injury": 8.387
+  },
+  {
+    "vancomycin_trough": 11.472,
+    "serum_creatinine": 7.272,
+    "glomerular_filtration_rate": -5.71,
+    "acute_kidney_injury": 3.659
+  },
+  {
+    "vancomycin_trough": 9.544,
+    "serum_creatinine": 3.993,
+    "glomerular_filtration_rate": -3.513,
+    "acute_kidney_injury": 0.594
+  },
+  {
+    "vancomycin_trough": 3.582,
+    "serum_creatinine": 1.292,
+    "glomerular_filtration_rate": -1.156,
+    "acute_kidney_injury": 0.088
+  },
+  {
+    "vancomycin_trough": 10.124,
+    "serum_creatinine": 5.92,
+    "glomerular_filtration_rate": -4.718,
+    "acute_kidney_injury": 2.807
+  },
+  {
+    "vancomycin_trough": 9.081,
+    "serum_creatinine": 9.649,
+    "glomerular_filtration_rate": -7.719,
+    "acute_kidney_injury": 10.152
+  },
+  {
+    "vancomycin_trough": 13.845,
+    "serum_creatinine": 11.486,
+    "glomerular_filtration_rate": -9.081,
+    "acute_kidney_injury": 9.577
+  },
+  {
+    "vancomycin_trough": 9.784,
+    "serum_creatinine": 13.235,
+    "glomerular_filtration_rate": -10.69,
+    "acute_kidney_injury": 14.9
+  },
+  {
+    "vancomycin_trough": 6.89,
+    "serum_creatinine": 6.552,
+    "glomerular_filtration_rate": -5.432,
+    "acute_kidney_injury": 6.764
+  },
+  {
+    "vancomycin_trough": 8.542,
+    "serum_creatinine": 11.206,
+    "glomerular_filtration_rate": -8.69,
+    "acute_kidney_injury": 12.278
+  },
+  {
+    "vancomycin_trough": 10.123,
+    "serum_creatinine": 7.242,
+    "glomerular_filtration_rate": -5.602,
+    "acute_kidney_injury": 5.415
+  },
+  {
+    "vancomycin_trough": 11.828,
+    "serum_creatinine": 7.948,
+    "glomerular_filtration_rate": -6.475,
+    "acute_kidney_injury": 5.335
+  },
+  {
+    "vancomycin_trough": 7.89,
+    "serum_creatinine": 3.187,
+    "glomerular_filtration_rate": -2.656,
+    "acute_kidney_injury": -0.216
+  },
+  {
+    "vancomycin_trough": 12.311,
+    "serum_creatinine": 9.155,
+    "glomerular_filtration_rate": -7.236,
+    "acute_kidney_injury": 7.38
+  },
+  {
+    "vancomycin_trough": 11.349,
+    "serum_creatinine": 7.747,
+    "glomerular_filtration_rate": -6.101,
+    "acute_kidney_injury": 5.603
+  },
+  {
+    "vancomycin_trough": 9.375,
+    "serum_creatinine": -4.2,
+    "glomerular_filtration_rate": 3.465,
+    "acute_kidney_injury": -13.702
+  },
+  {
+    "vancomycin_trough": 6.191,
+    "serum_creatinine": 9.185,
+    "glomerular_filtration_rate": -7.294,
+    "acute_kidney_injury": 10.974
+  },
+  {
+    "vancomycin_trough": 9.303,
+    "serum_creatinine": 11.441,
+    "glomerular_filtration_rate": -9.158,
+    "acute_kidney_injury": 12.279
+  },
+  {
+    "vancomycin_trough": 8.845,
+    "serum_creatinine": 12.506,
+    "glomerular_filtration_rate": -10.163,
+    "acute_kidney_injury": 14.972
+  },
+  {
+    "vancomycin_trough": 10.523,
+    "serum_creatinine": 1.282,
+    "glomerular_filtration_rate": -0.701,
+    "acute_kidney_injury": -5.085
+  },
+  {
+    "vancomycin_trough": 11.774,
+    "serum_creatinine": 7.213,
+    "glomerular_filtration_rate": -5.648,
+    "acute_kidney_injury": 3.444
+  },
+  {
+    "vancomycin_trough": 10.022,
+    "serum_creatinine": 10.684,
+    "glomerular_filtration_rate": -8.485,
+    "acute_kidney_injury": 11.14
+  },
+  {
+    "vancomycin_trough": 8.88,
+    "serum_creatinine": 8.13,
+    "glomerular_filtration_rate": -6.509,
+    "acute_kidney_injury": 7.56
+  },
+  {
+    "vancomycin_trough": 7.443,
+    "serum_creatinine": 7.958,
+    "glomerular_filtration_rate": -6.229,
+    "acute_kidney_injury": 8.021
+  },
+  {
+    "vancomycin_trough": 7.886,
+    "serum_creatinine": 2.485,
+    "glomerular_filtration_rate": -2.073,
+    "acute_kidney_injury": -1.343
+  },
+  {
+    "vancomycin_trough": 11.619,
+    "serum_creatinine": 6.116,
+    "glomerular_filtration_rate": -4.624,
+    "acute_kidney_injury": 1.869
+  },
+  {
+    "vancomycin_trough": 12.088,
+    "serum_creatinine": 8.349,
+    "glomerular_filtration_rate": -6.727,
+    "acute_kidney_injury": 5.533
+  },
+  {
+    "vancomycin_trough": 7.006,
+    "serum_creatinine": 3.319,
+    "glomerular_filtration_rate": -2.7,
+    "acute_kidney_injury": 0.835
+  },
+  {
+    "vancomycin_trough": 8.341,
+    "serum_creatinine": 6.598,
+    "glomerular_filtration_rate": -4.972,
+    "acute_kidney_injury": 5.13
+  },
+  {
+    "vancomycin_trough": 10.243,
+    "serum_creatinine": 6.066,
+    "glomerular_filtration_rate": -4.934,
+    "acute_kidney_injury": 2.867
+  },
+  {
+    "vancomycin_trough": 10.099,
+    "serum_creatinine": -1.581,
+    "glomerular_filtration_rate": 1.178,
+    "acute_kidney_injury": -9.437
+  },
+  {
+    "vancomycin_trough": 11.276,
+    "serum_creatinine": 6.928,
+    "glomerular_filtration_rate": -5.635,
+    "acute_kidney_injury": 3.528
+  },
+  {
+    "vancomycin_trough": 9.132,
+    "serum_creatinine": 7.157,
+    "glomerular_filtration_rate": -5.538,
+    "acute_kidney_injury": 5.991
+  },
+  {
+    "vancomycin_trough": 11.887,
+    "serum_creatinine": 12.569,
+    "glomerular_filtration_rate": -10.331,
+    "acute_kidney_injury": 13.153
+  },
+  {
+    "vancomycin_trough": 10.298,
+    "serum_creatinine": 8.28,
+    "glomerular_filtration_rate": -6.891,
+    "acute_kidney_injury": 7.186
+  },
+  {
+    "vancomycin_trough": 10.61,
+    "serum_creatinine": 4.316,
+    "glomerular_filtration_rate": -3.422,
+    "acute_kidney_injury": -0.134
+  },
+  {
+    "vancomycin_trough": 9.241,
+    "serum_creatinine": 9.243,
+    "glomerular_filtration_rate": -7.532,
+    "acute_kidney_injury": 8.766
+  },
+  {
+    "vancomycin_trough": 10.245,
+    "serum_creatinine": 0.29,
+    "glomerular_filtration_rate": -0.472,
+    "acute_kidney_injury": -6.053
+  },
+  {
+    "vancomycin_trough": 10.853,
+    "serum_creatinine": 3.58,
+    "glomerular_filtration_rate": -3.094,
+    "acute_kidney_injury": -1.431
+  },
+  {
+    "vancomycin_trough": 14.445,
+    "serum_creatinine": 10.887,
+    "glomerular_filtration_rate": -9.107,
+    "acute_kidney_injury": 8.455
+  },
+  {
+    "vancomycin_trough": 10.533,
+    "serum_creatinine": 7.97,
+    "glomerular_filtration_rate": -6.629,
+    "acute_kidney_injury": 6.071
+  },
+  {
+    "vancomycin_trough": 8.585,
+    "serum_creatinine": 12.438,
+    "glomerular_filtration_rate": -10.175,
+    "acute_kidney_injury": 15.491
+  },
+  {
+    "vancomycin_trough": 10.868,
+    "serum_creatinine": 5.305,
+    "glomerular_filtration_rate": -4.439,
+    "acute_kidney_injury": 1.57
+  },
+  {
+    "vancomycin_trough": 6.987,
+    "serum_creatinine": 8.645,
+    "glomerular_filtration_rate": -7.003,
+    "acute_kidney_injury": 9.455
+  },
+  {
+    "vancomycin_trough": 11.676,
+    "serum_creatinine": 11.376,
+    "glomerular_filtration_rate": -9.041,
+    "acute_kidney_injury": 10.727
+  },
+  {
+    "vancomycin_trough": 6.758,
+    "serum_creatinine": 1.796,
+    "glomerular_filtration_rate": -1.456,
+    "acute_kidney_injury": -1.823
+  },
+  {
+    "vancomycin_trough": 10.785,
+    "serum_creatinine": 2.321,
+    "glomerular_filtration_rate": -1.812,
+    "acute_kidney_injury": -3.773
+  },
+  {
+    "vancomycin_trough": 10.413,
+    "serum_creatinine": 10.097,
+    "glomerular_filtration_rate": -8.031,
+    "acute_kidney_injury": 9.312
+  },
+  {
+    "vancomycin_trough": 10.689,
+    "serum_creatinine": 10.046,
+    "glomerular_filtration_rate": -8.038,
+    "acute_kidney_injury": 9.677
+  },
+  {
+    "vancomycin_trough": 11.757,
+    "serum_creatinine": 1.315,
+    "glomerular_filtration_rate": -1.228,
+    "acute_kidney_injury": -5.928
+  },
+  {
+    "vancomycin_trough": 8.506,
+    "serum_creatinine": 7.888,
+    "glomerular_filtration_rate": -6.074,
+    "acute_kidney_injury": 6.934
+  },
+  {
+    "vancomycin_trough": 13.991,
+    "serum_creatinine": 4.281,
+    "glomerular_filtration_rate": -3.626,
+    "acute_kidney_injury": -2.46
+  },
+  {
+    "vancomycin_trough": 9.418,
+    "serum_creatinine": 9.286,
+    "glomerular_filtration_rate": -7.165,
+    "acute_kidney_injury": 8.271
+  },
+  {
+    "vancomycin_trough": 12.431,
+    "serum_creatinine": 7.327,
+    "glomerular_filtration_rate": -6.251,
+    "acute_kidney_injury": 3.921
+  },
+  {
+    "vancomycin_trough": 11.928,
+    "serum_creatinine": 9.967,
+    "glomerular_filtration_rate": -8.182,
+    "acute_kidney_injury": 8.374
+  },
+  {
+    "vancomycin_trough": 10.548,
+    "serum_creatinine": 4.323,
+    "glomerular_filtration_rate": -3.519,
+    "acute_kidney_injury": 0.086
+  },
+  {
+    "vancomycin_trough": 8.068,
+    "serum_creatinine": -0.387,
+    "glomerular_filtration_rate": 0.487,
+    "acute_kidney_injury": -6.544
+  },
+  {
+    "vancomycin_trough": 8.943,
+    "serum_creatinine": 10.473,
+    "glomerular_filtration_rate": -8.161,
+    "acute_kidney_injury": 11.246
+  },
+  {
+    "vancomycin_trough": 11.222,
+    "serum_creatinine": 4.651,
+    "glomerular_filtration_rate": -3.72,
+    "acute_kidney_injury": 0.111
+  },
+  {
+    "vancomycin_trough": 10.921,
+    "serum_creatinine": 6.094,
+    "glomerular_filtration_rate": -4.709,
+    "acute_kidney_injury": 2.564
+  },
+  {
+    "vancomycin_trough": 8.368,
+    "serum_creatinine": 1.224,
+    "glomerular_filtration_rate": -0.819,
+    "acute_kidney_injury": -3.885
+  },
+  {
+    "vancomycin_trough": 7.226,
+    "serum_creatinine": 6.973,
+    "glomerular_filtration_rate": -5.62,
+    "acute_kidney_injury": 6.105
+  },
+  {
+    "vancomycin_trough": 11.563,
+    "serum_creatinine": 7.365,
+    "glomerular_filtration_rate": -5.56,
+    "acute_kidney_injury": 3.374
+  },
+  {
+    "vancomycin_trough": 8.058,
+    "serum_creatinine": 8.989,
+    "glomerular_filtration_rate": -7.478,
+    "acute_kidney_injury": 9.647
+  },
+  {
+    "vancomycin_trough": 10.533,
+    "serum_creatinine": 5.378,
+    "glomerular_filtration_rate": -4.558,
+    "acute_kidney_injury": 0.986
+  },
+  {
+    "vancomycin_trough": 8.466,
+    "serum_creatinine": 3.847,
+    "glomerular_filtration_rate": -3.393,
+    "acute_kidney_injury": 0.527
+  },
+  {
+    "vancomycin_trough": 11.423,
+    "serum_creatinine": 7.163,
+    "glomerular_filtration_rate": -5.843,
+    "acute_kidney_injury": 4.255
+  },
+  {
+    "vancomycin_trough": 5.451,
+    "serum_creatinine": 1.276,
+    "glomerular_filtration_rate": -1.267,
+    "acute_kidney_injury": -1.276
+  },
+  {
+    "vancomycin_trough": 9.408,
+    "serum_creatinine": 5.128,
+    "glomerular_filtration_rate": -4.283,
+    "acute_kidney_injury": 1.983
+  },
+  {
+    "vancomycin_trough": 9.546,
+    "serum_creatinine": 7.298,
+    "glomerular_filtration_rate": -6.051,
+    "acute_kidney_injury": 6.108
+  },
+  {
+    "vancomycin_trough": 11.577,
+    "serum_creatinine": 11.155,
+    "glomerular_filtration_rate": -8.842,
+    "acute_kidney_injury": 10.293
+  },
+  {
+    "vancomycin_trough": 10.597,
+    "serum_creatinine": 10.675,
+    "glomerular_filtration_rate": -8.586,
+    "acute_kidney_injury": 10.425
+  },
+  {
+    "vancomycin_trough": 8.3,
+    "serum_creatinine": 2.359,
+    "glomerular_filtration_rate": -1.681,
+    "acute_kidney_injury": -2.157
+  },
+  {
+    "vancomycin_trough": 9.172,
+    "serum_creatinine": 1.183,
+    "glomerular_filtration_rate": -1.233,
+    "acute_kidney_injury": -3.803
+  },
+  {
+    "vancomycin_trough": 8.408,
+    "serum_creatinine": 13.034,
+    "glomerular_filtration_rate": -10.924,
+    "acute_kidney_injury": 16.439
+  },
+  {
+    "vancomycin_trough": 13.286,
+    "serum_creatinine": 9.955,
+    "glomerular_filtration_rate": -7.944,
+    "acute_kidney_injury": 7.472
+  },
+  {
+    "vancomycin_trough": 9.325,
+    "serum_creatinine": 10.066,
+    "glomerular_filtration_rate": -8.515,
+    "acute_kidney_injury": 10.716
+  },
+  {
+    "vancomycin_trough": 12.553,
+    "serum_creatinine": 8.231,
+    "glomerular_filtration_rate": -6.99,
+    "acute_kidney_injury": 5.507
+  },
+  {
+    "vancomycin_trough": 9.494,
+    "serum_creatinine": 10.232,
+    "glomerular_filtration_rate": -8.173,
+    "acute_kidney_injury": 10.708
+  },
+  {
+    "vancomycin_trough": 5.296,
+    "serum_creatinine": 5.071,
+    "glomerular_filtration_rate": -4.225,
+    "acute_kidney_injury": 5.217
+  },
+  {
+    "vancomycin_trough": 9.037,
+    "serum_creatinine": 7.659,
+    "glomerular_filtration_rate": -6.04,
+    "acute_kidney_injury": 6.18
+  },
+  {
+    "vancomycin_trough": 10.524,
+    "serum_creatinine": 8.841,
+    "glomerular_filtration_rate": -7.155,
+    "acute_kidney_injury": 7.298
+  },
+  {
+    "vancomycin_trough": 6.771,
+    "serum_creatinine": 3.678,
+    "glomerular_filtration_rate": -2.543,
+    "acute_kidney_injury": 0.909
+  },
+  {
+    "vancomycin_trough": 11.045,
+    "serum_creatinine": 1.509,
+    "glomerular_filtration_rate": -1.169,
+    "acute_kidney_injury": -4.982
+  },
+  {
+    "vancomycin_trough": 11.999,
+    "serum_creatinine": 4.377,
+    "glomerular_filtration_rate": -3.292,
+    "acute_kidney_injury": -1.154
+  },
+  {
+    "vancomycin_trough": 10.645,
+    "serum_creatinine": 9.292,
+    "glomerular_filtration_rate": -7.346,
+    "acute_kidney_injury": 8.325
+  },
+  {
+    "vancomycin_trough": 9.297,
+    "serum_creatinine": 5.595,
+    "glomerular_filtration_rate": -4.358,
+    "acute_kidney_injury": 2.453
+  },
+  {
+    "vancomycin_trough": 12.175,
+    "serum_creatinine": 7.821,
+    "glomerular_filtration_rate": -6.307,
+    "acute_kidney_injury": 5.162
+  },
+  {
+    "vancomycin_trough": 9.719,
+    "serum_creatinine": 4.769,
+    "glomerular_filtration_rate": -3.993,
+    "acute_kidney_injury": 1.225
+  },
+  {
+    "vancomycin_trough": 12.516,
+    "serum_creatinine": 4.761,
+    "glomerular_filtration_rate": -3.804,
+    "acute_kidney_injury": -0.277
+  },
+  {
+    "vancomycin_trough": 9.211,
+    "serum_creatinine": 2.964,
+    "glomerular_filtration_rate": -2.34,
+    "acute_kidney_injury": -0.751
+  },
+  {
+    "vancomycin_trough": 9.843,
+    "serum_creatinine": 5.978,
+    "glomerular_filtration_rate": -5.005,
+    "acute_kidney_injury": 3.596
+  },
+  {
+    "vancomycin_trough": 7.962,
+    "serum_creatinine": 10.263,
+    "glomerular_filtration_rate": -8.204,
+    "acute_kidney_injury": 11.81
+  },
+  {
+    "vancomycin_trough": 9.792,
+    "serum_creatinine": 4.797,
+    "glomerular_filtration_rate": -3.905,
+    "acute_kidney_injury": 0.747
+  },
+  {
+    "vancomycin_trough": 13.642,
+    "serum_creatinine": 9.089,
+    "glomerular_filtration_rate": -7.119,
+    "acute_kidney_injury": 5.185
+  },
+  {
+    "vancomycin_trough": 9.02,
+    "serum_creatinine": 3.203,
+    "glomerular_filtration_rate": -2.371,
+    "acute_kidney_injury": -1.025
+  },
+  {
+    "vancomycin_trough": 8.141,
+    "serum_creatinine": 5.269,
+    "glomerular_filtration_rate": -4.122,
+    "acute_kidney_injury": 3.027
+  },
+  {
+    "vancomycin_trough": 13.656,
+    "serum_creatinine": 9.218,
+    "glomerular_filtration_rate": -7.103,
+    "acute_kidney_injury": 6.309
+  },
+  {
+    "vancomycin_trough": 7.287,
+    "serum_creatinine": 9.456,
+    "glomerular_filtration_rate": -7.354,
+    "acute_kidney_injury": 10.267
+  },
+  {
+    "vancomycin_trough": 12.232,
+    "serum_creatinine": 11.974,
+    "glomerular_filtration_rate": -9.478,
+    "acute_kidney_injury": 11.239
+  },
+  {
+    "vancomycin_trough": 8.918,
+    "serum_creatinine": 4.392,
+    "glomerular_filtration_rate": -3.483,
+    "acute_kidney_injury": 0.999
+  },
+  {
+    "vancomycin_trough": 13.615,
+    "serum_creatinine": 8.179,
+    "glomerular_filtration_rate": -6.608,
+    "acute_kidney_injury": 4.251
+  },
+  {
+    "vancomycin_trough": 8.751,
+    "serum_creatinine": 4.635,
+    "glomerular_filtration_rate": -3.533,
+    "acute_kidney_injury": 1.358
+  },
+  {
+    "vancomycin_trough": 11.822,
+    "serum_creatinine": 9.558,
+    "glomerular_filtration_rate": -7.536,
+    "acute_kidney_injury": 7.457
+  },
+  {
+    "vancomycin_trough": 11.267,
+    "serum_creatinine": 9.78,
+    "glomerular_filtration_rate": -7.713,
+    "acute_kidney_injury": 8.97
+  },
+  {
+    "vancomycin_trough": 9.301,
+    "serum_creatinine": 10.847,
+    "glomerular_filtration_rate": -8.913,
+    "acute_kidney_injury": 11.347
+  },
+  {
+    "vancomycin_trough": 10.389,
+    "serum_creatinine": 5.286,
+    "glomerular_filtration_rate": -4.193,
+    "acute_kidney_injury": 1.949
+  },
+  {
+    "vancomycin_trough": 14.354,
+    "serum_creatinine": 15.479,
+    "glomerular_filtration_rate": -12.466,
+    "acute_kidney_injury": 15.733
+  },
+  {
+    "vancomycin_trough": 9.192,
+    "serum_creatinine": 3.86,
+    "glomerular_filtration_rate": -3.052,
+    "acute_kidney_injury": 0.291
+  },
+  {
+    "vancomycin_trough": 8.901,
+    "serum_creatinine": 4.843,
+    "glomerular_filtration_rate": -3.905,
+    "acute_kidney_injury": 2.114
+  },
+  {
+    "vancomycin_trough": 9.318,
+    "serum_creatinine": 7.236,
+    "glomerular_filtration_rate": -5.844,
+    "acute_kidney_injury": 6.151
+  },
+  {
+    "vancomycin_trough": 9.15,
+    "serum_creatinine": 8.852,
+    "glomerular_filtration_rate": -7.18,
+    "acute_kidney_injury": 9.172
+  },
+  {
+    "vancomycin_trough": 11.143,
+    "serum_creatinine": 5.407,
+    "glomerular_filtration_rate": -4.05,
+    "acute_kidney_injury": 1.339
+  },
+  {
+    "vancomycin_trough": 11.421,
+    "serum_creatinine": 8.04,
+    "glomerular_filtration_rate": -6.489,
+    "acute_kidney_injury": 5.46
+  },
+  {
+    "vancomycin_trough": 7.321,
+    "serum_creatinine": 0.517,
+    "glomerular_filtration_rate": -0.237,
+    "acute_kidney_injury": -4.453
+  },
+  {
+    "vancomycin_trough": 7.801,
+    "serum_creatinine": 4.181,
+    "glomerular_filtration_rate": -3.553,
+    "acute_kidney_injury": 1.39
+  },
+  {
+    "vancomycin_trough": 6.979,
+    "serum_creatinine": 4.789,
+    "glomerular_filtration_rate": -3.678,
+    "acute_kidney_injury": 3.193
+  },
+  {
+    "vancomycin_trough": 8.947,
+    "serum_creatinine": 3.892,
+    "glomerular_filtration_rate": -3.161,
+    "acute_kidney_injury": 0.428
+  },
+  {
+    "vancomycin_trough": 6.114,
+    "serum_creatinine": 6.953,
+    "glomerular_filtration_rate": -5.704,
+    "acute_kidney_injury": 8.035
+  },
+  {
+    "vancomycin_trough": 11.749,
+    "serum_creatinine": 5.121,
+    "glomerular_filtration_rate": -4.646,
+    "acute_kidney_injury": 0.528
+  },
+  {
+    "vancomycin_trough": 7.808,
+    "serum_creatinine": -2.209,
+    "glomerular_filtration_rate": 1.65,
+    "acute_kidney_injury": -9.505
+  },
+  {
+    "vancomycin_trough": 12.818,
+    "serum_creatinine": -0.986,
+    "glomerular_filtration_rate": 0.819,
+    "acute_kidney_injury": -10.682
+  },
+  {
+    "vancomycin_trough": 8.514,
+    "serum_creatinine": 3.49,
+    "glomerular_filtration_rate": -2.84,
+    "acute_kidney_injury": -0.047
+  },
+  {
+    "vancomycin_trough": 7.841,
+    "serum_creatinine": 2.962,
+    "glomerular_filtration_rate": -2.322,
+    "acute_kidney_injury": -0.567
+  },
+  {
+    "vancomycin_trough": 10.261,
+    "serum_creatinine": 12.164,
+    "glomerular_filtration_rate": -9.731,
+    "acute_kidney_injury": 13.426
+  },
+  {
+    "vancomycin_trough": 6.89,
+    "serum_creatinine": 13.617,
+    "glomerular_filtration_rate": -10.792,
+    "acute_kidney_injury": 18.161
+  },
+  {
+    "vancomycin_trough": 11.169,
+    "serum_creatinine": 4.374,
+    "glomerular_filtration_rate": -3.737,
+    "acute_kidney_injury": -0.154
+  },
+  {
+    "vancomycin_trough": 14.559,
+    "serum_creatinine": 3.105,
+    "glomerular_filtration_rate": -2.253,
+    "acute_kidney_injury": -5.46
+  },
+  {
+    "vancomycin_trough": 12.58,
+    "serum_creatinine": 7.178,
+    "glomerular_filtration_rate": -5.495,
+    "acute_kidney_injury": 3.231
+  },
+  {
+    "vancomycin_trough": 12.693,
+    "serum_creatinine": 4.672,
+    "glomerular_filtration_rate": -3.653,
+    "acute_kidney_injury": -1.096
+  },
+  {
+    "vancomycin_trough": 8.408,
+    "serum_creatinine": 8.014,
+    "glomerular_filtration_rate": -6.38,
+    "acute_kidney_injury": 8.008
+  },
+  {
+    "vancomycin_trough": 10.062,
+    "serum_creatinine": 9.162,
+    "glomerular_filtration_rate": -7.041,
+    "acute_kidney_injury": 7.874
+  },
+  {
+    "vancomycin_trough": 7.662,
+    "serum_creatinine": 4.065,
+    "glomerular_filtration_rate": -3.161,
+    "acute_kidney_injury": 1.516
+  },
+  {
+    "vancomycin_trough": 7.327,
+    "serum_creatinine": 5.892,
+    "glomerular_filtration_rate": -4.733,
+    "acute_kidney_injury": 5.427
+  },
+  {
+    "vancomycin_trough": 11.208,
+    "serum_creatinine": 13.025,
+    "glomerular_filtration_rate": -10.368,
+    "acute_kidney_injury": 14.616
+  },
+  {
+    "vancomycin_trough": 6.62,
+    "serum_creatinine": 5.846,
+    "glomerular_filtration_rate": -4.714,
+    "acute_kidney_injury": 5.365
+  },
+  {
+    "vancomycin_trough": 8.07,
+    "serum_creatinine": 11.404,
+    "glomerular_filtration_rate": -9.223,
+    "acute_kidney_injury": 13.617
+  },
+  {
+    "vancomycin_trough": 11.951,
+    "serum_creatinine": -0.184,
+    "glomerular_filtration_rate": -0.063,
+    "acute_kidney_injury": -8.69
+  },
+  {
+    "vancomycin_trough": 6.408,
+    "serum_creatinine": 1.959,
+    "glomerular_filtration_rate": -1.864,
+    "acute_kidney_injury": -1.17
+  },
+  {
+    "vancomycin_trough": 11.234,
+    "serum_creatinine": 3.718,
+    "glomerular_filtration_rate": -3.159,
+    "acute_kidney_injury": -1.663
+  },
+  {
+    "vancomycin_trough": 8.942,
+    "serum_creatinine": 12.334,
+    "glomerular_filtration_rate": -9.929,
+    "acute_kidney_injury": 14.676
+  },
+  {
+    "vancomycin_trough": 8.882,
+    "serum_creatinine": 5.272,
+    "glomerular_filtration_rate": -3.948,
+    "acute_kidney_injury": 2.491
+  },
+  {
+    "vancomycin_trough": 9.78,
+    "serum_creatinine": 7.364,
+    "glomerular_filtration_rate": -5.667,
+    "acute_kidney_injury": 6.095
+  },
+  {
+    "vancomycin_trough": 6.806,
+    "serum_creatinine": 5.414,
+    "glomerular_filtration_rate": -4.536,
+    "acute_kidney_injury": 4.014
+  },
+  {
+    "vancomycin_trough": 11.868,
+    "serum_creatinine": 3.942,
+    "glomerular_filtration_rate": -2.807,
+    "acute_kidney_injury": -1.952
+  },
+  {
+    "vancomycin_trough": 7.017,
+    "serum_creatinine": 10.628,
+    "glomerular_filtration_rate": -8.369,
+    "acute_kidney_injury": 13.044
+  },
+  {
+    "vancomycin_trough": 10.085,
+    "serum_creatinine": 6.998,
+    "glomerular_filtration_rate": -5.539,
+    "acute_kidney_injury": 4.53
+  },
+  {
+    "vancomycin_trough": 7.386,
+    "serum_creatinine": 6.71,
+    "glomerular_filtration_rate": -5.432,
+    "acute_kidney_injury": 6.224
+  },
+  {
+    "vancomycin_trough": 9.819,
+    "serum_creatinine": 8.03,
+    "glomerular_filtration_rate": -6.223,
+    "acute_kidney_injury": 6.458
+  },
+  {
+    "vancomycin_trough": 9.181,
+    "serum_creatinine": 8.392,
+    "glomerular_filtration_rate": -6.784,
+    "acute_kidney_injury": 7.793
+  },
+  {
+    "vancomycin_trough": 10.896,
+    "serum_creatinine": -0.474,
+    "glomerular_filtration_rate": 0.412,
+    "acute_kidney_injury": -8.409
+  },
+  {
+    "vancomycin_trough": 10.6,
+    "serum_creatinine": 12.634,
+    "glomerular_filtration_rate": -10.339,
+    "acute_kidney_injury": 14.636
+  },
+  {
+    "vancomycin_trough": 9.688,
+    "serum_creatinine": 7.585,
+    "glomerular_filtration_rate": -6.332,
+    "acute_kidney_injury": 6.178
+  },
+  {
+    "vancomycin_trough": 9.757,
+    "serum_creatinine": 1.498,
+    "glomerular_filtration_rate": -1.183,
+    "acute_kidney_injury": -4.364
+  },
+  {
+    "vancomycin_trough": 10.324,
+    "serum_creatinine": 6.289,
+    "glomerular_filtration_rate": -5.026,
+    "acute_kidney_injury": 3.499
+  },
+  {
+    "vancomycin_trough": 10.504,
+    "serum_creatinine": 9.793,
+    "glomerular_filtration_rate": -7.908,
+    "acute_kidney_injury": 8.858
+  },
+  {
+    "vancomycin_trough": 8.281,
+    "serum_creatinine": 4.031,
+    "glomerular_filtration_rate": -3.352,
+    "acute_kidney_injury": 1.082
+  },
+  {
+    "vancomycin_trough": 10.111,
+    "serum_creatinine": 9.754,
+    "glomerular_filtration_rate": -7.833,
+    "acute_kidney_injury": 8.929
+  },
+  {
+    "vancomycin_trough": 12.292,
+    "serum_creatinine": 14.244,
+    "glomerular_filtration_rate": -11.712,
+    "acute_kidney_injury": 15.456
+  },
+  {
+    "vancomycin_trough": 10.987,
+    "serum_creatinine": 8.155,
+    "glomerular_filtration_rate": -6.861,
+    "acute_kidney_injury": 6.092
+  },
+  {
+    "vancomycin_trough": 8.774,
+    "serum_creatinine": 2.329,
+    "glomerular_filtration_rate": -2.09,
+    "acute_kidney_injury": -2.098
+  },
+  {
+    "vancomycin_trough": 10.84,
+    "serum_creatinine": 9.474,
+    "glomerular_filtration_rate": -7.873,
+    "acute_kidney_injury": 8.441
+  },
+  {
+    "vancomycin_trough": 11.754,
+    "serum_creatinine": 8.791,
+    "glomerular_filtration_rate": -6.725,
+    "acute_kidney_injury": 6.441
+  },
+  {
+    "vancomycin_trough": 13.559,
+    "serum_creatinine": 17.553,
+    "glomerular_filtration_rate": -14.184,
+    "acute_kidney_injury": 20.401
+  },
+  {
+    "vancomycin_trough": 9.404,
+    "serum_creatinine": 6.872,
+    "glomerular_filtration_rate": -5.651,
+    "acute_kidney_injury": 4.776
+  },
+  {
+    "vancomycin_trough": 8.113,
+    "serum_creatinine": 2.538,
+    "glomerular_filtration_rate": -2.056,
+    "acute_kidney_injury": -1.339
+  },
+  {
+    "vancomycin_trough": 10.157,
+    "serum_creatinine": 10.579,
+    "glomerular_filtration_rate": -8.593,
+    "acute_kidney_injury": 10.714
+  },
+  {
+    "vancomycin_trough": 7.1,
+    "serum_creatinine": 8.434,
+    "glomerular_filtration_rate": -7.032,
+    "acute_kidney_injury": 9.339
+  },
+  {
+    "vancomycin_trough": 5.295,
+    "serum_creatinine": 9.604,
+    "glomerular_filtration_rate": -7.601,
+    "acute_kidney_injury": 12.373
+  },
+  {
+    "vancomycin_trough": 8.872,
+    "serum_creatinine": 3.78,
+    "glomerular_filtration_rate": -2.824,
+    "acute_kidney_injury": 0.165
+  },
+  {
+    "vancomycin_trough": 6.979,
+    "serum_creatinine": -0.629,
+    "glomerular_filtration_rate": 0.409,
+    "acute_kidney_injury": -5.912
+  },
+  {
+    "vancomycin_trough": 7.821,
+    "serum_creatinine": 9.17,
+    "glomerular_filtration_rate": -7.473,
+    "acute_kidney_injury": 10.032
+  },
+  {
+    "vancomycin_trough": 10.835,
+    "serum_creatinine": 9.068,
+    "glomerular_filtration_rate": -6.935,
+    "acute_kidney_injury": 7.394
+  },
+  {
+    "vancomycin_trough": 12.61,
+    "serum_creatinine": 2.33,
+    "glomerular_filtration_rate": -1.666,
+    "acute_kidney_injury": -5.713
+  },
+  {
+    "vancomycin_trough": 5.946,
+    "serum_creatinine": -1.188,
+    "glomerular_filtration_rate": 0.916,
+    "acute_kidney_injury": -6.468
+  },
+  {
+    "vancomycin_trough": 11.06,
+    "serum_creatinine": 8.61,
+    "glomerular_filtration_rate": -7.08,
+    "acute_kidney_injury": 6.571
+  },
+  {
+    "vancomycin_trough": 10.667,
+    "serum_creatinine": 2.3,
+    "glomerular_filtration_rate": -1.77,
+    "acute_kidney_injury": -3.087
+  },
+  {
+    "vancomycin_trough": 11.261,
+    "serum_creatinine": 7.831,
+    "glomerular_filtration_rate": -6.135,
+    "acute_kidney_injury": 5.064
+  },
+  {
+    "vancomycin_trough": 9.055,
+    "serum_creatinine": 1.631,
+    "glomerular_filtration_rate": -1.344,
+    "acute_kidney_injury": -3.9
+  },
+  {
+    "vancomycin_trough": 11.947,
+    "serum_creatinine": 11.775,
+    "glomerular_filtration_rate": -9.514,
+    "acute_kidney_injury": 11.393
+  },
+  {
+    "vancomycin_trough": 13.467,
+    "serum_creatinine": 5.825,
+    "glomerular_filtration_rate": -4.637,
+    "acute_kidney_injury": 0.718
+  },
+  {
+    "vancomycin_trough": 13.494,
+    "serum_creatinine": 8.595,
+    "glomerular_filtration_rate": -6.735,
+    "acute_kidney_injury": 5.004
+  },
+  {
+    "vancomycin_trough": 11.831,
+    "serum_creatinine": 9.192,
+    "glomerular_filtration_rate": -7.287,
+    "acute_kidney_injury": 6.848
+  },
+  {
+    "vancomycin_trough": 6.29,
+    "serum_creatinine": 5.346,
+    "glomerular_filtration_rate": -4.097,
+    "acute_kidney_injury": 4.576
+  },
+  {
+    "vancomycin_trough": 9.795,
+    "serum_creatinine": 9.515,
+    "glomerular_filtration_rate": -7.486,
+    "acute_kidney_injury": 9.281
+  },
+  {
+    "vancomycin_trough": 12.257,
+    "serum_creatinine": 4.085,
+    "glomerular_filtration_rate": -3.26,
+    "acute_kidney_injury": -1.676
+  },
+  {
+    "vancomycin_trough": 9.021,
+    "serum_creatinine": 7.946,
+    "glomerular_filtration_rate": -6.072,
+    "acute_kidney_injury": 6.997
+  },
+  {
+    "vancomycin_trough": 10.708,
+    "serum_creatinine": 7.853,
+    "glomerular_filtration_rate": -6.294,
+    "acute_kidney_injury": 6.181
+  },
+  {
+    "vancomycin_trough": 6.754,
+    "serum_creatinine": -1.291,
+    "glomerular_filtration_rate": 1.414,
+    "acute_kidney_injury": -7.233
+  },
+  {
+    "vancomycin_trough": 11.4,
+    "serum_creatinine": 9.628,
+    "glomerular_filtration_rate": -7.961,
+    "acute_kidney_injury": 8.576
+  },
+  {
+    "vancomycin_trough": 9.057,
+    "serum_creatinine": 3.043,
+    "glomerular_filtration_rate": -2.247,
+    "acute_kidney_injury": -1.557
+  },
+  {
+    "vancomycin_trough": 8.223,
+    "serum_creatinine": 0.389,
+    "glomerular_filtration_rate": -0.221,
+    "acute_kidney_injury": -4.739
+  },
+  {
+    "vancomycin_trough": 10.011,
+    "serum_creatinine": 6.725,
+    "glomerular_filtration_rate": -5.643,
+    "acute_kidney_injury": 4.401
+  },
+  {
+    "vancomycin_trough": 11.108,
+    "serum_creatinine": 3.768,
+    "glomerular_filtration_rate": -3.355,
+    "acute_kidney_injury": -1.204
+  },
+  {
+    "vancomycin_trough": 9.24,
+    "serum_creatinine": 5.507,
+    "glomerular_filtration_rate": -4.628,
+    "acute_kidney_injury": 2.636
+  },
+  {
+    "vancomycin_trough": 8.392,
+    "serum_creatinine": 7.876,
+    "glomerular_filtration_rate": -6.132,
+    "acute_kidney_injury": 7.331
+  },
+  {
+    "vancomycin_trough": 8.74,
+    "serum_creatinine": 4.767,
+    "glomerular_filtration_rate": -3.651,
+    "acute_kidney_injury": 1.857
+  },
+  {
+    "vancomycin_trough": 11.384,
+    "serum_creatinine": 5.005,
+    "glomerular_filtration_rate": -3.816,
+    "acute_kidney_injury": 0.344
+  },
+  {
+    "vancomycin_trough": 10.234,
+    "serum_creatinine": 2.624,
+    "glomerular_filtration_rate": -2.096,
+    "acute_kidney_injury": -2.816
+  },
+  {
+    "vancomycin_trough": 7.529,
+    "serum_creatinine": 7.647,
+    "glomerular_filtration_rate": -6.122,
+    "acute_kidney_injury": 7.625
+  },
+  {
+    "vancomycin_trough": 11.817,
+    "serum_creatinine": 8.073,
+    "glomerular_filtration_rate": -6.513,
+    "acute_kidney_injury": 5.244
+  },
+  {
+    "vancomycin_trough": 12.175,
+    "serum_creatinine": 6.973,
+    "glomerular_filtration_rate": -5.3,
+    "acute_kidney_injury": 3.124
+  },
+  {
+    "vancomycin_trough": 8.948,
+    "serum_creatinine": 9.773,
+    "glomerular_filtration_rate": -7.864,
+    "acute_kidney_injury": 10.209
+  },
+  {
+    "vancomycin_trough": 10.048,
+    "serum_creatinine": 3.007,
+    "glomerular_filtration_rate": -2.591,
+    "acute_kidney_injury": -1.545
+  },
+  {
+    "vancomycin_trough": 11.623,
+    "serum_creatinine": 7.25,
+    "glomerular_filtration_rate": -5.412,
+    "acute_kidney_injury": 3.89
+  },
+  {
+    "vancomycin_trough": 7.323,
+    "serum_creatinine": 3.25,
+    "glomerular_filtration_rate": -2.566,
+    "acute_kidney_injury": -0.09
+  },
+  {
+    "vancomycin_trough": 6.747,
+    "serum_creatinine": 6.495,
+    "glomerular_filtration_rate": -5.076,
+    "acute_kidney_injury": 6.025
+  },
+  {
+    "vancomycin_trough": 10.156,
+    "serum_creatinine": 10.234,
+    "glomerular_filtration_rate": -8.146,
+    "acute_kidney_injury": 10.219
+  },
+  {
+    "vancomycin_trough": 10.31,
+    "serum_creatinine": 9.585,
+    "glomerular_filtration_rate": -7.447,
+    "acute_kidney_injury": 8.951
+  },
+  {
+    "vancomycin_trough": 11.025,
+    "serum_creatinine": 6.455,
+    "glomerular_filtration_rate": -5.104,
+    "acute_kidney_injury": 2.774
+  },
+  {
+    "vancomycin_trough": 6.095,
+    "serum_creatinine": 6.805,
+    "glomerular_filtration_rate": -5.69,
+    "acute_kidney_injury": 7.186
+  },
+  {
+    "vancomycin_trough": 8.93,
+    "serum_creatinine": 4.391,
+    "glomerular_filtration_rate": -3.761,
+    "acute_kidney_injury": 1.469
+  },
+  {
+    "vancomycin_trough": 11.963,
+    "serum_creatinine": 8.418,
+    "glomerular_filtration_rate": -6.709,
+    "acute_kidney_injury": 5.862
+  },
+  {
+    "vancomycin_trough": 9.22,
+    "serum_creatinine": 6.329,
+    "glomerular_filtration_rate": -4.831,
+    "acute_kidney_injury": 4.291
+  },
+  {
+    "vancomycin_trough": 11.409,
+    "serum_creatinine": 7.654,
+    "glomerular_filtration_rate": -6.061,
+    "acute_kidney_injury": 5.118
+  },
+  {
+    "vancomycin_trough": 10.813,
+    "serum_creatinine": 14.451,
+    "glomerular_filtration_rate": -11.777,
+    "acute_kidney_injury": 16.657
+  },
+  {
+    "vancomycin_trough": 7.104,
+    "serum_creatinine": 9.413,
+    "glomerular_filtration_rate": -7.178,
+    "acute_kidney_injury": 10.128
+  },
+  {
+    "vancomycin_trough": 15.647,
+    "serum_creatinine": 19.285,
+    "glomerular_filtration_rate": -15.62,
+    "acute_kidney_injury": 21.465
+  },
+  {
+    "vancomycin_trough": 10.317,
+    "serum_creatinine": 9.15,
+    "glomerular_filtration_rate": -7.325,
+    "acute_kidney_injury": 7.789
+  },
+  {
+    "vancomycin_trough": 10.941,
+    "serum_creatinine": 9.036,
+    "glomerular_filtration_rate": -6.992,
+    "acute_kidney_injury": 7.045
+  },
+  {
+    "vancomycin_trough": 10.711,
+    "serum_creatinine": 3.074,
+    "glomerular_filtration_rate": -2.366,
+    "acute_kidney_injury": -2.034
+  },
+  {
+    "vancomycin_trough": 9.608,
+    "serum_creatinine": 3.791,
+    "glomerular_filtration_rate": -3.066,
+    "acute_kidney_injury": 0.054
+  },
+  {
+    "vancomycin_trough": 9.68,
+    "serum_creatinine": 9.88,
+    "glomerular_filtration_rate": -8.115,
+    "acute_kidney_injury": 9.651
+  },
+  {
+    "vancomycin_trough": 13.885,
+    "serum_creatinine": 11.022,
+    "glomerular_filtration_rate": -9.066,
+    "acute_kidney_injury": 9.056
+  },
+  {
+    "vancomycin_trough": 9.539,
+    "serum_creatinine": 7.154,
+    "glomerular_filtration_rate": -5.813,
+    "acute_kidney_injury": 5.605
+  },
+  {
+    "vancomycin_trough": 9.953,
+    "serum_creatinine": 7.551,
+    "glomerular_filtration_rate": -6.104,
+    "acute_kidney_injury": 5.826
+  },
+  {
+    "vancomycin_trough": 11.43,
+    "serum_creatinine": 5.506,
+    "glomerular_filtration_rate": -4.766,
+    "acute_kidney_injury": 1.527
+  },
+  {
+    "vancomycin_trough": 5.663,
+    "serum_creatinine": 1.917,
+    "glomerular_filtration_rate": -1.503,
+    "acute_kidney_injury": -0.38
+  },
+  {
+    "vancomycin_trough": 8.901,
+    "serum_creatinine": 2.89,
+    "glomerular_filtration_rate": -2.441,
+    "acute_kidney_injury": -1.151
+  },
+  {
+    "vancomycin_trough": 8.594,
+    "serum_creatinine": 4.011,
+    "glomerular_filtration_rate": -3.265,
+    "acute_kidney_injury": 0.599
+  },
+  {
+    "vancomycin_trough": 6.237,
+    "serum_creatinine": 3.446,
+    "glomerular_filtration_rate": -2.757,
+    "acute_kidney_injury": 1.728
+  },
+  {
+    "vancomycin_trough": 9.959,
+    "serum_creatinine": 2.763,
+    "glomerular_filtration_rate": -2.116,
+    "acute_kidney_injury": -2.867
+  },
+  {
+    "vancomycin_trough": 7.891,
+    "serum_creatinine": 2.808,
+    "glomerular_filtration_rate": -1.951,
+    "acute_kidney_injury": -0.69
+  },
+  {
+    "vancomycin_trough": 10.02,
+    "serum_creatinine": 6.016,
+    "glomerular_filtration_rate": -5.056,
+    "acute_kidney_injury": 2.967
+  },
+  {
+    "vancomycin_trough": 8.211,
+    "serum_creatinine": 8.344,
+    "glomerular_filtration_rate": -6.927,
+    "acute_kidney_injury": 8.515
+  },
+  {
+    "vancomycin_trough": 5.489,
+    "serum_creatinine": 8.368,
+    "glomerular_filtration_rate": -6.687,
+    "acute_kidney_injury": 10.342
+  },
+  {
+    "vancomycin_trough": 9.188,
+    "serum_creatinine": 9.128,
+    "glomerular_filtration_rate": -7.517,
+    "acute_kidney_injury": 9.465
+  },
+  {
+    "vancomycin_trough": 7.922,
+    "serum_creatinine": 11.305,
+    "glomerular_filtration_rate": -8.965,
+    "acute_kidney_injury": 13.526
+  },
+  {
+    "vancomycin_trough": 6.972,
+    "serum_creatinine": 4.845,
+    "glomerular_filtration_rate": -3.892,
+    "acute_kidney_injury": 2.973
+  },
+  {
+    "vancomycin_trough": 8.263,
+    "serum_creatinine": 3.946,
+    "glomerular_filtration_rate": -2.845,
+    "acute_kidney_injury": 0.139
+  },
+  {
+    "vancomycin_trough": 9.86,
+    "serum_creatinine": 6.871,
+    "glomerular_filtration_rate": -5.682,
+    "acute_kidney_injury": 4.989
+  },
+  {
+    "vancomycin_trough": 9.877,
+    "serum_creatinine": 5.933,
+    "glomerular_filtration_rate": -4.577,
+    "acute_kidney_injury": 2.633
+  },
+  {
+    "vancomycin_trough": 11.229,
+    "serum_creatinine": 11.538,
+    "glomerular_filtration_rate": -9.478,
+    "acute_kidney_injury": 11.269
+  },
+  {
+    "vancomycin_trough": 11.66,
+    "serum_creatinine": 4.765,
+    "glomerular_filtration_rate": -4.051,
+    "acute_kidney_injury": -0.317
+  },
+  {
+    "vancomycin_trough": 10.997,
+    "serum_creatinine": 12.569,
+    "glomerular_filtration_rate": -10.356,
+    "acute_kidney_injury": 14.027
+  },
+  {
+    "vancomycin_trough": 12.107,
+    "serum_creatinine": 11.83,
+    "glomerular_filtration_rate": -9.301,
+    "acute_kidney_injury": 11.091
+  },
+  {
+    "vancomycin_trough": 8.175,
+    "serum_creatinine": 9.396,
+    "glomerular_filtration_rate": -7.296,
+    "acute_kidney_injury": 9.772
+  },
+  {
+    "vancomycin_trough": 9.163,
+    "serum_creatinine": 13.995,
+    "glomerular_filtration_rate": -11.185,
+    "acute_kidney_injury": 17.174
+  },
+  {
+    "vancomycin_trough": 8.47,
+    "serum_creatinine": 4.886,
+    "glomerular_filtration_rate": -4.016,
+    "acute_kidney_injury": 1.79
+  },
+  {
+    "vancomycin_trough": 8.704,
+    "serum_creatinine": 8.876,
+    "glomerular_filtration_rate": -7.038,
+    "acute_kidney_injury": 8.998
+  },
+  {
+    "vancomycin_trough": 11.109,
+    "serum_creatinine": 4.406,
+    "glomerular_filtration_rate": -3.212,
+    "acute_kidney_injury": -0.889
+  },
+  {
+    "vancomycin_trough": 11.471,
+    "serum_creatinine": 3.125,
+    "glomerular_filtration_rate": -2.704,
+    "acute_kidney_injury": -2.413
+  },
+  {
+    "vancomycin_trough": 11.955,
+    "serum_creatinine": 12.419,
+    "glomerular_filtration_rate": -10.136,
+    "acute_kidney_injury": 12.76
+  },
+  {
+    "vancomycin_trough": 13.576,
+    "serum_creatinine": 7.687,
+    "glomerular_filtration_rate": -6.281,
+    "acute_kidney_injury": 3.156
+  },
+  {
+    "vancomycin_trough": 9.562,
+    "serum_creatinine": 3.978,
+    "glomerular_filtration_rate": -3.224,
+    "acute_kidney_injury": 0.169
+  },
+  {
+    "vancomycin_trough": 10.153,
+    "serum_creatinine": 10.61,
+    "glomerular_filtration_rate": -8.641,
+    "acute_kidney_injury": 10.798
+  },
+  {
+    "vancomycin_trough": 9.235,
+    "serum_creatinine": -1.811,
+    "glomerular_filtration_rate": 1.301,
+    "acute_kidney_injury": -8.849
+  },
+  {
+    "vancomycin_trough": 8.343,
+    "serum_creatinine": -0.062,
+    "glomerular_filtration_rate": -0.077,
+    "acute_kidney_injury": -5.991
+  },
+  {
+    "vancomycin_trough": 8.287,
+    "serum_creatinine": 5.541,
+    "glomerular_filtration_rate": -4.241,
+    "acute_kidney_injury": 3.42
+  },
+  {
+    "vancomycin_trough": 8.264,
+    "serum_creatinine": 4.735,
+    "glomerular_filtration_rate": -3.801,
+    "acute_kidney_injury": 2.081
+  },
+  {
+    "vancomycin_trough": 10.505,
+    "serum_creatinine": 8.36,
+    "glomerular_filtration_rate": -7.043,
+    "acute_kidney_injury": 7.74
+  },
+  {
+    "vancomycin_trough": 9.737,
+    "serum_creatinine": 6.671,
+    "glomerular_filtration_rate": -5.509,
+    "acute_kidney_injury": 4.163
+  },
+  {
+    "vancomycin_trough": 9.013,
+    "serum_creatinine": 7.074,
+    "glomerular_filtration_rate": -5.462,
+    "acute_kidney_injury": 5.705
+  },
+  {
+    "vancomycin_trough": 5.113,
+    "serum_creatinine": 7.108,
+    "glomerular_filtration_rate": -5.829,
+    "acute_kidney_injury": 8.192
+  },
+  {
+    "vancomycin_trough": 11.985,
+    "serum_creatinine": 3.138,
+    "glomerular_filtration_rate": -2.663,
+    "acute_kidney_injury": -2.838
+  },
+  {
+    "vancomycin_trough": 10.091,
+    "serum_creatinine": 4.703,
+    "glomerular_filtration_rate": -3.758,
+    "acute_kidney_injury": 0.822
+  },
+  {
+    "vancomycin_trough": 10.028,
+    "serum_creatinine": 6.038,
+    "glomerular_filtration_rate": -4.813,
+    "acute_kidney_injury": 2.774
+  },
+  {
+    "vancomycin_trough": 10.456,
+    "serum_creatinine": 13.312,
+    "glomerular_filtration_rate": -10.509,
+    "acute_kidney_injury": 14.809
+  },
+  {
+    "vancomycin_trough": 7.197,
+    "serum_creatinine": -1.43,
+    "glomerular_filtration_rate": 1.215,
+    "acute_kidney_injury": -7.259
+  },
+  {
+    "vancomycin_trough": 10.786,
+    "serum_creatinine": 14.489,
+    "glomerular_filtration_rate": -11.772,
+    "acute_kidney_injury": 16.394
+  },
+  {
+    "vancomycin_trough": 10.781,
+    "serum_creatinine": 11.552,
+    "glomerular_filtration_rate": -9.318,
+    "acute_kidney_injury": 11.787
+  },
+  {
+    "vancomycin_trough": 10.443,
+    "serum_creatinine": 13.881,
+    "glomerular_filtration_rate": -11.23,
+    "acute_kidney_injury": 15.656
+  },
+  {
+    "vancomycin_trough": 11.505,
+    "serum_creatinine": 3.796,
+    "glomerular_filtration_rate": -3.069,
+    "acute_kidney_injury": -1.264
+  },
+  {
+    "vancomycin_trough": 11.549,
+    "serum_creatinine": 13.808,
+    "glomerular_filtration_rate": -11.257,
+    "acute_kidney_injury": 15.004
+  },
+  {
+    "vancomycin_trough": 9.112,
+    "serum_creatinine": 5.354,
+    "glomerular_filtration_rate": -4.205,
+    "acute_kidney_injury": 2.709
+  },
+  {
+    "vancomycin_trough": 9.327,
+    "serum_creatinine": 3.234,
+    "glomerular_filtration_rate": -2.756,
+    "acute_kidney_injury": -0.734
+  },
+  {
+    "vancomycin_trough": 13.167,
+    "serum_creatinine": 9.537,
+    "glomerular_filtration_rate": -7.325,
+    "acute_kidney_injury": 6.653
+  },
+  {
+    "vancomycin_trough": 5.7,
+    "serum_creatinine": 6.145,
+    "glomerular_filtration_rate": -5.007,
+    "acute_kidney_injury": 6.284
+  },
+  {
+    "vancomycin_trough": 9.317,
+    "serum_creatinine": 7.441,
+    "glomerular_filtration_rate": -5.909,
+    "acute_kidney_injury": 5.85
+  },
+  {
+    "vancomycin_trough": 9.461,
+    "serum_creatinine": 13.247,
+    "glomerular_filtration_rate": -10.191,
+    "acute_kidney_injury": 15.294
+  },
+  {
+    "vancomycin_trough": 9.965,
+    "serum_creatinine": 13.514,
+    "glomerular_filtration_rate": -10.528,
+    "acute_kidney_injury": 15.831
+  },
+  {
+    "vancomycin_trough": 6.731,
+    "serum_creatinine": 3.412,
+    "glomerular_filtration_rate": -2.544,
+    "acute_kidney_injury": 0.896
+  },
+  {
+    "vancomycin_trough": 8.724,
+    "serum_creatinine": 3.721,
+    "glomerular_filtration_rate": -3.026,
+    "acute_kidney_injury": -0.184
+  },
+  {
+    "vancomycin_trough": 8.412,
+    "serum_creatinine": 0.731,
+    "glomerular_filtration_rate": -0.267,
+    "acute_kidney_injury": -4.474
+  },
+  {
+    "vancomycin_trough": 11.382,
+    "serum_creatinine": 8.615,
+    "glomerular_filtration_rate": -7.07,
+    "acute_kidney_injury": 6.842
+  },
+  {
+    "vancomycin_trough": 11.517,
+    "serum_creatinine": 5.261,
+    "glomerular_filtration_rate": -3.729,
+    "acute_kidney_injury": 0.057
+  },
+  {
+    "vancomycin_trough": 6.466,
+    "serum_creatinine": 3.581,
+    "glomerular_filtration_rate": -2.988,
+    "acute_kidney_injury": 1.593
+  },
+  {
+    "vancomycin_trough": 6.64,
+    "serum_creatinine": 2.668,
+    "glomerular_filtration_rate": -2.167,
+    "acute_kidney_injury": -0.188
+  },
+  {
+    "vancomycin_trough": 10.231,
+    "serum_creatinine": 11.152,
+    "glomerular_filtration_rate": -8.966,
+    "acute_kidney_injury": 11.238
+  },
+  {
+    "vancomycin_trough": 11.195,
+    "serum_creatinine": 11.962,
+    "glomerular_filtration_rate": -9.718,
+    "acute_kidney_injury": 12.363
+  },
+  {
+    "vancomycin_trough": 10.812,
+    "serum_creatinine": 9.34,
+    "glomerular_filtration_rate": -7.418,
+    "acute_kidney_injury": 8.794
+  },
+  {
+    "vancomycin_trough": 7.369,
+    "serum_creatinine": 8.184,
+    "glomerular_filtration_rate": -6.651,
+    "acute_kidney_injury": 9.051
+  },
+  {
+    "vancomycin_trough": 9.142,
+    "serum_creatinine": 9.974,
+    "glomerular_filtration_rate": -7.817,
+    "acute_kidney_injury": 9.863
+  },
+  {
+    "vancomycin_trough": 13.097,
+    "serum_creatinine": 6.988,
+    "glomerular_filtration_rate": -5.274,
+    "acute_kidney_injury": 2.375
+  },
+  {
+    "vancomycin_trough": 9.433,
+    "serum_creatinine": 3.757,
+    "glomerular_filtration_rate": -2.921,
+    "acute_kidney_injury": 0.051
+  },
+  {
+    "vancomycin_trough": 7.934,
+    "serum_creatinine": 12.681,
+    "glomerular_filtration_rate": -10.492,
+    "acute_kidney_injury": 15.714
+  },
+  {
+    "vancomycin_trough": 8.468,
+    "serum_creatinine": 9.088,
+    "glomerular_filtration_rate": -7.517,
+    "acute_kidney_injury": 8.982
+  },
+  {
+    "vancomycin_trough": 10.766,
+    "serum_creatinine": 6.713,
+    "glomerular_filtration_rate": -5.829,
+    "acute_kidney_injury": 3.574
+  },
+  {
+    "vancomycin_trough": 12.041,
+    "serum_creatinine": 7.843,
+    "glomerular_filtration_rate": -6.038,
+    "acute_kidney_injury": 4.036
+  },
+  {
+    "vancomycin_trough": 9.352,
+    "serum_creatinine": 14.506,
+    "glomerular_filtration_rate": -11.668,
+    "acute_kidney_injury": 17.83
+  },
+  {
+    "vancomycin_trough": 10.932,
+    "serum_creatinine": 6.935,
+    "glomerular_filtration_rate": -5.395,
+    "acute_kidney_injury": 3.778
+  },
+  {
+    "vancomycin_trough": 10.354,
+    "serum_creatinine": 7.452,
+    "glomerular_filtration_rate": -5.866,
+    "acute_kidney_injury": 5.548
+  },
+  {
+    "vancomycin_trough": 9.057,
+    "serum_creatinine": 7.828,
+    "glomerular_filtration_rate": -6.223,
+    "acute_kidney_injury": 6.399
+  },
+  {
+    "vancomycin_trough": 10.901,
+    "serum_creatinine": 3.301,
+    "glomerular_filtration_rate": -2.894,
+    "acute_kidney_injury": -1.82
+  },
+  {
+    "vancomycin_trough": 9.39,
+    "serum_creatinine": 6.783,
+    "glomerular_filtration_rate": -5.49,
+    "acute_kidney_injury": 5.16
+  },
+  {
+    "vancomycin_trough": 11.349,
+    "serum_creatinine": 8.068,
+    "glomerular_filtration_rate": -6.409,
+    "acute_kidney_injury": 5.873
+  },
+  {
+    "vancomycin_trough": 12.548,
+    "serum_creatinine": 3.111,
+    "glomerular_filtration_rate": -2.454,
+    "acute_kidney_injury": -3.895
+  },
+  {
+    "vancomycin_trough": 8.777,
+    "serum_creatinine": 13.425,
+    "glomerular_filtration_rate": -11.069,
+    "acute_kidney_injury": 16.533
+  },
+  {
+    "vancomycin_trough": 10.954,
+    "serum_creatinine": -3.192,
+    "glomerular_filtration_rate": 2.593,
+    "acute_kidney_injury": -12.731
+  },
+  {
+    "vancomycin_trough": 9.645,
+    "serum_creatinine": 2.705,
+    "glomerular_filtration_rate": -2.353,
+    "acute_kidney_injury": -2.147
+  },
+  {
+    "vancomycin_trough": 9.874,
+    "serum_creatinine": 1.522,
+    "glomerular_filtration_rate": -1.705,
+    "acute_kidney_injury": -3.755
+  },
+  {
+    "vancomycin_trough": 10.337,
+    "serum_creatinine": 6.298,
+    "glomerular_filtration_rate": -5.011,
+    "acute_kidney_injury": 3.224
+  },
+  {
+    "vancomycin_trough": 8.265,
+    "serum_creatinine": 12.88,
+    "glomerular_filtration_rate": -10.219,
+    "acute_kidney_injury": 15.566
+  },
+  {
+    "vancomycin_trough": 10.871,
+    "serum_creatinine": 7.054,
+    "glomerular_filtration_rate": -5.434,
+    "acute_kidney_injury": 3.643
+  },
+  {
+    "vancomycin_trough": 8.364,
+    "serum_creatinine": 11.045,
+    "glomerular_filtration_rate": -8.996,
+    "acute_kidney_injury": 13.244
+  },
+  {
+    "vancomycin_trough": 8.573,
+    "serum_creatinine": 8.574,
+    "glomerular_filtration_rate": -7.083,
+    "acute_kidney_injury": 9.442
+  },
+  {
+    "vancomycin_trough": 11.33,
+    "serum_creatinine": 9.415,
+    "glomerular_filtration_rate": -7.654,
+    "acute_kidney_injury": 8.128
+  },
+  {
+    "vancomycin_trough": 10.805,
+    "serum_creatinine": 3.334,
+    "glomerular_filtration_rate": -2.875,
+    "acute_kidney_injury": -1.493
+  },
+  {
+    "vancomycin_trough": 9.11,
+    "serum_creatinine": 6.638,
+    "glomerular_filtration_rate": -5.495,
+    "acute_kidney_injury": 5.014
+  },
+  {
+    "vancomycin_trough": 7.278,
+    "serum_creatinine": 10.527,
+    "glomerular_filtration_rate": -8.575,
+    "acute_kidney_injury": 11.947
+  },
+  {
+    "vancomycin_trough": 10.788,
+    "serum_creatinine": 5.744,
+    "glomerular_filtration_rate": -4.535,
+    "acute_kidney_injury": 2.086
+  },
+  {
+    "vancomycin_trough": 9.555,
+    "serum_creatinine": 13.696,
+    "glomerular_filtration_rate": -10.963,
+    "acute_kidney_injury": 15.972
+  },
+  {
+    "vancomycin_trough": 9.999,
+    "serum_creatinine": 7.889,
+    "glomerular_filtration_rate": -5.812,
+    "acute_kidney_injury": 5.592
+  },
+  {
+    "vancomycin_trough": 14.785,
+    "serum_creatinine": 13.304,
+    "glomerular_filtration_rate": -10.696,
+    "acute_kidney_injury": 11.736
+  },
+  {
+    "vancomycin_trough": 9.42,
+    "serum_creatinine": 5.667,
+    "glomerular_filtration_rate": -4.944,
+    "acute_kidney_injury": 3.293
+  },
+  {
+    "vancomycin_trough": 10.602,
+    "serum_creatinine": 8.32,
+    "glomerular_filtration_rate": -6.536,
+    "acute_kidney_injury": 6.482
+  },
+  {
+    "vancomycin_trough": 9.745,
+    "serum_creatinine": 6.816,
+    "glomerular_filtration_rate": -5.313,
+    "acute_kidney_injury": 4.464
+  },
+  {
+    "vancomycin_trough": 10.773,
+    "serum_creatinine": 9.563,
+    "glomerular_filtration_rate": -7.447,
+    "acute_kidney_injury": 8.799
+  },
+  {
+    "vancomycin_trough": 8.512,
+    "serum_creatinine": 2.336,
+    "glomerular_filtration_rate": -1.709,
+    "acute_kidney_injury": -2.085
+  },
+  {
+    "vancomycin_trough": 8.453,
+    "serum_creatinine": 7.308,
+    "glomerular_filtration_rate": -5.874,
+    "acute_kidney_injury": 6.575
+  },
+  {
+    "vancomycin_trough": 7.414,
+    "serum_creatinine": 5.222,
+    "glomerular_filtration_rate": -4.185,
+    "acute_kidney_injury": 3.693
+  },
+  {
+    "vancomycin_trough": 9.585,
+    "serum_creatinine": 10.257,
+    "glomerular_filtration_rate": -8.131,
+    "acute_kidney_injury": 10.538
+  },
+  {
+    "vancomycin_trough": 13.554,
+    "serum_creatinine": 8.25,
+    "glomerular_filtration_rate": -6.812,
+    "acute_kidney_injury": 4.642
+  },
+  {
+    "vancomycin_trough": 12.063,
+    "serum_creatinine": 7.978,
+    "glomerular_filtration_rate": -6.696,
+    "acute_kidney_injury": 5.204
+  },
+  {
+    "vancomycin_trough": 11.182,
+    "serum_creatinine": 4.819,
+    "glomerular_filtration_rate": -3.805,
+    "acute_kidney_injury": 0.82
+  },
+  {
+    "vancomycin_trough": 13.037,
+    "serum_creatinine": 10.21,
+    "glomerular_filtration_rate": -8.165,
+    "acute_kidney_injury": 8.246
+  },
+  {
+    "vancomycin_trough": 8.034,
+    "serum_creatinine": 2.763,
+    "glomerular_filtration_rate": -2.185,
+    "acute_kidney_injury": -0.683
+  },
+  {
+    "vancomycin_trough": 8.853,
+    "serum_creatinine": 6.132,
+    "glomerular_filtration_rate": -5.145,
+    "acute_kidney_injury": 4.11
+  },
+  {
+    "vancomycin_trough": 13.47,
+    "serum_creatinine": 18.759,
+    "glomerular_filtration_rate": -14.819,
+    "acute_kidney_injury": 22.195
+  },
+  {
+    "vancomycin_trough": 10.1,
+    "serum_creatinine": 6.596,
+    "glomerular_filtration_rate": -5.134,
+    "acute_kidney_injury": 3.538
+  },
+  {
+    "vancomycin_trough": 9.267,
+    "serum_creatinine": 6.673,
+    "glomerular_filtration_rate": -5.237,
+    "acute_kidney_injury": 4.356
+  },
+  {
+    "vancomycin_trough": 12.174,
+    "serum_creatinine": 3.931,
+    "glomerular_filtration_rate": -3.178,
+    "acute_kidney_injury": -2.503
+  },
+  {
+    "vancomycin_trough": 12.81,
+    "serum_creatinine": 3.081,
+    "glomerular_filtration_rate": -2.354,
+    "acute_kidney_injury": -3.997
+  },
+  {
+    "vancomycin_trough": 10.78,
+    "serum_creatinine": 12.345,
+    "glomerular_filtration_rate": -9.959,
+    "acute_kidney_injury": 12.942
+  },
+  {
+    "vancomycin_trough": 8.121,
+    "serum_creatinine": 5.564,
+    "glomerular_filtration_rate": -4.556,
+    "acute_kidney_injury": 3.473
+  },
+  {
+    "vancomycin_trough": 5.926,
+    "serum_creatinine": 4.701,
+    "glomerular_filtration_rate": -3.717,
+    "acute_kidney_injury": 3.461
+  },
+  {
+    "vancomycin_trough": 12.759,
+    "serum_creatinine": 10.853,
+    "glomerular_filtration_rate": -8.585,
+    "acute_kidney_injury": 9.103
+  },
+  {
+    "vancomycin_trough": 12.049,
+    "serum_creatinine": 8.575,
+    "glomerular_filtration_rate": -6.645,
+    "acute_kidney_injury": 5.312
+  },
+  {
+    "vancomycin_trough": 7.668,
+    "serum_creatinine": 6.349,
+    "glomerular_filtration_rate": -5.008,
+    "acute_kidney_injury": 5.14
+  },
+  {
+    "vancomycin_trough": 7.869,
+    "serum_creatinine": 12.187,
+    "glomerular_filtration_rate": -9.692,
+    "acute_kidney_injury": 14.997
+  },
+  {
+    "vancomycin_trough": 11.396,
+    "serum_creatinine": 6.545,
+    "glomerular_filtration_rate": -5.043,
+    "acute_kidney_injury": 3.286
+  },
+  {
+    "vancomycin_trough": 6.965,
+    "serum_creatinine": 1.216,
+    "glomerular_filtration_rate": -0.832,
+    "acute_kidney_injury": -2.927
+  },
+  {
+    "vancomycin_trough": 9.155,
+    "serum_creatinine": 0.334,
+    "glomerular_filtration_rate": -0.029,
+    "acute_kidney_injury": -6.283
+  },
+  {
+    "vancomycin_trough": 10.926,
+    "serum_creatinine": 8.032,
+    "glomerular_filtration_rate": -6.491,
+    "acute_kidney_injury": 5.767
+  },
+  {
+    "vancomycin_trough": 10.749,
+    "serum_creatinine": 9.136,
+    "glomerular_filtration_rate": -7.374,
+    "acute_kidney_injury": 8.294
+  },
+  {
+    "vancomycin_trough": 11.528,
+    "serum_creatinine": 8.876,
+    "glomerular_filtration_rate": -6.939,
+    "acute_kidney_injury": 6.578
+  },
+  {
+    "vancomycin_trough": 8.667,
+    "serum_creatinine": 8.492,
+    "glomerular_filtration_rate": -6.63,
+    "acute_kidney_injury": 7.924
+  },
+  {
+    "vancomycin_trough": 9.065,
+    "serum_creatinine": 5.848,
+    "glomerular_filtration_rate": -4.576,
+    "acute_kidney_injury": 3.035
+  },
+  {
+    "vancomycin_trough": 7.923,
+    "serum_creatinine": -0.881,
+    "glomerular_filtration_rate": 0.813,
+    "acute_kidney_injury": -7.104
+  },
+  {
+    "vancomycin_trough": 8.553,
+    "serum_creatinine": 3.618,
+    "glomerular_filtration_rate": -2.76,
+    "acute_kidney_injury": 0.186
+  },
+  {
+    "vancomycin_trough": 9.029,
+    "serum_creatinine": 12.54,
+    "glomerular_filtration_rate": -9.89,
+    "acute_kidney_injury": 14.939
+  },
+  {
+    "vancomycin_trough": 8.67,
+    "serum_creatinine": 5.108,
+    "glomerular_filtration_rate": -4.103,
+    "acute_kidney_injury": 2.588
+  },
+  {
+    "vancomycin_trough": 7.64,
+    "serum_creatinine": 2.303,
+    "glomerular_filtration_rate": -2.091,
+    "acute_kidney_injury": -1.392
+  },
+  {
+    "vancomycin_trough": 10.376,
+    "serum_creatinine": 3.403,
+    "glomerular_filtration_rate": -2.917,
+    "acute_kidney_injury": -2.057
+  },
+  {
+    "vancomycin_trough": 10.755,
+    "serum_creatinine": -2.432,
+    "glomerular_filtration_rate": 2.081,
+    "acute_kidney_injury": -12.211
+  },
+  {
+    "vancomycin_trough": 11.92,
+    "serum_creatinine": 6.3,
+    "glomerular_filtration_rate": -4.992,
+    "acute_kidney_injury": 1.64
+  },
+  {
+    "vancomycin_trough": 10.454,
+    "serum_creatinine": 8.063,
+    "glomerular_filtration_rate": -6.391,
+    "acute_kidney_injury": 6.58
+  },
+  {
+    "vancomycin_trough": 9.93,
+    "serum_creatinine": 7.344,
+    "glomerular_filtration_rate": -5.974,
+    "acute_kidney_injury": 5.337
+  },
+  {
+    "vancomycin_trough": 11.577,
+    "serum_creatinine": 0.213,
+    "glomerular_filtration_rate": -0.108,
+    "acute_kidney_injury": -7.838
+  },
+  {
+    "vancomycin_trough": 12.39,
+    "serum_creatinine": 11.968,
+    "glomerular_filtration_rate": -9.444,
+    "acute_kidney_injury": 11.125
+  },
+  {
+    "vancomycin_trough": 12.198,
+    "serum_creatinine": 10.893,
+    "glomerular_filtration_rate": -8.553,
+    "acute_kidney_injury": 9.394
+  },
+  {
+    "vancomycin_trough": 12.483,
+    "serum_creatinine": 6.823,
+    "glomerular_filtration_rate": -5.533,
+    "acute_kidney_injury": 2.954
+  },
+  {
+    "vancomycin_trough": 6.623,
+    "serum_creatinine": 4.111,
+    "glomerular_filtration_rate": -3.319,
+    "acute_kidney_injury": 2.572
+  },
+  {
+    "vancomycin_trough": 7.767,
+    "serum_creatinine": 5.767,
+    "glomerular_filtration_rate": -4.519,
+    "acute_kidney_injury": 4.262
+  },
+  {
+    "vancomycin_trough": 11.703,
+    "serum_creatinine": 4.005,
+    "glomerular_filtration_rate": -2.954,
+    "acute_kidney_injury": -1.588
+  },
+  {
+    "vancomycin_trough": 9.419,
+    "serum_creatinine": 7.515,
+    "glomerular_filtration_rate": -5.987,
+    "acute_kidney_injury": 6.316
+  },
+  {
+    "vancomycin_trough": 5.441,
+    "serum_creatinine": 8.3,
+    "glomerular_filtration_rate": -6.706,
+    "acute_kidney_injury": 10.42
+  },
+  {
+    "vancomycin_trough": 7.415,
+    "serum_creatinine": 8.71,
+    "glomerular_filtration_rate": -7.162,
+    "acute_kidney_injury": 9.322
+  },
+  {
+    "vancomycin_trough": 10.085,
+    "serum_creatinine": 11.287,
+    "glomerular_filtration_rate": -8.788,
+    "acute_kidney_injury": 12.008
+  },
+  {
+    "vancomycin_trough": 10.354,
+    "serum_creatinine": 2.719,
+    "glomerular_filtration_rate": -2.212,
+    "acute_kidney_injury": -2.432
+  },
+  {
+    "vancomycin_trough": 7.963,
+    "serum_creatinine": 3.534,
+    "glomerular_filtration_rate": -2.98,
+    "acute_kidney_injury": 1.113
+  },
+  {
+    "vancomycin_trough": 8.513,
+    "serum_creatinine": 3.885,
+    "glomerular_filtration_rate": -3.316,
+    "acute_kidney_injury": 0.674
+  },
+  {
+    "vancomycin_trough": 10.415,
+    "serum_creatinine": -0.768,
+    "glomerular_filtration_rate": 0.942,
+    "acute_kidney_injury": -9.046
+  },
+  {
+    "vancomycin_trough": 11.734,
+    "serum_creatinine": 4.846,
+    "glomerular_filtration_rate": -3.834,
+    "acute_kidney_injury": 0.597
+  },
+  {
+    "vancomycin_trough": 10.812,
+    "serum_creatinine": 12.834,
+    "glomerular_filtration_rate": -10.395,
+    "acute_kidney_injury": 14.307
+  },
+  {
+    "vancomycin_trough": 9.723,
+    "serum_creatinine": 2.874,
+    "glomerular_filtration_rate": -2.497,
+    "acute_kidney_injury": -1.67
+  },
+  {
+    "vancomycin_trough": 8.853,
+    "serum_creatinine": 6.751,
+    "glomerular_filtration_rate": -5.725,
+    "acute_kidney_injury": 4.975
+  },
+  {
+    "vancomycin_trough": 7.502,
+    "serum_creatinine": 2.873,
+    "glomerular_filtration_rate": -2.254,
+    "acute_kidney_injury": -0.727
+  },
+  {
+    "vancomycin_trough": 11.885,
+    "serum_creatinine": 13.899,
+    "glomerular_filtration_rate": -10.883,
+    "acute_kidney_injury": 15.261
+  },
+  {
+    "vancomycin_trough": 12.528,
+    "serum_creatinine": 7.588,
+    "glomerular_filtration_rate": -5.907,
+    "acute_kidney_injury": 3.07
+  },
+  {
+    "vancomycin_trough": 13.098,
+    "serum_creatinine": 11.681,
+    "glomerular_filtration_rate": -9.216,
+    "acute_kidney_injury": 10.343
+  },
+  {
+    "vancomycin_trough": 11.31,
+    "serum_creatinine": 12.361,
+    "glomerular_filtration_rate": -9.891,
+    "acute_kidney_injury": 12.778
+  },
+  {
+    "vancomycin_trough": 5.63,
+    "serum_creatinine": 2.991,
+    "glomerular_filtration_rate": -2.507,
+    "acute_kidney_injury": 1.651
+  },
+  {
+    "vancomycin_trough": 8.022,
+    "serum_creatinine": 2.211,
+    "glomerular_filtration_rate": -1.811,
+    "acute_kidney_injury": -1.781
+  },
+  {
+    "vancomycin_trough": 13.566,
+    "serum_creatinine": 11.601,
+    "glomerular_filtration_rate": -9.071,
+    "acute_kidney_injury": 9.635
+  },
+  {
+    "vancomycin_trough": 8.532,
+    "serum_creatinine": 14.524,
+    "glomerular_filtration_rate": -11.42,
+    "acute_kidney_injury": 18.418
+  },
+  {
+    "vancomycin_trough": 12.204,
+    "serum_creatinine": 9.747,
+    "glomerular_filtration_rate": -7.453,
+    "acute_kidney_injury": 7.434
+  },
+  {
+    "vancomycin_trough": 11.609,
+    "serum_creatinine": 9.673,
+    "glomerular_filtration_rate": -7.771,
+    "acute_kidney_injury": 7.96
+  },
+  {
+    "vancomycin_trough": 9.052,
+    "serum_creatinine": 6.779,
+    "glomerular_filtration_rate": -5.163,
+    "acute_kidney_injury": 4.743
+  },
+  {
+    "vancomycin_trough": 9.942,
+    "serum_creatinine": 3.837,
+    "glomerular_filtration_rate": -3.194,
+    "acute_kidney_injury": -0.233
+  },
+  {
+    "vancomycin_trough": 13.327,
+    "serum_creatinine": 3.033,
+    "glomerular_filtration_rate": -2.586,
+    "acute_kidney_injury": -3.792
+  },
+  {
+    "vancomycin_trough": 11.396,
+    "serum_creatinine": 4.947,
+    "glomerular_filtration_rate": -3.668,
+    "acute_kidney_injury": -0.26
+  },
+  {
+    "vancomycin_trough": 12.225,
+    "serum_creatinine": 9.457,
+    "glomerular_filtration_rate": -7.579,
+    "acute_kidney_injury": 6.781
+  },
+  {
+    "vancomycin_trough": 10.342,
+    "serum_creatinine": 9.97,
+    "glomerular_filtration_rate": -7.75,
+    "acute_kidney_injury": 9.374
+  },
+  {
+    "vancomycin_trough": 7.571,
+    "serum_creatinine": 9.774,
+    "glomerular_filtration_rate": -7.669,
+    "acute_kidney_injury": 10.997
+  },
+  {
+    "vancomycin_trough": 12.013,
+    "serum_creatinine": 8.825,
+    "glomerular_filtration_rate": -7.066,
+    "acute_kidney_injury": 5.847
+  },
+  {
+    "vancomycin_trough": 8.733,
+    "serum_creatinine": 7.077,
+    "glomerular_filtration_rate": -5.681,
+    "acute_kidney_injury": 5.669
+  },
+  {
+    "vancomycin_trough": 9.941,
+    "serum_creatinine": 4.756,
+    "glomerular_filtration_rate": -4.19,
+    "acute_kidney_injury": 1.395
+  },
+  {
+    "vancomycin_trough": 11.726,
+    "serum_creatinine": 13.014,
+    "glomerular_filtration_rate": -10.255,
+    "acute_kidney_injury": 13.453
+  },
+  {
+    "vancomycin_trough": 13.171,
+    "serum_creatinine": 6.694,
+    "glomerular_filtration_rate": -5.461,
+    "acute_kidney_injury": 2.288
+  },
+  {
+    "vancomycin_trough": 10.37,
+    "serum_creatinine": 9.518,
+    "glomerular_filtration_rate": -7.77,
+    "acute_kidney_injury": 9.454
+  },
+  {
+    "vancomycin_trough": 9.091,
+    "serum_creatinine": 6.839,
+    "glomerular_filtration_rate": -5.599,
+    "acute_kidney_injury": 5.49
+  },
+  {
+    "vancomycin_trough": 8.296,
+    "serum_creatinine": 2.158,
+    "glomerular_filtration_rate": -1.761,
+    "acute_kidney_injury": -2.052
+  },
+  {
+    "vancomycin_trough": 10.916,
+    "serum_creatinine": 11.678,
+    "glomerular_filtration_rate": -9.22,
+    "acute_kidney_injury": 11.712
+  },
+  {
+    "vancomycin_trough": 8.364,
+    "serum_creatinine": 8.517,
+    "glomerular_filtration_rate": -6.658,
+    "acute_kidney_injury": 8.783
+  },
+  {
+    "vancomycin_trough": 8.994,
+    "serum_creatinine": 4.191,
+    "glomerular_filtration_rate": -3.405,
+    "acute_kidney_injury": 0.35
+  },
+  {
+    "vancomycin_trough": 10.984,
+    "serum_creatinine": 11.163,
+    "glomerular_filtration_rate": -9.052,
+    "acute_kidney_injury": 11.035
+  },
+  {
+    "vancomycin_trough": 6.749,
+    "serum_creatinine": 7.766,
+    "glomerular_filtration_rate": -6.068,
+    "acute_kidney_injury": 8.111
+  },
+  {
+    "vancomycin_trough": 10.219,
+    "serum_creatinine": 14.196,
+    "glomerular_filtration_rate": -11.277,
+    "acute_kidney_injury": 16.347
+  },
+  {
+    "vancomycin_trough": 11.695,
+    "serum_creatinine": 5.623,
+    "glomerular_filtration_rate": -4.499,
+    "acute_kidney_injury": 1.019
+  },
+  {
+    "vancomycin_trough": 10.171,
+    "serum_creatinine": 6.192,
+    "glomerular_filtration_rate": -5.195,
+    "acute_kidney_injury": 4.225
+  },
+  {
+    "vancomycin_trough": 9.52,
+    "serum_creatinine": 9.527,
+    "glomerular_filtration_rate": -7.777,
+    "acute_kidney_injury": 9.267
+  },
+  {
+    "vancomycin_trough": 7.857,
+    "serum_creatinine": 8.928,
+    "glomerular_filtration_rate": -7.068,
+    "acute_kidney_injury": 9.344
+  },
+  {
+    "vancomycin_trough": 8.592,
+    "serum_creatinine": 4.961,
+    "glomerular_filtration_rate": -4.274,
+    "acute_kidney_injury": 2.678
+  },
+  {
+    "vancomycin_trough": 8.396,
+    "serum_creatinine": 7.34,
+    "glomerular_filtration_rate": -5.555,
+    "acute_kidney_injury": 6.607
+  },
+  {
+    "vancomycin_trough": 13.476,
+    "serum_creatinine": 12.155,
+    "glomerular_filtration_rate": -9.567,
+    "acute_kidney_injury": 10.717
+  },
+  {
+    "vancomycin_trough": 11.889,
+    "serum_creatinine": 8.081,
+    "glomerular_filtration_rate": -7.011,
+    "acute_kidney_injury": 4.935
+  },
+  {
+    "vancomycin_trough": 13.601,
+    "serum_creatinine": 7.321,
+    "glomerular_filtration_rate": -5.549,
+    "acute_kidney_injury": 2.372
+  },
+  {
+    "vancomycin_trough": 7.511,
+    "serum_creatinine": -3.001,
+    "glomerular_filtration_rate": 2.207,
+    "acute_kidney_injury": -10.157
+  },
+  {
+    "vancomycin_trough": 10.068,
+    "serum_creatinine": 11.502,
+    "glomerular_filtration_rate": -9.1,
+    "acute_kidney_injury": 12.371
+  },
+  {
+    "vancomycin_trough": 11.094,
+    "serum_creatinine": 6.841,
+    "glomerular_filtration_rate": -5.499,
+    "acute_kidney_injury": 3.661
+  },
+  {
+    "vancomycin_trough": 11.642,
+    "serum_creatinine": 15.843,
+    "glomerular_filtration_rate": -12.742,
+    "acute_kidney_injury": 18.462
+  },
+  {
+    "vancomycin_trough": 7.639,
+    "serum_creatinine": 5.254,
+    "glomerular_filtration_rate": -4.334,
+    "acute_kidney_injury": 3.624
+  },
+  {
+    "vancomycin_trough": 8.516,
+    "serum_creatinine": 4.79,
+    "glomerular_filtration_rate": -4.53,
+    "acute_kidney_injury": 2.358
+  },
+  {
+    "vancomycin_trough": 8.848,
+    "serum_creatinine": 6.451,
+    "glomerular_filtration_rate": -4.691,
+    "acute_kidney_injury": 4.274
+  },
+  {
+    "vancomycin_trough": 11.812,
+    "serum_creatinine": 12.003,
+    "glomerular_filtration_rate": -9.485,
+    "acute_kidney_injury": 12.193
+  },
+  {
+    "vancomycin_trough": 9.582,
+    "serum_creatinine": 9.044,
+    "glomerular_filtration_rate": -7.32,
+    "acute_kidney_injury": 8.844
+  },
+  {
+    "vancomycin_trough": 10.171,
+    "serum_creatinine": 4.667,
+    "glomerular_filtration_rate": -3.974,
+    "acute_kidney_injury": 1.123
+  },
+  {
+    "vancomycin_trough": 6.97,
+    "serum_creatinine": 6.492,
+    "glomerular_filtration_rate": -5.388,
+    "acute_kidney_injury": 6.26
+  },
+  {
+    "vancomycin_trough": 10.63,
+    "serum_creatinine": 6.576,
+    "glomerular_filtration_rate": -5.142,
+    "acute_kidney_injury": 3.669
+  },
+  {
+    "vancomycin_trough": 9.871,
+    "serum_creatinine": 8.821,
+    "glomerular_filtration_rate": -6.994,
+    "acute_kidney_injury": 7.929
+  },
+  {
+    "vancomycin_trough": 11.58,
+    "serum_creatinine": 7.183,
+    "glomerular_filtration_rate": -5.806,
+    "acute_kidney_injury": 4.516
+  },
+  {
+    "vancomycin_trough": 9.782,
+    "serum_creatinine": 3.089,
+    "glomerular_filtration_rate": -2.568,
+    "acute_kidney_injury": -1.316
+  },
+  {
+    "vancomycin_trough": 10.484,
+    "serum_creatinine": 6.538,
+    "glomerular_filtration_rate": -5.332,
+    "acute_kidney_injury": 3.808
+  },
+  {
+    "vancomycin_trough": 10.021,
+    "serum_creatinine": 2.444,
+    "glomerular_filtration_rate": -1.891,
+    "acute_kidney_injury": -3.092
+  },
+  {
+    "vancomycin_trough": 12.649,
+    "serum_creatinine": 13.649,
+    "glomerular_filtration_rate": -10.53,
+    "acute_kidney_injury": 13.715
+  },
+  {
+    "vancomycin_trough": 11.622,
+    "serum_creatinine": 10.356,
+    "glomerular_filtration_rate": -8.312,
+    "acute_kidney_injury": 9.044
+  },
+  {
+    "vancomycin_trough": 9.415,
+    "serum_creatinine": 9.736,
+    "glomerular_filtration_rate": -7.792,
+    "acute_kidney_injury": 10.065
+  },
+  {
+    "vancomycin_trough": 13.777,
+    "serum_creatinine": 10.493,
+    "glomerular_filtration_rate": -8.324,
+    "acute_kidney_injury": 7.524
+  },
+  {
+    "vancomycin_trough": 8.823,
+    "serum_creatinine": 4.321,
+    "glomerular_filtration_rate": -3.369,
+    "acute_kidney_injury": 1.1
+  },
+  {
+    "vancomycin_trough": 9.643,
+    "serum_creatinine": 5.65,
+    "glomerular_filtration_rate": -4.576,
+    "acute_kidney_injury": 2.757
+  },
+  {
+    "vancomycin_trough": 11.353,
+    "serum_creatinine": 8.261,
+    "glomerular_filtration_rate": -6.71,
+    "acute_kidney_injury": 5.782
+  },
+  {
+    "vancomycin_trough": 12.822,
+    "serum_creatinine": 10.824,
+    "glomerular_filtration_rate": -8.412,
+    "acute_kidney_injury": 9.279
+  },
+  {
+    "vancomycin_trough": 6.398,
+    "serum_creatinine": 6.419,
+    "glomerular_filtration_rate": -5.347,
+    "acute_kidney_injury": 6.575
+  },
+  {
+    "vancomycin_trough": 13.12,
+    "serum_creatinine": 14.379,
+    "glomerular_filtration_rate": -11.644,
+    "acute_kidney_injury": 14.961
+  },
+  {
+    "vancomycin_trough": 9.432,
+    "serum_creatinine": 5.822,
+    "glomerular_filtration_rate": -4.164,
+    "acute_kidney_injury": 2.865
+  },
+  {
+    "vancomycin_trough": 8.81,
+    "serum_creatinine": 6.413,
+    "glomerular_filtration_rate": -5.235,
+    "acute_kidney_injury": 4.756
+  },
+  {
+    "vancomycin_trough": 10.362,
+    "serum_creatinine": 9.074,
+    "glomerular_filtration_rate": -7.04,
+    "acute_kidney_injury": 7.738
+  },
+  {
+    "vancomycin_trough": 8.496,
+    "serum_creatinine": 4.803,
+    "glomerular_filtration_rate": -3.856,
+    "acute_kidney_injury": 1.32
+  },
+  {
+    "vancomycin_trough": 11.818,
+    "serum_creatinine": 10.541,
+    "glomerular_filtration_rate": -8.509,
+    "acute_kidney_injury": 9.39
+  },
+  {
+    "vancomycin_trough": 9.8,
+    "serum_creatinine": 9.603,
+    "glomerular_filtration_rate": -7.522,
+    "acute_kidney_injury": 9.27
+  },
+  {
+    "vancomycin_trough": 8.086,
+    "serum_creatinine": 5.54,
+    "glomerular_filtration_rate": -4.581,
+    "acute_kidney_injury": 3.893
+  },
+  {
+    "vancomycin_trough": 11.227,
+    "serum_creatinine": 12.161,
+    "glomerular_filtration_rate": -9.678,
+    "acute_kidney_injury": 12.746
+  },
+  {
+    "vancomycin_trough": 12.67,
+    "serum_creatinine": 12.733,
+    "glomerular_filtration_rate": -10.436,
+    "acute_kidney_injury": 12.593
+  },
+  {
+    "vancomycin_trough": 10.446,
+    "serum_creatinine": -1.219,
+    "glomerular_filtration_rate": 1.144,
+    "acute_kidney_injury": -9.599
+  },
+  {
+    "vancomycin_trough": 9.379,
+    "serum_creatinine": 4.044,
+    "glomerular_filtration_rate": -3.005,
+    "acute_kidney_injury": 0.588
+  },
+  {
+    "vancomycin_trough": 9.902,
+    "serum_creatinine": 6.05,
+    "glomerular_filtration_rate": -4.887,
+    "acute_kidney_injury": 3.191
+  },
+  {
+    "vancomycin_trough": 10.429,
+    "serum_creatinine": 7.687,
+    "glomerular_filtration_rate": -5.989,
+    "acute_kidney_injury": 5.299
+  },
+  {
+    "vancomycin_trough": 9.406,
+    "serum_creatinine": 5.478,
+    "glomerular_filtration_rate": -4.191,
+    "acute_kidney_injury": 2.496
+  },
+  {
+    "vancomycin_trough": 12.767,
+    "serum_creatinine": 0.275,
+    "glomerular_filtration_rate": -0.187,
+    "acute_kidney_injury": -8.43
+  },
+  {
+    "vancomycin_trough": 7.814,
+    "serum_creatinine": 11.596,
+    "glomerular_filtration_rate": -9.141,
+    "acute_kidney_injury": 13.788
+  }
+]

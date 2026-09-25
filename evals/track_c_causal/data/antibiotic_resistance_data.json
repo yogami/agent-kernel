@@ -1,0 +1,3002 @@
+[
+  {
+    "antibiotic_exposure": 5.627,
+    "selective_pressure": 4.285,
+    "resistance_gene_density": -1.197,
+    "treatment_failure": -0.97
+  },
+  {
+    "antibiotic_exposure": 12.974,
+    "selective_pressure": 9.747,
+    "resistance_gene_density": 12.503,
+    "treatment_failure": 8.852
+  },
+  {
+    "antibiotic_exposure": 14.905,
+    "selective_pressure": 11.419,
+    "resistance_gene_density": 11.395,
+    "treatment_failure": 7.856
+  },
+  {
+    "antibiotic_exposure": 6.6,
+    "selective_pressure": 4.995,
+    "resistance_gene_density": 1.594,
+    "treatment_failure": 0.95
+  },
+  {
+    "antibiotic_exposure": 12.877,
+    "selective_pressure": 9.359,
+    "resistance_gene_density": 5.403,
+    "treatment_failure": 3.532
+  },
+  {
+    "antibiotic_exposure": 5.131,
+    "selective_pressure": 3.758,
+    "resistance_gene_density": -1.028,
+    "treatment_failure": -0.87
+  },
+  {
+    "antibiotic_exposure": 9.031,
+    "selective_pressure": 6.952,
+    "resistance_gene_density": 4.082,
+    "treatment_failure": 3.054
+  },
+  {
+    "antibiotic_exposure": 14.547,
+    "selective_pressure": 10.328,
+    "resistance_gene_density": 8.483,
+    "treatment_failure": 5.983
+  },
+  {
+    "antibiotic_exposure": 9.876,
+    "selective_pressure": 7.464,
+    "resistance_gene_density": 5.522,
+    "treatment_failure": 3.828
+  },
+  {
+    "antibiotic_exposure": 7.318,
+    "selective_pressure": 5.505,
+    "resistance_gene_density": 3.726,
+    "treatment_failure": 2.673
+  },
+  {
+    "antibiotic_exposure": 9.303,
+    "selective_pressure": 6.864,
+    "resistance_gene_density": 3.95,
+    "treatment_failure": 2.624
+  },
+  {
+    "antibiotic_exposure": 9.257,
+    "selective_pressure": 6.891,
+    "resistance_gene_density": 2.977,
+    "treatment_failure": 2.269
+  },
+  {
+    "antibiotic_exposure": 11.14,
+    "selective_pressure": 8.395,
+    "resistance_gene_density": 7.997,
+    "treatment_failure": 5.732
+  },
+  {
+    "antibiotic_exposure": 3.004,
+    "selective_pressure": 2.378,
+    "resistance_gene_density": -1.329,
+    "treatment_failure": -1.282
+  },
+  {
+    "antibiotic_exposure": 14.55,
+    "selective_pressure": 10.902,
+    "resistance_gene_density": 10.66,
+    "treatment_failure": 7.564
+  },
+  {
+    "antibiotic_exposure": 14.606,
+    "selective_pressure": 10.869,
+    "resistance_gene_density": 15.016,
+    "treatment_failure": 10.525
+  },
+  {
+    "antibiotic_exposure": 10.971,
+    "selective_pressure": 8.136,
+    "resistance_gene_density": 6.596,
+    "treatment_failure": 5.016
+  },
+  {
+    "antibiotic_exposure": 3.988,
+    "selective_pressure": 2.944,
+    "resistance_gene_density": -3.021,
+    "treatment_failure": -2.182
+  },
+  {
+    "antibiotic_exposure": 9.489,
+    "selective_pressure": 7.038,
+    "resistance_gene_density": 4.365,
+    "treatment_failure": 3.028
+  },
+  {
+    "antibiotic_exposure": 7.994,
+    "selective_pressure": 6.093,
+    "resistance_gene_density": 7.075,
+    "treatment_failure": 4.787
+  },
+  {
+    "antibiotic_exposure": 6.903,
+    "selective_pressure": 5.24,
+    "resistance_gene_density": 3.556,
+    "treatment_failure": 2.649
+  },
+  {
+    "antibiotic_exposure": 10.689,
+    "selective_pressure": 8.407,
+    "resistance_gene_density": 9.914,
+    "treatment_failure": 7.041
+  },
+  {
+    "antibiotic_exposure": 4.858,
+    "selective_pressure": 3.817,
+    "resistance_gene_density": 0.088,
+    "treatment_failure": -0.288
+  },
+  {
+    "antibiotic_exposure": 12.969,
+    "selective_pressure": 9.327,
+    "resistance_gene_density": 9.232,
+    "treatment_failure": 6.357
+  },
+  {
+    "antibiotic_exposure": 7.466,
+    "selective_pressure": 5.84,
+    "resistance_gene_density": 2.122,
+    "treatment_failure": 1.323
+  },
+  {
+    "antibiotic_exposure": 8.876,
+    "selective_pressure": 6.618,
+    "resistance_gene_density": 1.255,
+    "treatment_failure": 1.165
+  },
+  {
+    "antibiotic_exposure": 11.4,
+    "selective_pressure": 8.745,
+    "resistance_gene_density": 8.886,
+    "treatment_failure": 6.401
+  },
+  {
+    "antibiotic_exposure": 13.173,
+    "selective_pressure": 9.652,
+    "resistance_gene_density": 10.405,
+    "treatment_failure": 7.623
+  },
+  {
+    "antibiotic_exposure": 15.969,
+    "selective_pressure": 11.799,
+    "resistance_gene_density": 13.837,
+    "treatment_failure": 9.524
+  },
+  {
+    "antibiotic_exposure": 10.902,
+    "selective_pressure": 8.533,
+    "resistance_gene_density": 6.547,
+    "treatment_failure": 4.627
+  },
+  {
+    "antibiotic_exposure": 3.122,
+    "selective_pressure": 2.529,
+    "resistance_gene_density": -2.865,
+    "treatment_failure": -1.808
+  },
+  {
+    "antibiotic_exposure": 18.521,
+    "selective_pressure": 13.997,
+    "resistance_gene_density": 15.866,
+    "treatment_failure": 11.018
+  },
+  {
+    "antibiotic_exposure": 6.875,
+    "selective_pressure": 5.04,
+    "resistance_gene_density": 1.316,
+    "treatment_failure": 0.754
+  },
+  {
+    "antibiotic_exposure": 12.338,
+    "selective_pressure": 9.14,
+    "resistance_gene_density": 10.744,
+    "treatment_failure": 7.287
+  },
+  {
+    "antibiotic_exposure": 9.886,
+    "selective_pressure": 7.292,
+    "resistance_gene_density": 5.878,
+    "treatment_failure": 4.226
+  },
+  {
+    "antibiotic_exposure": 3.244,
+    "selective_pressure": 2.532,
+    "resistance_gene_density": -2.306,
+    "treatment_failure": -1.624
+  },
+  {
+    "antibiotic_exposure": 10.673,
+    "selective_pressure": 8.167,
+    "resistance_gene_density": 7.593,
+    "treatment_failure": 5.436
+  },
+  {
+    "antibiotic_exposure": 11.15,
+    "selective_pressure": 8.23,
+    "resistance_gene_density": 9.395,
+    "treatment_failure": 6.543
+  },
+  {
+    "antibiotic_exposure": 17.044,
+    "selective_pressure": 12.437,
+    "resistance_gene_density": 18.957,
+    "treatment_failure": 13.684
+  },
+  {
+    "antibiotic_exposure": 12.04,
+    "selective_pressure": 9.095,
+    "resistance_gene_density": 11.189,
+    "treatment_failure": 7.736
+  },
+  {
+    "antibiotic_exposure": 10.949,
+    "selective_pressure": 8.25,
+    "resistance_gene_density": 7.179,
+    "treatment_failure": 4.969
+  },
+  {
+    "antibiotic_exposure": 10.958,
+    "selective_pressure": 7.734,
+    "resistance_gene_density": 4.821,
+    "treatment_failure": 3.637
+  },
+  {
+    "antibiotic_exposure": 11.177,
+    "selective_pressure": 7.686,
+    "resistance_gene_density": 8.312,
+    "treatment_failure": 6.064
+  },
+  {
+    "antibiotic_exposure": 8.277,
+    "selective_pressure": 6.195,
+    "resistance_gene_density": 3.859,
+    "treatment_failure": 2.278
+  },
+  {
+    "antibiotic_exposure": 7.092,
+    "selective_pressure": 5.518,
+    "resistance_gene_density": 2.279,
+    "treatment_failure": 1.503
+  },
+  {
+    "antibiotic_exposure": 5.849,
+    "selective_pressure": 4.341,
+    "resistance_gene_density": -0.873,
+    "treatment_failure": -0.607
+  },
+  {
+    "antibiotic_exposure": 10.177,
+    "selective_pressure": 7.64,
+    "resistance_gene_density": 5.835,
+    "treatment_failure": 4.179
+  },
+  {
+    "antibiotic_exposure": 6.783,
+    "selective_pressure": 5.313,
+    "resistance_gene_density": 0.63,
+    "treatment_failure": 0.932
+  },
+  {
+    "antibiotic_exposure": 12.972,
+    "selective_pressure": 9.348,
+    "resistance_gene_density": 9.467,
+    "treatment_failure": 6.566
+  },
+  {
+    "antibiotic_exposure": 5.886,
+    "selective_pressure": 4.207,
+    "resistance_gene_density": 2.054,
+    "treatment_failure": 1.321
+  },
+  {
+    "antibiotic_exposure": 13.748,
+    "selective_pressure": 10.178,
+    "resistance_gene_density": 7.737,
+    "treatment_failure": 5.531
+  },
+  {
+    "antibiotic_exposure": 14.951,
+    "selective_pressure": 11.231,
+    "resistance_gene_density": 15.337,
+    "treatment_failure": 10.827
+  },
+  {
+    "antibiotic_exposure": 10.881,
+    "selective_pressure": 8.059,
+    "resistance_gene_density": 7.884,
+    "treatment_failure": 5.519
+  },
+  {
+    "antibiotic_exposure": 13.684,
+    "selective_pressure": 10.202,
+    "resistance_gene_density": 11.287,
+    "treatment_failure": 8.014
+  },
+  {
+    "antibiotic_exposure": 5.382,
+    "selective_pressure": 4.225,
+    "resistance_gene_density": -1.704,
+    "treatment_failure": -0.944
+  },
+  {
+    "antibiotic_exposure": 4.391,
+    "selective_pressure": 3.251,
+    "resistance_gene_density": -2.959,
+    "treatment_failure": -1.976
+  },
+  {
+    "antibiotic_exposure": 12.884,
+    "selective_pressure": 9.421,
+    "resistance_gene_density": 8.582,
+    "treatment_failure": 6.043
+  },
+  {
+    "antibiotic_exposure": 4.531,
+    "selective_pressure": 3.654,
+    "resistance_gene_density": -3.281,
+    "treatment_failure": -2.26
+  },
+  {
+    "antibiotic_exposure": 6.036,
+    "selective_pressure": 4.475,
+    "resistance_gene_density": 2.557,
+    "treatment_failure": 2.019
+  },
+  {
+    "antibiotic_exposure": 12.292,
+    "selective_pressure": 9.391,
+    "resistance_gene_density": 9.911,
+    "treatment_failure": 6.984
+  },
+  {
+    "antibiotic_exposure": 3.389,
+    "selective_pressure": 2.427,
+    "resistance_gene_density": -6.528,
+    "treatment_failure": -4.444
+  },
+  {
+    "antibiotic_exposure": 8.953,
+    "selective_pressure": 6.646,
+    "resistance_gene_density": 5.042,
+    "treatment_failure": 3.411
+  },
+  {
+    "antibiotic_exposure": 10.108,
+    "selective_pressure": 7.357,
+    "resistance_gene_density": 7.734,
+    "treatment_failure": 5.648
+  },
+  {
+    "antibiotic_exposure": 7.908,
+    "selective_pressure": 6.367,
+    "resistance_gene_density": 2.656,
+    "treatment_failure": 2.012
+  },
+  {
+    "antibiotic_exposure": 14.426,
+    "selective_pressure": 11.081,
+    "resistance_gene_density": 14.767,
+    "treatment_failure": 9.682
+  },
+  {
+    "antibiotic_exposure": 12.714,
+    "selective_pressure": 9.623,
+    "resistance_gene_density": 11.811,
+    "treatment_failure": 8.729
+  },
+  {
+    "antibiotic_exposure": 9.613,
+    "selective_pressure": 6.704,
+    "resistance_gene_density": 4.83,
+    "treatment_failure": 3.492
+  },
+  {
+    "antibiotic_exposure": 19.136,
+    "selective_pressure": 14.349,
+    "resistance_gene_density": 19.292,
+    "treatment_failure": 13.613
+  },
+  {
+    "antibiotic_exposure": 10.141,
+    "selective_pressure": 7.677,
+    "resistance_gene_density": 6.593,
+    "treatment_failure": 4.426
+  },
+  {
+    "antibiotic_exposure": 10.676,
+    "selective_pressure": 7.931,
+    "resistance_gene_density": 7.82,
+    "treatment_failure": 5.324
+  },
+  {
+    "antibiotic_exposure": 7.396,
+    "selective_pressure": 5.541,
+    "resistance_gene_density": 2.104,
+    "treatment_failure": 1.306
+  },
+  {
+    "antibiotic_exposure": 15.419,
+    "selective_pressure": 11.783,
+    "resistance_gene_density": 11.613,
+    "treatment_failure": 8.388
+  },
+  {
+    "antibiotic_exposure": 10.926,
+    "selective_pressure": 8.341,
+    "resistance_gene_density": 7.031,
+    "treatment_failure": 5.38
+  },
+  {
+    "antibiotic_exposure": 10.392,
+    "selective_pressure": 7.804,
+    "resistance_gene_density": 6.721,
+    "treatment_failure": 4.565
+  },
+  {
+    "antibiotic_exposure": 15.602,
+    "selective_pressure": 11.538,
+    "resistance_gene_density": 15.297,
+    "treatment_failure": 10.517
+  },
+  {
+    "antibiotic_exposure": 18.435,
+    "selective_pressure": 13.765,
+    "resistance_gene_density": 18.145,
+    "treatment_failure": 12.725
+  },
+  {
+    "antibiotic_exposure": 4.749,
+    "selective_pressure": 3.712,
+    "resistance_gene_density": -2.233,
+    "treatment_failure": -1.724
+  },
+  {
+    "antibiotic_exposure": 9.053,
+    "selective_pressure": 7.05,
+    "resistance_gene_density": 8.197,
+    "treatment_failure": 5.841
+  },
+  {
+    "antibiotic_exposure": 16.896,
+    "selective_pressure": 12.984,
+    "resistance_gene_density": 13.578,
+    "treatment_failure": 9.506
+  },
+  {
+    "antibiotic_exposure": 15.653,
+    "selective_pressure": 12.229,
+    "resistance_gene_density": 13.267,
+    "treatment_failure": 9.343
+  },
+  {
+    "antibiotic_exposure": 6.412,
+    "selective_pressure": 4.638,
+    "resistance_gene_density": 2.415,
+    "treatment_failure": 1.78
+  },
+  {
+    "antibiotic_exposure": 7.482,
+    "selective_pressure": 5.565,
+    "resistance_gene_density": 3.018,
+    "treatment_failure": 2.116
+  },
+  {
+    "antibiotic_exposure": 8.319,
+    "selective_pressure": 6.372,
+    "resistance_gene_density": 2.524,
+    "treatment_failure": 1.746
+  },
+  {
+    "antibiotic_exposure": 7.239,
+    "selective_pressure": 5.496,
+    "resistance_gene_density": 0.937,
+    "treatment_failure": 0.529
+  },
+  {
+    "antibiotic_exposure": 13.098,
+    "selective_pressure": 9.985,
+    "resistance_gene_density": 12.031,
+    "treatment_failure": 7.997
+  },
+  {
+    "antibiotic_exposure": 4.115,
+    "selective_pressure": 3.014,
+    "resistance_gene_density": -4.935,
+    "treatment_failure": -3.623
+  },
+  {
+    "antibiotic_exposure": 10.765,
+    "selective_pressure": 7.812,
+    "resistance_gene_density": 7.832,
+    "treatment_failure": 5.257
+  },
+  {
+    "antibiotic_exposure": 11.593,
+    "selective_pressure": 8.709,
+    "resistance_gene_density": 7.495,
+    "treatment_failure": 5.197
+  },
+  {
+    "antibiotic_exposure": 10.447,
+    "selective_pressure": 8.228,
+    "resistance_gene_density": 7.108,
+    "treatment_failure": 4.866
+  },
+  {
+    "antibiotic_exposure": 19.325,
+    "selective_pressure": 14.494,
+    "resistance_gene_density": 18.262,
+    "treatment_failure": 12.647
+  },
+  {
+    "antibiotic_exposure": 10.944,
+    "selective_pressure": 8.305,
+    "resistance_gene_density": 9.953,
+    "treatment_failure": 7.042
+  },
+  {
+    "antibiotic_exposure": 12.54,
+    "selective_pressure": 9.538,
+    "resistance_gene_density": 10.91,
+    "treatment_failure": 7.56
+  },
+  {
+    "antibiotic_exposure": 5.705,
+    "selective_pressure": 4.048,
+    "resistance_gene_density": 0.642,
+    "treatment_failure": -0.036
+  },
+  {
+    "antibiotic_exposure": 8.599,
+    "selective_pressure": 6.129,
+    "resistance_gene_density": 5.182,
+    "treatment_failure": 3.866
+  },
+  {
+    "antibiotic_exposure": 6.002,
+    "selective_pressure": 4.522,
+    "resistance_gene_density": 2.593,
+    "treatment_failure": 2.113
+  },
+  {
+    "antibiotic_exposure": 12.582,
+    "selective_pressure": 9.524,
+    "resistance_gene_density": 11.194,
+    "treatment_failure": 7.882
+  },
+  {
+    "antibiotic_exposure": 7.646,
+    "selective_pressure": 5.84,
+    "resistance_gene_density": 4.181,
+    "treatment_failure": 2.981
+  },
+  {
+    "antibiotic_exposure": 10.552,
+    "selective_pressure": 7.843,
+    "resistance_gene_density": 6.096,
+    "treatment_failure": 4.276
+  },
+  {
+    "antibiotic_exposure": 6.286,
+    "selective_pressure": 4.744,
+    "resistance_gene_density": -2.105,
+    "treatment_failure": -1.565
+  },
+  {
+    "antibiotic_exposure": 7.98,
+    "selective_pressure": 5.964,
+    "resistance_gene_density": 4.887,
+    "treatment_failure": 3.363
+  },
+  {
+    "antibiotic_exposure": 1.39,
+    "selective_pressure": 1.077,
+    "resistance_gene_density": -7.188,
+    "treatment_failure": -5.39
+  },
+  {
+    "antibiotic_exposure": 18.812,
+    "selective_pressure": 13.78,
+    "resistance_gene_density": 15.159,
+    "treatment_failure": 10.424
+  },
+  {
+    "antibiotic_exposure": 7.39,
+    "selective_pressure": 5.173,
+    "resistance_gene_density": 4.878,
+    "treatment_failure": 3.404
+  },
+  {
+    "antibiotic_exposure": 9.123,
+    "selective_pressure": 6.892,
+    "resistance_gene_density": 3.347,
+    "treatment_failure": 2.143
+  },
+  {
+    "antibiotic_exposure": 10.677,
+    "selective_pressure": 8.069,
+    "resistance_gene_density": 4.26,
+    "treatment_failure": 3.279
+  },
+  {
+    "antibiotic_exposure": 15.63,
+    "selective_pressure": 11.92,
+    "resistance_gene_density": 14.975,
+    "treatment_failure": 10.44
+  },
+  {
+    "antibiotic_exposure": 12.81,
+    "selective_pressure": 9.702,
+    "resistance_gene_density": 12.828,
+    "treatment_failure": 9.056
+  },
+  {
+    "antibiotic_exposure": 5.146,
+    "selective_pressure": 4.121,
+    "resistance_gene_density": 1.203,
+    "treatment_failure": 1.08
+  },
+  {
+    "antibiotic_exposure": 6.525,
+    "selective_pressure": 4.891,
+    "resistance_gene_density": -1.391,
+    "treatment_failure": -0.922
+  },
+  {
+    "antibiotic_exposure": 16.935,
+    "selective_pressure": 13.187,
+    "resistance_gene_density": 15.309,
+    "treatment_failure": 10.962
+  },
+  {
+    "antibiotic_exposure": 12.741,
+    "selective_pressure": 9.534,
+    "resistance_gene_density": 7.855,
+    "treatment_failure": 5.813
+  },
+  {
+    "antibiotic_exposure": 10.497,
+    "selective_pressure": 7.983,
+    "resistance_gene_density": 6.681,
+    "treatment_failure": 4.319
+  },
+  {
+    "antibiotic_exposure": 12.316,
+    "selective_pressure": 9.56,
+    "resistance_gene_density": 7.163,
+    "treatment_failure": 4.714
+  },
+  {
+    "antibiotic_exposure": 8.348,
+    "selective_pressure": 6.059,
+    "resistance_gene_density": 6.073,
+    "treatment_failure": 4.199
+  },
+  {
+    "antibiotic_exposure": 6.528,
+    "selective_pressure": 4.874,
+    "resistance_gene_density": -2.524,
+    "treatment_failure": -1.685
+  },
+  {
+    "antibiotic_exposure": 6.637,
+    "selective_pressure": 4.935,
+    "resistance_gene_density": 1.506,
+    "treatment_failure": 1.028
+  },
+  {
+    "antibiotic_exposure": 12.245,
+    "selective_pressure": 9.39,
+    "resistance_gene_density": 9.407,
+    "treatment_failure": 6.511
+  },
+  {
+    "antibiotic_exposure": 5.656,
+    "selective_pressure": 3.847,
+    "resistance_gene_density": -1.606,
+    "treatment_failure": -1.137
+  },
+  {
+    "antibiotic_exposure": 4.205,
+    "selective_pressure": 3.355,
+    "resistance_gene_density": -0.823,
+    "treatment_failure": -0.817
+  },
+  {
+    "antibiotic_exposure": 13.657,
+    "selective_pressure": 9.987,
+    "resistance_gene_density": 10.707,
+    "treatment_failure": 7.713
+  },
+  {
+    "antibiotic_exposure": 7.46,
+    "selective_pressure": 5.644,
+    "resistance_gene_density": 2.21,
+    "treatment_failure": 1.649
+  },
+  {
+    "antibiotic_exposure": 6.476,
+    "selective_pressure": 5.254,
+    "resistance_gene_density": 2.066,
+    "treatment_failure": 1.558
+  },
+  {
+    "antibiotic_exposure": 14.49,
+    "selective_pressure": 10.644,
+    "resistance_gene_density": 12.183,
+    "treatment_failure": 8.491
+  },
+  {
+    "antibiotic_exposure": 11.889,
+    "selective_pressure": 8.954,
+    "resistance_gene_density": 8.072,
+    "treatment_failure": 5.448
+  },
+  {
+    "antibiotic_exposure": 12.95,
+    "selective_pressure": 9.428,
+    "resistance_gene_density": 12.377,
+    "treatment_failure": 8.604
+  },
+  {
+    "antibiotic_exposure": 4.924,
+    "selective_pressure": 3.796,
+    "resistance_gene_density": -3.649,
+    "treatment_failure": -2.365
+  },
+  {
+    "antibiotic_exposure": 4.227,
+    "selective_pressure": 3.482,
+    "resistance_gene_density": -3.344,
+    "treatment_failure": -2.286
+  },
+  {
+    "antibiotic_exposure": 10.672,
+    "selective_pressure": 8.175,
+    "resistance_gene_density": 7.78,
+    "treatment_failure": 5.641
+  },
+  {
+    "antibiotic_exposure": 14.365,
+    "selective_pressure": 10.572,
+    "resistance_gene_density": 13.397,
+    "treatment_failure": 9.333
+  },
+  {
+    "antibiotic_exposure": 10.565,
+    "selective_pressure": 7.879,
+    "resistance_gene_density": 10.0,
+    "treatment_failure": 7.144
+  },
+  {
+    "antibiotic_exposure": 10.19,
+    "selective_pressure": 7.842,
+    "resistance_gene_density": 9.246,
+    "treatment_failure": 6.392
+  },
+  {
+    "antibiotic_exposure": 10.867,
+    "selective_pressure": 8.117,
+    "resistance_gene_density": 8.655,
+    "treatment_failure": 6.035
+  },
+  {
+    "antibiotic_exposure": 10.98,
+    "selective_pressure": 8.166,
+    "resistance_gene_density": 6.094,
+    "treatment_failure": 4.342
+  },
+  {
+    "antibiotic_exposure": 8.488,
+    "selective_pressure": 6.421,
+    "resistance_gene_density": 3.096,
+    "treatment_failure": 1.945
+  },
+  {
+    "antibiotic_exposure": 8.944,
+    "selective_pressure": 6.661,
+    "resistance_gene_density": 3.785,
+    "treatment_failure": 2.879
+  },
+  {
+    "antibiotic_exposure": 4.887,
+    "selective_pressure": 3.553,
+    "resistance_gene_density": -0.664,
+    "treatment_failure": -0.688
+  },
+  {
+    "antibiotic_exposure": 10.586,
+    "selective_pressure": 7.814,
+    "resistance_gene_density": 3.881,
+    "treatment_failure": 2.555
+  },
+  {
+    "antibiotic_exposure": 6.9,
+    "selective_pressure": 5.54,
+    "resistance_gene_density": -0.296,
+    "treatment_failure": -0.258
+  },
+  {
+    "antibiotic_exposure": 10.865,
+    "selective_pressure": 7.692,
+    "resistance_gene_density": 7.542,
+    "treatment_failure": 5.493
+  },
+  {
+    "antibiotic_exposure": 12.915,
+    "selective_pressure": 9.48,
+    "resistance_gene_density": 6.501,
+    "treatment_failure": 4.616
+  },
+  {
+    "antibiotic_exposure": 18.857,
+    "selective_pressure": 14.374,
+    "resistance_gene_density": 17.957,
+    "treatment_failure": 12.479
+  },
+  {
+    "antibiotic_exposure": 11.091,
+    "selective_pressure": 8.383,
+    "resistance_gene_density": 7.892,
+    "treatment_failure": 5.804
+  },
+  {
+    "antibiotic_exposure": 12.812,
+    "selective_pressure": 9.792,
+    "resistance_gene_density": 8.787,
+    "treatment_failure": 5.811
+  },
+  {
+    "antibiotic_exposure": 7.942,
+    "selective_pressure": 6.049,
+    "resistance_gene_density": 3.308,
+    "treatment_failure": 2.286
+  },
+  {
+    "antibiotic_exposure": 3.506,
+    "selective_pressure": 2.598,
+    "resistance_gene_density": -3.285,
+    "treatment_failure": -1.89
+  },
+  {
+    "antibiotic_exposure": 10.13,
+    "selective_pressure": 7.786,
+    "resistance_gene_density": 5.109,
+    "treatment_failure": 3.482
+  },
+  {
+    "antibiotic_exposure": 12.89,
+    "selective_pressure": 9.308,
+    "resistance_gene_density": 6.091,
+    "treatment_failure": 4.037
+  },
+  {
+    "antibiotic_exposure": 6.232,
+    "selective_pressure": 4.985,
+    "resistance_gene_density": 0.55,
+    "treatment_failure": 0.389
+  },
+  {
+    "antibiotic_exposure": 15.246,
+    "selective_pressure": 11.679,
+    "resistance_gene_density": 15.947,
+    "treatment_failure": 11.548
+  },
+  {
+    "antibiotic_exposure": 10.135,
+    "selective_pressure": 7.528,
+    "resistance_gene_density": 5.299,
+    "treatment_failure": 3.432
+  },
+  {
+    "antibiotic_exposure": 13.14,
+    "selective_pressure": 9.939,
+    "resistance_gene_density": 10.259,
+    "treatment_failure": 7.035
+  },
+  {
+    "antibiotic_exposure": 12.502,
+    "selective_pressure": 9.341,
+    "resistance_gene_density": 6.496,
+    "treatment_failure": 4.55
+  },
+  {
+    "antibiotic_exposure": 9.875,
+    "selective_pressure": 7.541,
+    "resistance_gene_density": 9.716,
+    "treatment_failure": 6.546
+  },
+  {
+    "antibiotic_exposure": 10.471,
+    "selective_pressure": 7.996,
+    "resistance_gene_density": 6.616,
+    "treatment_failure": 4.693
+  },
+  {
+    "antibiotic_exposure": 14.322,
+    "selective_pressure": 10.378,
+    "resistance_gene_density": 12.177,
+    "treatment_failure": 8.419
+  },
+  {
+    "antibiotic_exposure": 18.201,
+    "selective_pressure": 13.333,
+    "resistance_gene_density": 15.696,
+    "treatment_failure": 10.598
+  },
+  {
+    "antibiotic_exposure": 11.461,
+    "selective_pressure": 8.545,
+    "resistance_gene_density": 8.683,
+    "treatment_failure": 5.917
+  },
+  {
+    "antibiotic_exposure": 6.032,
+    "selective_pressure": 4.872,
+    "resistance_gene_density": 2.507,
+    "treatment_failure": 2.201
+  },
+  {
+    "antibiotic_exposure": 14.948,
+    "selective_pressure": 10.557,
+    "resistance_gene_density": 11.503,
+    "treatment_failure": 7.807
+  },
+  {
+    "antibiotic_exposure": 12.281,
+    "selective_pressure": 9.459,
+    "resistance_gene_density": 9.764,
+    "treatment_failure": 6.903
+  },
+  {
+    "antibiotic_exposure": 3.542,
+    "selective_pressure": 2.165,
+    "resistance_gene_density": -1.575,
+    "treatment_failure": -0.969
+  },
+  {
+    "antibiotic_exposure": 12.33,
+    "selective_pressure": 9.258,
+    "resistance_gene_density": 12.417,
+    "treatment_failure": 8.615
+  },
+  {
+    "antibiotic_exposure": 6.206,
+    "selective_pressure": 4.531,
+    "resistance_gene_density": 3.284,
+    "treatment_failure": 2.377
+  },
+  {
+    "antibiotic_exposure": 11.254,
+    "selective_pressure": 8.588,
+    "resistance_gene_density": 5.981,
+    "treatment_failure": 4.36
+  },
+  {
+    "antibiotic_exposure": 15.155,
+    "selective_pressure": 11.557,
+    "resistance_gene_density": 13.457,
+    "treatment_failure": 9.421
+  },
+  {
+    "antibiotic_exposure": 6.119,
+    "selective_pressure": 4.835,
+    "resistance_gene_density": 1.274,
+    "treatment_failure": 1.126
+  },
+  {
+    "antibiotic_exposure": 15.755,
+    "selective_pressure": 11.628,
+    "resistance_gene_density": 12.735,
+    "treatment_failure": 9.127
+  },
+  {
+    "antibiotic_exposure": 4.817,
+    "selective_pressure": 3.395,
+    "resistance_gene_density": -0.01,
+    "treatment_failure": -0.019
+  },
+  {
+    "antibiotic_exposure": 13.567,
+    "selective_pressure": 10.185,
+    "resistance_gene_density": 8.732,
+    "treatment_failure": 5.974
+  },
+  {
+    "antibiotic_exposure": 13.093,
+    "selective_pressure": 10.023,
+    "resistance_gene_density": 9.502,
+    "treatment_failure": 6.812
+  },
+  {
+    "antibiotic_exposure": 12.026,
+    "selective_pressure": 8.534,
+    "resistance_gene_density": 9.605,
+    "treatment_failure": 6.79
+  },
+  {
+    "antibiotic_exposure": 7.445,
+    "selective_pressure": 5.716,
+    "resistance_gene_density": 1.651,
+    "treatment_failure": 1.039
+  },
+  {
+    "antibiotic_exposure": 7.751,
+    "selective_pressure": 6.184,
+    "resistance_gene_density": 6.148,
+    "treatment_failure": 4.271
+  },
+  {
+    "antibiotic_exposure": 10.649,
+    "selective_pressure": 8.199,
+    "resistance_gene_density": 5.187,
+    "treatment_failure": 3.499
+  },
+  {
+    "antibiotic_exposure": 8.401,
+    "selective_pressure": 6.259,
+    "resistance_gene_density": 7.49,
+    "treatment_failure": 5.192
+  },
+  {
+    "antibiotic_exposure": 11.889,
+    "selective_pressure": 8.756,
+    "resistance_gene_density": 8.92,
+    "treatment_failure": 6.101
+  },
+  {
+    "antibiotic_exposure": 10.851,
+    "selective_pressure": 8.053,
+    "resistance_gene_density": 5.955,
+    "treatment_failure": 4.379
+  },
+  {
+    "antibiotic_exposure": 0.844,
+    "selective_pressure": 0.577,
+    "resistance_gene_density": -6.396,
+    "treatment_failure": -4.659
+  },
+  {
+    "antibiotic_exposure": 13.295,
+    "selective_pressure": 10.036,
+    "resistance_gene_density": 12.708,
+    "treatment_failure": 9.036
+  },
+  {
+    "antibiotic_exposure": 9.006,
+    "selective_pressure": 6.926,
+    "resistance_gene_density": 6.576,
+    "treatment_failure": 4.463
+  },
+  {
+    "antibiotic_exposure": 9.041,
+    "selective_pressure": 6.829,
+    "resistance_gene_density": 6.607,
+    "treatment_failure": 4.74
+  },
+  {
+    "antibiotic_exposure": 13.039,
+    "selective_pressure": 9.872,
+    "resistance_gene_density": 8.863,
+    "treatment_failure": 6.046
+  },
+  {
+    "antibiotic_exposure": 14.226,
+    "selective_pressure": 10.721,
+    "resistance_gene_density": 9.345,
+    "treatment_failure": 6.71
+  },
+  {
+    "antibiotic_exposure": 6.517,
+    "selective_pressure": 4.41,
+    "resistance_gene_density": 0.057,
+    "treatment_failure": 0.209
+  },
+  {
+    "antibiotic_exposure": 13.579,
+    "selective_pressure": 10.064,
+    "resistance_gene_density": 7.722,
+    "treatment_failure": 5.47
+  },
+  {
+    "antibiotic_exposure": 7.563,
+    "selective_pressure": 6.093,
+    "resistance_gene_density": 6.682,
+    "treatment_failure": 4.601
+  },
+  {
+    "antibiotic_exposure": 10.608,
+    "selective_pressure": 7.856,
+    "resistance_gene_density": 4.398,
+    "treatment_failure": 2.903
+  },
+  {
+    "antibiotic_exposure": 7.883,
+    "selective_pressure": 6.186,
+    "resistance_gene_density": 3.955,
+    "treatment_failure": 2.599
+  },
+  {
+    "antibiotic_exposure": 12.598,
+    "selective_pressure": 9.647,
+    "resistance_gene_density": 7.708,
+    "treatment_failure": 5.529
+  },
+  {
+    "antibiotic_exposure": 9.531,
+    "selective_pressure": 7.226,
+    "resistance_gene_density": 5.112,
+    "treatment_failure": 3.699
+  },
+  {
+    "antibiotic_exposure": 4.987,
+    "selective_pressure": 3.57,
+    "resistance_gene_density": -1.749,
+    "treatment_failure": -0.912
+  },
+  {
+    "antibiotic_exposure": 11.045,
+    "selective_pressure": 8.39,
+    "resistance_gene_density": 11.076,
+    "treatment_failure": 7.85
+  },
+  {
+    "antibiotic_exposure": 1.673,
+    "selective_pressure": 1.319,
+    "resistance_gene_density": -4.003,
+    "treatment_failure": -2.61
+  },
+  {
+    "antibiotic_exposure": 10.454,
+    "selective_pressure": 7.841,
+    "resistance_gene_density": 4.458,
+    "treatment_failure": 3.04
+  },
+  {
+    "antibiotic_exposure": 8.01,
+    "selective_pressure": 5.894,
+    "resistance_gene_density": 3.119,
+    "treatment_failure": 2.165
+  },
+  {
+    "antibiotic_exposure": 10.684,
+    "selective_pressure": 8.193,
+    "resistance_gene_density": 5.452,
+    "treatment_failure": 3.773
+  },
+  {
+    "antibiotic_exposure": 13.046,
+    "selective_pressure": 10.123,
+    "resistance_gene_density": 9.157,
+    "treatment_failure": 6.37
+  },
+  {
+    "antibiotic_exposure": 16.67,
+    "selective_pressure": 12.666,
+    "resistance_gene_density": 14.6,
+    "treatment_failure": 9.828
+  },
+  {
+    "antibiotic_exposure": 7.261,
+    "selective_pressure": 5.452,
+    "resistance_gene_density": 3.047,
+    "treatment_failure": 2.493
+  },
+  {
+    "antibiotic_exposure": 6.447,
+    "selective_pressure": 4.726,
+    "resistance_gene_density": -0.699,
+    "treatment_failure": -0.622
+  },
+  {
+    "antibiotic_exposure": 15.221,
+    "selective_pressure": 11.516,
+    "resistance_gene_density": 9.789,
+    "treatment_failure": 6.938
+  },
+  {
+    "antibiotic_exposure": 4.952,
+    "selective_pressure": 3.552,
+    "resistance_gene_density": -2.553,
+    "treatment_failure": -1.504
+  },
+  {
+    "antibiotic_exposure": 2.958,
+    "selective_pressure": 2.314,
+    "resistance_gene_density": -1.655,
+    "treatment_failure": -1.417
+  },
+  {
+    "antibiotic_exposure": 14.872,
+    "selective_pressure": 10.878,
+    "resistance_gene_density": 11.645,
+    "treatment_failure": 8.245
+  },
+  {
+    "antibiotic_exposure": 10.855,
+    "selective_pressure": 8.168,
+    "resistance_gene_density": 10.098,
+    "treatment_failure": 7.056
+  },
+  {
+    "antibiotic_exposure": 13.592,
+    "selective_pressure": 10.355,
+    "resistance_gene_density": 10.093,
+    "treatment_failure": 7.09
+  },
+  {
+    "antibiotic_exposure": 3.216,
+    "selective_pressure": 2.459,
+    "resistance_gene_density": -2.938,
+    "treatment_failure": -2.166
+  },
+  {
+    "antibiotic_exposure": 16.427,
+    "selective_pressure": 12.292,
+    "resistance_gene_density": 12.898,
+    "treatment_failure": 9.007
+  },
+  {
+    "antibiotic_exposure": 10.84,
+    "selective_pressure": 7.747,
+    "resistance_gene_density": 6.066,
+    "treatment_failure": 4.735
+  },
+  {
+    "antibiotic_exposure": 14.084,
+    "selective_pressure": 10.567,
+    "resistance_gene_density": 11.855,
+    "treatment_failure": 8.573
+  },
+  {
+    "antibiotic_exposure": 13.987,
+    "selective_pressure": 10.584,
+    "resistance_gene_density": 9.144,
+    "treatment_failure": 6.323
+  },
+  {
+    "antibiotic_exposure": 9.906,
+    "selective_pressure": 6.948,
+    "resistance_gene_density": 5.807,
+    "treatment_failure": 4.164
+  },
+  {
+    "antibiotic_exposure": 7.472,
+    "selective_pressure": 5.872,
+    "resistance_gene_density": 2.763,
+    "treatment_failure": 2.046
+  },
+  {
+    "antibiotic_exposure": 9.672,
+    "selective_pressure": 7.293,
+    "resistance_gene_density": 5.828,
+    "treatment_failure": 4.144
+  },
+  {
+    "antibiotic_exposure": 11.65,
+    "selective_pressure": 8.738,
+    "resistance_gene_density": 10.534,
+    "treatment_failure": 7.225
+  },
+  {
+    "antibiotic_exposure": 13.653,
+    "selective_pressure": 10.28,
+    "resistance_gene_density": 9.147,
+    "treatment_failure": 6.222
+  },
+  {
+    "antibiotic_exposure": 10.364,
+    "selective_pressure": 7.613,
+    "resistance_gene_density": 7.581,
+    "treatment_failure": 5.39
+  },
+  {
+    "antibiotic_exposure": 17.2,
+    "selective_pressure": 13.202,
+    "resistance_gene_density": 18.731,
+    "treatment_failure": 13.185
+  },
+  {
+    "antibiotic_exposure": 8.286,
+    "selective_pressure": 6.34,
+    "resistance_gene_density": 2.766,
+    "treatment_failure": 2.046
+  },
+  {
+    "antibiotic_exposure": 8.435,
+    "selective_pressure": 6.089,
+    "resistance_gene_density": 1.873,
+    "treatment_failure": 0.738
+  },
+  {
+    "antibiotic_exposure": 13.136,
+    "selective_pressure": 9.806,
+    "resistance_gene_density": 8.229,
+    "treatment_failure": 5.737
+  },
+  {
+    "antibiotic_exposure": 15.453,
+    "selective_pressure": 11.633,
+    "resistance_gene_density": 12.764,
+    "treatment_failure": 8.978
+  },
+  {
+    "antibiotic_exposure": 11.42,
+    "selective_pressure": 8.133,
+    "resistance_gene_density": 5.043,
+    "treatment_failure": 3.615
+  },
+  {
+    "antibiotic_exposure": 8.717,
+    "selective_pressure": 6.546,
+    "resistance_gene_density": 0.923,
+    "treatment_failure": 1.163
+  },
+  {
+    "antibiotic_exposure": 15.732,
+    "selective_pressure": 11.995,
+    "resistance_gene_density": 14.611,
+    "treatment_failure": 10.154
+  },
+  {
+    "antibiotic_exposure": 2.465,
+    "selective_pressure": 1.648,
+    "resistance_gene_density": -6.503,
+    "treatment_failure": -4.413
+  },
+  {
+    "antibiotic_exposure": 4.859,
+    "selective_pressure": 3.572,
+    "resistance_gene_density": -0.533,
+    "treatment_failure": 0.268
+  },
+  {
+    "antibiotic_exposure": 7.786,
+    "selective_pressure": 6.108,
+    "resistance_gene_density": 2.145,
+    "treatment_failure": 1.131
+  },
+  {
+    "antibiotic_exposure": 13.256,
+    "selective_pressure": 10.135,
+    "resistance_gene_density": 12.357,
+    "treatment_failure": 8.673
+  },
+  {
+    "antibiotic_exposure": 11.287,
+    "selective_pressure": 8.533,
+    "resistance_gene_density": 6.913,
+    "treatment_failure": 4.39
+  },
+  {
+    "antibiotic_exposure": 6.975,
+    "selective_pressure": 5.163,
+    "resistance_gene_density": 2.625,
+    "treatment_failure": 1.819
+  },
+  {
+    "antibiotic_exposure": 14.374,
+    "selective_pressure": 10.534,
+    "resistance_gene_density": 14.678,
+    "treatment_failure": 10.302
+  },
+  {
+    "antibiotic_exposure": 13.412,
+    "selective_pressure": 10.027,
+    "resistance_gene_density": 11.828,
+    "treatment_failure": 8.261
+  },
+  {
+    "antibiotic_exposure": 5.48,
+    "selective_pressure": 4.5,
+    "resistance_gene_density": 1.315,
+    "treatment_failure": 0.795
+  },
+  {
+    "antibiotic_exposure": 9.31,
+    "selective_pressure": 6.871,
+    "resistance_gene_density": 5.225,
+    "treatment_failure": 3.373
+  },
+  {
+    "antibiotic_exposure": 2.779,
+    "selective_pressure": 2.062,
+    "resistance_gene_density": -4.267,
+    "treatment_failure": -3.15
+  },
+  {
+    "antibiotic_exposure": 13.555,
+    "selective_pressure": 10.193,
+    "resistance_gene_density": 11.655,
+    "treatment_failure": 8.203
+  },
+  {
+    "antibiotic_exposure": 14.028,
+    "selective_pressure": 11.006,
+    "resistance_gene_density": 12.429,
+    "treatment_failure": 8.63
+  },
+  {
+    "antibiotic_exposure": 11.175,
+    "selective_pressure": 8.227,
+    "resistance_gene_density": 7.81,
+    "treatment_failure": 5.258
+  },
+  {
+    "antibiotic_exposure": 14.245,
+    "selective_pressure": 10.73,
+    "resistance_gene_density": 9.804,
+    "treatment_failure": 7.217
+  },
+  {
+    "antibiotic_exposure": 3.21,
+    "selective_pressure": 2.258,
+    "resistance_gene_density": -2.199,
+    "treatment_failure": -1.366
+  },
+  {
+    "antibiotic_exposure": 13.599,
+    "selective_pressure": 10.372,
+    "resistance_gene_density": 12.324,
+    "treatment_failure": 8.473
+  },
+  {
+    "antibiotic_exposure": 3.555,
+    "selective_pressure": 2.606,
+    "resistance_gene_density": -2.558,
+    "treatment_failure": -1.767
+  },
+  {
+    "antibiotic_exposure": 15.45,
+    "selective_pressure": 11.364,
+    "resistance_gene_density": 13.52,
+    "treatment_failure": 9.406
+  },
+  {
+    "antibiotic_exposure": 13.992,
+    "selective_pressure": 10.144,
+    "resistance_gene_density": 9.799,
+    "treatment_failure": 6.738
+  },
+  {
+    "antibiotic_exposure": 7.934,
+    "selective_pressure": 5.813,
+    "resistance_gene_density": 4.702,
+    "treatment_failure": 3.213
+  },
+  {
+    "antibiotic_exposure": 10.669,
+    "selective_pressure": 7.987,
+    "resistance_gene_density": 6.724,
+    "treatment_failure": 4.704
+  },
+  {
+    "antibiotic_exposure": 14.851,
+    "selective_pressure": 10.997,
+    "resistance_gene_density": 12.69,
+    "treatment_failure": 9.12
+  },
+  {
+    "antibiotic_exposure": 2.885,
+    "selective_pressure": 2.597,
+    "resistance_gene_density": -2.77,
+    "treatment_failure": -2.003
+  },
+  {
+    "antibiotic_exposure": 11.492,
+    "selective_pressure": 8.852,
+    "resistance_gene_density": 9.073,
+    "treatment_failure": 6.431
+  },
+  {
+    "antibiotic_exposure": 11.297,
+    "selective_pressure": 8.415,
+    "resistance_gene_density": 8.526,
+    "treatment_failure": 5.821
+  },
+  {
+    "antibiotic_exposure": 7.861,
+    "selective_pressure": 5.751,
+    "resistance_gene_density": 2.685,
+    "treatment_failure": 1.867
+  },
+  {
+    "antibiotic_exposure": 13.084,
+    "selective_pressure": 9.739,
+    "resistance_gene_density": 6.96,
+    "treatment_failure": 5.009
+  },
+  {
+    "antibiotic_exposure": 11.92,
+    "selective_pressure": 8.934,
+    "resistance_gene_density": 8.002,
+    "treatment_failure": 5.602
+  },
+  {
+    "antibiotic_exposure": 8.533,
+    "selective_pressure": 6.323,
+    "resistance_gene_density": -0.17,
+    "treatment_failure": 0.013
+  },
+  {
+    "antibiotic_exposure": 11.472,
+    "selective_pressure": 8.58,
+    "resistance_gene_density": 6.815,
+    "treatment_failure": 4.535
+  },
+  {
+    "antibiotic_exposure": 9.744,
+    "selective_pressure": 7.199,
+    "resistance_gene_density": 6.937,
+    "treatment_failure": 4.819
+  },
+  {
+    "antibiotic_exposure": 14.749,
+    "selective_pressure": 10.754,
+    "resistance_gene_density": 13.111,
+    "treatment_failure": 8.867
+  },
+  {
+    "antibiotic_exposure": 5.584,
+    "selective_pressure": 3.928,
+    "resistance_gene_density": 1.392,
+    "treatment_failure": 0.883
+  },
+  {
+    "antibiotic_exposure": 9.65,
+    "selective_pressure": 7.353,
+    "resistance_gene_density": 6.419,
+    "treatment_failure": 4.597
+  },
+  {
+    "antibiotic_exposure": 6.829,
+    "selective_pressure": 4.961,
+    "resistance_gene_density": 2.983,
+    "treatment_failure": 1.841
+  },
+  {
+    "antibiotic_exposure": 1.573,
+    "selective_pressure": 1.146,
+    "resistance_gene_density": -3.572,
+    "treatment_failure": -2.268
+  },
+  {
+    "antibiotic_exposure": 12.294,
+    "selective_pressure": 9.449,
+    "resistance_gene_density": 12.868,
+    "treatment_failure": 8.853
+  },
+  {
+    "antibiotic_exposure": 11.263,
+    "selective_pressure": 8.443,
+    "resistance_gene_density": 9.636,
+    "treatment_failure": 6.643
+  },
+  {
+    "antibiotic_exposure": 12.802,
+    "selective_pressure": 9.343,
+    "resistance_gene_density": 8.067,
+    "treatment_failure": 5.895
+  },
+  {
+    "antibiotic_exposure": 7.865,
+    "selective_pressure": 5.981,
+    "resistance_gene_density": 4.626,
+    "treatment_failure": 2.946
+  },
+  {
+    "antibiotic_exposure": 10.486,
+    "selective_pressure": 7.841,
+    "resistance_gene_density": 6.433,
+    "treatment_failure": 4.287
+  },
+  {
+    "antibiotic_exposure": 3.096,
+    "selective_pressure": 2.231,
+    "resistance_gene_density": -6.854,
+    "treatment_failure": -5.096
+  },
+  {
+    "antibiotic_exposure": 7.045,
+    "selective_pressure": 5.513,
+    "resistance_gene_density": 2.707,
+    "treatment_failure": 1.822
+  },
+  {
+    "antibiotic_exposure": 4.705,
+    "selective_pressure": 3.535,
+    "resistance_gene_density": -3.692,
+    "treatment_failure": -2.725
+  },
+  {
+    "antibiotic_exposure": 3.361,
+    "selective_pressure": 2.566,
+    "resistance_gene_density": -3.867,
+    "treatment_failure": -2.782
+  },
+  {
+    "antibiotic_exposure": 9.7,
+    "selective_pressure": 7.296,
+    "resistance_gene_density": 5.801,
+    "treatment_failure": 3.713
+  },
+  {
+    "antibiotic_exposure": 11.928,
+    "selective_pressure": 9.1,
+    "resistance_gene_density": 10.541,
+    "treatment_failure": 7.398
+  },
+  {
+    "antibiotic_exposure": 7.873,
+    "selective_pressure": 5.845,
+    "resistance_gene_density": 1.817,
+    "treatment_failure": 1.239
+  },
+  {
+    "antibiotic_exposure": 14.558,
+    "selective_pressure": 10.846,
+    "resistance_gene_density": 12.279,
+    "treatment_failure": 8.596
+  },
+  {
+    "antibiotic_exposure": 14.807,
+    "selective_pressure": 10.878,
+    "resistance_gene_density": 14.04,
+    "treatment_failure": 9.978
+  },
+  {
+    "antibiotic_exposure": 7.75,
+    "selective_pressure": 5.875,
+    "resistance_gene_density": 1.784,
+    "treatment_failure": 0.885
+  },
+  {
+    "antibiotic_exposure": 7.562,
+    "selective_pressure": 5.706,
+    "resistance_gene_density": 1.587,
+    "treatment_failure": 1.197
+  },
+  {
+    "antibiotic_exposure": 9.288,
+    "selective_pressure": 6.825,
+    "resistance_gene_density": 4.249,
+    "treatment_failure": 2.878
+  },
+  {
+    "antibiotic_exposure": 11.363,
+    "selective_pressure": 8.268,
+    "resistance_gene_density": 8.194,
+    "treatment_failure": 5.721
+  },
+  {
+    "antibiotic_exposure": 10.473,
+    "selective_pressure": 8.028,
+    "resistance_gene_density": 6.851,
+    "treatment_failure": 4.629
+  },
+  {
+    "antibiotic_exposure": 10.19,
+    "selective_pressure": 7.946,
+    "resistance_gene_density": 5.132,
+    "treatment_failure": 3.695
+  },
+  {
+    "antibiotic_exposure": 9.703,
+    "selective_pressure": 7.192,
+    "resistance_gene_density": 7.882,
+    "treatment_failure": 5.218
+  },
+  {
+    "antibiotic_exposure": 11.466,
+    "selective_pressure": 8.951,
+    "resistance_gene_density": 6.678,
+    "treatment_failure": 4.77
+  },
+  {
+    "antibiotic_exposure": 1.338,
+    "selective_pressure": 0.67,
+    "resistance_gene_density": -4.505,
+    "treatment_failure": -3.656
+  },
+  {
+    "antibiotic_exposure": 4.661,
+    "selective_pressure": 3.259,
+    "resistance_gene_density": -1.725,
+    "treatment_failure": -1.236
+  },
+  {
+    "antibiotic_exposure": 9.354,
+    "selective_pressure": 7.062,
+    "resistance_gene_density": 5.923,
+    "treatment_failure": 4.646
+  },
+  {
+    "antibiotic_exposure": 10.74,
+    "selective_pressure": 8.156,
+    "resistance_gene_density": 3.674,
+    "treatment_failure": 2.602
+  },
+  {
+    "antibiotic_exposure": 9.764,
+    "selective_pressure": 7.074,
+    "resistance_gene_density": 7.322,
+    "treatment_failure": 4.946
+  },
+  {
+    "antibiotic_exposure": 11.08,
+    "selective_pressure": 8.31,
+    "resistance_gene_density": 4.792,
+    "treatment_failure": 3.433
+  },
+  {
+    "antibiotic_exposure": 9.586,
+    "selective_pressure": 7.169,
+    "resistance_gene_density": 4.371,
+    "treatment_failure": 3.174
+  },
+  {
+    "antibiotic_exposure": 8.292,
+    "selective_pressure": 6.258,
+    "resistance_gene_density": 1.838,
+    "treatment_failure": 1.302
+  },
+  {
+    "antibiotic_exposure": 9.148,
+    "selective_pressure": 7.118,
+    "resistance_gene_density": 2.604,
+    "treatment_failure": 1.885
+  },
+  {
+    "antibiotic_exposure": 8.466,
+    "selective_pressure": 5.782,
+    "resistance_gene_density": 5.255,
+    "treatment_failure": 3.726
+  },
+  {
+    "antibiotic_exposure": 13.151,
+    "selective_pressure": 10.068,
+    "resistance_gene_density": 10.25,
+    "treatment_failure": 7.389
+  },
+  {
+    "antibiotic_exposure": 9.67,
+    "selective_pressure": 7.268,
+    "resistance_gene_density": 6.568,
+    "treatment_failure": 4.606
+  },
+  {
+    "antibiotic_exposure": 14.168,
+    "selective_pressure": 10.551,
+    "resistance_gene_density": 11.217,
+    "treatment_failure": 7.764
+  },
+  {
+    "antibiotic_exposure": 8.173,
+    "selective_pressure": 6.27,
+    "resistance_gene_density": 2.159,
+    "treatment_failure": 2.018
+  },
+  {
+    "antibiotic_exposure": 17.361,
+    "selective_pressure": 12.652,
+    "resistance_gene_density": 17.862,
+    "treatment_failure": 12.294
+  },
+  {
+    "antibiotic_exposure": 18.451,
+    "selective_pressure": 13.751,
+    "resistance_gene_density": 16.807,
+    "treatment_failure": 11.876
+  },
+  {
+    "antibiotic_exposure": 6.363,
+    "selective_pressure": 4.677,
+    "resistance_gene_density": -1.405,
+    "treatment_failure": -1.175
+  },
+  {
+    "antibiotic_exposure": 3.916,
+    "selective_pressure": 3.032,
+    "resistance_gene_density": -3.058,
+    "treatment_failure": -2.057
+  },
+  {
+    "antibiotic_exposure": 11.824,
+    "selective_pressure": 9.174,
+    "resistance_gene_density": 6.14,
+    "treatment_failure": 4.181
+  },
+  {
+    "antibiotic_exposure": 9.287,
+    "selective_pressure": 6.797,
+    "resistance_gene_density": 1.364,
+    "treatment_failure": 1.431
+  },
+  {
+    "antibiotic_exposure": 7.117,
+    "selective_pressure": 5.205,
+    "resistance_gene_density": -0.226,
+    "treatment_failure": -0.503
+  },
+  {
+    "antibiotic_exposure": 14.043,
+    "selective_pressure": 10.513,
+    "resistance_gene_density": 10.268,
+    "treatment_failure": 7.246
+  },
+  {
+    "antibiotic_exposure": 18.052,
+    "selective_pressure": 13.262,
+    "resistance_gene_density": 17.029,
+    "treatment_failure": 11.726
+  },
+  {
+    "antibiotic_exposure": 1.964,
+    "selective_pressure": 1.322,
+    "resistance_gene_density": -2.559,
+    "treatment_failure": -1.977
+  },
+  {
+    "antibiotic_exposure": -0.341,
+    "selective_pressure": -0.286,
+    "resistance_gene_density": -9.816,
+    "treatment_failure": -6.834
+  },
+  {
+    "antibiotic_exposure": 7.546,
+    "selective_pressure": 5.781,
+    "resistance_gene_density": 4.97,
+    "treatment_failure": 3.416
+  },
+  {
+    "antibiotic_exposure": 16.119,
+    "selective_pressure": 12.189,
+    "resistance_gene_density": 11.267,
+    "treatment_failure": 7.928
+  },
+  {
+    "antibiotic_exposure": 9.441,
+    "selective_pressure": 6.907,
+    "resistance_gene_density": 2.031,
+    "treatment_failure": 1.21
+  },
+  {
+    "antibiotic_exposure": 3.331,
+    "selective_pressure": 2.533,
+    "resistance_gene_density": -2.015,
+    "treatment_failure": -1.443
+  },
+  {
+    "antibiotic_exposure": 13.166,
+    "selective_pressure": 9.802,
+    "resistance_gene_density": 8.316,
+    "treatment_failure": 6.115
+  },
+  {
+    "antibiotic_exposure": 4.007,
+    "selective_pressure": 2.964,
+    "resistance_gene_density": -3.194,
+    "treatment_failure": -2.172
+  },
+  {
+    "antibiotic_exposure": 4.336,
+    "selective_pressure": 3.168,
+    "resistance_gene_density": -4.639,
+    "treatment_failure": -3.245
+  },
+  {
+    "antibiotic_exposure": 3.873,
+    "selective_pressure": 3.003,
+    "resistance_gene_density": -2.402,
+    "treatment_failure": -1.603
+  },
+  {
+    "antibiotic_exposure": 8.672,
+    "selective_pressure": 6.652,
+    "resistance_gene_density": 4.106,
+    "treatment_failure": 2.751
+  },
+  {
+    "antibiotic_exposure": 10.535,
+    "selective_pressure": 7.581,
+    "resistance_gene_density": 5.465,
+    "treatment_failure": 3.938
+  },
+  {
+    "antibiotic_exposure": 9.31,
+    "selective_pressure": 7.526,
+    "resistance_gene_density": 2.616,
+    "treatment_failure": 1.711
+  },
+  {
+    "antibiotic_exposure": 14.068,
+    "selective_pressure": 10.556,
+    "resistance_gene_density": 12.657,
+    "treatment_failure": 9.082
+  },
+  {
+    "antibiotic_exposure": 10.368,
+    "selective_pressure": 7.658,
+    "resistance_gene_density": 7.764,
+    "treatment_failure": 5.557
+  },
+  {
+    "antibiotic_exposure": 7.314,
+    "selective_pressure": 5.453,
+    "resistance_gene_density": 1.342,
+    "treatment_failure": 0.954
+  },
+  {
+    "antibiotic_exposure": 14.229,
+    "selective_pressure": 10.606,
+    "resistance_gene_density": 12.354,
+    "treatment_failure": 8.506
+  },
+  {
+    "antibiotic_exposure": 8.87,
+    "selective_pressure": 6.851,
+    "resistance_gene_density": 5.754,
+    "treatment_failure": 4.158
+  },
+  {
+    "antibiotic_exposure": 9.37,
+    "selective_pressure": 7.266,
+    "resistance_gene_density": 5.191,
+    "treatment_failure": 3.121
+  },
+  {
+    "antibiotic_exposure": 8.283,
+    "selective_pressure": 5.702,
+    "resistance_gene_density": 6.169,
+    "treatment_failure": 4.199
+  },
+  {
+    "antibiotic_exposure": 7.784,
+    "selective_pressure": 5.73,
+    "resistance_gene_density": 3.991,
+    "treatment_failure": 2.761
+  },
+  {
+    "antibiotic_exposure": 10.767,
+    "selective_pressure": 7.968,
+    "resistance_gene_density": 7.1,
+    "treatment_failure": 5.377
+  },
+  {
+    "antibiotic_exposure": 12.843,
+    "selective_pressure": 9.319,
+    "resistance_gene_density": 10.882,
+    "treatment_failure": 7.665
+  },
+  {
+    "antibiotic_exposure": 9.469,
+    "selective_pressure": 6.706,
+    "resistance_gene_density": 2.385,
+    "treatment_failure": 1.739
+  },
+  {
+    "antibiotic_exposure": 10.807,
+    "selective_pressure": 8.183,
+    "resistance_gene_density": 3.054,
+    "treatment_failure": 1.992
+  },
+  {
+    "antibiotic_exposure": 7.751,
+    "selective_pressure": 5.819,
+    "resistance_gene_density": 2.628,
+    "treatment_failure": 2.013
+  },
+  {
+    "antibiotic_exposure": 7.715,
+    "selective_pressure": 6.204,
+    "resistance_gene_density": 1.409,
+    "treatment_failure": 1.001
+  },
+  {
+    "antibiotic_exposure": 6.565,
+    "selective_pressure": 4.704,
+    "resistance_gene_density": -1.054,
+    "treatment_failure": -0.66
+  },
+  {
+    "antibiotic_exposure": 6.697,
+    "selective_pressure": 4.869,
+    "resistance_gene_density": 1.152,
+    "treatment_failure": 0.447
+  },
+  {
+    "antibiotic_exposure": 6.23,
+    "selective_pressure": 4.816,
+    "resistance_gene_density": 1.222,
+    "treatment_failure": 0.938
+  },
+  {
+    "antibiotic_exposure": 12.023,
+    "selective_pressure": 8.989,
+    "resistance_gene_density": 7.107,
+    "treatment_failure": 5.078
+  },
+  {
+    "antibiotic_exposure": 8.049,
+    "selective_pressure": 5.712,
+    "resistance_gene_density": 1.25,
+    "treatment_failure": 0.841
+  },
+  {
+    "antibiotic_exposure": 8.9,
+    "selective_pressure": 6.877,
+    "resistance_gene_density": 4.852,
+    "treatment_failure": 3.623
+  },
+  {
+    "antibiotic_exposure": 12.585,
+    "selective_pressure": 9.395,
+    "resistance_gene_density": 11.898,
+    "treatment_failure": 8.383
+  },
+  {
+    "antibiotic_exposure": 9.412,
+    "selective_pressure": 6.975,
+    "resistance_gene_density": 7.347,
+    "treatment_failure": 5.318
+  },
+  {
+    "antibiotic_exposure": 19.606,
+    "selective_pressure": 14.879,
+    "resistance_gene_density": 20.351,
+    "treatment_failure": 14.321
+  },
+  {
+    "antibiotic_exposure": 13.242,
+    "selective_pressure": 10.061,
+    "resistance_gene_density": 11.811,
+    "treatment_failure": 8.423
+  },
+  {
+    "antibiotic_exposure": 13.812,
+    "selective_pressure": 10.436,
+    "resistance_gene_density": 13.846,
+    "treatment_failure": 9.852
+  },
+  {
+    "antibiotic_exposure": 11.187,
+    "selective_pressure": 8.421,
+    "resistance_gene_density": 6.689,
+    "treatment_failure": 5.064
+  },
+  {
+    "antibiotic_exposure": 7.243,
+    "selective_pressure": 5.97,
+    "resistance_gene_density": 2.173,
+    "treatment_failure": 1.568
+  },
+  {
+    "antibiotic_exposure": 7.9,
+    "selective_pressure": 6.015,
+    "resistance_gene_density": 4.372,
+    "treatment_failure": 3.105
+  },
+  {
+    "antibiotic_exposure": 13.627,
+    "selective_pressure": 10.358,
+    "resistance_gene_density": 11.271,
+    "treatment_failure": 8.171
+  },
+  {
+    "antibiotic_exposure": 8.01,
+    "selective_pressure": 5.855,
+    "resistance_gene_density": 3.196,
+    "treatment_failure": 2.524
+  },
+  {
+    "antibiotic_exposure": 16.506,
+    "selective_pressure": 12.414,
+    "resistance_gene_density": 17.084,
+    "treatment_failure": 11.551
+  },
+  {
+    "antibiotic_exposure": 3.861,
+    "selective_pressure": 3.066,
+    "resistance_gene_density": -3.106,
+    "treatment_failure": -2.189
+  },
+  {
+    "antibiotic_exposure": 11.428,
+    "selective_pressure": 8.688,
+    "resistance_gene_density": 6.635,
+    "treatment_failure": 4.682
+  },
+  {
+    "antibiotic_exposure": 10.926,
+    "selective_pressure": 7.896,
+    "resistance_gene_density": 7.362,
+    "treatment_failure": 4.827
+  },
+  {
+    "antibiotic_exposure": 0.992,
+    "selective_pressure": 0.656,
+    "resistance_gene_density": -6.158,
+    "treatment_failure": -4.354
+  },
+  {
+    "antibiotic_exposure": 9.03,
+    "selective_pressure": 6.946,
+    "resistance_gene_density": 6.27,
+    "treatment_failure": 4.457
+  },
+  {
+    "antibiotic_exposure": 9.33,
+    "selective_pressure": 6.898,
+    "resistance_gene_density": 5.236,
+    "treatment_failure": 3.292
+  },
+  {
+    "antibiotic_exposure": 12.194,
+    "selective_pressure": 9.486,
+    "resistance_gene_density": 8.402,
+    "treatment_failure": 6.0
+  },
+  {
+    "antibiotic_exposure": 10.536,
+    "selective_pressure": 8.233,
+    "resistance_gene_density": 8.641,
+    "treatment_failure": 6.155
+  },
+  {
+    "antibiotic_exposure": 7.698,
+    "selective_pressure": 5.673,
+    "resistance_gene_density": 1.859,
+    "treatment_failure": 1.372
+  },
+  {
+    "antibiotic_exposure": 4.959,
+    "selective_pressure": 3.852,
+    "resistance_gene_density": 0.643,
+    "treatment_failure": 0.252
+  },
+  {
+    "antibiotic_exposure": 3.933,
+    "selective_pressure": 3.036,
+    "resistance_gene_density": 0.74,
+    "treatment_failure": 0.383
+  },
+  {
+    "antibiotic_exposure": 3.3,
+    "selective_pressure": 2.677,
+    "resistance_gene_density": -1.025,
+    "treatment_failure": -0.387
+  },
+  {
+    "antibiotic_exposure": 3.879,
+    "selective_pressure": 3.101,
+    "resistance_gene_density": -5.16,
+    "treatment_failure": -3.546
+  },
+  {
+    "antibiotic_exposure": 8.138,
+    "selective_pressure": 5.882,
+    "resistance_gene_density": 1.427,
+    "treatment_failure": 1.281
+  },
+  {
+    "antibiotic_exposure": 3.063,
+    "selective_pressure": 2.14,
+    "resistance_gene_density": -0.817,
+    "treatment_failure": -0.45
+  },
+  {
+    "antibiotic_exposure": 11.552,
+    "selective_pressure": 8.717,
+    "resistance_gene_density": 7.315,
+    "treatment_failure": 5.261
+  },
+  {
+    "antibiotic_exposure": 13.511,
+    "selective_pressure": 10.191,
+    "resistance_gene_density": 9.47,
+    "treatment_failure": 6.507
+  },
+  {
+    "antibiotic_exposure": 15.036,
+    "selective_pressure": 11.458,
+    "resistance_gene_density": 13.149,
+    "treatment_failure": 9.761
+  },
+  {
+    "antibiotic_exposure": 10.425,
+    "selective_pressure": 7.778,
+    "resistance_gene_density": 6.653,
+    "treatment_failure": 4.562
+  },
+  {
+    "antibiotic_exposure": 6.887,
+    "selective_pressure": 5.1,
+    "resistance_gene_density": 1.996,
+    "treatment_failure": 1.04
+  },
+  {
+    "antibiotic_exposure": 1.956,
+    "selective_pressure": 1.296,
+    "resistance_gene_density": -4.992,
+    "treatment_failure": -3.294
+  },
+  {
+    "antibiotic_exposure": 13.444,
+    "selective_pressure": 10.421,
+    "resistance_gene_density": 9.455,
+    "treatment_failure": 6.532
+  },
+  {
+    "antibiotic_exposure": 5.532,
+    "selective_pressure": 3.884,
+    "resistance_gene_density": -3.116,
+    "treatment_failure": -2.165
+  },
+  {
+    "antibiotic_exposure": 15.765,
+    "selective_pressure": 11.79,
+    "resistance_gene_density": 9.943,
+    "treatment_failure": 6.973
+  },
+  {
+    "antibiotic_exposure": 14.016,
+    "selective_pressure": 10.268,
+    "resistance_gene_density": 11.072,
+    "treatment_failure": 7.594
+  },
+  {
+    "antibiotic_exposure": 11.015,
+    "selective_pressure": 8.041,
+    "resistance_gene_density": 9.078,
+    "treatment_failure": 6.279
+  },
+  {
+    "antibiotic_exposure": 8.699,
+    "selective_pressure": 6.706,
+    "resistance_gene_density": 4.695,
+    "treatment_failure": 3.406
+  },
+  {
+    "antibiotic_exposure": 11.879,
+    "selective_pressure": 8.978,
+    "resistance_gene_density": 8.392,
+    "treatment_failure": 5.931
+  },
+  {
+    "antibiotic_exposure": 8.482,
+    "selective_pressure": 6.443,
+    "resistance_gene_density": 3.843,
+    "treatment_failure": 2.702
+  },
+  {
+    "antibiotic_exposure": 6.359,
+    "selective_pressure": 4.635,
+    "resistance_gene_density": -0.69,
+    "treatment_failure": -0.35
+  },
+  {
+    "antibiotic_exposure": 10.238,
+    "selective_pressure": 8.084,
+    "resistance_gene_density": 6.525,
+    "treatment_failure": 4.687
+  },
+  {
+    "antibiotic_exposure": 11.219,
+    "selective_pressure": 8.157,
+    "resistance_gene_density": 6.893,
+    "treatment_failure": 4.767
+  },
+  {
+    "antibiotic_exposure": 15.891,
+    "selective_pressure": 11.51,
+    "resistance_gene_density": 16.029,
+    "treatment_failure": 11.513
+  },
+  {
+    "antibiotic_exposure": 3.443,
+    "selective_pressure": 2.585,
+    "resistance_gene_density": -1.11,
+    "treatment_failure": -0.994
+  },
+  {
+    "antibiotic_exposure": 10.745,
+    "selective_pressure": 7.898,
+    "resistance_gene_density": 7.306,
+    "treatment_failure": 5.063
+  },
+  {
+    "antibiotic_exposure": 7.903,
+    "selective_pressure": 5.745,
+    "resistance_gene_density": 3.495,
+    "treatment_failure": 2.366
+  },
+  {
+    "antibiotic_exposure": 11.98,
+    "selective_pressure": 8.563,
+    "resistance_gene_density": 8.072,
+    "treatment_failure": 5.816
+  },
+  {
+    "antibiotic_exposure": 8.197,
+    "selective_pressure": 6.205,
+    "resistance_gene_density": 6.601,
+    "treatment_failure": 4.349
+  },
+  {
+    "antibiotic_exposure": 5.765,
+    "selective_pressure": 4.369,
+    "resistance_gene_density": -1.992,
+    "treatment_failure": -1.105
+  },
+  {
+    "antibiotic_exposure": 8.045,
+    "selective_pressure": 5.766,
+    "resistance_gene_density": 4.944,
+    "treatment_failure": 3.346
+  },
+  {
+    "antibiotic_exposure": 11.544,
+    "selective_pressure": 8.373,
+    "resistance_gene_density": 7.933,
+    "treatment_failure": 5.583
+  },
+  {
+    "antibiotic_exposure": 16.246,
+    "selective_pressure": 12.34,
+    "resistance_gene_density": 13.528,
+    "treatment_failure": 9.156
+  },
+  {
+    "antibiotic_exposure": 4.188,
+    "selective_pressure": 3.048,
+    "resistance_gene_density": -2.085,
+    "treatment_failure": -1.35
+  },
+  {
+    "antibiotic_exposure": 7.118,
+    "selective_pressure": 4.991,
+    "resistance_gene_density": 3.087,
+    "treatment_failure": 1.921
+  },
+  {
+    "antibiotic_exposure": 13.483,
+    "selective_pressure": 10.296,
+    "resistance_gene_density": 11.352,
+    "treatment_failure": 8.272
+  },
+  {
+    "antibiotic_exposure": 4.124,
+    "selective_pressure": 3.056,
+    "resistance_gene_density": 0.803,
+    "treatment_failure": 0.485
+  },
+  {
+    "antibiotic_exposure": 13.14,
+    "selective_pressure": 9.856,
+    "resistance_gene_density": 10.441,
+    "treatment_failure": 7.201
+  },
+  {
+    "antibiotic_exposure": 14.936,
+    "selective_pressure": 11.331,
+    "resistance_gene_density": 15.333,
+    "treatment_failure": 10.89
+  },
+  {
+    "antibiotic_exposure": 7.558,
+    "selective_pressure": 5.906,
+    "resistance_gene_density": 3.381,
+    "treatment_failure": 2.439
+  },
+  {
+    "antibiotic_exposure": 4.148,
+    "selective_pressure": 2.994,
+    "resistance_gene_density": -0.586,
+    "treatment_failure": -0.212
+  },
+  {
+    "antibiotic_exposure": 13.811,
+    "selective_pressure": 10.206,
+    "resistance_gene_density": 10.507,
+    "treatment_failure": 7.45
+  },
+  {
+    "antibiotic_exposure": 14.254,
+    "selective_pressure": 10.543,
+    "resistance_gene_density": 11.219,
+    "treatment_failure": 8.021
+  },
+  {
+    "antibiotic_exposure": 7.155,
+    "selective_pressure": 5.26,
+    "resistance_gene_density": -0.351,
+    "treatment_failure": -0.029
+  },
+  {
+    "antibiotic_exposure": 11.868,
+    "selective_pressure": 8.78,
+    "resistance_gene_density": 8.087,
+    "treatment_failure": 5.333
+  },
+  {
+    "antibiotic_exposure": 12.573,
+    "selective_pressure": 9.46,
+    "resistance_gene_density": 10.833,
+    "treatment_failure": 7.53
+  },
+  {
+    "antibiotic_exposure": 11.394,
+    "selective_pressure": 8.914,
+    "resistance_gene_density": 9.351,
+    "treatment_failure": 6.583
+  },
+  {
+    "antibiotic_exposure": 12.743,
+    "selective_pressure": 9.474,
+    "resistance_gene_density": 10.814,
+    "treatment_failure": 7.529
+  },
+  {
+    "antibiotic_exposure": 7.514,
+    "selective_pressure": 5.55,
+    "resistance_gene_density": 4.276,
+    "treatment_failure": 2.755
+  },
+  {
+    "antibiotic_exposure": 12.749,
+    "selective_pressure": 9.518,
+    "resistance_gene_density": 9.302,
+    "treatment_failure": 6.581
+  },
+  {
+    "antibiotic_exposure": 12.938,
+    "selective_pressure": 9.747,
+    "resistance_gene_density": 9.902,
+    "treatment_failure": 6.642
+  },
+  {
+    "antibiotic_exposure": 8.512,
+    "selective_pressure": 5.962,
+    "resistance_gene_density": 3.07,
+    "treatment_failure": 2.266
+  },
+  {
+    "antibiotic_exposure": 16.195,
+    "selective_pressure": 12.425,
+    "resistance_gene_density": 15.472,
+    "treatment_failure": 10.742
+  },
+  {
+    "antibiotic_exposure": 9.438,
+    "selective_pressure": 7.105,
+    "resistance_gene_density": 6.074,
+    "treatment_failure": 4.393
+  },
+  {
+    "antibiotic_exposure": 10.073,
+    "selective_pressure": 7.706,
+    "resistance_gene_density": 7.654,
+    "treatment_failure": 5.549
+  },
+  {
+    "antibiotic_exposure": 1.343,
+    "selective_pressure": 1.089,
+    "resistance_gene_density": -5.003,
+    "treatment_failure": -3.428
+  },
+  {
+    "antibiotic_exposure": 9.136,
+    "selective_pressure": 7.247,
+    "resistance_gene_density": 6.826,
+    "treatment_failure": 4.705
+  },
+  {
+    "antibiotic_exposure": 11.115,
+    "selective_pressure": 8.418,
+    "resistance_gene_density": 6.168,
+    "treatment_failure": 3.984
+  },
+  {
+    "antibiotic_exposure": -0.046,
+    "selective_pressure": -0.022,
+    "resistance_gene_density": -10.216,
+    "treatment_failure": -7.224
+  },
+  {
+    "antibiotic_exposure": 6.915,
+    "selective_pressure": 5.31,
+    "resistance_gene_density": 2.431,
+    "treatment_failure": 1.603
+  },
+  {
+    "antibiotic_exposure": 10.35,
+    "selective_pressure": 7.603,
+    "resistance_gene_density": 4.876,
+    "treatment_failure": 3.314
+  },
+  {
+    "antibiotic_exposure": 11.911,
+    "selective_pressure": 9.247,
+    "resistance_gene_density": 10.606,
+    "treatment_failure": 7.832
+  },
+  {
+    "antibiotic_exposure": 11.837,
+    "selective_pressure": 9.173,
+    "resistance_gene_density": 8.218,
+    "treatment_failure": 5.79
+  },
+  {
+    "antibiotic_exposure": 4.562,
+    "selective_pressure": 3.443,
+    "resistance_gene_density": -0.93,
+    "treatment_failure": -0.744
+  },
+  {
+    "antibiotic_exposure": 10.774,
+    "selective_pressure": 7.992,
+    "resistance_gene_density": 6.108,
+    "treatment_failure": 4.14
+  },
+  {
+    "antibiotic_exposure": 11.82,
+    "selective_pressure": 8.82,
+    "resistance_gene_density": 8.82,
+    "treatment_failure": 6.076
+  },
+  {
+    "antibiotic_exposure": 10.966,
+    "selective_pressure": 7.968,
+    "resistance_gene_density": 6.319,
+    "treatment_failure": 4.617
+  },
+  {
+    "antibiotic_exposure": 12.226,
+    "selective_pressure": 9.569,
+    "resistance_gene_density": 4.516,
+    "treatment_failure": 2.664
+  },
+  {
+    "antibiotic_exposure": 10.543,
+    "selective_pressure": 7.802,
+    "resistance_gene_density": 5.501,
+    "treatment_failure": 4.034
+  },
+  {
+    "antibiotic_exposure": 11.451,
+    "selective_pressure": 8.693,
+    "resistance_gene_density": 5.868,
+    "treatment_failure": 4.266
+  },
+  {
+    "antibiotic_exposure": 6.058,
+    "selective_pressure": 4.382,
+    "resistance_gene_density": 1.248,
+    "treatment_failure": 1.291
+  },
+  {
+    "antibiotic_exposure": 13.991,
+    "selective_pressure": 10.571,
+    "resistance_gene_density": 12.998,
+    "treatment_failure": 9.159
+  },
+  {
+    "antibiotic_exposure": 9.336,
+    "selective_pressure": 7.067,
+    "resistance_gene_density": 3.587,
+    "treatment_failure": 2.389
+  },
+  {
+    "antibiotic_exposure": 9.173,
+    "selective_pressure": 6.809,
+    "resistance_gene_density": 5.34,
+    "treatment_failure": 3.845
+  },
+  {
+    "antibiotic_exposure": 10.761,
+    "selective_pressure": 7.908,
+    "resistance_gene_density": 7.282,
+    "treatment_failure": 5.162
+  },
+  {
+    "antibiotic_exposure": 5.926,
+    "selective_pressure": 4.346,
+    "resistance_gene_density": 0.354,
+    "treatment_failure": 0.049
+  },
+  {
+    "antibiotic_exposure": 0.559,
+    "selective_pressure": 0.55,
+    "resistance_gene_density": -7.845,
+    "treatment_failure": -5.48
+  },
+  {
+    "antibiotic_exposure": 8.407,
+    "selective_pressure": 6.412,
+    "resistance_gene_density": 4.936,
+    "treatment_failure": 3.452
+  },
+  {
+    "antibiotic_exposure": 12.673,
+    "selective_pressure": 9.641,
+    "resistance_gene_density": 6.158,
+    "treatment_failure": 4.126
+  },
+  {
+    "antibiotic_exposure": 7.848,
+    "selective_pressure": 5.664,
+    "resistance_gene_density": 3.844,
+    "treatment_failure": 2.856
+  },
+  {
+    "antibiotic_exposure": 13.64,
+    "selective_pressure": 10.283,
+    "resistance_gene_density": 10.684,
+    "treatment_failure": 7.38
+  },
+  {
+    "antibiotic_exposure": 5.486,
+    "selective_pressure": 4.35,
+    "resistance_gene_density": -1.299,
+    "treatment_failure": -0.536
+  },
+  {
+    "antibiotic_exposure": 9.258,
+    "selective_pressure": 7.035,
+    "resistance_gene_density": 7.653,
+    "treatment_failure": 5.453
+  },
+  {
+    "antibiotic_exposure": 7.207,
+    "selective_pressure": 5.545,
+    "resistance_gene_density": 3.988,
+    "treatment_failure": 2.556
+  },
+  {
+    "antibiotic_exposure": 10.299,
+    "selective_pressure": 7.824,
+    "resistance_gene_density": 4.375,
+    "treatment_failure": 2.792
+  },
+  {
+    "antibiotic_exposure": 3.471,
+    "selective_pressure": 2.48,
+    "resistance_gene_density": -2.949,
+    "treatment_failure": -2.227
+  },
+  {
+    "antibiotic_exposure": 13.826,
+    "selective_pressure": 10.303,
+    "resistance_gene_density": 12.84,
+    "treatment_failure": 8.893
+  },
+  {
+    "antibiotic_exposure": 15.86,
+    "selective_pressure": 12.279,
+    "resistance_gene_density": 13.214,
+    "treatment_failure": 9.375
+  },
+  {
+    "antibiotic_exposure": 8.62,
+    "selective_pressure": 6.347,
+    "resistance_gene_density": 2.633,
+    "treatment_failure": 1.754
+  },
+  {
+    "antibiotic_exposure": 16.955,
+    "selective_pressure": 12.514,
+    "resistance_gene_density": 13.806,
+    "treatment_failure": 9.533
+  },
+  {
+    "antibiotic_exposure": 12.558,
+    "selective_pressure": 9.338,
+    "resistance_gene_density": 7.682,
+    "treatment_failure": 4.95
+  },
+  {
+    "antibiotic_exposure": 14.99,
+    "selective_pressure": 10.874,
+    "resistance_gene_density": 13.401,
+    "treatment_failure": 9.721
+  },
+  {
+    "antibiotic_exposure": 4.685,
+    "selective_pressure": 3.475,
+    "resistance_gene_density": 1.549,
+    "treatment_failure": 0.991
+  },
+  {
+    "antibiotic_exposure": 9.89,
+    "selective_pressure": 7.475,
+    "resistance_gene_density": 7.495,
+    "treatment_failure": 5.314
+  },
+  {
+    "antibiotic_exposure": 8.258,
+    "selective_pressure": 5.887,
+    "resistance_gene_density": 2.593,
+    "treatment_failure": 1.595
+  },
+  {
+    "antibiotic_exposure": 7.566,
+    "selective_pressure": 5.729,
+    "resistance_gene_density": 2.574,
+    "treatment_failure": 1.709
+  },
+  {
+    "antibiotic_exposure": 6.582,
+    "selective_pressure": 5.248,
+    "resistance_gene_density": 0.869,
+    "treatment_failure": 0.581
+  },
+  {
+    "antibiotic_exposure": 0.991,
+    "selective_pressure": 0.921,
+    "resistance_gene_density": -4.747,
+    "treatment_failure": -3.407
+  },
+  {
+    "antibiotic_exposure": 12.985,
+    "selective_pressure": 9.766,
+    "resistance_gene_density": 11.343,
+    "treatment_failure": 8.118
+  },
+  {
+    "antibiotic_exposure": 14.927,
+    "selective_pressure": 11.029,
+    "resistance_gene_density": 13.251,
+    "treatment_failure": 8.866
+  },
+  {
+    "antibiotic_exposure": 1.38,
+    "selective_pressure": 1.04,
+    "resistance_gene_density": -9.966,
+    "treatment_failure": -6.781
+  },
+  {
+    "antibiotic_exposure": 7.246,
+    "selective_pressure": 5.634,
+    "resistance_gene_density": 5.01,
+    "treatment_failure": 3.599
+  },
+  {
+    "antibiotic_exposure": 8.706,
+    "selective_pressure": 6.451,
+    "resistance_gene_density": 2.976,
+    "treatment_failure": 2.231
+  },
+  {
+    "antibiotic_exposure": 8.496,
+    "selective_pressure": 6.395,
+    "resistance_gene_density": 6.157,
+    "treatment_failure": 4.173
+  },
+  {
+    "antibiotic_exposure": 7.759,
+    "selective_pressure": 5.79,
+    "resistance_gene_density": 5.603,
+    "treatment_failure": 3.76
+  },
+  {
+    "antibiotic_exposure": 9.718,
+    "selective_pressure": 7.428,
+    "resistance_gene_density": 3.235,
+    "treatment_failure": 1.927
+  },
+  {
+    "antibiotic_exposure": 11.519,
+    "selective_pressure": 8.516,
+    "resistance_gene_density": 7.034,
+    "treatment_failure": 4.644
+  },
+  {
+    "antibiotic_exposure": 4.755,
+    "selective_pressure": 3.791,
+    "resistance_gene_density": 0.946,
+    "treatment_failure": 1.061
+  },
+  {
+    "antibiotic_exposure": 9.644,
+    "selective_pressure": 7.232,
+    "resistance_gene_density": 5.594,
+    "treatment_failure": 3.649
+  },
+  {
+    "antibiotic_exposure": 4.794,
+    "selective_pressure": 3.45,
+    "resistance_gene_density": -0.698,
+    "treatment_failure": -0.584
+  },
+  {
+    "antibiotic_exposure": 9.985,
+    "selective_pressure": 7.388,
+    "resistance_gene_density": 4.828,
+    "treatment_failure": 3.661
+  },
+  {
+    "antibiotic_exposure": 9.698,
+    "selective_pressure": 6.777,
+    "resistance_gene_density": 3.516,
+    "treatment_failure": 2.319
+  },
+  {
+    "antibiotic_exposure": 17.724,
+    "selective_pressure": 13.333,
+    "resistance_gene_density": 16.774,
+    "treatment_failure": 11.626
+  },
+  {
+    "antibiotic_exposure": 5.759,
+    "selective_pressure": 4.408,
+    "resistance_gene_density": -3.147,
+    "treatment_failure": -1.917
+  },
+  {
+    "antibiotic_exposure": 11.27,
+    "selective_pressure": 8.888,
+    "resistance_gene_density": 10.589,
+    "treatment_failure": 7.404
+  },
+  {
+    "antibiotic_exposure": 20.199,
+    "selective_pressure": 15.176,
+    "resistance_gene_density": 20.108,
+    "treatment_failure": 14.308
+  },
+  {
+    "antibiotic_exposure": 15.883,
+    "selective_pressure": 11.728,
+    "resistance_gene_density": 14.603,
+    "treatment_failure": 10.501
+  },
+  {
+    "antibiotic_exposure": 2.535,
+    "selective_pressure": 1.797,
+    "resistance_gene_density": -2.973,
+    "treatment_failure": -2.132
+  },
+  {
+    "antibiotic_exposure": 7.731,
+    "selective_pressure": 5.806,
+    "resistance_gene_density": 3.386,
+    "treatment_failure": 1.999
+  },
+  {
+    "antibiotic_exposure": 8.924,
+    "selective_pressure": 6.681,
+    "resistance_gene_density": 2.59,
+    "treatment_failure": 1.971
+  },
+  {
+    "antibiotic_exposure": 6.731,
+    "selective_pressure": 4.948,
+    "resistance_gene_density": 1.147,
+    "treatment_failure": 0.715
+  },
+  {
+    "antibiotic_exposure": 16.288,
+    "selective_pressure": 12.474,
+    "resistance_gene_density": 14.424,
+    "treatment_failure": 9.843
+  },
+  {
+    "antibiotic_exposure": 10.797,
+    "selective_pressure": 7.782,
+    "resistance_gene_density": 5.975,
+    "treatment_failure": 4.213
+  },
+  {
+    "antibiotic_exposure": 7.943,
+    "selective_pressure": 6.405,
+    "resistance_gene_density": 0.95,
+    "treatment_failure": 0.439
+  },
+  {
+    "antibiotic_exposure": 1.149,
+    "selective_pressure": 1.045,
+    "resistance_gene_density": -4.774,
+    "treatment_failure": -3.397
+  },
+  {
+    "antibiotic_exposure": 7.672,
+    "selective_pressure": 6.056,
+    "resistance_gene_density": 1.613,
+    "treatment_failure": 1.188
+  },
+  {
+    "antibiotic_exposure": 12.671,
+    "selective_pressure": 9.332,
+    "resistance_gene_density": 8.977,
+    "treatment_failure": 6.127
+  },
+  {
+    "antibiotic_exposure": 2.9,
+    "selective_pressure": 2.32,
+    "resistance_gene_density": -1.792,
+    "treatment_failure": -1.045
+  },
+  {
+    "antibiotic_exposure": 7.977,
+    "selective_pressure": 6.0,
+    "resistance_gene_density": 4.731,
+    "treatment_failure": 3.435
+  },
+  {
+    "antibiotic_exposure": 12.466,
+    "selective_pressure": 9.642,
+    "resistance_gene_density": 8.872,
+    "treatment_failure": 6.275
+  },
+  {
+    "antibiotic_exposure": 3.981,
+    "selective_pressure": 2.807,
+    "resistance_gene_density": -0.838,
+    "treatment_failure": -0.599
+  },
+  {
+    "antibiotic_exposure": 13.462,
+    "selective_pressure": 9.958,
+    "resistance_gene_density": 10.105,
+    "treatment_failure": 6.991
+  },
+  {
+    "antibiotic_exposure": 15.795,
+    "selective_pressure": 12.253,
+    "resistance_gene_density": 14.219,
+    "treatment_failure": 10.312
+  },
+  {
+    "antibiotic_exposure": 7.13,
+    "selective_pressure": 5.61,
+    "resistance_gene_density": 2.38,
+    "treatment_failure": 1.777
+  },
+  {
+    "antibiotic_exposure": 7.663,
+    "selective_pressure": 5.735,
+    "resistance_gene_density": 4.799,
+    "treatment_failure": 3.202
+  },
+  {
+    "antibiotic_exposure": 11.837,
+    "selective_pressure": 8.689,
+    "resistance_gene_density": 8.289,
+    "treatment_failure": 5.845
+  },
+  {
+    "antibiotic_exposure": 4.639,
+    "selective_pressure": 3.636,
+    "resistance_gene_density": 2.603,
+    "treatment_failure": 1.953
+  },
+  {
+    "antibiotic_exposure": 12.269,
+    "selective_pressure": 9.589,
+    "resistance_gene_density": 8.651,
+    "treatment_failure": 6.268
+  },
+  {
+    "antibiotic_exposure": 15.15,
+    "selective_pressure": 11.383,
+    "resistance_gene_density": 14.364,
+    "treatment_failure": 10.084
+  },
+  {
+    "antibiotic_exposure": 8.585,
+    "selective_pressure": 6.549,
+    "resistance_gene_density": 7.356,
+    "treatment_failure": 5.287
+  }
+]

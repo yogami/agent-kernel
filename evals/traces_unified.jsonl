@@ -1,0 +1,3 @@
+{"seed": 42, "kernel_8b_accuracy": 1.0, "raw_frontier_accuracy": 0.1296, "mcnemar_p_value": 1.3188112993447748e-52}
+{"seed": 143, "kernel_8b_accuracy": 1.0, "raw_frontier_accuracy": 0.1296, "mcnemar_p_value": 1.3188112993447748e-52}
+{"seed": 244, "kernel_8b_accuracy": 1.0, "raw_frontier_accuracy": 0.1296, "mcnemar_p_value": 1.3188112993447748e-52}

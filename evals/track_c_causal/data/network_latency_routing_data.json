@@ -1,0 +1,3002 @@
+[
+  {
+    "routing_weight": 9.683,
+    "link_congestion": -7.627,
+    "packet_loss": -6.266,
+    "rtt_latency": -6.042
+  },
+  {
+    "routing_weight": 10.091,
+    "link_congestion": -7.04,
+    "packet_loss": -5.234,
+    "rtt_latency": -4.615
+  },
+  {
+    "routing_weight": 11.811,
+    "link_congestion": -3.085,
+    "packet_loss": -2.233,
+    "rtt_latency": 2.459
+  },
+  {
+    "routing_weight": 10.16,
+    "link_congestion": -7.66,
+    "packet_loss": -5.911,
+    "rtt_latency": -5.687
+  },
+  {
+    "routing_weight": 10.897,
+    "link_congestion": -5.636,
+    "packet_loss": -4.666,
+    "rtt_latency": -2.407
+  },
+  {
+    "routing_weight": 10.867,
+    "link_congestion": -3.961,
+    "packet_loss": -3.449,
+    "rtt_latency": -0.097
+  },
+  {
+    "routing_weight": 9.295,
+    "link_congestion": -7.963,
+    "packet_loss": -6.148,
+    "rtt_latency": -6.786
+  },
+  {
+    "routing_weight": 11.391,
+    "link_congestion": -3.988,
+    "packet_loss": -3.223,
+    "rtt_latency": 1.099
+  },
+  {
+    "routing_weight": 11.61,
+    "link_congestion": -7.771,
+    "packet_loss": -6.215,
+    "rtt_latency": -4.971
+  },
+  {
+    "routing_weight": 8.808,
+    "link_congestion": -3.762,
+    "packet_loss": -3.099,
+    "rtt_latency": -0.671
+  },
+  {
+    "routing_weight": 6.55,
+    "link_congestion": -3.389,
+    "packet_loss": -2.516,
+    "rtt_latency": -0.587
+  },
+  {
+    "routing_weight": 9.174,
+    "link_congestion": -5.669,
+    "packet_loss": -4.674,
+    "rtt_latency": -3.182
+  },
+  {
+    "routing_weight": 8.698,
+    "link_congestion": -5.278,
+    "packet_loss": -4.347,
+    "rtt_latency": -2.592
+  },
+  {
+    "routing_weight": 10.594,
+    "link_congestion": -13.321,
+    "packet_loss": -10.72,
+    "rtt_latency": -14.199
+  },
+  {
+    "routing_weight": 8.418,
+    "link_congestion": -10.245,
+    "packet_loss": -8.098,
+    "rtt_latency": -10.44
+  },
+  {
+    "routing_weight": 7.362,
+    "link_congestion": -4.747,
+    "packet_loss": -3.514,
+    "rtt_latency": -3.241
+  },
+  {
+    "routing_weight": 9.893,
+    "link_congestion": -6.897,
+    "packet_loss": -5.491,
+    "rtt_latency": -4.557
+  },
+  {
+    "routing_weight": 9.411,
+    "link_congestion": -5.49,
+    "packet_loss": -4.296,
+    "rtt_latency": -3.169
+  },
+  {
+    "routing_weight": 9.756,
+    "link_congestion": -12.367,
+    "packet_loss": -9.769,
+    "rtt_latency": -13.729
+  },
+  {
+    "routing_weight": 10.719,
+    "link_congestion": -8.13,
+    "packet_loss": -6.097,
+    "rtt_latency": -6.814
+  },
+  {
+    "routing_weight": 9.196,
+    "link_congestion": -7.364,
+    "packet_loss": -5.84,
+    "rtt_latency": -5.727
+  },
+  {
+    "routing_weight": 9.944,
+    "link_congestion": -6.279,
+    "packet_loss": -5.235,
+    "rtt_latency": -3.522
+  },
+  {
+    "routing_weight": 9.266,
+    "link_congestion": -6.25,
+    "packet_loss": -4.53,
+    "rtt_latency": -4.061
+  },
+  {
+    "routing_weight": 9.559,
+    "link_congestion": -0.353,
+    "packet_loss": -0.014,
+    "rtt_latency": 5.159
+  },
+  {
+    "routing_weight": 9.587,
+    "link_congestion": -4.248,
+    "packet_loss": -3.223,
+    "rtt_latency": -0.656
+  },
+  {
+    "routing_weight": 13.392,
+    "link_congestion": -12.193,
+    "packet_loss": -9.514,
+    "rtt_latency": -10.629
+  },
+  {
+    "routing_weight": 11.927,
+    "link_congestion": -1.445,
+    "packet_loss": -1.145,
+    "rtt_latency": 4.469
+  },
+  {
+    "routing_weight": 12.682,
+    "link_congestion": -11.763,
+    "packet_loss": -9.25,
+    "rtt_latency": -10.778
+  },
+  {
+    "routing_weight": 7.818,
+    "link_congestion": -4.243,
+    "packet_loss": -3.596,
+    "rtt_latency": -2.159
+  },
+  {
+    "routing_weight": 8.716,
+    "link_congestion": -10.45,
+    "packet_loss": -8.14,
+    "rtt_latency": -10.914
+  },
+  {
+    "routing_weight": 11.694,
+    "link_congestion": -6.417,
+    "packet_loss": -5.012,
+    "rtt_latency": -2.77
+  },
+  {
+    "routing_weight": 10.476,
+    "link_congestion": -6.687,
+    "packet_loss": -5.759,
+    "rtt_latency": -4.495
+  },
+  {
+    "routing_weight": 9.071,
+    "link_congestion": -7.386,
+    "packet_loss": -6.128,
+    "rtt_latency": -6.359
+  },
+  {
+    "routing_weight": 8.58,
+    "link_congestion": -6.177,
+    "packet_loss": -4.434,
+    "rtt_latency": -3.653
+  },
+  {
+    "routing_weight": 8.686,
+    "link_congestion": -7.586,
+    "packet_loss": -5.981,
+    "rtt_latency": -6.357
+  },
+  {
+    "routing_weight": 10.171,
+    "link_congestion": -3.612,
+    "packet_loss": -3.191,
+    "rtt_latency": 0.269
+  },
+  {
+    "routing_weight": 13.304,
+    "link_congestion": -4.4,
+    "packet_loss": -3.583,
+    "rtt_latency": 1.082
+  },
+  {
+    "routing_weight": 11.41,
+    "link_congestion": -4.229,
+    "packet_loss": -3.25,
+    "rtt_latency": 0.368
+  },
+  {
+    "routing_weight": 11.691,
+    "link_congestion": -1.014,
+    "packet_loss": -0.394,
+    "rtt_latency": 5.695
+  },
+  {
+    "routing_weight": 7.921,
+    "link_congestion": -8.415,
+    "packet_loss": -6.915,
+    "rtt_latency": -8.058
+  },
+  {
+    "routing_weight": 8.819,
+    "link_congestion": -4.349,
+    "packet_loss": -3.706,
+    "rtt_latency": -1.754
+  },
+  {
+    "routing_weight": 13.112,
+    "link_congestion": -8.015,
+    "packet_loss": -6.189,
+    "rtt_latency": -3.921
+  },
+  {
+    "routing_weight": 8.915,
+    "link_congestion": -2.981,
+    "packet_loss": -2.458,
+    "rtt_latency": 0.672
+  },
+  {
+    "routing_weight": 11.601,
+    "link_congestion": -11.491,
+    "packet_loss": -9.289,
+    "rtt_latency": -11.246
+  },
+  {
+    "routing_weight": 8.548,
+    "link_congestion": -4.064,
+    "packet_loss": -3.153,
+    "rtt_latency": -1.516
+  },
+  {
+    "routing_weight": 13.542,
+    "link_congestion": 1.941,
+    "packet_loss": 1.483,
+    "rtt_latency": 10.602
+  },
+  {
+    "routing_weight": 13.368,
+    "link_congestion": -4.804,
+    "packet_loss": -4.078,
+    "rtt_latency": -0.08
+  },
+  {
+    "routing_weight": 10.99,
+    "link_congestion": -11.608,
+    "packet_loss": -9.243,
+    "rtt_latency": -11.147
+  },
+  {
+    "routing_weight": 10.919,
+    "link_congestion": -2.131,
+    "packet_loss": -1.7,
+    "rtt_latency": 2.998
+  },
+  {
+    "routing_weight": 8.539,
+    "link_congestion": -8.407,
+    "packet_loss": -6.799,
+    "rtt_latency": -7.841
+  },
+  {
+    "routing_weight": 13.324,
+    "link_congestion": -9.459,
+    "packet_loss": -7.358,
+    "rtt_latency": -6.776
+  },
+  {
+    "routing_weight": 9.734,
+    "link_congestion": -3.991,
+    "packet_loss": -2.979,
+    "rtt_latency": -0.358
+  },
+  {
+    "routing_weight": 7.084,
+    "link_congestion": -11.429,
+    "packet_loss": -9.352,
+    "rtt_latency": -13.516
+  },
+  {
+    "routing_weight": 7.861,
+    "link_congestion": -8.125,
+    "packet_loss": -6.372,
+    "rtt_latency": -8.084
+  },
+  {
+    "routing_weight": 9.424,
+    "link_congestion": -4.586,
+    "packet_loss": -3.646,
+    "rtt_latency": -1.336
+  },
+  {
+    "routing_weight": 11.61,
+    "link_congestion": -9.308,
+    "packet_loss": -7.757,
+    "rtt_latency": -7.612
+  },
+  {
+    "routing_weight": 8.16,
+    "link_congestion": -9.246,
+    "packet_loss": -7.537,
+    "rtt_latency": -9.653
+  },
+  {
+    "routing_weight": 10.038,
+    "link_congestion": -5.051,
+    "packet_loss": -4.35,
+    "rtt_latency": -2.185
+  },
+  {
+    "routing_weight": 10.909,
+    "link_congestion": -4.248,
+    "packet_loss": -3.48,
+    "rtt_latency": -0.541
+  },
+  {
+    "routing_weight": 10.623,
+    "link_congestion": -6.373,
+    "packet_loss": -4.884,
+    "rtt_latency": -3.303
+  },
+  {
+    "routing_weight": 12.588,
+    "link_congestion": -1.163,
+    "packet_loss": -1.073,
+    "rtt_latency": 5.096
+  },
+  {
+    "routing_weight": 12.035,
+    "link_congestion": -12.715,
+    "packet_loss": -9.975,
+    "rtt_latency": -12.448
+  },
+  {
+    "routing_weight": 9.93,
+    "link_congestion": -5.87,
+    "packet_loss": -4.583,
+    "rtt_latency": -3.116
+  },
+  {
+    "routing_weight": 11.011,
+    "link_congestion": -14.271,
+    "packet_loss": -11.557,
+    "rtt_latency": -15.924
+  },
+  {
+    "routing_weight": 11.322,
+    "link_congestion": -3.043,
+    "packet_loss": -2.36,
+    "rtt_latency": 2.51
+  },
+  {
+    "routing_weight": 14.529,
+    "link_congestion": -6.135,
+    "packet_loss": -5.476,
+    "rtt_latency": -1.197
+  },
+  {
+    "routing_weight": 11.562,
+    "link_congestion": -3.939,
+    "packet_loss": -3.087,
+    "rtt_latency": 0.737
+  },
+  {
+    "routing_weight": 12.142,
+    "link_congestion": -2.663,
+    "packet_loss": -2.287,
+    "rtt_latency": 3.162
+  },
+  {
+    "routing_weight": 9.862,
+    "link_congestion": -8.184,
+    "packet_loss": -6.552,
+    "rtt_latency": -6.694
+  },
+  {
+    "routing_weight": 14.699,
+    "link_congestion": -11.741,
+    "packet_loss": -9.75,
+    "rtt_latency": -9.545
+  },
+  {
+    "routing_weight": 8.383,
+    "link_congestion": 0.267,
+    "packet_loss": 0.292,
+    "rtt_latency": 5.495
+  },
+  {
+    "routing_weight": 10.491,
+    "link_congestion": -9.738,
+    "packet_loss": -7.777,
+    "rtt_latency": -9.07
+  },
+  {
+    "routing_weight": 10.493,
+    "link_congestion": -7.892,
+    "packet_loss": -6.519,
+    "rtt_latency": -6.217
+  },
+  {
+    "routing_weight": 9.068,
+    "link_congestion": -9.09,
+    "packet_loss": -7.549,
+    "rtt_latency": -9.127
+  },
+  {
+    "routing_weight": 9.513,
+    "link_congestion": -2.451,
+    "packet_loss": -2.231,
+    "rtt_latency": 1.344
+  },
+  {
+    "routing_weight": 15.797,
+    "link_congestion": -11.994,
+    "packet_loss": -9.826,
+    "rtt_latency": -9.905
+  },
+  {
+    "routing_weight": 9.537,
+    "link_congestion": -0.774,
+    "packet_loss": -0.711,
+    "rtt_latency": 4.395
+  },
+  {
+    "routing_weight": 11.029,
+    "link_congestion": -1.816,
+    "packet_loss": -1.515,
+    "rtt_latency": 4.027
+  },
+  {
+    "routing_weight": 9.319,
+    "link_congestion": -10.963,
+    "packet_loss": -8.961,
+    "rtt_latency": -11.954
+  },
+  {
+    "routing_weight": 9.328,
+    "link_congestion": -3.789,
+    "packet_loss": -2.877,
+    "rtt_latency": 0.063
+  },
+  {
+    "routing_weight": 8.656,
+    "link_congestion": 1.214,
+    "packet_loss": 0.959,
+    "rtt_latency": 7.008
+  },
+  {
+    "routing_weight": 10.305,
+    "link_congestion": -8.408,
+    "packet_loss": -6.832,
+    "rtt_latency": -6.97
+  },
+  {
+    "routing_weight": 7.305,
+    "link_congestion": -2.396,
+    "packet_loss": -2.137,
+    "rtt_latency": 0.313
+  },
+  {
+    "routing_weight": 13.046,
+    "link_congestion": -7.505,
+    "packet_loss": -5.75,
+    "rtt_latency": -3.385
+  },
+  {
+    "routing_weight": 11.841,
+    "link_congestion": -6.788,
+    "packet_loss": -5.21,
+    "rtt_latency": -3.37
+  },
+  {
+    "routing_weight": 10.852,
+    "link_congestion": -4.738,
+    "packet_loss": -3.736,
+    "rtt_latency": -0.724
+  },
+  {
+    "routing_weight": 13.555,
+    "link_congestion": -7.695,
+    "packet_loss": -6.019,
+    "rtt_latency": -3.651
+  },
+  {
+    "routing_weight": 10.997,
+    "link_congestion": -8.311,
+    "packet_loss": -6.592,
+    "rtt_latency": -5.988
+  },
+  {
+    "routing_weight": 8.67,
+    "link_congestion": -6.285,
+    "packet_loss": -4.829,
+    "rtt_latency": -4.733
+  },
+  {
+    "routing_weight": 8.332,
+    "link_congestion": -4.062,
+    "packet_loss": -3.225,
+    "rtt_latency": -1.509
+  },
+  {
+    "routing_weight": 8.392,
+    "link_congestion": -7.504,
+    "packet_loss": -6.265,
+    "rtt_latency": -7.236
+  },
+  {
+    "routing_weight": 6.355,
+    "link_congestion": 1.358,
+    "packet_loss": 1.235,
+    "rtt_latency": 5.955
+  },
+  {
+    "routing_weight": 9.867,
+    "link_congestion": 0.391,
+    "packet_loss": -0.013,
+    "rtt_latency": 5.754
+  },
+  {
+    "routing_weight": 12.065,
+    "link_congestion": -7.703,
+    "packet_loss": -6.316,
+    "rtt_latency": -4.827
+  },
+  {
+    "routing_weight": 10.689,
+    "link_congestion": -2.559,
+    "packet_loss": -2.25,
+    "rtt_latency": 2.017
+  },
+  {
+    "routing_weight": 11.277,
+    "link_congestion": -6.361,
+    "packet_loss": -5.271,
+    "rtt_latency": -3.626
+  },
+  {
+    "routing_weight": 13.114,
+    "link_congestion": -6.83,
+    "packet_loss": -5.284,
+    "rtt_latency": -2.831
+  },
+  {
+    "routing_weight": 10.61,
+    "link_congestion": -12.63,
+    "packet_loss": -10.208,
+    "rtt_latency": -13.934
+  },
+  {
+    "routing_weight": 9.333,
+    "link_congestion": -4.36,
+    "packet_loss": -3.36,
+    "rtt_latency": -0.97
+  },
+  {
+    "routing_weight": 9.466,
+    "link_congestion": -1.648,
+    "packet_loss": -1.022,
+    "rtt_latency": 2.992
+  },
+  {
+    "routing_weight": 8.792,
+    "link_congestion": -4.941,
+    "packet_loss": -3.863,
+    "rtt_latency": -2.243
+  },
+  {
+    "routing_weight": 10.187,
+    "link_congestion": -7.762,
+    "packet_loss": -6.382,
+    "rtt_latency": -6.626
+  },
+  {
+    "routing_weight": 10.084,
+    "link_congestion": -7.628,
+    "packet_loss": -6.356,
+    "rtt_latency": -6.701
+  },
+  {
+    "routing_weight": 8.066,
+    "link_congestion": -7.102,
+    "packet_loss": -5.546,
+    "rtt_latency": -5.827
+  },
+  {
+    "routing_weight": 10.629,
+    "link_congestion": -8.973,
+    "packet_loss": -7.205,
+    "rtt_latency": -7.369
+  },
+  {
+    "routing_weight": 8.435,
+    "link_congestion": -9.607,
+    "packet_loss": -7.496,
+    "rtt_latency": -9.938
+  },
+  {
+    "routing_weight": 9.145,
+    "link_congestion": -4.013,
+    "packet_loss": -3.325,
+    "rtt_latency": -1.059
+  },
+  {
+    "routing_weight": 10.024,
+    "link_congestion": -7.119,
+    "packet_loss": -5.366,
+    "rtt_latency": -4.805
+  },
+  {
+    "routing_weight": 10.852,
+    "link_congestion": -1.876,
+    "packet_loss": -1.51,
+    "rtt_latency": 3.309
+  },
+  {
+    "routing_weight": 7.836,
+    "link_congestion": 0.015,
+    "packet_loss": 0.099,
+    "rtt_latency": 4.045
+  },
+  {
+    "routing_weight": 8.534,
+    "link_congestion": -2.538,
+    "packet_loss": -1.734,
+    "rtt_latency": 1.918
+  },
+  {
+    "routing_weight": 9.362,
+    "link_congestion": -3.041,
+    "packet_loss": -2.529,
+    "rtt_latency": 0.818
+  },
+  {
+    "routing_weight": 7.305,
+    "link_congestion": -6.724,
+    "packet_loss": -5.391,
+    "rtt_latency": -6.019
+  },
+  {
+    "routing_weight": 8.336,
+    "link_congestion": 1.151,
+    "packet_loss": 1.145,
+    "rtt_latency": 6.699
+  },
+  {
+    "routing_weight": 5.766,
+    "link_congestion": -3.14,
+    "packet_loss": -2.561,
+    "rtt_latency": -1.316
+  },
+  {
+    "routing_weight": 10.57,
+    "link_congestion": -2.805,
+    "packet_loss": -2.151,
+    "rtt_latency": 2.401
+  },
+  {
+    "routing_weight": 12.496,
+    "link_congestion": -6.657,
+    "packet_loss": -5.533,
+    "rtt_latency": -2.696
+  },
+  {
+    "routing_weight": 10.615,
+    "link_congestion": -8.696,
+    "packet_loss": -6.932,
+    "rtt_latency": -6.975
+  },
+  {
+    "routing_weight": 13.947,
+    "link_congestion": -15.027,
+    "packet_loss": -11.736,
+    "rtt_latency": -14.969
+  },
+  {
+    "routing_weight": 10.414,
+    "link_congestion": -1.385,
+    "packet_loss": -0.858,
+    "rtt_latency": 3.895
+  },
+  {
+    "routing_weight": 10.923,
+    "link_congestion": -1.238,
+    "packet_loss": -1.156,
+    "rtt_latency": 4.087
+  },
+  {
+    "routing_weight": 6.486,
+    "link_congestion": 5.671,
+    "packet_loss": 4.893,
+    "rtt_latency": 12.76
+  },
+  {
+    "routing_weight": 13.575,
+    "link_congestion": -6.971,
+    "packet_loss": -5.513,
+    "rtt_latency": -2.895
+  },
+  {
+    "routing_weight": 7.755,
+    "link_congestion": -0.364,
+    "packet_loss": -0.443,
+    "rtt_latency": 3.92
+  },
+  {
+    "routing_weight": 7.284,
+    "link_congestion": -1.189,
+    "packet_loss": -0.848,
+    "rtt_latency": 2.471
+  },
+  {
+    "routing_weight": 10.817,
+    "link_congestion": -12.833,
+    "packet_loss": -10.298,
+    "rtt_latency": -13.504
+  },
+  {
+    "routing_weight": 8.384,
+    "link_congestion": -3.706,
+    "packet_loss": -2.942,
+    "rtt_latency": -0.647
+  },
+  {
+    "routing_weight": 5.275,
+    "link_congestion": -4.15,
+    "packet_loss": -3.259,
+    "rtt_latency": -3.064
+  },
+  {
+    "routing_weight": 10.878,
+    "link_congestion": -7.971,
+    "packet_loss": -6.317,
+    "rtt_latency": -5.773
+  },
+  {
+    "routing_weight": 11.374,
+    "link_congestion": -4.493,
+    "packet_loss": -3.552,
+    "rtt_latency": -0.525
+  },
+  {
+    "routing_weight": 7.659,
+    "link_congestion": -1.966,
+    "packet_loss": -1.46,
+    "rtt_latency": 1.806
+  },
+  {
+    "routing_weight": 10.721,
+    "link_congestion": -4.881,
+    "packet_loss": -3.815,
+    "rtt_latency": -1.468
+  },
+  {
+    "routing_weight": 6.753,
+    "link_congestion": -10.112,
+    "packet_loss": -8.059,
+    "rtt_latency": -11.998
+  },
+  {
+    "routing_weight": 10.257,
+    "link_congestion": -6.673,
+    "packet_loss": -5.373,
+    "rtt_latency": -4.585
+  },
+  {
+    "routing_weight": 9.642,
+    "link_congestion": -4.423,
+    "packet_loss": -3.35,
+    "rtt_latency": -1.34
+  },
+  {
+    "routing_weight": 11.722,
+    "link_congestion": -2.761,
+    "packet_loss": -2.162,
+    "rtt_latency": 2.468
+  },
+  {
+    "routing_weight": 8.576,
+    "link_congestion": -1.371,
+    "packet_loss": -1.219,
+    "rtt_latency": 3.293
+  },
+  {
+    "routing_weight": 7.595,
+    "link_congestion": -2.007,
+    "packet_loss": -1.568,
+    "rtt_latency": 1.106
+  },
+  {
+    "routing_weight": 10.604,
+    "link_congestion": -7.032,
+    "packet_loss": -5.587,
+    "rtt_latency": -4.454
+  },
+  {
+    "routing_weight": 7.531,
+    "link_congestion": -0.184,
+    "packet_loss": -0.113,
+    "rtt_latency": 4.178
+  },
+  {
+    "routing_weight": 11.385,
+    "link_congestion": -9.504,
+    "packet_loss": -7.455,
+    "rtt_latency": -8.354
+  },
+  {
+    "routing_weight": 7.815,
+    "link_congestion": -7.033,
+    "packet_loss": -5.65,
+    "rtt_latency": -5.849
+  },
+  {
+    "routing_weight": 10.311,
+    "link_congestion": -5.479,
+    "packet_loss": -4.635,
+    "rtt_latency": -2.788
+  },
+  {
+    "routing_weight": 11.195,
+    "link_congestion": -9.572,
+    "packet_loss": -7.599,
+    "rtt_latency": -8.334
+  },
+  {
+    "routing_weight": 12.501,
+    "link_congestion": -11.365,
+    "packet_loss": -9.151,
+    "rtt_latency": -9.835
+  },
+  {
+    "routing_weight": 9.27,
+    "link_congestion": -6.97,
+    "packet_loss": -5.462,
+    "rtt_latency": -5.299
+  },
+  {
+    "routing_weight": 9.095,
+    "link_congestion": -8.804,
+    "packet_loss": -6.831,
+    "rtt_latency": -7.852
+  },
+  {
+    "routing_weight": 10.646,
+    "link_congestion": -11.152,
+    "packet_loss": -9.096,
+    "rtt_latency": -11.442
+  },
+  {
+    "routing_weight": 5.636,
+    "link_congestion": -4.859,
+    "packet_loss": -4.017,
+    "rtt_latency": -4.177
+  },
+  {
+    "routing_weight": 10.377,
+    "link_congestion": -4.104,
+    "packet_loss": -3.098,
+    "rtt_latency": 0.263
+  },
+  {
+    "routing_weight": 9.143,
+    "link_congestion": -9.557,
+    "packet_loss": -7.315,
+    "rtt_latency": -9.228
+  },
+  {
+    "routing_weight": 11.179,
+    "link_congestion": -5.406,
+    "packet_loss": -4.25,
+    "rtt_latency": -1.451
+  },
+  {
+    "routing_weight": 10.536,
+    "link_congestion": 0.324,
+    "packet_loss": 0.181,
+    "rtt_latency": 6.64
+  },
+  {
+    "routing_weight": 9.487,
+    "link_congestion": -7.876,
+    "packet_loss": -6.439,
+    "rtt_latency": -6.343
+  },
+  {
+    "routing_weight": 8.81,
+    "link_congestion": -7.881,
+    "packet_loss": -6.358,
+    "rtt_latency": -7.028
+  },
+  {
+    "routing_weight": 11.71,
+    "link_congestion": -9.363,
+    "packet_loss": -7.67,
+    "rtt_latency": -7.762
+  },
+  {
+    "routing_weight": 5.887,
+    "link_congestion": 5.224,
+    "packet_loss": 3.997,
+    "rtt_latency": 11.632
+  },
+  {
+    "routing_weight": 12.657,
+    "link_congestion": -5.153,
+    "packet_loss": -4.338,
+    "rtt_latency": -0.574
+  },
+  {
+    "routing_weight": 9.017,
+    "link_congestion": -3.995,
+    "packet_loss": -3.078,
+    "rtt_latency": -1.06
+  },
+  {
+    "routing_weight": 10.189,
+    "link_congestion": -9.982,
+    "packet_loss": -7.987,
+    "rtt_latency": -9.553
+  },
+  {
+    "routing_weight": 9.463,
+    "link_congestion": -5.958,
+    "packet_loss": -5.073,
+    "rtt_latency": -4.024
+  },
+  {
+    "routing_weight": 8.179,
+    "link_congestion": -3.962,
+    "packet_loss": -3.158,
+    "rtt_latency": -1.181
+  },
+  {
+    "routing_weight": 9.084,
+    "link_congestion": -9.501,
+    "packet_loss": -7.443,
+    "rtt_latency": -9.134
+  },
+  {
+    "routing_weight": 13.983,
+    "link_congestion": -10.293,
+    "packet_loss": -8.203,
+    "rtt_latency": -7.676
+  },
+  {
+    "routing_weight": 10.61,
+    "link_congestion": -7.503,
+    "packet_loss": -5.761,
+    "rtt_latency": -5.217
+  },
+  {
+    "routing_weight": 8.346,
+    "link_congestion": -9.7,
+    "packet_loss": -7.699,
+    "rtt_latency": -10.538
+  },
+  {
+    "routing_weight": 10.974,
+    "link_congestion": -11.896,
+    "packet_loss": -9.182,
+    "rtt_latency": -11.161
+  },
+  {
+    "routing_weight": 11.109,
+    "link_congestion": -5.685,
+    "packet_loss": -4.607,
+    "rtt_latency": -2.418
+  },
+  {
+    "routing_weight": 9.162,
+    "link_congestion": -4.315,
+    "packet_loss": -3.571,
+    "rtt_latency": -1.706
+  },
+  {
+    "routing_weight": 7.785,
+    "link_congestion": -2.185,
+    "packet_loss": -1.888,
+    "rtt_latency": 0.85
+  },
+  {
+    "routing_weight": 10.05,
+    "link_congestion": -10.003,
+    "packet_loss": -7.974,
+    "rtt_latency": -9.23
+  },
+  {
+    "routing_weight": 11.736,
+    "link_congestion": -5.302,
+    "packet_loss": -4.256,
+    "rtt_latency": -0.779
+  },
+  {
+    "routing_weight": 12.212,
+    "link_congestion": -12.165,
+    "packet_loss": -9.477,
+    "rtt_latency": -11.525
+  },
+  {
+    "routing_weight": 7.4,
+    "link_congestion": -2.573,
+    "packet_loss": -2.185,
+    "rtt_latency": 0.7
+  },
+  {
+    "routing_weight": 10.003,
+    "link_congestion": -8.52,
+    "packet_loss": -6.964,
+    "rtt_latency": -7.688
+  },
+  {
+    "routing_weight": 11.917,
+    "link_congestion": -7.597,
+    "packet_loss": -5.97,
+    "rtt_latency": -5.042
+  },
+  {
+    "routing_weight": 13.118,
+    "link_congestion": -5.768,
+    "packet_loss": -4.282,
+    "rtt_latency": -1.254
+  },
+  {
+    "routing_weight": 9.542,
+    "link_congestion": -6.478,
+    "packet_loss": -5.501,
+    "rtt_latency": -4.204
+  },
+  {
+    "routing_weight": 11.589,
+    "link_congestion": -6.527,
+    "packet_loss": -5.034,
+    "rtt_latency": -3.19
+  },
+  {
+    "routing_weight": 9.244,
+    "link_congestion": -3.507,
+    "packet_loss": -2.469,
+    "rtt_latency": 0.48
+  },
+  {
+    "routing_weight": 6.874,
+    "link_congestion": -2.341,
+    "packet_loss": -1.987,
+    "rtt_latency": 0.276
+  },
+  {
+    "routing_weight": 8.179,
+    "link_congestion": -4.719,
+    "packet_loss": -3.977,
+    "rtt_latency": -2.613
+  },
+  {
+    "routing_weight": 7.311,
+    "link_congestion": 0.023,
+    "packet_loss": 0.588,
+    "rtt_latency": 4.697
+  },
+  {
+    "routing_weight": 10.213,
+    "link_congestion": -5.9,
+    "packet_loss": -4.554,
+    "rtt_latency": -2.832
+  },
+  {
+    "routing_weight": 8.442,
+    "link_congestion": -5.689,
+    "packet_loss": -4.634,
+    "rtt_latency": -3.782
+  },
+  {
+    "routing_weight": 11.115,
+    "link_congestion": -9.024,
+    "packet_loss": -6.942,
+    "rtt_latency": -7.533
+  },
+  {
+    "routing_weight": 9.233,
+    "link_congestion": -3.649,
+    "packet_loss": -2.971,
+    "rtt_latency": -0.397
+  },
+  {
+    "routing_weight": 10.938,
+    "link_congestion": -7.124,
+    "packet_loss": -5.435,
+    "rtt_latency": -4.306
+  },
+  {
+    "routing_weight": 12.803,
+    "link_congestion": -6.826,
+    "packet_loss": -5.42,
+    "rtt_latency": -3.316
+  },
+  {
+    "routing_weight": 7.849,
+    "link_congestion": -3.909,
+    "packet_loss": -3.435,
+    "rtt_latency": -1.896
+  },
+  {
+    "routing_weight": 8.458,
+    "link_congestion": -6.574,
+    "packet_loss": -5.617,
+    "rtt_latency": -5.566
+  },
+  {
+    "routing_weight": 15.476,
+    "link_congestion": -6.952,
+    "packet_loss": -5.496,
+    "rtt_latency": -1.271
+  },
+  {
+    "routing_weight": 13.133,
+    "link_congestion": -2.859,
+    "packet_loss": -2.317,
+    "rtt_latency": 3.602
+  },
+  {
+    "routing_weight": 8.073,
+    "link_congestion": -6.692,
+    "packet_loss": -5.024,
+    "rtt_latency": -5.407
+  },
+  {
+    "routing_weight": 13.94,
+    "link_congestion": -5.587,
+    "packet_loss": -4.619,
+    "rtt_latency": -0.445
+  },
+  {
+    "routing_weight": 7.881,
+    "link_congestion": -8.166,
+    "packet_loss": -6.435,
+    "rtt_latency": -7.896
+  },
+  {
+    "routing_weight": 11.243,
+    "link_congestion": -5.334,
+    "packet_loss": -4.128,
+    "rtt_latency": -1.163
+  },
+  {
+    "routing_weight": 9.827,
+    "link_congestion": -7.517,
+    "packet_loss": -5.763,
+    "rtt_latency": -5.66
+  },
+  {
+    "routing_weight": 11.532,
+    "link_congestion": -8.935,
+    "packet_loss": -7.184,
+    "rtt_latency": -7.07
+  },
+  {
+    "routing_weight": 9.116,
+    "link_congestion": -7.327,
+    "packet_loss": -6.042,
+    "rtt_latency": -5.993
+  },
+  {
+    "routing_weight": 11.154,
+    "link_congestion": -8.768,
+    "packet_loss": -7.012,
+    "rtt_latency": -7.457
+  },
+  {
+    "routing_weight": 10.794,
+    "link_congestion": -0.951,
+    "packet_loss": -0.531,
+    "rtt_latency": 4.821
+  },
+  {
+    "routing_weight": 9.935,
+    "link_congestion": -6.174,
+    "packet_loss": -4.909,
+    "rtt_latency": -3.735
+  },
+  {
+    "routing_weight": 11.324,
+    "link_congestion": -11.076,
+    "packet_loss": -9.178,
+    "rtt_latency": -10.807
+  },
+  {
+    "routing_weight": 8.581,
+    "link_congestion": -3.51,
+    "packet_loss": -2.667,
+    "rtt_latency": -0.561
+  },
+  {
+    "routing_weight": 9.745,
+    "link_congestion": -12.261,
+    "packet_loss": -9.721,
+    "rtt_latency": -12.903
+  },
+  {
+    "routing_weight": 10.281,
+    "link_congestion": -4.643,
+    "packet_loss": -3.665,
+    "rtt_latency": -0.756
+  },
+  {
+    "routing_weight": 11.423,
+    "link_congestion": -8.049,
+    "packet_loss": -6.12,
+    "rtt_latency": -5.745
+  },
+  {
+    "routing_weight": 12.196,
+    "link_congestion": -2.072,
+    "packet_loss": -1.497,
+    "rtt_latency": 4.077
+  },
+  {
+    "routing_weight": 11.426,
+    "link_congestion": -11.323,
+    "packet_loss": -9.078,
+    "rtt_latency": -10.325
+  },
+  {
+    "routing_weight": 12.779,
+    "link_congestion": -4.452,
+    "packet_loss": -3.512,
+    "rtt_latency": 0.87
+  },
+  {
+    "routing_weight": 11.532,
+    "link_congestion": -6.314,
+    "packet_loss": -5.116,
+    "rtt_latency": -2.93
+  },
+  {
+    "routing_weight": 11.505,
+    "link_congestion": -11.714,
+    "packet_loss": -9.49,
+    "rtt_latency": -11.394
+  },
+  {
+    "routing_weight": 10.753,
+    "link_congestion": -5.841,
+    "packet_loss": -4.71,
+    "rtt_latency": -2.809
+  },
+  {
+    "routing_weight": 10.886,
+    "link_congestion": -11.79,
+    "packet_loss": -9.759,
+    "rtt_latency": -11.775
+  },
+  {
+    "routing_weight": 6.661,
+    "link_congestion": -3.903,
+    "packet_loss": -3.391,
+    "rtt_latency": -2.167
+  },
+  {
+    "routing_weight": 10.518,
+    "link_congestion": -2.018,
+    "packet_loss": -1.999,
+    "rtt_latency": 2.594
+  },
+  {
+    "routing_weight": 8.754,
+    "link_congestion": -7.352,
+    "packet_loss": -5.681,
+    "rtt_latency": -6.631
+  },
+  {
+    "routing_weight": 12.231,
+    "link_congestion": -4.992,
+    "packet_loss": -3.95,
+    "rtt_latency": -0.284
+  },
+  {
+    "routing_weight": 8.894,
+    "link_congestion": 2.549,
+    "packet_loss": 2.036,
+    "rtt_latency": 10.052
+  },
+  {
+    "routing_weight": 9.216,
+    "link_congestion": -5.784,
+    "packet_loss": -5.142,
+    "rtt_latency": -4.391
+  },
+  {
+    "routing_weight": 10.313,
+    "link_congestion": -5.841,
+    "packet_loss": -4.721,
+    "rtt_latency": -2.805
+  },
+  {
+    "routing_weight": 10.899,
+    "link_congestion": -9.972,
+    "packet_loss": -8.255,
+    "rtt_latency": -9.35
+  },
+  {
+    "routing_weight": 13.828,
+    "link_congestion": -7.289,
+    "packet_loss": -6.027,
+    "rtt_latency": -3.468
+  },
+  {
+    "routing_weight": 9.692,
+    "link_congestion": -4.328,
+    "packet_loss": -3.482,
+    "rtt_latency": -1.379
+  },
+  {
+    "routing_weight": 9.476,
+    "link_congestion": -7.683,
+    "packet_loss": -6.431,
+    "rtt_latency": -6.837
+  },
+  {
+    "routing_weight": 15.425,
+    "link_congestion": -18.531,
+    "packet_loss": -14.702,
+    "rtt_latency": -19.462
+  },
+  {
+    "routing_weight": 9.485,
+    "link_congestion": 0.469,
+    "packet_loss": 0.768,
+    "rtt_latency": 6.561
+  },
+  {
+    "routing_weight": 8.294,
+    "link_congestion": -8.339,
+    "packet_loss": -6.965,
+    "rtt_latency": -8.315
+  },
+  {
+    "routing_weight": 9.086,
+    "link_congestion": -3.134,
+    "packet_loss": -2.985,
+    "rtt_latency": -0.309
+  },
+  {
+    "routing_weight": 12.13,
+    "link_congestion": -4.934,
+    "packet_loss": -3.901,
+    "rtt_latency": -0.505
+  },
+  {
+    "routing_weight": 10.607,
+    "link_congestion": -9.314,
+    "packet_loss": -7.654,
+    "rtt_latency": -8.824
+  },
+  {
+    "routing_weight": 12.734,
+    "link_congestion": -4.701,
+    "packet_loss": -3.696,
+    "rtt_latency": -0.065
+  },
+  {
+    "routing_weight": 11.758,
+    "link_congestion": -4.792,
+    "packet_loss": -3.899,
+    "rtt_latency": -0.678
+  },
+  {
+    "routing_weight": 11.081,
+    "link_congestion": -4.832,
+    "packet_loss": -3.982,
+    "rtt_latency": -0.91
+  },
+  {
+    "routing_weight": 11.642,
+    "link_congestion": -10.065,
+    "packet_loss": -7.857,
+    "rtt_latency": -8.503
+  },
+  {
+    "routing_weight": 7.86,
+    "link_congestion": -5.113,
+    "packet_loss": -4.084,
+    "rtt_latency": -3.114
+  },
+  {
+    "routing_weight": 10.788,
+    "link_congestion": -9.204,
+    "packet_loss": -7.448,
+    "rtt_latency": -7.748
+  },
+  {
+    "routing_weight": 6.399,
+    "link_congestion": -12.435,
+    "packet_loss": -10.339,
+    "rtt_latency": -16.07
+  },
+  {
+    "routing_weight": 9.699,
+    "link_congestion": -12.964,
+    "packet_loss": -10.569,
+    "rtt_latency": -14.243
+  },
+  {
+    "routing_weight": 9.304,
+    "link_congestion": -3.632,
+    "packet_loss": -2.842,
+    "rtt_latency": -0.08
+  },
+  {
+    "routing_weight": 12.01,
+    "link_congestion": -10.898,
+    "packet_loss": -8.775,
+    "rtt_latency": -9.974
+  },
+  {
+    "routing_weight": 8.407,
+    "link_congestion": -6.567,
+    "packet_loss": -5.404,
+    "rtt_latency": -5.355
+  },
+  {
+    "routing_weight": 6.276,
+    "link_congestion": -6.912,
+    "packet_loss": -5.455,
+    "rtt_latency": -7.304
+  },
+  {
+    "routing_weight": 11.087,
+    "link_congestion": -3.727,
+    "packet_loss": -2.973,
+    "rtt_latency": 1.016
+  },
+  {
+    "routing_weight": 9.541,
+    "link_congestion": -3.369,
+    "packet_loss": -3.384,
+    "rtt_latency": -0.732
+  },
+  {
+    "routing_weight": 8.852,
+    "link_congestion": -6.718,
+    "packet_loss": -4.858,
+    "rtt_latency": -4.443
+  },
+  {
+    "routing_weight": 8.831,
+    "link_congestion": -7.746,
+    "packet_loss": -5.968,
+    "rtt_latency": -6.346
+  },
+  {
+    "routing_weight": 11.189,
+    "link_congestion": -12.371,
+    "packet_loss": -9.695,
+    "rtt_latency": -12.452
+  },
+  {
+    "routing_weight": 11.782,
+    "link_congestion": -4.129,
+    "packet_loss": -3.345,
+    "rtt_latency": 1.139
+  },
+  {
+    "routing_weight": 11.247,
+    "link_congestion": -9.006,
+    "packet_loss": -6.927,
+    "rtt_latency": -6.846
+  },
+  {
+    "routing_weight": 10.459,
+    "link_congestion": -7.039,
+    "packet_loss": -5.883,
+    "rtt_latency": -4.862
+  },
+  {
+    "routing_weight": 8.408,
+    "link_congestion": -3.628,
+    "packet_loss": -3.015,
+    "rtt_latency": -1.27
+  },
+  {
+    "routing_weight": 10.387,
+    "link_congestion": -7.023,
+    "packet_loss": -5.35,
+    "rtt_latency": -4.404
+  },
+  {
+    "routing_weight": 13.054,
+    "link_congestion": -7.767,
+    "packet_loss": -6.237,
+    "rtt_latency": -4.536
+  },
+  {
+    "routing_weight": 7.716,
+    "link_congestion": -7.805,
+    "packet_loss": -6.421,
+    "rtt_latency": -7.61
+  },
+  {
+    "routing_weight": 7.383,
+    "link_congestion": -2.91,
+    "packet_loss": -2.44,
+    "rtt_latency": -0.05
+  },
+  {
+    "routing_weight": 8.776,
+    "link_congestion": -5.196,
+    "packet_loss": -4.319,
+    "rtt_latency": -2.917
+  },
+  {
+    "routing_weight": 7.354,
+    "link_congestion": -7.99,
+    "packet_loss": -6.591,
+    "rtt_latency": -8.316
+  },
+  {
+    "routing_weight": 7.825,
+    "link_congestion": -6.124,
+    "packet_loss": -4.88,
+    "rtt_latency": -5.394
+  },
+  {
+    "routing_weight": 12.426,
+    "link_congestion": -8.952,
+    "packet_loss": -7.024,
+    "rtt_latency": -6.572
+  },
+  {
+    "routing_weight": 12.161,
+    "link_congestion": -13.745,
+    "packet_loss": -11.041,
+    "rtt_latency": -13.813
+  },
+  {
+    "routing_weight": 10.268,
+    "link_congestion": -7.012,
+    "packet_loss": -5.555,
+    "rtt_latency": -4.822
+  },
+  {
+    "routing_weight": 13.024,
+    "link_congestion": -14.363,
+    "packet_loss": -11.644,
+    "rtt_latency": -14.203
+  },
+  {
+    "routing_weight": 8.962,
+    "link_congestion": -6.991,
+    "packet_loss": -5.387,
+    "rtt_latency": -5.389
+  },
+  {
+    "routing_weight": 11.092,
+    "link_congestion": -6.067,
+    "packet_loss": -4.837,
+    "rtt_latency": -2.201
+  },
+  {
+    "routing_weight": 10.883,
+    "link_congestion": -6.574,
+    "packet_loss": -5.776,
+    "rtt_latency": -4.299
+  },
+  {
+    "routing_weight": 8.989,
+    "link_congestion": -4.484,
+    "packet_loss": -3.473,
+    "rtt_latency": -2.048
+  },
+  {
+    "routing_weight": 9.446,
+    "link_congestion": -6.97,
+    "packet_loss": -5.775,
+    "rtt_latency": -5.637
+  },
+  {
+    "routing_weight": 9.612,
+    "link_congestion": -6.269,
+    "packet_loss": -5.169,
+    "rtt_latency": -3.849
+  },
+  {
+    "routing_weight": 6.431,
+    "link_congestion": 5.203,
+    "packet_loss": 4.523,
+    "rtt_latency": 11.978
+  },
+  {
+    "routing_weight": 10.051,
+    "link_congestion": -3.161,
+    "packet_loss": -2.743,
+    "rtt_latency": 0.991
+  },
+  {
+    "routing_weight": 9.258,
+    "link_congestion": -11.912,
+    "packet_loss": -9.654,
+    "rtt_latency": -12.477
+  },
+  {
+    "routing_weight": 8.751,
+    "link_congestion": -5.597,
+    "packet_loss": -4.655,
+    "rtt_latency": -3.758
+  },
+  {
+    "routing_weight": 11.672,
+    "link_congestion": -4.103,
+    "packet_loss": -3.334,
+    "rtt_latency": 0.163
+  },
+  {
+    "routing_weight": 7.039,
+    "link_congestion": -3.928,
+    "packet_loss": -3.23,
+    "rtt_latency": -2.604
+  },
+  {
+    "routing_weight": 11.761,
+    "link_congestion": 1.259,
+    "packet_loss": 1.092,
+    "rtt_latency": 8.844
+  },
+  {
+    "routing_weight": 9.707,
+    "link_congestion": -9.273,
+    "packet_loss": -7.293,
+    "rtt_latency": -8.664
+  },
+  {
+    "routing_weight": 13.736,
+    "link_congestion": -8.013,
+    "packet_loss": -6.528,
+    "rtt_latency": -4.274
+  },
+  {
+    "routing_weight": 10.786,
+    "link_congestion": -9.404,
+    "packet_loss": -7.426,
+    "rtt_latency": -8.564
+  },
+  {
+    "routing_weight": 5.881,
+    "link_congestion": -6.288,
+    "packet_loss": -5.02,
+    "rtt_latency": -6.088
+  },
+  {
+    "routing_weight": 13.202,
+    "link_congestion": -13.723,
+    "packet_loss": -11.306,
+    "rtt_latency": -13.775
+  },
+  {
+    "routing_weight": 7.368,
+    "link_congestion": -4.487,
+    "packet_loss": -3.886,
+    "rtt_latency": -2.645
+  },
+  {
+    "routing_weight": 13.36,
+    "link_congestion": -5.911,
+    "packet_loss": -4.672,
+    "rtt_latency": -1.042
+  },
+  {
+    "routing_weight": 8.31,
+    "link_congestion": -7.129,
+    "packet_loss": -5.529,
+    "rtt_latency": -5.856
+  },
+  {
+    "routing_weight": 11.672,
+    "link_congestion": -3.734,
+    "packet_loss": -3.033,
+    "rtt_latency": 0.888
+  },
+  {
+    "routing_weight": 8.514,
+    "link_congestion": -4.657,
+    "packet_loss": -3.382,
+    "rtt_latency": -2.303
+  },
+  {
+    "routing_weight": 8.117,
+    "link_congestion": -5.521,
+    "packet_loss": -4.284,
+    "rtt_latency": -3.582
+  },
+  {
+    "routing_weight": 8.392,
+    "link_congestion": -7.169,
+    "packet_loss": -5.818,
+    "rtt_latency": -6.194
+  },
+  {
+    "routing_weight": 9.351,
+    "link_congestion": -0.633,
+    "packet_loss": -0.231,
+    "rtt_latency": 4.881
+  },
+  {
+    "routing_weight": 11.567,
+    "link_congestion": -9.429,
+    "packet_loss": -7.978,
+    "rtt_latency": -7.953
+  },
+  {
+    "routing_weight": 8.521,
+    "link_congestion": -3.034,
+    "packet_loss": -2.275,
+    "rtt_latency": 0.659
+  },
+  {
+    "routing_weight": 10.949,
+    "link_congestion": -5.537,
+    "packet_loss": -4.308,
+    "rtt_latency": -2.21
+  },
+  {
+    "routing_weight": 9.866,
+    "link_congestion": -6.426,
+    "packet_loss": -5.077,
+    "rtt_latency": -3.874
+  },
+  {
+    "routing_weight": 11.165,
+    "link_congestion": -7.347,
+    "packet_loss": -6.037,
+    "rtt_latency": -5.197
+  },
+  {
+    "routing_weight": 9.145,
+    "link_congestion": -7.369,
+    "packet_loss": -6.245,
+    "rtt_latency": -6.421
+  },
+  {
+    "routing_weight": 10.027,
+    "link_congestion": -6.514,
+    "packet_loss": -5.205,
+    "rtt_latency": -3.721
+  },
+  {
+    "routing_weight": 10.561,
+    "link_congestion": -9.034,
+    "packet_loss": -7.601,
+    "rtt_latency": -8.258
+  },
+  {
+    "routing_weight": 12.516,
+    "link_congestion": -12.951,
+    "packet_loss": -9.92,
+    "rtt_latency": -12.222
+  },
+  {
+    "routing_weight": 10.097,
+    "link_congestion": -2.959,
+    "packet_loss": -2.306,
+    "rtt_latency": 1.644
+  },
+  {
+    "routing_weight": 9.613,
+    "link_congestion": -7.032,
+    "packet_loss": -5.737,
+    "rtt_latency": -5.192
+  },
+  {
+    "routing_weight": 11.471,
+    "link_congestion": -7.056,
+    "packet_loss": -5.764,
+    "rtt_latency": -4.119
+  },
+  {
+    "routing_weight": 9.6,
+    "link_congestion": -6.435,
+    "packet_loss": -5.268,
+    "rtt_latency": -4.004
+  },
+  {
+    "routing_weight": 9.809,
+    "link_congestion": -7.344,
+    "packet_loss": -6.112,
+    "rtt_latency": -5.592
+  },
+  {
+    "routing_weight": 12.973,
+    "link_congestion": -5.886,
+    "packet_loss": -4.93,
+    "rtt_latency": -1.139
+  },
+  {
+    "routing_weight": 13.806,
+    "link_congestion": -5.642,
+    "packet_loss": -3.967,
+    "rtt_latency": -0.077
+  },
+  {
+    "routing_weight": 12.378,
+    "link_congestion": -6.896,
+    "packet_loss": -5.841,
+    "rtt_latency": -3.544
+  },
+  {
+    "routing_weight": 7.158,
+    "link_congestion": -4.582,
+    "packet_loss": -3.842,
+    "rtt_latency": -3.39
+  },
+  {
+    "routing_weight": 11.532,
+    "link_congestion": -1.08,
+    "packet_loss": -0.723,
+    "rtt_latency": 5.195
+  },
+  {
+    "routing_weight": 9.91,
+    "link_congestion": -5.844,
+    "packet_loss": -4.695,
+    "rtt_latency": -3.353
+  },
+  {
+    "routing_weight": 9.212,
+    "link_congestion": -3.617,
+    "packet_loss": -3.111,
+    "rtt_latency": -0.419
+  },
+  {
+    "routing_weight": 10.704,
+    "link_congestion": -0.649,
+    "packet_loss": -0.39,
+    "rtt_latency": 5.411
+  },
+  {
+    "routing_weight": 5.974,
+    "link_congestion": -8.465,
+    "packet_loss": -6.778,
+    "rtt_latency": -9.47
+  },
+  {
+    "routing_weight": 8.435,
+    "link_congestion": 1.008,
+    "packet_loss": 0.625,
+    "rtt_latency": 5.986
+  },
+  {
+    "routing_weight": 9.68,
+    "link_congestion": -2.856,
+    "packet_loss": -2.353,
+    "rtt_latency": 0.949
+  },
+  {
+    "routing_weight": 10.317,
+    "link_congestion": -7.506,
+    "packet_loss": -6.028,
+    "rtt_latency": -5.411
+  },
+  {
+    "routing_weight": 9.072,
+    "link_congestion": -6.565,
+    "packet_loss": -5.499,
+    "rtt_latency": -5.297
+  },
+  {
+    "routing_weight": 7.91,
+    "link_congestion": 1.409,
+    "packet_loss": 1.236,
+    "rtt_latency": 6.802
+  },
+  {
+    "routing_weight": 9.776,
+    "link_congestion": -1.762,
+    "packet_loss": -1.334,
+    "rtt_latency": 3.094
+  },
+  {
+    "routing_weight": 11.094,
+    "link_congestion": -10.474,
+    "packet_loss": -8.165,
+    "rtt_latency": -9.848
+  },
+  {
+    "routing_weight": 11.22,
+    "link_congestion": -9.21,
+    "packet_loss": -7.477,
+    "rtt_latency": -7.686
+  },
+  {
+    "routing_weight": 10.476,
+    "link_congestion": -5.859,
+    "packet_loss": -4.751,
+    "rtt_latency": -2.591
+  },
+  {
+    "routing_weight": 13.102,
+    "link_congestion": -2.673,
+    "packet_loss": -2.106,
+    "rtt_latency": 3.61
+  },
+  {
+    "routing_weight": 10.667,
+    "link_congestion": -10.13,
+    "packet_loss": -8.142,
+    "rtt_latency": -9.224
+  },
+  {
+    "routing_weight": 8.52,
+    "link_congestion": -2.157,
+    "packet_loss": -1.531,
+    "rtt_latency": 1.562
+  },
+  {
+    "routing_weight": 6.748,
+    "link_congestion": -6.275,
+    "packet_loss": -5.003,
+    "rtt_latency": -5.739
+  },
+  {
+    "routing_weight": 11.463,
+    "link_congestion": -4.794,
+    "packet_loss": -3.885,
+    "rtt_latency": -0.838
+  },
+  {
+    "routing_weight": 10.976,
+    "link_congestion": -3.131,
+    "packet_loss": -2.351,
+    "rtt_latency": 1.833
+  },
+  {
+    "routing_weight": 13.357,
+    "link_congestion": -1.833,
+    "packet_loss": -1.249,
+    "rtt_latency": 5.312
+  },
+  {
+    "routing_weight": 8.165,
+    "link_congestion": -9.192,
+    "packet_loss": -7.231,
+    "rtt_latency": -9.224
+  },
+  {
+    "routing_weight": 11.287,
+    "link_congestion": -6.626,
+    "packet_loss": -5.395,
+    "rtt_latency": -4.058
+  },
+  {
+    "routing_weight": 11.386,
+    "link_congestion": -9.27,
+    "packet_loss": -7.105,
+    "rtt_latency": -6.442
+  },
+  {
+    "routing_weight": 11.994,
+    "link_congestion": -5.493,
+    "packet_loss": -4.237,
+    "rtt_latency": -1.333
+  },
+  {
+    "routing_weight": 13.437,
+    "link_congestion": -11.146,
+    "packet_loss": -8.918,
+    "rtt_latency": -9.532
+  },
+  {
+    "routing_weight": 8.183,
+    "link_congestion": -5.525,
+    "packet_loss": -4.322,
+    "rtt_latency": -3.61
+  },
+  {
+    "routing_weight": 7.615,
+    "link_congestion": -3.494,
+    "packet_loss": -3.096,
+    "rtt_latency": -1.108
+  },
+  {
+    "routing_weight": 9.918,
+    "link_congestion": -5.069,
+    "packet_loss": -4.297,
+    "rtt_latency": -1.792
+  },
+  {
+    "routing_weight": 10.463,
+    "link_congestion": -0.876,
+    "packet_loss": -1.053,
+    "rtt_latency": 4.228
+  },
+  {
+    "routing_weight": 10.909,
+    "link_congestion": -6.969,
+    "packet_loss": -5.624,
+    "rtt_latency": -4.611
+  },
+  {
+    "routing_weight": 8.478,
+    "link_congestion": -7.508,
+    "packet_loss": -6.271,
+    "rtt_latency": -6.426
+  },
+  {
+    "routing_weight": 11.372,
+    "link_congestion": 0.119,
+    "packet_loss": 0.074,
+    "rtt_latency": 7.029
+  },
+  {
+    "routing_weight": 11.802,
+    "link_congestion": -4.7,
+    "packet_loss": -3.81,
+    "rtt_latency": -0.586
+  },
+  {
+    "routing_weight": 9.305,
+    "link_congestion": -5.581,
+    "packet_loss": -4.489,
+    "rtt_latency": -3.252
+  },
+  {
+    "routing_weight": 8.412,
+    "link_congestion": -8.173,
+    "packet_loss": -6.538,
+    "rtt_latency": -7.732
+  },
+  {
+    "routing_weight": 12.191,
+    "link_congestion": -8.033,
+    "packet_loss": -6.379,
+    "rtt_latency": -4.888
+  },
+  {
+    "routing_weight": 10.637,
+    "link_congestion": -10.487,
+    "packet_loss": -8.189,
+    "rtt_latency": -10.122
+  },
+  {
+    "routing_weight": 12.375,
+    "link_congestion": -10.123,
+    "packet_loss": -8.063,
+    "rtt_latency": -8.201
+  },
+  {
+    "routing_weight": 13.001,
+    "link_congestion": -8.776,
+    "packet_loss": -6.771,
+    "rtt_latency": -5.834
+  },
+  {
+    "routing_weight": 7.574,
+    "link_congestion": -1.546,
+    "packet_loss": -1.157,
+    "rtt_latency": 2.693
+  },
+  {
+    "routing_weight": 11.282,
+    "link_congestion": -7.721,
+    "packet_loss": -6.38,
+    "rtt_latency": -5.305
+  },
+  {
+    "routing_weight": 9.048,
+    "link_congestion": -5.923,
+    "packet_loss": -4.769,
+    "rtt_latency": -4.248
+  },
+  {
+    "routing_weight": 10.579,
+    "link_congestion": -7.709,
+    "packet_loss": -6.339,
+    "rtt_latency": -5.827
+  },
+  {
+    "routing_weight": 5.738,
+    "link_congestion": -6.915,
+    "packet_loss": -5.541,
+    "rtt_latency": -6.869
+  },
+  {
+    "routing_weight": 12.183,
+    "link_congestion": -4.899,
+    "packet_loss": -3.849,
+    "rtt_latency": -0.148
+  },
+  {
+    "routing_weight": 9.317,
+    "link_congestion": -0.858,
+    "packet_loss": -0.964,
+    "rtt_latency": 4.297
+  },
+  {
+    "routing_weight": 8.309,
+    "link_congestion": -5.468,
+    "packet_loss": -4.489,
+    "rtt_latency": -3.685
+  },
+  {
+    "routing_weight": 9.187,
+    "link_congestion": 2.383,
+    "packet_loss": 1.985,
+    "rtt_latency": 9.433
+  },
+  {
+    "routing_weight": 8.568,
+    "link_congestion": -4.494,
+    "packet_loss": -3.514,
+    "rtt_latency": -1.692
+  },
+  {
+    "routing_weight": 10.585,
+    "link_congestion": -6.166,
+    "packet_loss": -4.831,
+    "rtt_latency": -3.062
+  },
+  {
+    "routing_weight": 10.664,
+    "link_congestion": 1.352,
+    "packet_loss": 1.073,
+    "rtt_latency": 7.966
+  },
+  {
+    "routing_weight": 12.242,
+    "link_congestion": -5.898,
+    "packet_loss": -4.983,
+    "rtt_latency": -2.065
+  },
+  {
+    "routing_weight": 5.286,
+    "link_congestion": -4.497,
+    "packet_loss": -3.696,
+    "rtt_latency": -3.584
+  },
+  {
+    "routing_weight": 12.104,
+    "link_congestion": -8.35,
+    "packet_loss": -6.719,
+    "rtt_latency": -5.777
+  },
+  {
+    "routing_weight": 9.299,
+    "link_congestion": -3.056,
+    "packet_loss": -2.54,
+    "rtt_latency": 1.126
+  },
+  {
+    "routing_weight": 10.982,
+    "link_congestion": 0.337,
+    "packet_loss": 0.092,
+    "rtt_latency": 6.891
+  },
+  {
+    "routing_weight": 9.127,
+    "link_congestion": -7.086,
+    "packet_loss": -5.855,
+    "rtt_latency": -5.963
+  },
+  {
+    "routing_weight": 11.716,
+    "link_congestion": -6.916,
+    "packet_loss": -5.521,
+    "rtt_latency": -3.897
+  },
+  {
+    "routing_weight": 8.636,
+    "link_congestion": -7.488,
+    "packet_loss": -6.071,
+    "rtt_latency": -7.032
+  },
+  {
+    "routing_weight": 6.559,
+    "link_congestion": -2.035,
+    "packet_loss": -1.714,
+    "rtt_latency": 0.099
+  },
+  {
+    "routing_weight": 9.868,
+    "link_congestion": -7.65,
+    "packet_loss": -6.415,
+    "rtt_latency": -6.482
+  },
+  {
+    "routing_weight": 9.312,
+    "link_congestion": -5.309,
+    "packet_loss": -4.15,
+    "rtt_latency": -2.468
+  },
+  {
+    "routing_weight": 10.089,
+    "link_congestion": -2.943,
+    "packet_loss": -2.231,
+    "rtt_latency": 1.284
+  },
+  {
+    "routing_weight": 10.997,
+    "link_congestion": -6.838,
+    "packet_loss": -5.298,
+    "rtt_latency": -3.908
+  },
+  {
+    "routing_weight": 9.708,
+    "link_congestion": -6.556,
+    "packet_loss": -5.369,
+    "rtt_latency": -4.31
+  },
+  {
+    "routing_weight": 8.775,
+    "link_congestion": -3.295,
+    "packet_loss": -2.593,
+    "rtt_latency": 0.082
+  },
+  {
+    "routing_weight": 8.65,
+    "link_congestion": -5.712,
+    "packet_loss": -4.284,
+    "rtt_latency": -3.557
+  },
+  {
+    "routing_weight": 11.32,
+    "link_congestion": -8.739,
+    "packet_loss": -7.196,
+    "rtt_latency": -6.544
+  },
+  {
+    "routing_weight": 11.304,
+    "link_congestion": -15.369,
+    "packet_loss": -12.078,
+    "rtt_latency": -17.253
+  },
+  {
+    "routing_weight": 7.479,
+    "link_congestion": -2.223,
+    "packet_loss": -1.617,
+    "rtt_latency": 0.881
+  },
+  {
+    "routing_weight": 9.864,
+    "link_congestion": 0.487,
+    "packet_loss": 0.963,
+    "rtt_latency": 7.506
+  },
+  {
+    "routing_weight": 8.827,
+    "link_congestion": -6.6,
+    "packet_loss": -5.677,
+    "rtt_latency": -5.069
+  },
+  {
+    "routing_weight": 13.971,
+    "link_congestion": -8.801,
+    "packet_loss": -7.008,
+    "rtt_latency": -5.576
+  },
+  {
+    "routing_weight": 8.726,
+    "link_congestion": -3.199,
+    "packet_loss": -2.167,
+    "rtt_latency": 0.306
+  },
+  {
+    "routing_weight": 11.045,
+    "link_congestion": -6.624,
+    "packet_loss": -5.144,
+    "rtt_latency": -3.663
+  },
+  {
+    "routing_weight": 7.639,
+    "link_congestion": -5.618,
+    "packet_loss": -4.632,
+    "rtt_latency": -3.88
+  },
+  {
+    "routing_weight": 9.27,
+    "link_congestion": -10.099,
+    "packet_loss": -8.341,
+    "rtt_latency": -10.462
+  },
+  {
+    "routing_weight": 7.628,
+    "link_congestion": -6.836,
+    "packet_loss": -5.445,
+    "rtt_latency": -5.74
+  },
+  {
+    "routing_weight": 7.624,
+    "link_congestion": -2.858,
+    "packet_loss": -2.349,
+    "rtt_latency": -0.067
+  },
+  {
+    "routing_weight": 8.62,
+    "link_congestion": -7.864,
+    "packet_loss": -5.997,
+    "rtt_latency": -6.889
+  },
+  {
+    "routing_weight": 8.58,
+    "link_congestion": -2.96,
+    "packet_loss": -2.646,
+    "rtt_latency": 0.552
+  },
+  {
+    "routing_weight": 9.33,
+    "link_congestion": -10.873,
+    "packet_loss": -8.774,
+    "rtt_latency": -11.331
+  },
+  {
+    "routing_weight": 11.717,
+    "link_congestion": -7.188,
+    "packet_loss": -5.721,
+    "rtt_latency": -4.514
+  },
+  {
+    "routing_weight": 12.352,
+    "link_congestion": -10.884,
+    "packet_loss": -8.5,
+    "rtt_latency": -9.464
+  },
+  {
+    "routing_weight": 10.692,
+    "link_congestion": -10.634,
+    "packet_loss": -8.904,
+    "rtt_latency": -10.552
+  },
+  {
+    "routing_weight": 9.57,
+    "link_congestion": -7.131,
+    "packet_loss": -5.563,
+    "rtt_latency": -5.09
+  },
+  {
+    "routing_weight": 6.966,
+    "link_congestion": -6.705,
+    "packet_loss": -5.328,
+    "rtt_latency": -6.66
+  },
+  {
+    "routing_weight": 12.223,
+    "link_congestion": -0.476,
+    "packet_loss": -0.567,
+    "rtt_latency": 6.288
+  },
+  {
+    "routing_weight": 12.7,
+    "link_congestion": -6.717,
+    "packet_loss": -5.391,
+    "rtt_latency": -2.94
+  },
+  {
+    "routing_weight": 9.079,
+    "link_congestion": -9.456,
+    "packet_loss": -7.98,
+    "rtt_latency": -9.761
+  },
+  {
+    "routing_weight": 8.252,
+    "link_congestion": -8.487,
+    "packet_loss": -6.704,
+    "rtt_latency": -8.62
+  },
+  {
+    "routing_weight": 9.913,
+    "link_congestion": -6.063,
+    "packet_loss": -4.617,
+    "rtt_latency": -3.429
+  },
+  {
+    "routing_weight": 10.166,
+    "link_congestion": -5.38,
+    "packet_loss": -4.459,
+    "rtt_latency": -2.399
+  },
+  {
+    "routing_weight": 10.663,
+    "link_congestion": -11.34,
+    "packet_loss": -8.958,
+    "rtt_latency": -11.551
+  },
+  {
+    "routing_weight": 10.114,
+    "link_congestion": -6.426,
+    "packet_loss": -5.566,
+    "rtt_latency": -4.415
+  },
+  {
+    "routing_weight": 8.99,
+    "link_congestion": -4.16,
+    "packet_loss": -3.208,
+    "rtt_latency": -1.303
+  },
+  {
+    "routing_weight": 7.288,
+    "link_congestion": 0.431,
+    "packet_loss": 0.737,
+    "rtt_latency": 5.175
+  },
+  {
+    "routing_weight": 8.339,
+    "link_congestion": -4.256,
+    "packet_loss": -3.659,
+    "rtt_latency": -1.45
+  },
+  {
+    "routing_weight": 13.303,
+    "link_congestion": -1.212,
+    "packet_loss": -1.086,
+    "rtt_latency": 5.962
+  },
+  {
+    "routing_weight": 11.545,
+    "link_congestion": -7.499,
+    "packet_loss": -6.054,
+    "rtt_latency": -4.931
+  },
+  {
+    "routing_weight": 8.679,
+    "link_congestion": -2.978,
+    "packet_loss": -2.355,
+    "rtt_latency": 0.59
+  },
+  {
+    "routing_weight": 9.125,
+    "link_congestion": -7.057,
+    "packet_loss": -5.76,
+    "rtt_latency": -5.722
+  },
+  {
+    "routing_weight": 6.823,
+    "link_congestion": -3.598,
+    "packet_loss": -2.956,
+    "rtt_latency": -1.423
+  },
+  {
+    "routing_weight": 6.5,
+    "link_congestion": -0.953,
+    "packet_loss": -1.023,
+    "rtt_latency": 2.093
+  },
+  {
+    "routing_weight": 11.597,
+    "link_congestion": -13.596,
+    "packet_loss": -10.851,
+    "rtt_latency": -14.096
+  },
+  {
+    "routing_weight": 13.331,
+    "link_congestion": -6.482,
+    "packet_loss": -4.977,
+    "rtt_latency": -1.959
+  },
+  {
+    "routing_weight": 9.202,
+    "link_congestion": -6.57,
+    "packet_loss": -5.257,
+    "rtt_latency": -4.826
+  },
+  {
+    "routing_weight": 8.342,
+    "link_congestion": -4.883,
+    "packet_loss": -4.203,
+    "rtt_latency": -2.802
+  },
+  {
+    "routing_weight": 10.755,
+    "link_congestion": -8.675,
+    "packet_loss": -6.859,
+    "rtt_latency": -6.753
+  },
+  {
+    "routing_weight": 9.716,
+    "link_congestion": -8.366,
+    "packet_loss": -6.74,
+    "rtt_latency": -7.377
+  },
+  {
+    "routing_weight": 5.611,
+    "link_congestion": -5.143,
+    "packet_loss": -4.08,
+    "rtt_latency": -4.961
+  },
+  {
+    "routing_weight": 11.01,
+    "link_congestion": -5.622,
+    "packet_loss": -4.606,
+    "rtt_latency": -2.313
+  },
+  {
+    "routing_weight": 9.615,
+    "link_congestion": -7.344,
+    "packet_loss": -6.083,
+    "rtt_latency": -5.917
+  },
+  {
+    "routing_weight": 11.235,
+    "link_congestion": -7.497,
+    "packet_loss": -6.064,
+    "rtt_latency": -5.164
+  },
+  {
+    "routing_weight": 12.322,
+    "link_congestion": -6.713,
+    "packet_loss": -5.315,
+    "rtt_latency": -3.286
+  },
+  {
+    "routing_weight": 10.058,
+    "link_congestion": -3.544,
+    "packet_loss": -2.553,
+    "rtt_latency": 1.207
+  },
+  {
+    "routing_weight": 8.721,
+    "link_congestion": -6.863,
+    "packet_loss": -5.403,
+    "rtt_latency": -5.222
+  },
+  {
+    "routing_weight": 9.678,
+    "link_congestion": -11.151,
+    "packet_loss": -8.638,
+    "rtt_latency": -11.372
+  },
+  {
+    "routing_weight": 12.85,
+    "link_congestion": -7.535,
+    "packet_loss": -5.954,
+    "rtt_latency": -3.721
+  },
+  {
+    "routing_weight": 12.539,
+    "link_congestion": -12.303,
+    "packet_loss": -9.688,
+    "rtt_latency": -11.526
+  },
+  {
+    "routing_weight": 10.913,
+    "link_congestion": -10.102,
+    "packet_loss": -7.987,
+    "rtt_latency": -9.21
+  },
+  {
+    "routing_weight": 9.305,
+    "link_congestion": -4.031,
+    "packet_loss": -3.297,
+    "rtt_latency": -1.013
+  },
+  {
+    "routing_weight": 8.502,
+    "link_congestion": -2.53,
+    "packet_loss": -2.076,
+    "rtt_latency": 1.358
+  },
+  {
+    "routing_weight": 10.518,
+    "link_congestion": -11.326,
+    "packet_loss": -9.184,
+    "rtt_latency": -11.306
+  },
+  {
+    "routing_weight": 6.107,
+    "link_congestion": -4.036,
+    "packet_loss": -3.468,
+    "rtt_latency": -2.745
+  },
+  {
+    "routing_weight": 10.712,
+    "link_congestion": -9.738,
+    "packet_loss": -7.985,
+    "rtt_latency": -8.605
+  },
+  {
+    "routing_weight": 10.998,
+    "link_congestion": -5.84,
+    "packet_loss": -4.589,
+    "rtt_latency": -2.986
+  },
+  {
+    "routing_weight": 10.164,
+    "link_congestion": -12.921,
+    "packet_loss": -10.441,
+    "rtt_latency": -14.744
+  },
+  {
+    "routing_weight": 7.503,
+    "link_congestion": -4.529,
+    "packet_loss": -3.686,
+    "rtt_latency": -2.57
+  },
+  {
+    "routing_weight": 10.763,
+    "link_congestion": -0.705,
+    "packet_loss": -0.278,
+    "rtt_latency": 5.38
+  },
+  {
+    "routing_weight": 10.754,
+    "link_congestion": -7.706,
+    "packet_loss": -6.397,
+    "rtt_latency": -5.636
+  },
+  {
+    "routing_weight": 10.961,
+    "link_congestion": -10.623,
+    "packet_loss": -8.907,
+    "rtt_latency": -10.264
+  },
+  {
+    "routing_weight": 9.821,
+    "link_congestion": -7.882,
+    "packet_loss": -6.308,
+    "rtt_latency": -6.263
+  },
+  {
+    "routing_weight": 10.131,
+    "link_congestion": -5.22,
+    "packet_loss": -4.122,
+    "rtt_latency": -2.054
+  },
+  {
+    "routing_weight": 9.107,
+    "link_congestion": -5.61,
+    "packet_loss": -4.828,
+    "rtt_latency": -3.293
+  },
+  {
+    "routing_weight": 8.406,
+    "link_congestion": -6.29,
+    "packet_loss": -4.92,
+    "rtt_latency": -4.989
+  },
+  {
+    "routing_weight": 8.274,
+    "link_congestion": -13.264,
+    "packet_loss": -10.464,
+    "rtt_latency": -15.418
+  },
+  {
+    "routing_weight": 9.397,
+    "link_congestion": -10.806,
+    "packet_loss": -8.86,
+    "rtt_latency": -11.174
+  },
+  {
+    "routing_weight": 8.21,
+    "link_congestion": -5.734,
+    "packet_loss": -4.454,
+    "rtt_latency": -4.588
+  },
+  {
+    "routing_weight": 9.933,
+    "link_congestion": -7.285,
+    "packet_loss": -5.406,
+    "rtt_latency": -5.305
+  },
+  {
+    "routing_weight": 8.939,
+    "link_congestion": -8.133,
+    "packet_loss": -6.738,
+    "rtt_latency": -7.716
+  },
+  {
+    "routing_weight": 11.233,
+    "link_congestion": -6.364,
+    "packet_loss": -5.111,
+    "rtt_latency": -3.316
+  },
+  {
+    "routing_weight": 6.965,
+    "link_congestion": -4.957,
+    "packet_loss": -4.077,
+    "rtt_latency": -3.774
+  },
+  {
+    "routing_weight": 10.642,
+    "link_congestion": -2.943,
+    "packet_loss": -2.41,
+    "rtt_latency": 1.294
+  },
+  {
+    "routing_weight": 13.093,
+    "link_congestion": -8.989,
+    "packet_loss": -6.811,
+    "rtt_latency": -6.048
+  },
+  {
+    "routing_weight": 8.62,
+    "link_congestion": 0.141,
+    "packet_loss": -0.045,
+    "rtt_latency": 5.044
+  },
+  {
+    "routing_weight": 8.887,
+    "link_congestion": -11.85,
+    "packet_loss": -9.598,
+    "rtt_latency": -13.142
+  },
+  {
+    "routing_weight": 9.202,
+    "link_congestion": -10.559,
+    "packet_loss": -8.055,
+    "rtt_latency": -10.216
+  },
+  {
+    "routing_weight": 9.787,
+    "link_congestion": -9.783,
+    "packet_loss": -7.966,
+    "rtt_latency": -9.465
+  },
+  {
+    "routing_weight": 10.344,
+    "link_congestion": -9.721,
+    "packet_loss": -7.666,
+    "rtt_latency": -8.458
+  },
+  {
+    "routing_weight": 9.667,
+    "link_congestion": 4.164,
+    "packet_loss": 3.625,
+    "rtt_latency": 12.337
+  },
+  {
+    "routing_weight": 10.36,
+    "link_congestion": -3.299,
+    "packet_loss": -2.786,
+    "rtt_latency": 0.854
+  },
+  {
+    "routing_weight": 13.82,
+    "link_congestion": -5.931,
+    "packet_loss": -4.814,
+    "rtt_latency": -0.864
+  },
+  {
+    "routing_weight": 10.463,
+    "link_congestion": -5.807,
+    "packet_loss": -4.997,
+    "rtt_latency": -2.656
+  },
+  {
+    "routing_weight": 10.583,
+    "link_congestion": -3.757,
+    "packet_loss": -3.27,
+    "rtt_latency": 0.019
+  },
+  {
+    "routing_weight": 10.677,
+    "link_congestion": -10.041,
+    "packet_loss": -7.928,
+    "rtt_latency": -8.952
+  },
+  {
+    "routing_weight": 12.115,
+    "link_congestion": -11.946,
+    "packet_loss": -9.652,
+    "rtt_latency": -11.019
+  },
+  {
+    "routing_weight": 13.652,
+    "link_congestion": -7.905,
+    "packet_loss": -6.238,
+    "rtt_latency": -4.4
+  },
+  {
+    "routing_weight": 10.792,
+    "link_congestion": -4.234,
+    "packet_loss": -3.516,
+    "rtt_latency": -0.523
+  },
+  {
+    "routing_weight": 13.461,
+    "link_congestion": -5.993,
+    "packet_loss": -4.543,
+    "rtt_latency": -1.412
+  },
+  {
+    "routing_weight": 5.943,
+    "link_congestion": -8.453,
+    "packet_loss": -6.432,
+    "rtt_latency": -9.156
+  },
+  {
+    "routing_weight": 9.866,
+    "link_congestion": -4.948,
+    "packet_loss": -3.968,
+    "rtt_latency": -1.887
+  },
+  {
+    "routing_weight": 10.323,
+    "link_congestion": -1.839,
+    "packet_loss": -1.908,
+    "rtt_latency": 2.962
+  },
+  {
+    "routing_weight": 13.708,
+    "link_congestion": -11.86,
+    "packet_loss": -9.628,
+    "rtt_latency": -10.335
+  },
+  {
+    "routing_weight": 10.068,
+    "link_congestion": -13.555,
+    "packet_loss": -10.629,
+    "rtt_latency": -14.88
+  },
+  {
+    "routing_weight": 11.17,
+    "link_congestion": -6.433,
+    "packet_loss": -4.943,
+    "rtt_latency": -3.137
+  },
+  {
+    "routing_weight": 10.684,
+    "link_congestion": -4.43,
+    "packet_loss": -3.574,
+    "rtt_latency": -0.401
+  },
+  {
+    "routing_weight": 8.183,
+    "link_congestion": 0.379,
+    "packet_loss": 0.441,
+    "rtt_latency": 5.43
+  },
+  {
+    "routing_weight": 10.272,
+    "link_congestion": -1.371,
+    "packet_loss": -1.179,
+    "rtt_latency": 4.079
+  },
+  {
+    "routing_weight": 12.937,
+    "link_congestion": -4.567,
+    "packet_loss": -3.58,
+    "rtt_latency": 0.357
+  },
+  {
+    "routing_weight": 12.146,
+    "link_congestion": -13.698,
+    "packet_loss": -11.253,
+    "rtt_latency": -14.488
+  },
+  {
+    "routing_weight": 7.492,
+    "link_congestion": -3.094,
+    "packet_loss": -2.348,
+    "rtt_latency": 0.281
+  },
+  {
+    "routing_weight": 12.011,
+    "link_congestion": -11.441,
+    "packet_loss": -9.31,
+    "rtt_latency": -10.807
+  },
+  {
+    "routing_weight": 5.822,
+    "link_congestion": -9.929,
+    "packet_loss": -7.898,
+    "rtt_latency": -12.184
+  },
+  {
+    "routing_weight": 10.328,
+    "link_congestion": -10.882,
+    "packet_loss": -8.599,
+    "rtt_latency": -10.448
+  },
+  {
+    "routing_weight": 4.986,
+    "link_congestion": -5.46,
+    "packet_loss": -4.225,
+    "rtt_latency": -5.584
+  },
+  {
+    "routing_weight": 8.445,
+    "link_congestion": -8.264,
+    "packet_loss": -6.881,
+    "rtt_latency": -7.585
+  },
+  {
+    "routing_weight": 13.826,
+    "link_congestion": -10.679,
+    "packet_loss": -8.276,
+    "rtt_latency": -8.107
+  },
+  {
+    "routing_weight": 9.357,
+    "link_congestion": -10.723,
+    "packet_loss": -8.54,
+    "rtt_latency": -11.198
+  },
+  {
+    "routing_weight": 10.064,
+    "link_congestion": -6.682,
+    "packet_loss": -5.31,
+    "rtt_latency": -4.26
+  },
+  {
+    "routing_weight": 12.21,
+    "link_congestion": -6.275,
+    "packet_loss": -4.988,
+    "rtt_latency": -2.787
+  },
+  {
+    "routing_weight": 12.332,
+    "link_congestion": -9.516,
+    "packet_loss": -7.49,
+    "rtt_latency": -7.48
+  },
+  {
+    "routing_weight": 12.39,
+    "link_congestion": -10.012,
+    "packet_loss": -7.736,
+    "rtt_latency": -8.541
+  },
+  {
+    "routing_weight": 12.089,
+    "link_congestion": -2.926,
+    "packet_loss": -1.945,
+    "rtt_latency": 3.03
+  },
+  {
+    "routing_weight": 7.306,
+    "link_congestion": -3.189,
+    "packet_loss": -2.668,
+    "rtt_latency": -0.468
+  },
+  {
+    "routing_weight": 10.516,
+    "link_congestion": -2.89,
+    "packet_loss": -2.458,
+    "rtt_latency": 1.913
+  },
+  {
+    "routing_weight": 7.474,
+    "link_congestion": -2.29,
+    "packet_loss": -1.498,
+    "rtt_latency": 1.247
+  },
+  {
+    "routing_weight": 8.607,
+    "link_congestion": -2.638,
+    "packet_loss": -2.447,
+    "rtt_latency": 1.074
+  },
+  {
+    "routing_weight": 8.511,
+    "link_congestion": -7.045,
+    "packet_loss": -6.145,
+    "rtt_latency": -6.189
+  },
+  {
+    "routing_weight": 9.772,
+    "link_congestion": -2.631,
+    "packet_loss": -2.194,
+    "rtt_latency": 1.41
+  },
+  {
+    "routing_weight": 10.717,
+    "link_congestion": -4.895,
+    "packet_loss": -4.048,
+    "rtt_latency": -1.474
+  }
+]

@@ -187,3 +187,166 @@ class CausalGraphQueryTool(ToolPort):
                 "has_confounding": len(backdoor) > 0,
             },
         )
+
+
+class VerifyCausalAssumptionsTool(ToolPort):
+    """Verifies whether tabular observational records satisfy causal DAG d-separation implications."""
+
+    name: str = "verify_causal_assumptions"
+    description: str = (
+        "Tests observational tabular records against the causal DAG using statistical conditional "
+        "independence tests (partial correlation and conditional G-tests), reporting DAG consistency and violations."
+    )
+
+    def __init__(self, reasoner: CausalReasoner | None = None) -> None:
+        self.reasoner = reasoner or CausalReasoner()
+
+    @property
+    def schema(self) -> dict[str, Any]:
+        return {
+            "type": "object",
+            "properties": {
+                "data": {
+                    "type": "array",
+                    "items": {"type": "object"},
+                    "description": "List of observational records with column keys matching DAG variables.",
+                },
+                "alpha": {
+                    "type": "number",
+                    "description": "Significance threshold for hypothesis tests (default: 0.05).",
+                    "default": 0.05,
+                },
+                "custom_tests": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "x": {"type": "string"},
+                            "y": {"type": "string"},
+                            "z": {"type": "array", "items": {"type": "string"}},
+                        },
+                        "required": ["x", "y"],
+                    },
+                    "description": "Optional specific conditional independence assertions to test.",
+                },
+                "check_direct_edges": {
+                    "type": "boolean",
+                    "description": "Whether to verify that direct causal mechanisms show significant empirical dependence.",
+                    "default": True,
+                },
+            },
+            "required": ["data"],
+        }
+
+    def execute(self, arguments: dict[str, Any]) -> ToolResult:
+        data = arguments.get("data", [])
+        alpha = float(arguments.get("alpha", 0.05))
+        custom_tests = arguments.get("custom_tests")
+        check_direct = bool(arguments.get("check_direct_edges", True))
+
+        if not data or not isinstance(data, list):
+            return ToolResult(
+                tool_id="verify_causal_err",
+                tool_name=self.name,
+                output={"error": "Empty or invalid observational data provided."},
+                is_error=True,
+                error_message="Invalid data payload.",
+            )
+
+        report = self.reasoner.verify_observational_data(
+            data=data,
+            alpha=alpha,
+            custom_tests=custom_tests,
+            check_direct_edges=check_direct,
+        )
+
+        return ToolResult(
+            tool_id="verify_causal_ok",
+            tool_name=self.name,
+            output={
+                "scm_name": report.scm_name,
+                "is_valid": report.is_valid,
+                "total_tests": report.total_tests,
+                "passed_tests": report.passed_tests,
+                "failed_tests": report.failed_tests,
+                "violations": [to_dict(v) for v in report.violations],
+                "summary": report.summary,
+            },
+        )
+
+
+class LoadCausalGraphTool(ToolPort):
+    """Loads a Structural Causal Model DAG from a JSON or GraphML XML string or file path."""
+
+    name: str = "load_causal_graph"
+    description: str = (
+        "Loads and registers a Structural Causal Model DAG from a JSON or GraphML specification."
+    )
+
+    def __init__(self, reasoner: CausalReasoner | None = None) -> None:
+        self.reasoner = reasoner or CausalReasoner()
+
+    @property
+    def schema(self) -> dict[str, Any]:
+        return {
+            "type": "object",
+            "properties": {
+                "format": {
+                    "type": "string",
+                    "enum": ["json", "graphml"],
+                    "description": "Format of the causal graph definition ('json' or 'graphml').",
+                },
+                "content": {
+                    "type": "string",
+                    "description": "Raw serialized string or absolute file path to the graph specification.",
+                },
+            },
+            "required": ["format", "content"],
+        }
+
+    def execute(self, arguments: dict[str, Any]) -> ToolResult:
+        fmt = str(arguments.get("format", "")).lower()
+        content = str(arguments.get("content", "")).strip()
+
+        if not content:
+            return ToolResult(
+                tool_id="load_causal_err",
+                tool_name=self.name,
+                output={"error": "Empty graph content or path provided."},
+                is_error=True,
+                error_message="Empty content.",
+            )
+
+        try:
+            if fmt == "json":
+                scm = self.reasoner.load_scm_from_json(content)
+            elif fmt == "graphml":
+                scm = self.reasoner.load_scm_from_graphml(content)
+            else:
+                return ToolResult(
+                    tool_id="load_causal_err",
+                    tool_name=self.name,
+                    output={"error": f"Unsupported graph format '{fmt}'. Use 'json' or 'graphml'."},
+                    is_error=True,
+                    error_message="Unsupported format.",
+                )
+
+            return ToolResult(
+                tool_id="load_causal_ok",
+                tool_name=self.name,
+                output={
+                    "status": "loaded",
+                    "scm_name": scm.name,
+                    "total_nodes": len(scm.nodes),
+                    "total_edges": len(scm.all_edges),
+                    "nodes": list(scm.nodes.keys()),
+                },
+            )
+        except Exception as exc:
+            return ToolResult(
+                tool_id="load_causal_exc",
+                tool_name=self.name,
+                output={"error": str(exc)},
+                is_error=True,
+                error_message=f"Failed to load causal graph: {exc}",
+            )

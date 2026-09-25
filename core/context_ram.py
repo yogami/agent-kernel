@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import json
 from typing import Any
 from domain.models import ConfigPack, SemanticFact, Turn
 from domain.ports import FactStorePort
@@ -20,8 +21,9 @@ class ContextRAM:
         active_config: ConfigPack,
         session_id: str | None = None,
         query_subject: str | None = None,
+        tenant_id: str = "default_tenant",
     ) -> list[dict[str, Any]]:
-        """Assemble full messages list for the model call."""
+        """Assemble full messages list for the model call scoped by tenant."""
         messages: list[dict[str, Any]] = []
 
         # 1. Base system prompt pack
@@ -33,12 +35,12 @@ class ContextRAM:
             for rule in active_config.rules:
                 system_content += f"- {rule}\n"
 
-        # 2. Retrieve verified semantic facts (never from quarantine)
+        # 2. Retrieve verified semantic facts (never from quarantine, strictly scoped by tenant)
         semantic_facts: list[SemanticFact] = []
         if query_subject:
-            semantic_facts = self.fact_store.get_active_facts_for_subject(query_subject)
+            semantic_facts = self.fact_store.get_active_facts_for_subject(query_subject, tenant_id=tenant_id)
         else:
-            semantic_facts = self.fact_store.query_all_semantic_facts(session_id=session_id)
+            semantic_facts = self.fact_store.query_all_semantic_facts(session_id=session_id, tenant_id=tenant_id)
 
         if semantic_facts:
             facts_block = "\n".join(
@@ -60,19 +62,21 @@ class ContextRAM:
         for turn in recent_turns:
             messages.append({"role": "user", "content": turn.user_input})
             if turn.tool_calls:
-                for tc in turn.tool_calls:
-                    messages.append({
-                        "role": "assistant",
-                        "content": None,
-                        "tool_calls": [{
+                messages.append({
+                    "role": "assistant",
+                    "content": None,
+                    "tool_calls": [
+                        {
                             "id": tc.tool_id,
                             "type": "function",
                             "function": {
                                 "name": tc.tool_name,
-                                "arguments": str(tc.arguments),
+                                "arguments": json.dumps(tc.arguments) if isinstance(tc.arguments, dict) else str(tc.arguments),
                             },
-                        }],
-                    })
+                        }
+                        for tc in turn.tool_calls
+                    ],
+                })
                 for tr in turn.tool_results:
                     messages.append({
                         "role": "tool",

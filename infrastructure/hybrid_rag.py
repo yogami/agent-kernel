@@ -1,4 +1,4 @@
-"""Hybrid RAG Engine combining BM25 sparse lexical search, dense vector retrieval, Reciprocal Rank Fusion (RRF), and cross-encoder reranking."""
+"""Hybrid RAG Engine combining BM25 sparse lexical search, dense vector retrieval, Reciprocal Rank Fusion (RRF), and lexical boost reranking."""
 
 from __future__ import annotations
 
@@ -182,7 +182,7 @@ class HybridRAGEngine:
             b_score = bm25_scores[idx]
             d_score = dense_scores[idx]
 
-            # Cross-encoder style heuristic reranking (fusing lexical boost on exact code hits)
+            # Lexical boost reranking heuristic (fusing lexical boost on exact keyword hits)
             rerank_score = rrf_score * (1.0 + (0.2 if b_score > 0 else 0.0))
 
             citation = Citation(

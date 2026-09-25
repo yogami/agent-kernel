@@ -1,0 +1,28 @@
+{
+  "domain": "fintech_capital_markets",
+  "version": "1.0.0",
+  "description": "Declarative Policy-as-Code for Algorithmic Trade Execution and Market Compliance",
+  "blacklisted_tickers": ["CORP_XYZ", "SANCTIONED_CO", "FRAUD_CORP"],
+  "single_order_max_notional_usd": 1000000,
+  "max_leverage_ratio": 3.0,
+  "trading_hours": {
+    "market_open_utc": "13:30",
+    "market_close_utc": "20:00"
+  },
+  "compliance_rules": [
+    {
+      "rule_id": "RULE-FIN-001",
+      "check": "blacklist",
+      "severity": "CRITICAL",
+      "description": "Attempted execution of restricted or sanctioned security.",
+      "remediation": "Block trade execution immediately and notify compliance officer."
+    },
+    {
+      "rule_id": "RULE-FIN-002",
+      "check": "notional_cap",
+      "severity": "HIGH",
+      "description": "Order notional value exceeds autonomous agent risk budget.",
+      "remediation": "Reject trade or route to Human-in-the-Loop desk for manual authorization."
+    }
+  ]
+}
