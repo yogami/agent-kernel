@@ -190,7 +190,7 @@ if ENVIRONMENT == "production":
     episode_store = PostgresEpisodeStore(db_url)
     fact_store = PostgresFactStore(db_url)
 else:
-    DATA_DIR = Path("data")
+    DATA_DIR = Path(os.getenv("AGENT_KERNEL_DATA_DIR", "data"))
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     db_path = str(DATA_DIR / "agent_kernel.sqlite")
     episode_store = SQLiteEpisodeStore(db_path)

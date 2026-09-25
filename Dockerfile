@@ -12,11 +12,13 @@ RUN pip install --no-cache-dir --user -r requirements.txt
 
 FROM python:3.12-slim AS runner
 
-WORKDIR /app
-
-# Create a non-root user
+# Create a non-root user and initialize app directory
 RUN groupadd -g 1000 appgroup && \
-    useradd -u 1000 -g appgroup -s /bin/bash -m appuser
+    useradd -u 1000 -g appgroup -s /bin/bash -m appuser && \
+    mkdir -p /app/data && \
+    chown -R appuser:appgroup /app
+
+WORKDIR /app
 
 # Copy installed dependencies, ensuring correct ownership
 COPY --from=builder --chown=appuser:appgroup /root/.local /home/appuser/.local
@@ -24,6 +26,9 @@ ENV PATH=/home/appuser/.local/bin:$PATH
 
 # Copy source files atomically with non-root ownership
 COPY --chown=appuser:appgroup . .
+
+# Ensure data directory and application workspace are writable by appuser
+RUN mkdir -p /app/data && chown -R appuser:appgroup /app
 
 # Drop privileges
 USER appuser
